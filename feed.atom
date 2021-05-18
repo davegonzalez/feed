@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>urn:2021-05-18T16:50:13.380Z</id>
+    <title>osmos::feed</title>
+    <updated>2021-05-18T16:50:13.380Z</updated>
+    <generator>osmosfeed 1.7.2</generator>
+    <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Convert a Keras SavedModel into a Browser-based Web App]]></title>
+        <id>609bea6b62ab9107fe5a9f89</id>
+        <link href="https://www.freecodecamp.org/news/convert-keras-savedmodel-into-browser-based-webapp/"/>
+        <updated>2021-05-18T16:36:22.000Z</updated>
+        <summary type="html"><![CDATA[If you're a Python developer who works with Keras SavedModels, this article is for you.  Perhaps you're not sure how to use SavedModels to leverage the power of machine learning in browser-based web apps. But don't worry – we'll cover all the basic steps you need to get started.  Along with]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redux for Beginners – Learn Redux Basics with Code Examples]]></title>
+        <id>609fc4cc62ab9107fe5aac91</id>
+        <link href="https://www.freecodecamp.org/news/redux-for-beginners/"/>
+        <updated>2021-05-18T16:18:18.000Z</updated>
+        <summary type="html"><![CDATA[Redux can be confusing for beginner React developers to understand. There are a lot of concepts you need to know to use it properly, like reducers, actions, store, pure functions, immutability, and much more. But every React developer should know the basics of how to work with Redux, since industry]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Be a Successful Entrepreneur – A Developer&#x27;s Guide to Startup Strategy and Design]]></title>
+        <id>60685767d5756f080ba93df4</id>
+        <link href="https://www.freecodecamp.org/news/be-a-successful-entrepreneur-developers-guide-to-startup-strategy-and-design/"/>
+        <updated>2021-05-18T16:08:27.000Z</updated>
+        <summary type="html"><![CDATA[According to freeCodeCamp’s 2018 New Coder Survey, 40.3% of participants want to build a business of their own, either as a freelancer or as an entrepreneur.  If you are in that 40.3%, then this article is for you. If you are in the remaining 59.7%, you]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Neon Text With CSS]]></title>
+        <id>https://css-tricks.com/?p=340420</id>
+        <link href="https://css-tricks.com/how-to-create-neon-text-with-css/"/>
+        <updated>2021-05-18T14:31:25.000Z</updated>
+        <summary type="html"><![CDATA[Neon text can add a nice, futuristic touch to any website. I’ve always loved the magic of neon signs, and wanted to recreate them using CSS. I thought I’d share some tips on how to do it! In this article, …
+The post How to Create Neon Text With CSS appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Silvia O'Dwyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Create, Edit And Animate SVGs All In One Place With SVGator 3.0]]></title>
+        <id>https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/</id>
+        <link href="https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/"/>
+        <updated>2021-05-18T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Today, we are taking a closer look at [SVGator 3.0](https://www.svgator.com/?utm_source=article&utm_medium=smashingmag&utm_campaign=svgator3_smashing), a new major release of the popular SVG application that lets you create, edit and animate SVG files and make the best out of what SVG has to offer — from start to finish.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Mikołaj Dobrucki)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 37 With Adam Argyle: What Is VisBug?]]></title>
+        <id>https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/</id>
+        <link href="https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/"/>
+        <updated>2021-05-18T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode, we’re talking about VisBug. What is it, and how is it different from the array of options already found in Chrome DevTools? Drew McLellan talks to its creator Adam Argyle to find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Humble `img` Element And Core Web Vitals]]></title>
+        <id>https://css-tricks.com/?p=340716</id>
+        <link href="https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/"/>
+        <updated>2021-05-17T22:38:06.000Z</updated>
+        <summary type="html"><![CDATA[Addy Osmani on images in HTML:
+The humble <img> element has gained some superpowers over the years. Given how central it is to image optimization on the web, let’s catch up on what it can do and how it can 
+…
+The post The Humble `img` Element And Core Web Vitals appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML vs JSX – What&#x27;s the Difference?]]></title>
+        <id>60a2771762ab9107fe5ab383</id>
+        <link href="https://www.freecodecamp.org/news/html-vs-jsx-whats-the-difference/"/>
+        <updated>2021-05-17T21:11:58.000Z</updated>
+        <summary type="html"><![CDATA[HTML vs JSX Hypertext Markup Language (HTML) is the standard language for documents that determine the structure of a web page.  HTML is a very important language in web development. Your code is either in HTML originally or compiles to it so browsers can read it.  JSX, on the other]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The DOM Explained for Beginners – How the Document Object Model Works]]></title>
+        <id>60a16df162ab9107fe5ab01b</id>
+        <link href="https://www.freecodecamp.org/news/dom-explained-everything-you-need-to-know-about-the-document-object-model/"/>
+        <updated>2021-05-17T17:45:50.000Z</updated>
+        <summary type="html"><![CDATA[When I started out as a web developer, people often threw around the term "DOM" in the industry. Every JavaScript tutorial mentioned it, but I didn't know what it meant. Fast forward two years, and now that I know what it's all about, I am going to explain what the]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Lottie Library like a Pro – Lottie Resources for Designers and Developers]]></title>
+        <id>609f552e62ab9107fe5aaba0</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-lottie-like-a-pro-resources-for-designers-and-developers/"/>
+        <updated>2021-05-17T16:25:22.000Z</updated>
+        <summary type="html"><![CDATA[Lottie is a library that helps render Adobe After Effects animations natively on mobile and the web. I like using Lottie for animations in my projects because: Creating an animation from scratch can be time-consuming, andGIF files can be double the size of Lottie JSON files (the files containing the]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity Tutorial – How to Create NFTs with Hardhat]]></title>
+        <id>609cb90262ab9107fe5aa026</id>
+        <link href="https://www.freecodecamp.org/news/solidity-tutorial-hardhat-nfts/"/>
+        <updated>2021-05-17T14:39:55.000Z</updated>
+        <summary type="html"><![CDATA[I'm a developer who's mostly been writing JavaScript, so the Solidity development environment was a bit hard to learn.  About four months ago, I switched to Hardhat from Truffle. This cool new kid on the block drastically improved my coding experience. So today I want to share it with my]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Love Letter to HTML & CSS]]></title>
+        <id>https://css-tricks.com/?p=339522</id>
+        <link href="https://css-tricks.com/a-love-letter-to-html-css/"/>
+        <updated>2021-05-17T14:27:22.000Z</updated>
+        <summary type="html"><![CDATA[I see you. In the back there, behind JavaScript and React and PHP and all those “real” programming languages, I see you. And I appreciate you.
+The post A Love Letter to HTML & CSS appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Ashley Kolodziej</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Euismod]]></title>
+        <id>https://css-tricks.com/?p=340594</id>
+        <link href="https://www.euismod.dev/"/>
+        <updated>2021-05-17T14:27:13.000Z</updated>
+        <summary type="html"><![CDATA[An interactive tool for learning grid syntax from Etesam Ansari. In the Learn section, it teaches you some concepts (involving multiple bits of the grid syntax) then gives you a task to complete by filling out the right syntax. I’m …
+The post Euismod appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How We Improved Our Core Web Vitals (Case Study)]]></title>
+        <id>https://smashingmagazine.com/2021/05/core-web-vitals-case-study/</id>
+        <link href="https://smashingmagazine.com/2021/05/core-web-vitals-case-study/"/>
+        <updated>2021-05-17T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Beau Hartshorne)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.7.2]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.2</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.2"/>
+        <updated>2021-05-17T05:32:19.000Z</updated>
+        <summary type="html"><![CDATA[⚠ Deprecated: To accommodate the monorepo setup, the node version in all templates/demos/examples has changed from 14 to 16. This is not a breaking change as our compile target is still node 14, and node 16 is backward compatible. We still recommend you start using node-version: "16" in your .github/workflows/update-feed.yaml today to get the performance/security improvements from the newer node. See example
+Chore: Reorganize to monorepo with npm workspace.]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.7.1]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1"/>
+        <updated>2021-05-16T02:33:58.000Z</updated>
+        <summary type="html"><![CDATA[Fixed: static files were unnecessarily copied for custom templates.]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.7.0]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0"/>
+        <updated>2021-05-16T01:42:24.000Z</updated>
+        <summary type="html"><![CDATA[Added: templating system. Demo | Source | Docs
+Chore: rendering logic refactoring. Adopting functional paradigm.
+Thank you @tianheg, @onnyyonn]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Auto-Generated Social Media Images]]></title>
+        <id>https://css-tricks.com/?p=340136</id>
+        <link href="https://css-tricks.com/auto-generated-social-media-images/"/>
+        <updated>2021-05-14T20:34:49.000Z</updated>
+        <summary type="html"><![CDATA[I’ve been thinking about social media images again. You know, the images that (can) show up when you share a link in places like Twitter, Facebook, or iMessage. You’re essentially leaving money on the table without them, because they …
+The post Auto-Generated Social Media Images appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is SendGrid? SMTP Email Newsletter Tutorial]]></title>
+        <id>609d63e962ab9107fe5aa2ce</id>
+        <link href="https://www.freecodecamp.org/news/what-is-sendgrid-smpt-email-newsletter-tutorial/"/>
+        <updated>2021-05-14T20:31:30.000Z</updated>
+        <summary type="html"><![CDATA[You may have heard of the term SMTP before, and wondered what it is. SMTP is a common method for handling email messages. Today I am going to explain what SMTP is, and how to use an SMTP provider such as SendGrid to send emails from your address. What Is]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React for Beginners: Complete React Cheatsheet for 2021]]></title>
+        <id>609ea83362ab9107fe5aa920</id>
+        <link href="https://www.freecodecamp.org/news/react-for-beginners-cheatsheet/"/>
+        <updated>2021-05-14T20:17:37.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the React for Beginners guide. It's designed to teach you all the core React concepts that you need to know to start building React applications in 2021. I created this resource to give you the most complete and beginner-friendly path to learn React from the ground up. By]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Development for Beginners – Learn Basic HTML and CSS to Build Your First Web Page]]></title>
+        <id>609e8c2162ab9107fe5aa77d</id>
+        <link href="https://www.freecodecamp.org/news/web-development-for-beginners-basic-html-and-css/"/>
+        <updated>2021-05-14T17:13:14.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wondered how websites are built and designed? Do you want to learn the art of web development but you're not that tech savvy – yet? Well, then this tutorial is for you. It's an introduction to Web Development for beginners so you can learn the basics even if]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating Stylesheet Feature Flags With Sass !default]]></title>
+        <id>https://css-tricks.com/?p=340343</id>
+        <link href="https://css-tricks.com/creating-stylesheet-feature-flags-with-sass-default/"/>
+        <updated>2021-05-14T14:14:34.000Z</updated>
+        <summary type="html"><![CDATA[!default is a Sass flag that indicates conditional assignment to a variable — it assigns a value only if the variable was previously undefined or null. Consider this code snippet:
+$variable: 'test' !default;
+To the Sass compiler, this line …
+The post Creating Stylesheet Feature Flags With Sass !default appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Nathan Babcock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Boilerplates]]></title>
+        <id>https://css-tricks.com/?p=340403</id>
+        <link href="https://css-tricks.com/html-boilerplates/"/>
+        <updated>2021-05-14T14:13:07.000Z</updated>
+        <summary type="html"><![CDATA[Manuel Matuzović goes line-by-line through a boilerplate HTML document. I like it. It’s a good reference and has a lot of the same type of stuff I tend to put in the main HTML template. It makes me think about …
+The post HTML Boilerplates appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tree-Shaking: A Reference Guide]]></title>
+        <id>https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/</id>
+        <link href="https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/"/>
+        <updated>2021-05-14T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Átila Fassina)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevTools for CSS layouts 2021 edition]]></title>
+        <id>https://css-tricks.com/?p=340490</id>
+        <link href="https://chenhuijing.com/blog/devtools-for-css-layouts-2021-edition/#%F0%9F%9A%B2"/>
+        <updated>2021-05-13T23:22:45.000Z</updated>
+        <summary type="html"><![CDATA[Chen Hui Jing covers some recent movement in DevTools:
+Firefox’s grid inspector was pretty full-featured from the get-to and released together with CSS grid in Firefox 52. It was constantly improved upon since. Chrome added a basic grid inspector 
+…
+The post DevTools for CSS layouts 2021 edition appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 Design Systems (Survey/Courses)]]></title>
+        <id>https://css-tricks.com/?p=340573</id>
+        <link href="https://css-tricks.com/2021-design-systems-survey-courses/"/>
+        <updated>2021-05-13T22:55:35.000Z</updated>
+        <summary type="html"><![CDATA[My friends at Sparkbox are doing a survey on design systems, as they do each year. Go ahead and fill it out if you please. Here are the results from last year. In both 2019 and 2020, the vibe was …
+The post 2021 Design Systems (Survey/Courses) appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advanced CSS Animation Using cubic-bezier()]]></title>
+        <id>https://css-tricks.com/?p=340036</id>
+        <link href="https://css-tricks.com/advanced-css-animation-using-cubic-bezier/"/>
+        <updated>2021-05-13T14:24:42.000Z</updated>
+        <summary type="html"><![CDATA[When dealing with complex CSS animations, there is a tendency to create expansive @keyframes with lots of declarations. There are a couple of tricks though that I want to talk about that might help make things easier, while staying in …
+The post Advanced CSS Animation Using cubic-bezier() appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SVGator 3.0 Reshapes the Way You Create and Animate SVG With Extensive New Features]]></title>
+        <id>https://css-tricks.com/?p=340118</id>
+        <link href="https://css-tricks.com/svgator-3-0-reshapes-the-way-you-create-and-animate-svg-with-extensive-new-features/"/>
+        <updated>2021-05-13T14:24:35.000Z</updated>
+        <summary type="html"><![CDATA[Building animations can get complicated, particularly compelling animations where you aren’t just rolling a ball across the screen, but building a scene where many things are moving and changing in concert. When compelling animation is the goal, a timeline GUI …
+The post SVGator 3.0 Reshapes the Way You Create and Animate SVG With Extensive New Features appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making Disabled Buttons More Inclusive]]></title>
+        <id>https://css-tricks.com/?p=339960</id>
+        <link href="https://css-tricks.com/making-disabled-buttons-more-inclusive/"/>
+        <updated>2021-05-12T14:31:07.000Z</updated>
+        <summary type="html"><![CDATA[Let’s talk about disabled buttons. Specifically, let’s get into why we use them and how we can do better than the traditional disabled attribute in HTML (e.g. <button disabled> ) to mark a button as disabled.
+There are lots of …
+The post Making Disabled Buttons More Inclusive appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Sandrina Pereira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frustrating Design Patterns That Need Fixing: Birthday Picker]]></title>
+        <id>https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/</id>
+        <link href="https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/"/>
+        <updated>2021-05-12T12:42:00.000Z</updated>
+        <summary type="html"><![CDATA[In this new series of articles on UX, we take a closer look at some frustrating design patterns and explore better alternatives, along with plenty of examples to keep in mind when building or designing one. Let’s start with an infamous birthday picker.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Little Smashing Stories]]></title>
+        <id>https://smashingmagazine.com/2021/05/little-smashing-stories/</id>
+        <link href="https://smashingmagazine.com/2021/05/little-smashing-stories/"/>
+        <updated>2021-05-12T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today marks the day we sent out our 300th edition of the Smashing Newsletter. This article is a little celebration in which we share little Smashing stories from people working behind the scenes.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Pie Timer Re-Revisited]]></title>
+        <id>https://css-tricks.com/?p=340359</id>
+        <link href="https://css-tricks.com/css-pie-timer-re-revisited/"/>
+        <updated>2021-05-11T22:00:29.000Z</updated>
+        <summary type="html"><![CDATA[Kitty reflected on an ancient blog post here on CSS-Tricks on how to make an animated pie timer. The old technique is still clever. The new technique is equally clever and much easier. I particularly like the steps() animation function…
+The post CSS Pie Timer Re-Revisited appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I could build this during the weekend]]></title>
+        <id>https://css-tricks.com/?p=340186</id>
+        <link href="https://world.hey.com/joaoqalves/i-could-build-this-during-the-weekend-aa093c5e"/>
+        <updated>2021-05-11T21:04:32.000Z</updated>
+        <summary type="html"><![CDATA[How many times have you heard that (or even uttered it under your own breath)? I know I’ve heard it in conversations. I also know I’ve wondered the same thing about a product or two — hey, the idea here …
+The post I could build this during the weekend appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next Gen CSS: @container]]></title>
+        <id>https://css-tricks.com/?p=339138</id>
+        <link href="https://css-tricks.com/next-gen-css-container/"/>
+        <updated>2021-05-11T14:36:10.000Z</updated>
+        <summary type="html"><![CDATA[Chrome is experimenting with @container, a property within the CSS Working Group Containment Level 3 spec being championed by Miriam Suzanne of Oddbird, and a group of engineers across the web platform. @container brings us the ability to …
+The post Next Gen CSS: @container appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Una Kravets</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Primer On CSS Container Queries]]></title>
+        <id>https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/</id>
+        <link href="https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/"/>
+        <updated>2021-05-11T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A prototype of the long-awaited CSS container queries has landed in Chrome Canary and is available for experimentation. Let’s look at what problem is being solved, learn how container queries work, and see how they compare with and complement existing CSS features for layout.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Conference Platform We Use For Our Online Events: Hopin]]></title>
+        <id>https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/</id>
+        <link href="https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/"/>
+        <updated>2021-05-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[At the beginning of 2020, the SmashingConf team was ready for a new year. We had so many things that excited us. New speakers, new workshops, new cities, new attendees, new experiences. And as we all know, 2020 had other ideas. With so many people working from home, we thought we would bring our [Smashing workshops](https://smashingconf.com/online-workshops/) from our home offices to yours — but how?]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Amanda Annandale)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get Started With React By Building A Whac-A-Mole Game]]></title>
+        <id>https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/</id>
+        <link href="https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/"/>
+        <updated>2021-05-10T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.4.0]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0"/>
+        <updated>2021-05-10T08:55:42.000Z</updated>
+        <summary type="html"><![CDATA[Added: Basic theme customization: Demo | Source | Docs.]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.6.0]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.6.0</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.6.0"/>
+        <updated>2021-05-10T08:15:20.000Z</updated>
+        <summary type="html"><![CDATA[Added: Link from the title of a subscription to its website.
+Added: Store feedUrl and siteUrl for each source in cache.
+Added: Semantic element (<time>) for timestamp on the UI.
+Added: Semantic API for theming the default template. Demo | Source | Docs
+Changed: Moved feed metadata from article level to feed level in cache.
+Fixed: Any html-like text was stripped from title. Fixed with encoded text.
+Removed: href for each source in cache. The value was never used so it's not a breaking change.]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.5.0]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0"/>
+        <updated>2021-05-08T05:16:47.000Z</updated>
+        <summary type="html"><![CDATA[Added: Atom feed generator
+Added: Customizable site title
+Added: Copy all files from static directory to the root of the site.
+Changed: Favicon, css, and js assets now existing at site root level.
+Chore: Excluded testing files from repo.]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Organize Product-Related Assets And Collaborate Better]]></title>
+        <id>https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/</id>
+        <link href="https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/"/>
+        <updated>2021-05-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Valeriia Panina)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving The Performance Of Shopify Themes (Case Study)]]></title>
+        <id>https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/</id>
+        <link href="https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/"/>
+        <updated>2021-05-06T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Carson Shold)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reducing HTML Payload With Next.js (Case Study)]]></title>
+        <id>https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/</id>
+        <link href="https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/"/>
+        <updated>2021-05-05T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Liran Cohen)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.3.1]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1"/>
+        <updated>2021-05-05T05:19:57.000Z</updated>
+        <summary type="html"><![CDATA[Fixed: Avoid crwalers.
+Fixed: Error logging from XML parser.
+Fixed: Typo in docs.
+Thank you: @dym-sh, @tabokie, @cheese1]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.3.0]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.0</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.0"/>
+        <updated>2021-05-05T05:19:26.000Z</updated>
+        <summary type="html"><![CDATA[Added: Customize cache lifespan with cacheMaxDays property in osmosfeed.yaml.
+Added: Documentation for osmosfeed.yaml.
+Fixed: More intuitive logging during build.
+Chore: Refactored parameter passing for enrich step.]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.2.3]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.3</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.3"/>
+        <updated>2021-05-05T05:19:03.000Z</updated>
+        <summary type="html"><![CDATA[Changed: favicon update.]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.2.1]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.1</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.1"/>
+        <updated>2021-05-05T05:18:52.000Z</updated>
+        <summary type="html"><![CDATA[Added: Display CLI version in footer.]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Guide To Undoing Mistakes With Git]]></title>
+        <id>https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/</id>
+        <link href="https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/"/>
+        <updated>2021-05-04T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Tobias Günther)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 36 With Miriam Suzanne: What Is The Future Of CSS?]]></title>
+        <id>https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/</id>
+        <link href="https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/"/>
+        <updated>2021-05-04T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode, we’re starting our new season of the Smashing Podcast with a look at the future of CSS. What new specs will be landing in browsers soon? Drew McLellan talks to expert Miriam Suzanne to find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Evolution Of Jamstack]]></title>
+        <id>https://smashingmagazine.com/2021/05/evolution-jamstack/</id>
+        <link href="https://smashingmagazine.com/2021/05/evolution-jamstack/"/>
+        <updated>2021-05-03T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Mathias Biilmann)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[May Is In The Air (2021 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/</id>
+        <link href="https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/"/>
+        <updated>2021-04-30T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new collection of wallpapers is for you. Designed with love by the community for the community, the wallpapers are available with and without a calendar for May 2021.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Humble `<img>` Element And Core Web Vitals]]></title>
+        <id>https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/</id>
+        <link href="https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/"/>
+        <updated>2021-04-29T12:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Images have also been a key part of the web. They communicate ideas instantly, but they are also a lot heavier than text to load. This means that it’s essential to get loading and displaying them right, if you want to give your users a fantastic first impression. An excerpt from [Addy's new book](https://www.smashingmagazine.com/2021/04/image-optimization-pre-release/) (also, check a [free PDF preview](http://provide.smashingmagazine.com/eBooks/image-optimization-sample-chapter.pdf)).]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Addy Osmani)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet Image Optimization, A New Smashing Book By Addy Osmani]]></title>
+        <id>https://smashingmagazine.com/2021/04/image-optimization-pre-release/</id>
+        <link href="https://smashingmagazine.com/2021/04/image-optimization-pre-release/"/>
+        <updated>2021-04-28T13:20:00.000Z</updated>
+        <summary type="html"><![CDATA[The cat is out! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our practical modern guide to delivering high-quality images on the web with the best performance.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Easing Functions For CSS Animations And Transitions]]></title>
+        <id>https://smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/</id>
+        <link href="https://smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/"/>
+        <updated>2021-04-27T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Easing functions can change the look and feel of an animation by affecting the rate, or speed, of an animation. In this article, we’re going to take a deep dive into easing functions and see how we can use them to create those natural and stunning animations.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Bake Layers Of Accessibility Testing Into Your Process]]></title>
+        <id>https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/</id>
+        <link href="https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/"/>
+        <updated>2021-04-26T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Accessibility experts Kate Kalcevich and Mike Gifford introduce readers to "layered accessibility testing”, a practice of using a variety of tools and approaches at different stages in the digital product lifecycle to catch accessibility issues early — when it’s easier and cheaper to fix them.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Kate Kalcevich &amp; Mike Gifford)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Guide To Newly Supported, Modern CSS Pseudo-Class Selectors]]></title>
+        <id>https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/</id>
+        <link href="https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/"/>
+        <updated>2021-04-23T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The CSS Working Group Editor’s Draft for [Selectors Level 4](https://drafts.csswg.org/selectors-4/) includes several pseudo-class selectors that already have proposal candidates in most modern browsers. This guide will cover ones that currently have the best support along with examples to demonstrate how you can start using them today!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Design Done Well: The Ordinary Made Extraordinary (Part 1)]]></title>
+        <id>https://smashingmagazine.com/2021/04/web-design-done-well-part1/</id>
+        <link href="https://smashingmagazine.com/2021/04/web-design-done-well-part1/"/>
+        <updated>2021-04-22T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes it’s the little things in web life that make us look twice. From carousels to documentation to cookie disclaimers, here are some sites taking the mundane and sprinkling in a little magic.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Complete Guide To Incremental Static Regeneration (ISR) With Next.js]]></title>
+        <id>https://smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/</id>
+        <link href="https://smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/"/>
+        <updated>2021-04-21T13:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Incremental Static Regeneration (ISR) is a new evolution of the Jamstack, allowing you to update static content instantly without needing a full rebuild of your site. The hybrid approach of Next.js allows you to use ISR for e-commerce, marketing pages, blog posts, ad-backed media, and more.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Lee Robinson)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Content Is Such A Fundamental Part Of The Web Design Process]]></title>
+        <id>https://smashingmagazine.com/2021/04/content-fundamental-part-web-design-process/</id>
+        <link href="https://smashingmagazine.com/2021/04/content-fundamental-part-web-design-process/"/>
+        <updated>2021-04-21T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[As designers, we are often burdened by the responsibility of producing and managing website content. It’s not our job to write it, but it’s not the client’s either. We can avert disaster by including content production in the design process.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Matt Saunders)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making GraphQL Work In WordPress]]></title>
+        <id>https://smashingmagazine.com/2021/04/making-graphql-work-in-wordpress/</id>
+        <link href="https://smashingmagazine.com/2021/04/making-graphql-work-in-wordpress/"/>
+        <updated>2021-04-20T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Let’s explore the plugins providing GraphQL servers to WordPress. When should we use WPGraphQL, and when the GraphQL API for WordPress? Is there some advantage of one over the other, or some particular task that is easier to accomplish with one of them? In this article, we will find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An In-Depth Guide To Measuring Core Web Vitals]]></title>
+        <id>https://smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/</id>
+        <link href="https://smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/"/>
+        <updated>2021-04-19T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[How are Core Web Vitals measured? How do you know your fixes have had the desired effect and when will you see the results in Google Search Console? Let’s figure it out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Barry Pollard)</name>
+        </author>
+    </entry>
+</feed>
