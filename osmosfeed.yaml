@@ -2,8 +2,9 @@ cacheUrl: https://davegonzalez.github.io/feed/cache.json
 sources:
   - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
   - href: http://feeds.arstechnica.com/arstechnica/index/
-  - href: https://www.polygon.com/rss/pc/index.xml
   - href: http://feeds.macrumors.com/MacRumors-Front
+  - href: https://daringfireball.net/feeds/main
+  - href: https://www.polygon.com/rss/pc/index.xml
   - href: https://stratechery.com/feed/
   - href: https://blog.codinghorror.com/rss
   - href: https://jvns.ca/atom.xml
@@ -11,9 +12,26 @@ sources:
   - href: https://ericasadun.com/feed/
   - href: https://waxy.org/feed/
   - href: http://feeds.kottke.org/main
-  - href: https://daringfireball.net/feeds/main
   - href: https://www.halfbakedharvest.com/feed/
   - href: https://cate.blog/feed/
   - href: https://shapeof.com/rss.xml
   - href: https://beckyhansmeyer.com/feed/
-  
+  - href: https://bloody-disgusting.com/feed/
+  - href: https://inessential.com/xml/rss.xml
+  - href: https://www.broadstreethockey.com/rss/current.xml
+  - href: https://indyweek.com/api/rss/content.rss
+  - href: https://daily.bandcamp.com/feed
+  - href: https://www.cjr.org/rss
+  - href: https://www.platformer.news/feed
+  - href: https://cvltnation.com/feed/
+  - href: https://sterlewine.substack.com/feed
+  - href: https://dontrocktheinbox.substack.com/feed
+  - href: https://nightafternight.substack.com/feed
+  - href: https://cabbages.substack.com/feed
+  - href: https://yourlastrites.com/feed/
+  - href: https://www.teethofthedivine.com/feed/
+  - href: https://charlieconnell.substack.com/feed
+  - href: https://andreacleary.substack.com/feed
+  - href: https://davidanthony.substack.com/feed
+  - href: https://stetmag.com/feed
+  - href: https://goodguysgogrind.com/feed/
