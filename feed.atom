@@ -1,158 +1,566 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-18T16:50:13.380Z</id>
+    <id>urn:2021-05-18T16:54:19.343Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-18T16:50:13.380Z</updated>
+    <updated>2021-05-18T16:54:19.343Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[How to Convert a Keras SavedModel into a Browser-based Web App]]></title>
-        <id>609bea6b62ab9107fe5a9f89</id>
-        <link href="https://www.freecodecamp.org/news/convert-keras-savedmodel-into-browser-based-webapp/"/>
-        <updated>2021-05-18T16:36:22.000Z</updated>
-        <summary type="html"><![CDATA[If you're a Python developer who works with Keras SavedModels, this article is for you.  Perhaps you're not sure how to use SavedModels to leverage the power of machine learning in browser-based web apps. But don't worry – we'll cover all the basic steps you need to get started.  Along with]]></summary>
+        <title type="html"><![CDATA[Apple planning MacBook Pro with 16-core GPU, Mac Pro with 128 GPU cores]]></title>
+        <id>https://arstechnica.com/?p=1765693</id>
+        <link href="https://arstechnica.com/?p=1765693"/>
+        <updated>2021-05-18T16:32:53.000Z</updated>
+        <summary type="html"><![CDATA[Bloomberg's sources spill core counts and more on the next wave of Macs.]]></summary>
         <author>
-            <name/>
+            <name>Samuel Axon</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Redux for Beginners – Learn Redux Basics with Code Examples]]></title>
-        <id>609fc4cc62ab9107fe5aac91</id>
-        <link href="https://www.freecodecamp.org/news/redux-for-beginners/"/>
-        <updated>2021-05-18T16:18:18.000Z</updated>
-        <summary type="html"><![CDATA[Redux can be confusing for beginner React developers to understand. There are a lot of concepts you need to know to use it properly, like reducers, actions, store, pure functions, immutability, and much more. But every React developer should know the basics of how to work with Redux, since industry]]></summary>
+        <title type="html"><![CDATA[Apple Music Lossless: What Devices are Supported?]]></title>
+        <id>https://www.macrumors.com/guide/apple-music-lossless&amp;post_date=1621365456/</id>
+        <link href="https://www.macrumors.com/guide/apple-music-lossless/"/>
+        <updated>2021-05-18T16:17:36.000Z</updated>
+        <summary type="html"><![CDATA[Apple in June 2021 is adding new Lossless and Hi-Res Lossless tiers to Apple Music, but so far, it's a bit confusing trying to determine which devices support ‌Apple Music‌'s Lossless Audio and which devices do not.
+
+
+
+
+Subscribe to the MacRumors YouTube channel for more videos.
+
+
+This guide covers everything that we know so far about Lossless Audio, and we'll be updating it as we learn more after the new feature launches.
+
+
+
+What is Lossless Audio?
+
+
+Apple is upgrading its entire streaming musi…]]></summary>
         <author>
-            <name/>
+            <name>Juli Clover</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Be a Successful Entrepreneur – A Developer&#x27;s Guide to Startup Strategy and Design]]></title>
-        <id>60685767d5756f080ba93df4</id>
-        <link href="https://www.freecodecamp.org/news/be-a-successful-entrepreneur-developers-guide-to-startup-strategy-and-design/"/>
-        <updated>2021-05-18T16:08:27.000Z</updated>
-        <summary type="html"><![CDATA[According to freeCodeCamp’s 2018 New Coder Survey, 40.3% of participants want to build a business of their own, either as a freelancer or as an entrepreneur.  If you are in that 40.3%, then this article is for you. If you are in the remaining 59.7%, you]]></summary>
+        <title type="html"><![CDATA[Award-Winning iPhone Camera App Halide Expands to iPad With New 'Pro View']]></title>
+        <id>https://www.macrumors.com/2021/05/18/halide-camera-app-now-available-on-ipad/</id>
+        <link href="https://www.macrumors.com/2021/05/18/halide-camera-app-now-available-on-ipad/"/>
+        <updated>2021-05-18T16:00:38.000Z</updated>
+        <summary type="html"><![CDATA[Just three days before the new iPad Pro begins arriving to customers, the developers of award-winning iPhone camera app Halide have announced the release of an iPad app, complete with a custom user interface that takes advantage of the larger screen.
+
+
+
+
+
+To keep the viewfinder minimally obscured, the iPad app has an expandable "honeycomb" of controls next to the shutter button for manually adjusting shutter speed, ISO, white balance, and more. Other key features are readily reachable at the edges of …]]></summary>
         <author>
-            <name/>
+            <name>Joe Rossignol</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Create Neon Text With CSS]]></title>
-        <id>https://css-tricks.com/?p=340420</id>
-        <link href="https://css-tricks.com/how-to-create-neon-text-with-css/"/>
-        <updated>2021-05-18T14:31:25.000Z</updated>
-        <summary type="html"><![CDATA[Neon text can add a nice, futuristic touch to any website. I’ve always loved the magic of neon signs, and wanted to recreate them using CSS. I thought I’d share some tips on how to do it! In this article, …
-The post How to Create Neon Text With CSS appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Apple Working on High-End Mac Mini With Additional Ports and More Powerful Chip From Next-Gen MacBook Pro]]></title>
+        <id>https://www.macrumors.com/2021/05/18/apple-working-on-high-end-mac-mini/</id>
+        <link href="https://www.macrumors.com/2021/05/18/apple-working-on-high-end-mac-mini/"/>
+        <updated>2021-05-18T15:44:11.000Z</updated>
+        <summary type="html"><![CDATA[Apple is working on a high-end version of the Mac mini, featuring a more powerful Apple silicon chip and extra ports, according to Bloomberg's Mark Gurman.
+
+
+
+
+
+In a wide-reaching report, Gurman explained that Apple is developing a more powerful version of the ‌Mac mini‌, positioned as a high-end version of the current M1 model. The new ‌Mac mini‌ is expected to use the same chip as the next-generation MacBook Pro.
+
+
+
+The next-generation MacBook Pro models are expected to feature an improved versi…]]></summary>
         <author>
-            <name>Silvia O'Dwyer</name>
+            <name>Hartley Charlton</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Create, Edit And Animate SVGs All In One Place With SVGator 3.0]]></title>
-        <id>https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/</id>
-        <link href="https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/"/>
-        <updated>2021-05-18T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Today, we are taking a closer look at [SVGator 3.0](https://www.svgator.com/?utm_source=article&utm_medium=smashingmag&utm_campaign=svgator3_smashing), a new major release of the popular SVG application that lets you create, edit and animate SVG files and make the best out of what SVG has to offer — from start to finish.]]></summary>
+        <title type="html"><![CDATA[Another media acquisition? This one would involve Amazon, MGM, and ~$9B]]></title>
+        <id>https://arstechnica.com/?p=1765675</id>
+        <link href="https://arstechnica.com/?p=1765675"/>
+        <updated>2021-05-18T15:36:05.000Z</updated>
+        <summary type="html"><![CDATA[Does this at least mean we can watch No Time to Die at home soon?]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Mikołaj Dobrucki)</name>
+            <name>Nathan Mattise</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 37 With Adam Argyle: What Is VisBug?]]></title>
-        <id>https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/</id>
-        <link href="https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/"/>
-        <updated>2021-05-18T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we’re talking about VisBug. What is it, and how is it different from the array of options already found in Chrome DevTools? Drew McLellan talks to its creator Adam Argyle to find out.]]></summary>
+        <title type="html"><![CDATA[Exclusive Deals: Get Up to 52% Off Popular Anker Portable Batteries, Wireless Chargers, and Other Accessories]]></title>
+        <id>https://www.macrumors.com/2021/05/18/exclusive-deals-popular-anker-batteries/</id>
+        <link href="https://www.macrumors.com/2021/05/18/exclusive-deals-popular-anker-batteries/"/>
+        <updated>2021-05-18T15:15:01.000Z</updated>
+        <summary type="html"><![CDATA[Today we've partnered up with Anker to offer our readers a collection of new discount codes on wireless chargers, portable batteries, and wall chargers. In this sale you'll find up to 52 percent off select Anker accessories, with prices starting at just $17.99 for the company's MagSafe-compatible Magnetic Wireless Charger.
+
+
+
+Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.
+
+
+
+There a…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+            <name>Mitchel Broussard</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Humble `img` Element And Core Web Vitals]]></title>
-        <id>https://css-tricks.com/?p=340716</id>
-        <link href="https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/"/>
-        <updated>2021-05-17T22:38:06.000Z</updated>
-        <summary type="html"><![CDATA[Addy Osmani on images in HTML:
-The humble <img> element has gained some superpowers over the years. Given how central it is to image optimization on the web, let’s catch up on what it can do and how it can 
-…
-The post The Humble `img` Element And Core Web Vitals appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Apple TV Color Balance Feature May Make Image Quality and Colors Worse]]></title>
+        <id>https://www.macrumors.com/2021/05/18/apple-tv-color-balance-quality-colors-worse/</id>
+        <link href="https://www.macrumors.com/2021/05/18/apple-tv-color-balance-quality-colors-worse/"/>
+        <updated>2021-05-18T14:48:36.000Z</updated>
+        <summary type="html"><![CDATA[Apple TV's Color Balance calibration feature may make color accuracy and image quality worse on some TVs, tests have found (via AFTVnews).
+
+
+
+
+
+Professional television calibrator Vincent Teoh, who runs the YouTube channel HDTVTest, put the ‌Apple TV‌'s color calibration feature to the test on a range of popular TVs in a recent video.
+
+
+
+The ‌Apple TV‌'s Color Calibration debuted in tvOS 14.5 and iOS 14.5, giving users the ability to hold an iPhone with Face ID near their TV and, after tapping a no…]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>Hartley Charlton</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTML vs JSX – What&#x27;s the Difference?]]></title>
-        <id>60a2771762ab9107fe5ab383</id>
-        <link href="https://www.freecodecamp.org/news/html-vs-jsx-whats-the-difference/"/>
-        <updated>2021-05-17T21:11:58.000Z</updated>
-        <summary type="html"><![CDATA[HTML vs JSX Hypertext Markup Language (HTML) is the standard language for documents that determine the structure of a web page.  HTML is a very important language in web development. Your code is either in HTML originally or compiles to it so browsers can read it.  JSX, on the other]]></summary>
+        <title type="html"><![CDATA[SteelSeries Offers up to Four Months of Apple Arcade Free With Nimbus+ Controller [Updated]]]></title>
+        <id>https://www.macrumors.com/2021/05/18/four-months-apple-arcade-nimbus-controller/</id>
+        <link href="https://www.macrumors.com/2021/05/18/four-months-apple-arcade-nimbus-controller/"/>
+        <updated>2021-05-18T14:28:26.000Z</updated>
+        <summary type="html"><![CDATA[SteelSeries, the makers of popular gaming controllers for Apple devices, has today announced that all purchases of the Nimbus+ Wireless Gamepad Controller will come with up to four free months of Apple Arcade.
+
+
+
+
+
+The SteelSeries Nimbus+ Wireless Gamepad Controller delivers a "console-quality experience" with ‌Apple Arcade‌'s library of games.
+
+
+
+Iterating on the original Nimbus controller, the Nimbus+ Wireless Gamepad Controller features an ergonomic design, ultra-responsive triggers and buttons…]]></summary>
         <author>
-            <name/>
+            <name>Hartley Charlton</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The DOM Explained for Beginners – How the Document Object Model Works]]></title>
-        <id>60a16df162ab9107fe5ab01b</id>
-        <link href="https://www.freecodecamp.org/news/dom-explained-everything-you-need-to-know-about-the-document-object-model/"/>
-        <updated>2021-05-17T17:45:50.000Z</updated>
-        <summary type="html"><![CDATA[When I started out as a web developer, people often threw around the term "DOM" in the industry. Every JavaScript tutorial mentioned it, but I didn't know what it meant. Fast forward two years, and now that I know what it's all about, I am going to explain what the]]></summary>
+        <title type="html"><![CDATA[Next MacBook Air Will Feature Faster Apple Silicon Chip With Up to 10 Graphics Cores]]></title>
+        <id>https://www.macrumors.com/2021/05/18/next-macbook-air-faster-apple-silicon-chip/</id>
+        <link href="https://www.macrumors.com/2021/05/18/next-macbook-air-faster-apple-silicon-chip/"/>
+        <updated>2021-05-18T13:44:42.000Z</updated>
+        <summary type="html"><![CDATA[Apple is working on a high-end version of the MacBook Air that will feature an improved iteration of the current M1 Apple silicon chip, featuring improved graphics, but the same number of high efficiency, and high performance cores, according to Bloomberg's Mark Gurman.
+
+
+
+
+
+Apple updated its 13-inch ‌MacBook Air‌ alongside the 13-inch MacBook Pro and Mac mini with the ‌M1‌ Apple silicon chip in November. Bloomberg says that this new ‌MacBook Air‌, which could launch as soon as the end of this year, w…]]></summary>
         <author>
-            <name/>
+            <name>Sami Fathi</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use the Lottie Library like a Pro – Lottie Resources for Designers and Developers]]></title>
-        <id>609f552e62ab9107fe5aaba0</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-lottie-like-a-pro-resources-for-designers-and-developers/"/>
-        <updated>2021-05-17T16:25:22.000Z</updated>
-        <summary type="html"><![CDATA[Lottie is a library that helps render Adobe After Effects animations natively on mobile and the web. I like using Lottie for animations in my projects because: Creating an animation from scratch can be time-consuming, andGIF files can be double the size of Lottie JSON files (the files containing the]]></summary>
+        <title type="html"><![CDATA[M1 iMac Reviews: Impressively Fast With Long-Awaited Redesign]]></title>
+        <id>https://www.macrumors.com/review/m1-imac&amp;post_date=1621354704/</id>
+        <link href="https://www.macrumors.com/review/m1-imac/"/>
+        <updated>2021-05-18T13:18:24.000Z</updated>
+        <summary type="html"><![CDATA[The embargo has lifted on reviews of Apple's new 24-inch iMac, powered by the same M1 chip that debuted in the 13-inch MacBook Pro, MacBook Air, and Mac mini last year. We've gathered up impressions of the colorful new computer below.
+
+
+
+
+
+The most striking aspect of the new iMac is its long-awaited redesign, with an ultra-thin 11.5mm chassis that comes in up to seven vibrant colors, including green, yellow, orange, pink, purple, blue, and silver. The Verge's Monica Chin said the new colors have gener…]]></summary>
         <author>
-            <name/>
+            <name>Joe Rossignol</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Solidity Tutorial – How to Create NFTs with Hardhat]]></title>
-        <id>609cb90262ab9107fe5aa026</id>
-        <link href="https://www.freecodecamp.org/news/solidity-tutorial-hardhat-nfts/"/>
-        <updated>2021-05-17T14:39:55.000Z</updated>
-        <summary type="html"><![CDATA[I'm a developer who's mostly been writing JavaScript, so the Solidity development environment was a bit hard to learn.  About four months ago, I switched to Hardhat from Truffle. This cool new kid on the block drastically improved my coding experience. So today I want to share it with my]]></summary>
+        <title type="html"><![CDATA[Nomad Launches Updated Titanium and Steel Bands for Apple Watch, Priced From $149.95]]></title>
+        <id>https://www.macrumors.com/2021/05/18/nomad-updated-bands-apple-watch/</id>
+        <link href="https://www.macrumors.com/2021/05/18/nomad-updated-bands-apple-watch/"/>
+        <updated>2021-05-18T13:10:21.000Z</updated>
+        <summary type="html"><![CDATA[Nomad today announced updated versions of its Titanium and Steel Bands for the Apple Watch (42mm or 44mm sizes only). The company said that the new versions of its existing accessories include multiple improvements that result in a lighter metal band that retains its durability.
+
+
+
+
+
+Other improvements include new custom 316L stainless steel lugs, 100% color matched to the rest of the band. Nomad added an ultra-slim clasp that stays closed using N52 magnets, and it also allows for easier opening and a…]]></summary>
         <author>
-            <name/>
+            <name>Mitchel Broussard</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Love Letter to HTML & CSS]]></title>
-        <id>https://css-tricks.com/?p=339522</id>
-        <link href="https://css-tricks.com/a-love-letter-to-html-css/"/>
-        <updated>2021-05-17T14:27:22.000Z</updated>
-        <summary type="html"><![CDATA[I see you. In the back there, behind JavaScript and React and PHP and all those “real” programming languages, I see you. And I appreciate you.
-The post A Love Letter to HTML & CSS appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Watch: M1 iMac Unboxing Videos and First Impressions]]></title>
+        <id>https://www.macrumors.com/2021/05/18/m1-imac-unboxing-videos/</id>
+        <link href="https://www.macrumors.com/2021/05/18/m1-imac-unboxing-videos/"/>
+        <updated>2021-05-18T13:00:59.000Z</updated>
+        <summary type="html"><![CDATA[The 24-inch iMac with the M1 chip is now available to order and set to begin arriving with customers starting on Friday, May 21.
+
+
+
+
+
+The iMac features a 24-inch 4.5K Retina Display, Apple's custom silicon ‌M1‌ chip for improved performance, a new, ultra-slim design, and is available in a range of color options.
+
+
+
+Ahead of the arrival of orders this Friday, Apple has provided some YouTube channels and media outlets with an early look at its new Apple silicon-powered desktop computer. We've rounde…]]></summary>
         <author>
-            <name>Ashley Kolodziej</name>
+            <name>Hartley Charlton</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Euismod]]></title>
-        <id>https://css-tricks.com/?p=340594</id>
-        <link href="https://www.euismod.dev/"/>
-        <updated>2021-05-17T14:27:13.000Z</updated>
-        <summary type="html"><![CDATA[An interactive tool for learning grid syntax from Etesam Ansari. In the Learn section, it teaches you some concepts (involving multiple bits of the grid syntax) then gives you a task to complete by filling out the right syntax. I’m …
-The post Euismod appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Bloomberg: Apple Silicon Mac Pro May Feature Up to 32 High Performance Cores, 128 Core Option for Graphics]]></title>
+        <id>https://www.macrumors.com/2021/05/18/bloomberg-mac-pro-32-high-performance-cores/</id>
+        <link href="https://www.macrumors.com/2021/05/18/bloomberg-mac-pro-32-high-performance-cores/"/>
+        <updated>2021-05-18T12:57:38.000Z</updated>
+        <summary type="html"><![CDATA[Apple is working on an updated model of its Mac Pro that may feature an Apple silicon chip with as many as 32 high performance cores, and a 128 core option for graphics, according to a new report from Bloomberg's Mark Gurman. 
+
+
+
+
+
+Bloomberg has reported in the past that Apple is working on an updated Mac Pro that will feature an Apple silicon chip rather than an Intel processor. Today's new report echoes a similar story but offers more details on the performance of this upcoming high-end Mac. 
+
+
+…]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>Sami Fathi</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How We Improved Our Core Web Vitals (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2021/05/core-web-vitals-case-study/</id>
-        <link href="https://smashingmagazine.com/2021/05/core-web-vitals-case-study/"/>
-        <updated>2021-05-17T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.]]></summary>
+        <title type="html"><![CDATA[Distribution and Demand]]></title>
+        <id>https://stratechery.com/?p=5889</id>
+        <link href="https://stratechery.com/2021/distribution-and-demand/"/>
+        <updated>2021-05-18T12:57:29.000Z</updated>
+        <summary type="html"><![CDATA[Distribution on the Internet is free; what matters is controlling demand. AT&T and Verizon didn't understand the distinction.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Beau Hartshorne)</name>
+            <name>Ben Thompson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redesigned MacBook Pro Models With 10-Core Apple Silicon Chip Said to Launch as Early as This Summer]]></title>
+        <id>https://www.macrumors.com/2021/05/18/macbook-pro-64gb-ram-summer-2021/</id>
+        <link href="https://www.macrumors.com/2021/05/18/macbook-pro-64gb-ram-summer-2021/"/>
+        <updated>2021-05-18T12:39:47.000Z</updated>
+        <summary type="html"><![CDATA[Apple plans to launch new 14-inch and 16-inch MacBook Pro models with an improved iteration of the M1 chip as early as this summer, according to Bloomberg's Mark Gurman. The new chip is said to include a 10-core CPU with eight high-performance cores and two energy-efficient cores, with 16-core or 32-core GPU options.
+
+
+
+
+
+Gurman said the next-generation Apple silicon chip will also support up to 64GB of memory compared to the current maximum of 16GB. This would be in line with the current Intel-based …]]></summary>
+        <author>
+            <name>Joe Rossignol</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spotify HiFi Icon Spotted in Mobile App Suggests Imminent Launch]]></title>
+        <id>https://www.macrumors.com/2021/05/18/spotify-lossless-hifi-option-spotted-app/</id>
+        <link href="https://www.macrumors.com/2021/05/18/spotify-lossless-hifi-option-spotted-app/"/>
+        <updated>2021-05-18T12:22:38.000Z</updated>
+        <summary type="html"><![CDATA[Spotify in February announced plans to introduce a new "HiFi" premium tier sometime in 2021, and while the company declined to offer a date, there's reason to believe a launch could be imminent, especially in the wake of Apple Music's lossless tier announcement on Monday.
+
+
+
+
+
+In a timely discovery, hints of Spotify's lossless HiFi audio streaming service have again been spotted this week by Reddit user themonarc, who shared their finding with the accompanying image above.  
+
+
+
+According to the Re…]]></summary>
+        <author>
+            <name>Tim Hardwick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New iMac, iPad Pro, and Apple TV 4K Available at Apple Stores Starting May 21]]></title>
+        <id>https://www.macrumors.com/2021/05/18/new-imac-ipad-pro-apple-tv-may-21/</id>
+        <link href="https://www.macrumors.com/2021/05/18/new-imac-ipad-pro-apple-tv-may-21/"/>
+        <updated>2021-05-18T12:06:26.000Z</updated>
+        <summary type="html"><![CDATA[Apple today confirmed that the new 24-inch iMac, iPad Pro, and updated Apple TV 4K will be available for customers in Apple Stores and retail locations around the world on Friday, May 21. Pre-orders for the products began earlier last month, and Apple previously said the new products will be available in the second half of May.
+
+
+
+
+
+The new ‌iPad Pro‌ features the M1 Apple silicon chip, first introduced in the MacBook Air, MacBook Pro, and Mac mini last November. The larger 12.9-inch ‌iPad Pro‌ also f…]]></summary>
+        <author>
+            <name>Sami Fathi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[McLaren goes with a clean-sheet chassis and engine for Artura supercar]]></title>
+        <id>https://arstechnica.com/?p=1765657</id>
+        <link href="https://arstechnica.com/?p=1765657"/>
+        <updated>2021-05-18T12:00:37.000Z</updated>
+        <summary type="html"><![CDATA[There's a new carbon-fiber monocoque and a 120-degree V6.]]></summary>
+        <author>
+            <name>Jonathan M. Gitlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Demeo is the best multiplayer, virtual-reality D&D clone ever made]]></title>
+        <id>https://arstechnica.com/?p=1763983</id>
+        <link href="https://arstechnica.com/?p=1763983"/>
+        <updated>2021-05-18T11:45:59.000Z</updated>
+        <summary type="html"><![CDATA[Issues aside, it already feels like sharing a real-life dice-and-minis table with friends.]]></summary>
+        <author>
+            <name>Sam Machkovech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Music for Android Reportedly Won't Support Dolby Atmos]]></title>
+        <id>https://www.macrumors.com/2021/05/18/apple-music-android-no-dolby-atmos/</id>
+        <link href="https://www.macrumors.com/2021/05/18/apple-music-android-no-dolby-atmos/"/>
+        <updated>2021-05-18T09:55:20.000Z</updated>
+        <summary type="html"><![CDATA[Apple Music on Android devices will not include Dolby Atmos support when Apple launches Spatial Audio on the streaming service in June. That's the claim from MySmartPrice, which says it received confirmation from Apple India that the sound technology would not be crossing the divide between Apple and Android ecosystems.
+
+
+
+
+
+For anyone confused by all the audio nomenclature that's been bandied about since the ‌Apple Music‌ announcement on Monday, Dolby Atmos is based on surround sound technology that …]]></summary>
+        <author>
+            <name>Tim Hardwick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 14.6 RC Introduces New Shazam App Clip]]></title>
+        <id>https://www.macrumors.com/2021/05/18/ios-14-6-rc-shazam-app-clip/</id>
+        <link href="https://www.macrumors.com/2021/05/18/ios-14-6-rc-shazam-app-clip/"/>
+        <updated>2021-05-18T08:50:56.000Z</updated>
+        <summary type="html"><![CDATA[As part of the iOS and iPadOS 14.6 RC update that was released yesterday, Apple has introduced a new Shazam App Clip, which now allows users to find and identify a song using the new iOS 14 feature, instead of being redirected to the Shazam website or app. 
+
+
+
+
+
+Apple introduced App Clips with ‌iOS 14‌ in June of last year as a small, mini-app that can run on a device, without a user needing to download an app from the App Store. There are multiple ways to activate an App Clip, including a specially d…]]></summary>
+        <author>
+            <name>Sami Fathi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redesigned MacBook Pro Models Still on Track for 2021 Launch, But Supplies Likely to Be Constrained into Next Year]]></title>
+        <id>https://www.macrumors.com/2021/05/18/redesigned-macbook-pro-launch-limited-supply/</id>
+        <link href="https://www.macrumors.com/2021/05/18/redesigned-macbook-pro-launch-limited-supply/"/>
+        <updated>2021-05-18T08:12:18.000Z</updated>
+        <summary type="html"><![CDATA[Volume production of the redesigned 16-inch MacBook Pro with Apple silicon and a mini-LED display is set to begin in the first quarter of 2022, while mass production of the smaller and new 14-inch MacBook Pro will begin in the fourth quarter of this year, according to industry sources cited in a paywalled DigiTimes report.
+
+
+
+
+
+Yesterday, DigiTimes posted a preview of a story reporting that the launch of the redesigned MacBook Pros could be delayed until next year. Now, the full report offers more con…]]></summary>
+        <author>
+            <name>Sami Fathi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple's New 24-Inch iMac Shown Off in Early Unboxing]]></title>
+        <id>https://www.macrumors.com/2021/05/17/24-inch-imac-unboxing/</id>
+        <link href="https://www.macrumors.com/2021/05/17/24-inch-imac-unboxing/"/>
+        <updated>2021-05-18T03:18:08.000Z</updated>
+        <summary type="html"><![CDATA[Update: The early unboxing video was taken down, but other unboxing and first impression videos are now available.
+
+
+
+
+
+The new 24-inch iMac doesn't officially launch until this Friday, May 21, but an early unboxing of the machine has been shared on YouTube.
+
+
+
+
+The ‌iMac‌ unboxing video was made private subsequent to this story.
+
+
+The video from Gadget Guy is in Cantonese, but it offers an up-close look at the yellow version of the ‌iMac‌ including how the machine and its color-matched accessor…]]></summary>
+        <author>
+            <name>Eric Slivka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biden pledges to share 20 million COVID-19 vaccine doses with the world]]></title>
+        <id>https://arstechnica.com/?p=1765579</id>
+        <link href="https://arstechnica.com/?p=1765579"/>
+        <updated>2021-05-17T22:03:35.000Z</updated>
+        <summary type="html"><![CDATA[The 20 million will be in addition to 60 million AstraZeneca doses already pledged.]]></summary>
+        <author>
+            <name>Beth Mole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AirPods Max Won't Directly Support Lossless Apple Music Over Lightning]]></title>
+        <id>https://www.macrumors.com/2021/05/17/airpods-max-no-direct-lossless-lightning-support/</id>
+        <link href="https://www.macrumors.com/2021/05/17/airpods-max-no-direct-lossless-lightning-support/"/>
+        <updated>2021-05-17T20:56:31.000Z</updated>
+        <summary type="html"><![CDATA[Earlier today, we confirmed that AirPods, AirPods Pro, and AirPods Max will not support lossless audio over Bluetooth because of Bluetooth limitations, and it turns out there's no direct wired lossless option for the ‌AirPods Max‌ either.
+
+
+
+
+
+Apple's ‌AirPods Max‌ headphones are equipped with a Lightning port, but it is limited to analog sources and will not natively support digital audio formats in wired mode. 
+
+
+
+Apple told The Verge that when a 24-bit/48 kHz Apple Music lossless track is playe…]]></summary>
+        <author>
+            <name>Juli Clover</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple's Security Compromises in China Outlined in New Report]]></title>
+        <id>https://www.macrumors.com/2021/05/17/apple-security-compromises-china-icloud/</id>
+        <link href="https://www.macrumors.com/2021/05/17/apple-security-compromises-china-icloud/"/>
+        <updated>2021-05-17T20:46:22.000Z</updated>
+        <summary type="html"><![CDATA[Apple has been making concessions on privacy and security in order to continue building and selling its devices in China, according to an in-depth report from The New York Times.
+
+
+
+
+
+The focal point of the report is Apple's decision to comply with a 2016 law that requires all personal information and data collected in China to be kept in China, which has led Apple to build a China data center and relocate Chinese customers' iCloud data to China, managed by a Chinese company.
+
+
+
+Apple fought again…]]></summary>
+        <author>
+            <name>Juli Clover</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple’s M1 is a fast CPU—but M1 Macs feel even faster due to QoS]]></title>
+        <id>https://arstechnica.com/?p=1765494</id>
+        <link href="https://arstechnica.com/?p=1765494"/>
+        <updated>2021-05-17T20:09:47.000Z</updated>
+        <summary type="html"><![CDATA[Howard Oakley did an excellent deep dive on M1 scheduling and performance.]]></summary>
+        <author>
+            <name>Jim Salter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Music subscribers will get lossless and spatial audio for free next month]]></title>
+        <id>https://arstechnica.com/?p=1765499</id>
+        <link href="https://arstechnica.com/?p=1765499"/>
+        <updated>2021-05-17T19:26:23.000Z</updated>
+        <summary type="html"><![CDATA[New features will launch with iOS 14.6, macOS 11.4 in June.]]></summary>
+        <author>
+            <name>Samuel Axon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rocket Lab reviewing data after its second Electron failure in a year]]></title>
+        <id>https://arstechnica.com/?p=1765439</id>
+        <link href="https://arstechnica.com/?p=1765439"/>
+        <updated>2021-05-17T18:49:04.000Z</updated>
+        <summary type="html"><![CDATA["We deeply regret the loss of BlackSky's payload."]]></summary>
+        <author>
+            <name>Eric Berger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CDC defends its abrupt reversal on masks after backlash from experts]]></title>
+        <id>https://arstechnica.com/?p=1765479</id>
+        <link href="https://arstechnica.com/?p=1765479"/>
+        <updated>2021-05-17T17:22:07.000Z</updated>
+        <summary type="html"><![CDATA[Experts question timing as CDC director says public pressure wasn’t a factor.]]></summary>
+        <author>
+            <name>Beth Mole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AT&T to spin off WarnerMedia, basically admitting giant merger was a mistake]]></title>
+        <id>https://arstechnica.com/?p=1765461</id>
+        <link href="https://arstechnica.com/?p=1765461"/>
+        <updated>2021-05-17T16:53:40.000Z</updated>
+        <summary type="html"><![CDATA[WarnerMedia and Discovery to merge, and standalone AT&T will focus on broadband.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Forget multiple cameras—Sharp phone has one giant 1-inch camera sensor]]></title>
+        <id>https://arstechnica.com/?p=1765409</id>
+        <link href="https://arstechnica.com/?p=1765409"/>
+        <updated>2021-05-17T16:46:00.000Z</updated>
+        <summary type="html"><![CDATA[It's the biggest smartphone camera sensor ever—or at least tied.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[City pays $350,000 after suing “hackers” for opening Dropbox link it sent them]]></title>
+        <id>https://arstechnica.com/?p=1765448</id>
+        <link href="https://arstechnica.com/?p=1765448"/>
+        <updated>2021-05-17T16:27:59.000Z</updated>
+        <summary type="html"><![CDATA[Employee mistakenly sent the link when replying to a records request.]]></summary>
+        <author>
+            <name>Tim De Chant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It’s not enough to trust science on vaccines—others have to as well]]></title>
+        <id>https://arstechnica.com/?p=1765440</id>
+        <link href="https://arstechnica.com/?p=1765440"/>
+        <updated>2021-05-17T16:03:34.000Z</updated>
+        <summary type="html"><![CDATA[Personal trust and societal consensus have an additive effect.]]></summary>
+        <author>
+            <name>John Timmer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Roblox’s definition of “games” is key to the Epic vs. Apple case]]></title>
+        <id>https://arstechnica.com/?p=1765432</id>
+        <link href="https://arstechnica.com/?p=1765432"/>
+        <updated>2021-05-17T15:31:39.000Z</updated>
+        <summary type="html"><![CDATA[The line between "game" and "experience" has major implications for iOS App Review.]]></summary>
+        <author>
+            <name>Kyle Orland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From apes to birds, there are 65 animal species that “laugh”]]></title>
+        <id>https://arstechnica.com/?p=1765400</id>
+        <link href="https://arstechnica.com/?p=1765400"/>
+        <updated>2021-05-17T13:57:23.000Z</updated>
+        <summary type="html"><![CDATA[Laughter is spread widely across mammals and occurs in birds, too.]]></summary>
+        <author>
+            <name>Ars Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A brief look at electric vehicles from the dawn of the automobile age]]></title>
+        <id>https://arstechnica.com/?p=1765381</id>
+        <link href="https://arstechnica.com/?p=1765381"/>
+        <updated>2021-05-17T13:06:04.000Z</updated>
+        <summary type="html"><![CDATA[Electric vehicles were well represented during the early decades of the car.]]></summary>
+        <author>
+            <name>Ars Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to look at the stack with gdb]]></title>
+        <id>https://jvns.ca/blog/2021/05/17/how-to-look-at-the-stack-in-gdb/</id>
+        <link href="https://jvns.ca/blog/2021/05/17/how-to-look-at-the-stack-in-gdb/"/>
+        <updated>2021-05-17T09:14:37.000Z</updated>
+        <summary type="html"><![CDATA[I was chatting with someone yesterday and they mentioned that they don’t really
+understand exactly how the stack works or how to look at it.
+So here’s a quick walkthrough of how you can use gdb to look at the stack of a C
+program. I think this would be similar for a Rust program, but I’m going to use
+C because I find it a little simpler for a toy example and also you can do Terrible
+Things in C more easily.
+our test program
+Here’s a simple C program that declares a few variables and reads two strings
+from s…]]></summary>
+        <author>
+            <name>Julia Evans</name>
         </author>
     </entry>
     <entry>
@@ -164,6 +572,36 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
 Chore: Reorganize to monorepo with npm workspace.]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neutrons unlock the secrets of Antonie van Leeuwenhoek’s microscopes]]></title>
+        <id>https://arstechnica.com/?p=1765022</id>
+        <link href="https://arstechnica.com/?p=1765022"/>
+        <updated>2021-05-16T21:48:54.000Z</updated>
+        <summary type="html"><![CDATA[His most powerful microscope holds a lens likely made with Robert Hooke's 1678 recipe.]]></summary>
+        <author>
+            <name>Jennifer Ouellette</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google I/O 2021 preview: Google resurrects Wear OS and Android tablets?]]></title>
+        <id>https://arstechnica.com/?p=1764606</id>
+        <link href="https://arstechnica.com/?p=1764606"/>
+        <updated>2021-05-16T13:30:29.000Z</updated>
+        <summary type="html"><![CDATA[The Google I/O schedule promises to resurrect some long-dead form factors.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GameStop FOMO inspires a new wave of crypto pump-and-dumps]]></title>
+        <id>https://arstechnica.com/?p=1765272</id>
+        <link href="https://arstechnica.com/?p=1765272"/>
+        <updated>2021-05-16T11:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Discord groups promise big earnings  by manipulating the crypto market.]]></summary>
+        <author>
+            <name>WIRED</name>
         </author>
     </entry>
     <entry>
@@ -189,230 +627,41 @@ Thank you @tianheg, @onnyyonn]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Auto-Generated Social Media Images]]></title>
-        <id>https://css-tricks.com/?p=340136</id>
-        <link href="https://css-tricks.com/auto-generated-social-media-images/"/>
-        <updated>2021-05-14T20:34:49.000Z</updated>
-        <summary type="html"><![CDATA[I’ve been thinking about social media images again. You know, the images that (can) show up when you share a link in places like Twitter, Facebook, or iMessage. You’re essentially leaving money on the table without them, because they …
-The post Auto-Generated Social Media Images appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[The chip shortage is driving up tech prices–starting with TVs]]></title>
+        <id>https://arstechnica.com/?p=1765280</id>
+        <link href="https://arstechnica.com/?p=1765280"/>
+        <updated>2021-05-15T11:15:34.000Z</updated>
+        <summary type="html"><![CDATA[Some high-end televisions already cost 30% more than they did last summer.]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>Eric Bangeman</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is SendGrid? SMTP Email Newsletter Tutorial]]></title>
-        <id>609d63e962ab9107fe5aa2ce</id>
-        <link href="https://www.freecodecamp.org/news/what-is-sendgrid-smpt-email-newsletter-tutorial/"/>
-        <updated>2021-05-14T20:31:30.000Z</updated>
-        <summary type="html"><![CDATA[You may have heard of the term SMTP before, and wondered what it is. SMTP is a common method for handling email messages. Today I am going to explain what SMTP is, and how to use an SMTP provider such as SendGrid to send emails from your address. What Is]]></summary>
+        <title type="html"><![CDATA[Cloudflare on the Edge]]></title>
+        <id>https://stratechery.com/?p=5876</id>
+        <link href="https://stratechery.com/2021/cloudflare-on-the-edge/"/>
+        <updated>2021-05-11T17:01:56.000Z</updated>
+        <summary type="html"><![CDATA[Cloudflare is uniquely positioned to become a major player in an Internet 3.0 world, where politics matter more than economics.]]></summary>
         <author>
-            <name/>
+            <name>Ben Thompson</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[React for Beginners: Complete React Cheatsheet for 2021]]></title>
-        <id>609ea83362ab9107fe5aa920</id>
-        <link href="https://www.freecodecamp.org/news/react-for-beginners-cheatsheet/"/>
-        <updated>2021-05-14T20:17:37.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the React for Beginners guide. It's designed to teach you all the core React concepts that you need to know to start building React applications in 2021. I created this resource to give you the most complete and beginner-friendly path to learn React from the ground up. By]]></summary>
+        <title type="html"><![CDATA[The OSI model doesn't map well to TCP/IP]]></title>
+        <id>https://jvns.ca/blog/2021/05/11/what-s-the-osi-model-/</id>
+        <link href="https://jvns.ca/blog/2021/05/11/what-s-the-osi-model-/"/>
+        <updated>2021-05-11T14:58:41.000Z</updated>
+        <summary type="html"><![CDATA[TCP/IP is the set of networking protocols that we use on the modern internet –
+TCP, UDP, IP, ARP, ICMP, DNS, etc. When I talk about “networking”, I’m
+basically always talking about TCP/IP.
+Many explanations of TCP/IP start with something called the “OSI model”. I
+don’t use the OSI model when explaining networking because when I first
+started learning about internet networking I found all of the OSI model
+explanations really confusing – it wasn’t clear to me at all how the OSI
+model corresponded to TCP/IP.
+S…]]></summary>
         <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Development for Beginners – Learn Basic HTML and CSS to Build Your First Web Page]]></title>
-        <id>609e8c2162ab9107fe5aa77d</id>
-        <link href="https://www.freecodecamp.org/news/web-development-for-beginners-basic-html-and-css/"/>
-        <updated>2021-05-14T17:13:14.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wondered how websites are built and designed? Do you want to learn the art of web development but you're not that tech savvy – yet? Well, then this tutorial is for you. It's an introduction to Web Development for beginners so you can learn the basics even if]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating Stylesheet Feature Flags With Sass !default]]></title>
-        <id>https://css-tricks.com/?p=340343</id>
-        <link href="https://css-tricks.com/creating-stylesheet-feature-flags-with-sass-default/"/>
-        <updated>2021-05-14T14:14:34.000Z</updated>
-        <summary type="html"><![CDATA[!default is a Sass flag that indicates conditional assignment to a variable — it assigns a value only if the variable was previously undefined or null. Consider this code snippet:
-$variable: 'test' !default;
-To the Sass compiler, this line …
-The post Creating Stylesheet Feature Flags With Sass !default appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Nathan Babcock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML Boilerplates]]></title>
-        <id>https://css-tricks.com/?p=340403</id>
-        <link href="https://css-tricks.com/html-boilerplates/"/>
-        <updated>2021-05-14T14:13:07.000Z</updated>
-        <summary type="html"><![CDATA[Manuel Matuzović goes line-by-line through a boilerplate HTML document. I like it. It’s a good reference and has a lot of the same type of stuff I tend to put in the main HTML template. It makes me think about …
-The post HTML Boilerplates appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tree-Shaking: A Reference Guide]]></title>
-        <id>https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/</id>
-        <link href="https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/"/>
-        <updated>2021-05-14T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Átila Fassina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevTools for CSS layouts 2021 edition]]></title>
-        <id>https://css-tricks.com/?p=340490</id>
-        <link href="https://chenhuijing.com/blog/devtools-for-css-layouts-2021-edition/#%F0%9F%9A%B2"/>
-        <updated>2021-05-13T23:22:45.000Z</updated>
-        <summary type="html"><![CDATA[Chen Hui Jing covers some recent movement in DevTools:
-Firefox’s grid inspector was pretty full-featured from the get-to and released together with CSS grid in Firefox 52. It was constantly improved upon since. Chrome added a basic grid inspector 
-…
-The post DevTools for CSS layouts 2021 edition appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 Design Systems (Survey/Courses)]]></title>
-        <id>https://css-tricks.com/?p=340573</id>
-        <link href="https://css-tricks.com/2021-design-systems-survey-courses/"/>
-        <updated>2021-05-13T22:55:35.000Z</updated>
-        <summary type="html"><![CDATA[My friends at Sparkbox are doing a survey on design systems, as they do each year. Go ahead and fill it out if you please. Here are the results from last year. In both 2019 and 2020, the vibe was …
-The post 2021 Design Systems (Survey/Courses) appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advanced CSS Animation Using cubic-bezier()]]></title>
-        <id>https://css-tricks.com/?p=340036</id>
-        <link href="https://css-tricks.com/advanced-css-animation-using-cubic-bezier/"/>
-        <updated>2021-05-13T14:24:42.000Z</updated>
-        <summary type="html"><![CDATA[When dealing with complex CSS animations, there is a tendency to create expansive @keyframes with lots of declarations. There are a couple of tricks though that I want to talk about that might help make things easier, while staying in …
-The post Advanced CSS Animation Using cubic-bezier() appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SVGator 3.0 Reshapes the Way You Create and Animate SVG With Extensive New Features]]></title>
-        <id>https://css-tricks.com/?p=340118</id>
-        <link href="https://css-tricks.com/svgator-3-0-reshapes-the-way-you-create-and-animate-svg-with-extensive-new-features/"/>
-        <updated>2021-05-13T14:24:35.000Z</updated>
-        <summary type="html"><![CDATA[Building animations can get complicated, particularly compelling animations where you aren’t just rolling a ball across the screen, but building a scene where many things are moving and changing in concert. When compelling animation is the goal, a timeline GUI …
-The post SVGator 3.0 Reshapes the Way You Create and Animate SVG With Extensive New Features appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making Disabled Buttons More Inclusive]]></title>
-        <id>https://css-tricks.com/?p=339960</id>
-        <link href="https://css-tricks.com/making-disabled-buttons-more-inclusive/"/>
-        <updated>2021-05-12T14:31:07.000Z</updated>
-        <summary type="html"><![CDATA[Let’s talk about disabled buttons. Specifically, let’s get into why we use them and how we can do better than the traditional disabled attribute in HTML (e.g. <button disabled> ) to mark a button as disabled.
-There are lots of …
-The post Making Disabled Buttons More Inclusive appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Sandrina Pereira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frustrating Design Patterns That Need Fixing: Birthday Picker]]></title>
-        <id>https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/</id>
-        <link href="https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/"/>
-        <updated>2021-05-12T12:42:00.000Z</updated>
-        <summary type="html"><![CDATA[In this new series of articles on UX, we take a closer look at some frustrating design patterns and explore better alternatives, along with plenty of examples to keep in mind when building or designing one. Let’s start with an infamous birthday picker.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Little Smashing Stories]]></title>
-        <id>https://smashingmagazine.com/2021/05/little-smashing-stories/</id>
-        <link href="https://smashingmagazine.com/2021/05/little-smashing-stories/"/>
-        <updated>2021-05-12T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today marks the day we sent out our 300th edition of the Smashing Newsletter. This article is a little celebration in which we share little Smashing stories from people working behind the scenes.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Pie Timer Re-Revisited]]></title>
-        <id>https://css-tricks.com/?p=340359</id>
-        <link href="https://css-tricks.com/css-pie-timer-re-revisited/"/>
-        <updated>2021-05-11T22:00:29.000Z</updated>
-        <summary type="html"><![CDATA[Kitty reflected on an ancient blog post here on CSS-Tricks on how to make an animated pie timer. The old technique is still clever. The new technique is equally clever and much easier. I particularly like the steps() animation function…
-The post CSS Pie Timer Re-Revisited appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I could build this during the weekend]]></title>
-        <id>https://css-tricks.com/?p=340186</id>
-        <link href="https://world.hey.com/joaoqalves/i-could-build-this-during-the-weekend-aa093c5e"/>
-        <updated>2021-05-11T21:04:32.000Z</updated>
-        <summary type="html"><![CDATA[How many times have you heard that (or even uttered it under your own breath)? I know I’ve heard it in conversations. I also know I’ve wondered the same thing about a product or two — hey, the idea here …
-The post I could build this during the weekend appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next Gen CSS: @container]]></title>
-        <id>https://css-tricks.com/?p=339138</id>
-        <link href="https://css-tricks.com/next-gen-css-container/"/>
-        <updated>2021-05-11T14:36:10.000Z</updated>
-        <summary type="html"><![CDATA[Chrome is experimenting with @container, a property within the CSS Working Group Containment Level 3 spec being championed by Miriam Suzanne of Oddbird, and a group of engineers across the web platform. @container brings us the ability to …
-The post Next Gen CSS: @container appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Una Kravets</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Primer On CSS Container Queries]]></title>
-        <id>https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/</id>
-        <link href="https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/"/>
-        <updated>2021-05-11T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A prototype of the long-awaited CSS container queries has landed in Chrome Canary and is available for experimentation. Let’s look at what problem is being solved, learn how container queries work, and see how they compare with and complement existing CSS features for layout.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Conference Platform We Use For Our Online Events: Hopin]]></title>
-        <id>https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/</id>
-        <link href="https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/"/>
-        <updated>2021-05-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[At the beginning of 2020, the SmashingConf team was ready for a new year. We had so many things that excited us. New speakers, new workshops, new cities, new attendees, new experiences. And as we all know, 2020 had other ideas. With so many people working from home, we thought we would bring our [Smashing workshops](https://smashingconf.com/online-workshops/) from our home offices to yours — but how?]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Amanda Annandale)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get Started With React By Building A Whac-A-Mole Game]]></title>
-        <id>https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/</id>
-        <link href="https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/"/>
-        <updated>2021-05-10T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
+            <name>Julia Evans</name>
         </author>
     </entry>
     <entry>
@@ -456,33 +705,13 @@ Chore: Excluded testing files from repo.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Organize Product-Related Assets And Collaborate Better]]></title>
-        <id>https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/</id>
-        <link href="https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/"/>
-        <updated>2021-05-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.]]></summary>
+        <title type="html"><![CDATA[Market-Making on the Internet]]></title>
+        <id>https://stratechery.com/?p=5856</id>
+        <link href="https://stratechery.com/2021/market-making-on-the-internet/"/>
+        <updated>2021-05-05T13:58:27.000Z</updated>
+        <summary type="html"><![CDATA[More and more opportunities on the web come from market marking, not for advertisers, but for real goods and services paid for with real money.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Valeriia Panina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving The Performance Of Shopify Themes (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/</id>
-        <link href="https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/"/>
-        <updated>2021-05-06T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Carson Shold)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reducing HTML Payload With Next.js (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/</id>
-        <link href="https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/"/>
-        <updated>2021-05-05T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Liran Cohen)</name>
+            <name>Ben Thompson</name>
         </author>
     </entry>
     <entry>
@@ -532,143 +761,38 @@ Chore: Refactored parameter passing for enrich step.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Guide To Undoing Mistakes With Git]]></title>
-        <id>https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/</id>
-        <link href="https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/"/>
-        <updated>2021-05-04T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.]]></summary>
+        <title type="html"><![CDATA[I put all of my comics online!]]></title>
+        <id>https://jvns.ca/blog/2021/05/02/publishing-comics/</id>
+        <link href="https://jvns.ca/blog/2021/05/02/publishing-comics/"/>
+        <updated>2021-05-02T11:41:59.000Z</updated>
+        <summary type="html"><![CDATA[Hello! As you probably know, I write a lot of comics about programming, and I publish collections of them as zines you can buy at https://wizardzines.com.
+I also usually post the comics on Twitter as I write them. But there are a lot of problems with just posting them to Twitter, like:
+the pages are hard to find. For example, if you want to find the one on
+socat, you can search twitter
+and you’ll find it, but then you have to somehow magically guess what words I
+used in the tweet, and also sort through a bu…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Tobias Günther)</name>
+            <name>Julia Evans</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 36 With Miriam Suzanne: What Is The Future Of CSS?]]></title>
-        <id>https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/</id>
-        <link href="https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/"/>
-        <updated>2021-05-04T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we’re starting our new season of the Smashing Podcast with a look at the future of CSS. What new specs will be landing in browsers soon? Drew McLellan talks to expert Miriam Suzanne to find out.]]></summary>
+        <title type="html"><![CDATA[Spotify’s Surprise]]></title>
+        <id>https://stratechery.com/?p=5828</id>
+        <link href="https://stratechery.com/2021/spotifys-surprise/"/>
+        <updated>2021-04-28T13:19:27.000Z</updated>
+        <summary type="html"><![CDATA[Spotify's new subscription podcast offerings embrace the open ecosystem of podcasts in multiple ways.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+            <name>Ben Thompson</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Evolution Of Jamstack]]></title>
-        <id>https://smashingmagazine.com/2021/05/evolution-jamstack/</id>
-        <link href="https://smashingmagazine.com/2021/05/evolution-jamstack/"/>
-        <updated>2021-05-03T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.]]></summary>
+        <title type="html"><![CDATA[Podcast Subscriptions vs. the App Store]]></title>
+        <id>https://stratechery.com/?p=5800</id>
+        <link href="https://stratechery.com/2021/podcast-subscriptions-vs-the-app-store/"/>
+        <updated>2021-04-21T14:44:43.000Z</updated>
+        <summary type="html"><![CDATA[Apple's new Podcast Subscription service is what the App Store should be: a great Apple experience competing for customers.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Mathias Biilmann)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[May Is In The Air (2021 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/</id>
-        <link href="https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/"/>
-        <updated>2021-04-30T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new collection of wallpapers is for you. Designed with love by the community for the community, the wallpapers are available with and without a calendar for May 2021.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Humble `<img>` Element And Core Web Vitals]]></title>
-        <id>https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/</id>
-        <link href="https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/"/>
-        <updated>2021-04-29T12:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Images have also been a key part of the web. They communicate ideas instantly, but they are also a lot heavier than text to load. This means that it’s essential to get loading and displaying them right, if you want to give your users a fantastic first impression. An excerpt from [Addy's new book](https://www.smashingmagazine.com/2021/04/image-optimization-pre-release/) (also, check a [free PDF preview](http://provide.smashingmagazine.com/eBooks/image-optimization-sample-chapter.pdf)).]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Addy Osmani)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet Image Optimization, A New Smashing Book By Addy Osmani]]></title>
-        <id>https://smashingmagazine.com/2021/04/image-optimization-pre-release/</id>
-        <link href="https://smashingmagazine.com/2021/04/image-optimization-pre-release/"/>
-        <updated>2021-04-28T13:20:00.000Z</updated>
-        <summary type="html"><![CDATA[The cat is out! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our practical modern guide to delivering high-quality images on the web with the best performance.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Easing Functions For CSS Animations And Transitions]]></title>
-        <id>https://smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/</id>
-        <link href="https://smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/"/>
-        <updated>2021-04-27T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Easing functions can change the look and feel of an animation by affecting the rate, or speed, of an animation. In this article, we’re going to take a deep dive into easing functions and see how we can use them to create those natural and stunning animations.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Bake Layers Of Accessibility Testing Into Your Process]]></title>
-        <id>https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/</id>
-        <link href="https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/"/>
-        <updated>2021-04-26T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Accessibility experts Kate Kalcevich and Mike Gifford introduce readers to "layered accessibility testing”, a practice of using a variety of tools and approaches at different stages in the digital product lifecycle to catch accessibility issues early — when it’s easier and cheaper to fix them.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Kate Kalcevich &amp; Mike Gifford)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Guide To Newly Supported, Modern CSS Pseudo-Class Selectors]]></title>
-        <id>https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/</id>
-        <link href="https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/"/>
-        <updated>2021-04-23T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The CSS Working Group Editor’s Draft for [Selectors Level 4](https://drafts.csswg.org/selectors-4/) includes several pseudo-class selectors that already have proposal candidates in most modern browsers. This guide will cover ones that currently have the best support along with examples to demonstrate how you can start using them today!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Design Done Well: The Ordinary Made Extraordinary (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2021/04/web-design-done-well-part1/</id>
-        <link href="https://smashingmagazine.com/2021/04/web-design-done-well-part1/"/>
-        <updated>2021-04-22T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes it’s the little things in web life that make us look twice. From carousels to documentation to cookie disclaimers, here are some sites taking the mundane and sprinkling in a little magic.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Complete Guide To Incremental Static Regeneration (ISR) With Next.js]]></title>
-        <id>https://smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/</id>
-        <link href="https://smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/"/>
-        <updated>2021-04-21T13:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Incremental Static Regeneration (ISR) is a new evolution of the Jamstack, allowing you to update static content instantly without needing a full rebuild of your site. The hybrid approach of Next.js allows you to use ISR for e-commerce, marketing pages, blog posts, ad-backed media, and more.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Lee Robinson)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Content Is Such A Fundamental Part Of The Web Design Process]]></title>
-        <id>https://smashingmagazine.com/2021/04/content-fundamental-part-web-design-process/</id>
-        <link href="https://smashingmagazine.com/2021/04/content-fundamental-part-web-design-process/"/>
-        <updated>2021-04-21T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[As designers, we are often burdened by the responsibility of producing and managing website content. It’s not our job to write it, but it’s not the client’s either. We can avert disaster by including content production in the design process.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Matt Saunders)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making GraphQL Work In WordPress]]></title>
-        <id>https://smashingmagazine.com/2021/04/making-graphql-work-in-wordpress/</id>
-        <link href="https://smashingmagazine.com/2021/04/making-graphql-work-in-wordpress/"/>
-        <updated>2021-04-20T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Let’s explore the plugins providing GraphQL servers to WordPress. When should we use WPGraphQL, and when the GraphQL API for WordPress? Is there some advantage of one over the other, or some particular task that is easier to accomplish with one of them? In this article, we will find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An In-Depth Guide To Measuring Core Web Vitals]]></title>
-        <id>https://smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/</id>
-        <link href="https://smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/"/>
-        <updated>2021-04-19T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[How are Core Web Vitals measured? How do you know your fixes have had the desired effect and when will you see the results in Google Search Console? Let’s figure it out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Barry Pollard)</name>
+            <name>Ben Thompson</name>
         </author>
     </entry>
 </feed>

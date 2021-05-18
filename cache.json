@@ -98,482 +98,468 @@
       ]
     },
     {
-      "title": "CSS-Tricks",
-      "feedUrl": "https://css-tricks.com/feed/",
-      "siteUrl": "https://css-tricks.com",
+      "title": "Ars Technica",
+      "feedUrl": "http://feeds.arstechnica.com/arstechnica/index/",
+      "siteUrl": "https://arstechnica.com",
       "articles": [
         {
-          "id": "https://css-tricks.com/?p=340420",
-          "author": "Silvia O'Dwyer",
-          "description": "Neon text can add a nice, futuristic touch to any website. I’ve always loved the magic of neon signs, and wanted to recreate them using CSS. I thought I’d share some tips on how to do it! In this article, …\nThe post How to Create Neon Text With CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-to-create-neon-text-with-css/",
-          "publishedOn": "2021-05-18T14:31:25.000Z",
-          "wordCount": 2074,
-          "title": "How to Create Neon Text With CSS"
+          "id": "https://arstechnica.com/?p=1765693",
+          "author": "Samuel Axon",
+          "description": "Bloomberg's sources spill core counts and more on the next wave of Macs.",
+          "link": "https://arstechnica.com/?p=1765693",
+          "publishedOn": "2021-05-18T16:32:53.000Z",
+          "wordCount": 958,
+          "title": "Apple planning MacBook Pro with 16-core GPU, Mac Pro with 128 GPU cores"
         },
         {
-          "id": "https://css-tricks.com/?p=340716",
-          "author": "Chris Coyier",
-          "description": "Addy Osmani on images in HTML:\nThe humble <img> element has gained some superpowers over the years. Given how central it is to image optimization on the web, let’s catch up on what it can do and how it can \n…\nThe post The Humble `img` Element And Core Web Vitals appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
-          "publishedOn": "2021-05-17T22:38:06.000Z",
-          "wordCount": 5325,
-          "title": "The Humble `img` Element And Core Web Vitals"
+          "id": "https://arstechnica.com/?p=1765675",
+          "author": "Nathan Mattise",
+          "description": "Does this at least mean we can watch No Time to Die at home soon?",
+          "link": "https://arstechnica.com/?p=1765675",
+          "publishedOn": "2021-05-18T15:36:05.000Z",
+          "wordCount": 1023,
+          "title": "Another media acquisition? This one would involve Amazon, MGM, and ~$9B"
         },
         {
-          "id": "https://css-tricks.com/?p=339522",
-          "author": "Ashley Kolodziej",
-          "description": "I see you. In the back there, behind JavaScript and React and PHP and all those “real” programming languages, I see you. And I appreciate you.\nThe post A Love Letter to HTML & CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/a-love-letter-to-html-css/",
-          "publishedOn": "2021-05-17T14:27:22.000Z",
-          "wordCount": 1723,
-          "title": "A Love Letter to HTML & CSS"
+          "id": "https://arstechnica.com/?p=1765657",
+          "author": "Jonathan M. Gitlin",
+          "description": "There's a new carbon-fiber monocoque and a 120-degree V6.",
+          "link": "https://arstechnica.com/?p=1765657",
+          "publishedOn": "2021-05-18T12:00:37.000Z",
+          "wordCount": 1369,
+          "title": "McLaren goes with a clean-sheet chassis and engine for Artura supercar"
         },
         {
-          "id": "https://css-tricks.com/?p=340594",
-          "author": "Chris Coyier",
-          "description": "An interactive tool for learning grid syntax from Etesam Ansari. In the Learn section, it teaches you some concepts (involving multiple bits of the grid syntax) then gives you a task to complete by filling out the right syntax. I’m …\nThe post Euismod appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.euismod.dev/",
-          "publishedOn": "2021-05-17T14:27:13.000Z",
-          "wordCount": 3,
-          "title": "Euismod"
+          "id": "https://arstechnica.com/?p=1763983",
+          "author": "Sam Machkovech",
+          "description": "Issues aside, it already feels like sharing a real-life dice-and-minis table with friends.",
+          "link": "https://arstechnica.com/?p=1763983",
+          "publishedOn": "2021-05-18T11:45:59.000Z",
+          "wordCount": 1973,
+          "title": "Demeo is the best multiplayer, virtual-reality D&D clone ever made"
         },
         {
-          "id": "https://css-tricks.com/?p=340136",
-          "author": "Chris Coyier",
-          "description": "I’ve been thinking about social media images again. You know, the images that (can) show up when you share a link in places like Twitter, Facebook, or iMessage. You’re essentially leaving money on the table without them, because they …\nThe post Auto-Generated Social Media Images appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/auto-generated-social-media-images/",
-          "publishedOn": "2021-05-14T20:34:49.000Z",
-          "wordCount": 2273,
-          "title": "Auto-Generated Social Media Images"
+          "id": "https://arstechnica.com/?p=1765579",
+          "author": "Beth Mole",
+          "description": "The 20 million will be in addition to 60 million AstraZeneca doses already pledged.",
+          "link": "https://arstechnica.com/?p=1765579",
+          "publishedOn": "2021-05-17T22:03:35.000Z",
+          "wordCount": 932,
+          "title": "Biden pledges to share 20 million COVID-19 vaccine doses with the world"
         },
         {
-          "id": "https://css-tricks.com/?p=340343",
-          "author": "Nathan Babcock",
-          "description": "!default is a Sass flag that indicates conditional assignment to a variable — it assigns a value only if the variable was previously undefined or null. Consider this code snippet:\n$variable: 'test' !default;\nTo the Sass compiler, this line …\nThe post Creating Stylesheet Feature Flags With Sass !default appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/creating-stylesheet-feature-flags-with-sass-default/",
-          "publishedOn": "2021-05-14T14:14:34.000Z",
-          "wordCount": 1344,
-          "title": "Creating Stylesheet Feature Flags With Sass !default"
+          "id": "https://arstechnica.com/?p=1765494",
+          "author": "Jim Salter",
+          "description": "Howard Oakley did an excellent deep dive on M1 scheduling and performance.",
+          "link": "https://arstechnica.com/?p=1765494",
+          "publishedOn": "2021-05-17T20:09:47.000Z",
+          "wordCount": 1385,
+          "title": "Apple’s M1 is a fast CPU—but M1 Macs feel even faster due to QoS"
         },
         {
-          "id": "https://css-tricks.com/?p=340403",
-          "author": "Chris Coyier",
-          "description": "Manuel Matuzović goes line-by-line through a boilerplate HTML document. I like it. It’s a good reference and has a lot of the same type of stuff I tend to put in the main HTML template. It makes me think about …\nThe post HTML Boilerplates appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/html-boilerplates/",
-          "publishedOn": "2021-05-14T14:13:07.000Z",
-          "wordCount": 781,
-          "title": "HTML Boilerplates"
+          "id": "https://arstechnica.com/?p=1765499",
+          "author": "Samuel Axon",
+          "description": "New features will launch with iOS 14.6, macOS 11.4 in June.",
+          "link": "https://arstechnica.com/?p=1765499",
+          "publishedOn": "2021-05-17T19:26:23.000Z",
+          "wordCount": 821,
+          "title": "Apple Music subscribers will get lossless and spatial audio for free next month"
         },
         {
-          "id": "https://css-tricks.com/?p=340490",
-          "author": "Chris Coyier",
-          "description": "Chen Hui Jing covers some recent movement in DevTools:\nFirefox’s grid inspector was pretty full-featured from the get-to and released together with CSS grid in Firefox 52. It was constantly improved upon since. Chrome added a basic grid inspector \n…\nThe post DevTools for CSS layouts 2021 edition appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://chenhuijing.com/blog/devtools-for-css-layouts-2021-edition/#%F0%9F%9A%B2",
-          "publishedOn": "2021-05-13T23:22:45.000Z",
-          "wordCount": 1594,
-          "title": "DevTools for CSS layouts 2021 edition"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340573",
-          "author": "Chris Coyier",
-          "description": "My friends at Sparkbox are doing a survey on design systems, as they do each year. Go ahead and fill it out if you please. Here are the results from last year. In both 2019 and 2020, the vibe was …\nThe post 2021 Design Systems (Survey/Courses) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/2021-design-systems-survey-courses/",
-          "publishedOn": "2021-05-13T22:55:35.000Z",
-          "wordCount": 605,
-          "title": "2021 Design Systems (Survey/Courses)"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340036",
-          "author": "Temani Afif",
-          "description": "When dealing with complex CSS animations, there is a tendency to create expansive @keyframes with lots of declarations. There are a couple of tricks though that I want to talk about that might help make things easier, while staying in …\nThe post Advanced CSS Animation Using cubic-bezier() appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/advanced-css-animation-using-cubic-bezier/",
-          "publishedOn": "2021-05-13T14:24:42.000Z",
-          "wordCount": 2745,
-          "title": "Advanced CSS Animation Using cubic-bezier()"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340118",
-          "author": "Chris Coyier",
-          "description": "Building animations can get complicated, particularly compelling animations where you aren’t just rolling a ball across the screen, but building a scene where many things are moving and changing in concert. When compelling animation is the goal, a timeline GUI …\nThe post SVGator 3.0 Reshapes the Way You Create and Animate SVG With Extensive New Features appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/svgator-3-0-reshapes-the-way-you-create-and-animate-svg-with-extensive-new-features/",
-          "publishedOn": "2021-05-13T14:24:35.000Z",
+          "id": "https://arstechnica.com/?p=1765439",
+          "author": "Eric Berger",
+          "description": "\"We deeply regret the loss of BlackSky's payload.\"",
+          "link": "https://arstechnica.com/?p=1765439",
+          "publishedOn": "2021-05-17T18:49:04.000Z",
           "wordCount": 986,
-          "title": "SVGator 3.0 Reshapes the Way You Create and Animate SVG With Extensive New Features"
+          "title": "Rocket Lab reviewing data after its second Electron failure in a year"
         },
         {
-          "id": "https://css-tricks.com/?p=339960",
-          "author": "Sandrina Pereira",
-          "description": "Let’s talk about disabled buttons. Specifically, let’s get into why we use them and how we can do better than the traditional disabled attribute in HTML (e.g. <button disabled> ) to mark a button as disabled.\nThere are lots of …\nThe post Making Disabled Buttons More Inclusive appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/making-disabled-buttons-more-inclusive/",
-          "publishedOn": "2021-05-12T14:31:07.000Z",
-          "wordCount": 2994,
-          "title": "Making Disabled Buttons More Inclusive"
+          "id": "https://arstechnica.com/?p=1765479",
+          "author": "Beth Mole",
+          "description": "Experts question timing as CDC director says public pressure wasn’t a factor.",
+          "link": "https://arstechnica.com/?p=1765479",
+          "publishedOn": "2021-05-17T17:22:07.000Z",
+          "wordCount": 1487,
+          "title": "CDC defends its abrupt reversal on masks after backlash from experts"
         },
         {
-          "id": "https://css-tricks.com/?p=340359",
-          "author": "Chris Coyier",
-          "description": "Kitty reflected on an ancient blog post here on CSS-Tricks on how to make an animated pie timer. The old technique is still clever. The new technique is equally clever and much easier. I particularly like the steps() animation function…\nThe post CSS Pie Timer Re-Revisited appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/css-pie-timer-re-revisited/",
-          "publishedOn": "2021-05-11T22:00:29.000Z",
-          "wordCount": 498,
-          "title": "CSS Pie Timer Re-Revisited"
+          "id": "https://arstechnica.com/?p=1765461",
+          "author": "Jon Brodkin",
+          "description": "WarnerMedia and Discovery to merge, and standalone AT&T will focus on broadband.",
+          "link": "https://arstechnica.com/?p=1765461",
+          "publishedOn": "2021-05-17T16:53:40.000Z",
+          "wordCount": 1336,
+          "title": "AT&T to spin off WarnerMedia, basically admitting giant merger was a mistake"
         },
         {
-          "id": "https://css-tricks.com/?p=340186",
-          "author": "Geoff Graham",
-          "description": "How many times have you heard that (or even uttered it under your own breath)? I know I’ve heard it in conversations. I also know I’ve wondered the same thing about a product or two — hey, the idea here …\nThe post I could build this during the weekend appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://world.hey.com/joaoqalves/i-could-build-this-during-the-weekend-aa093c5e",
-          "publishedOn": "2021-05-11T21:04:32.000Z",
-          "wordCount": 1416,
-          "title": "I could build this during the weekend"
+          "id": "https://arstechnica.com/?p=1765409",
+          "author": "Ron Amadeo",
+          "description": "It's the biggest smartphone camera sensor ever—or at least tied.",
+          "link": "https://arstechnica.com/?p=1765409",
+          "publishedOn": "2021-05-17T16:46:00.000Z",
+          "wordCount": 903,
+          "title": "Forget multiple cameras—Sharp phone has one giant 1-inch camera sensor"
         },
         {
-          "id": "https://css-tricks.com/?p=339138",
-          "author": "Una Kravets",
-          "description": "Chrome is experimenting with @container, a property within the CSS Working Group Containment Level 3 spec being championed by Miriam Suzanne of Oddbird, and a group of engineers across the web platform. @container brings us the ability to …\nThe post Next Gen CSS: @container appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/next-gen-css-container/",
-          "publishedOn": "2021-05-11T14:36:10.000Z",
-          "wordCount": 1613,
-          "title": "Next Gen CSS: @container"
+          "id": "https://arstechnica.com/?p=1765448",
+          "author": "Tim De Chant",
+          "description": "Employee mistakenly sent the link when replying to a records request.",
+          "link": "https://arstechnica.com/?p=1765448",
+          "publishedOn": "2021-05-17T16:27:59.000Z",
+          "wordCount": 971,
+          "title": "City pays $350,000 after suing “hackers” for opening Dropbox link it sent them"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1765440",
+          "author": "John Timmer",
+          "description": "Personal trust and societal consensus have an additive effect.",
+          "link": "https://arstechnica.com/?p=1765440",
+          "publishedOn": "2021-05-17T16:03:34.000Z",
+          "wordCount": 1187,
+          "title": "It’s not enough to trust science on vaccines—others have to as well"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1765432",
+          "author": "Kyle Orland",
+          "description": "The line between \"game\" and \"experience\" has major implications for iOS App Review.",
+          "link": "https://arstechnica.com/?p=1765432",
+          "publishedOn": "2021-05-17T15:31:39.000Z",
+          "wordCount": 1269,
+          "title": "Why Roblox’s definition of “games” is key to the Epic vs. Apple case"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1765400",
+          "author": "Ars Staff",
+          "description": "Laughter is spread widely across mammals and occurs in birds, too.",
+          "link": "https://arstechnica.com/?p=1765400",
+          "publishedOn": "2021-05-17T13:57:23.000Z",
+          "wordCount": 1128,
+          "title": "From apes to birds, there are 65 animal species that “laugh”"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1765381",
+          "author": "Ars Staff",
+          "description": "Electric vehicles were well represented during the early decades of the car.",
+          "link": "https://arstechnica.com/?p=1765381",
+          "publishedOn": "2021-05-17T13:06:04.000Z",
+          "wordCount": 1725,
+          "title": "A brief look at electric vehicles from the dawn of the automobile age"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1765022",
+          "author": "Jennifer Ouellette",
+          "description": "His most powerful microscope holds a lens likely made with Robert Hooke's 1678 recipe.",
+          "link": "https://arstechnica.com/?p=1765022",
+          "publishedOn": "2021-05-16T21:48:54.000Z",
+          "wordCount": 1848,
+          "title": "Neutrons unlock the secrets of Antonie van Leeuwenhoek’s microscopes"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1764606",
+          "author": "Ron Amadeo",
+          "description": "The Google I/O schedule promises to resurrect some long-dead form factors.",
+          "link": "https://arstechnica.com/?p=1764606",
+          "publishedOn": "2021-05-16T13:30:29.000Z",
+          "wordCount": 1336,
+          "title": "Google I/O 2021 preview: Google resurrects Wear OS and Android tablets?"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1765272",
+          "author": "WIRED",
+          "description": "Discord groups promise big earnings  by manipulating the crypto market.",
+          "link": "https://arstechnica.com/?p=1765272",
+          "publishedOn": "2021-05-16T11:00:01.000Z",
+          "wordCount": 1878,
+          "title": "GameStop FOMO inspires a new wave of crypto pump-and-dumps"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1765280",
+          "author": "Eric Bangeman",
+          "description": "Some high-end televisions already cost 30% more than they did last summer.",
+          "link": "https://arstechnica.com/?p=1765280",
+          "publishedOn": "2021-05-15T11:15:34.000Z",
+          "wordCount": 1266,
+          "title": "The chip shortage is driving up tech prices–starting with TVs"
         }
       ]
     },
     {
-      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
-      "feedUrl": "https://www.smashingmagazine.com/feed/",
-      "siteUrl": "https://www.smashingmagazine.com/",
+      "title": "MacRumors: Mac News and Rumors - All Stories",
+      "feedUrl": "http://feeds.macrumors.com/MacRumors-All",
+      "siteUrl": "https://www.macrumors.com",
       "articles": [
         {
-          "id": "https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/",
-          "author": "hello@smashingmagazine.com (Mikołaj Dobrucki)",
-          "description": "Today, we are taking a closer look at [SVGator 3.0](https://www.svgator.com/?utm_source=article&utm_medium=smashingmag&utm_campaign=svgator3_smashing), a new major release of the popular SVG application that lets you create, edit and animate SVG files and make the best out of what SVG has to offer — from start to finish.",
-          "link": "https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/",
-          "publishedOn": "2021-05-18T10:30:00.000Z",
-          "wordCount": 1796,
-          "title": "How To Create, Edit And Animate SVGs All In One Place With SVGator 3.0"
+          "id": "https://www.macrumors.com/guide/apple-music-lossless&post_date=1621365456/",
+          "author": "Juli Clover",
+          "description": "Apple in June 2021 is adding new Lossless and Hi-Res Lossless tiers to Apple Music, but so far, it's a bit confusing trying to determine which devices support ‌Apple Music‌'s Lossless Audio and which devices do not.\r\n\r\n\r\n\r\n\nSubscribe to the MacRumors YouTube channel for more videos.\n\r\n\r\nThis guide covers everything that we know so far about Lossless Audio, and we'll be updating it as we learn more after the new feature launches.\r\n\r\n\r\n\r\nWhat is Lossless Audio?\n\r\n\r\nApple is upgrading its entire streaming musi…",
+          "link": "https://www.macrumors.com/guide/apple-music-lossless/",
+          "publishedOn": "2021-05-18T16:17:36.000Z",
+          "wordCount": 2475,
+          "title": "Apple Music Lossless: What Devices are Supported?"
         },
         {
-          "id": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode, we’re talking about VisBug. What is it, and how is it different from the array of options already found in Chrome DevTools? Drew McLellan talks to its creator Adam Argyle to find out.",
-          "link": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/",
-          "publishedOn": "2021-05-18T05:00:00.000Z",
-          "wordCount": 9250,
-          "title": "Smashing Podcast Episode 37 With Adam Argyle: What Is VisBug?"
+          "id": "https://www.macrumors.com/2021/05/18/halide-camera-app-now-available-on-ipad/",
+          "author": "Joe Rossignol",
+          "description": "Just three days before the new iPad Pro begins arriving to customers, the developers of award-winning iPhone camera app Halide have announced the release of an iPad app, complete with a custom user interface that takes advantage of the larger screen.\r\n\r\n\r\n\r\n\r\n\r\nTo keep the viewfinder minimally obscured, the iPad app has an expandable \"honeycomb\" of controls next to the shutter button for manually adjusting shutter speed, ISO, white balance, and more. Other key features are readily reachable at the edges of …",
+          "link": "https://www.macrumors.com/2021/05/18/halide-camera-app-now-available-on-ipad/",
+          "publishedOn": "2021-05-18T16:00:38.000Z",
+          "wordCount": 2084,
+          "title": "Award-Winning iPhone Camera App Halide Expands to iPad With New 'Pro View'"
         },
         {
-          "id": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
-          "author": "hello@smashingmagazine.com (Beau Hartshorne)",
-          "description": "Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.",
-          "link": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
-          "publishedOn": "2021-05-17T11:30:00.000Z",
-          "wordCount": 2906,
-          "title": "How We Improved Our Core Web Vitals (Case Study)"
+          "id": "https://www.macrumors.com/2021/05/18/apple-working-on-high-end-mac-mini/",
+          "author": "Hartley Charlton",
+          "description": "Apple is working on a high-end version of the Mac mini, featuring a more powerful Apple silicon chip and extra ports, according to Bloomberg's Mark Gurman.\r\n\r\n\r\n\r\n\r\n\r\nIn a wide-reaching report, Gurman explained that Apple is developing a more powerful version of the ‌Mac mini‌, positioned as a high-end version of the current M1 model. The new ‌Mac mini‌ is expected to use the same chip as the next-generation MacBook Pro.\r\n\r\n\r\n\r\nThe next-generation MacBook Pro models are expected to feature an improved versi…",
+          "link": "https://www.macrumors.com/2021/05/18/apple-working-on-high-end-mac-mini/",
+          "publishedOn": "2021-05-18T15:44:11.000Z",
+          "wordCount": 2257,
+          "title": "Apple Working on High-End Mac Mini With Additional Ports and More Powerful Chip From Next-Gen MacBook Pro"
         },
         {
-          "id": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
-          "author": "hello@smashingmagazine.com (Átila Fassina)",
-          "description": "“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.",
-          "link": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
-          "publishedOn": "2021-05-14T10:30:00.000Z",
-          "wordCount": 2393,
-          "title": "Tree-Shaking: A Reference Guide"
+          "id": "https://www.macrumors.com/2021/05/18/exclusive-deals-popular-anker-batteries/",
+          "author": "Mitchel Broussard",
+          "description": "Today we've partnered up with Anker to offer our readers a collection of new discount codes on wireless chargers, portable batteries, and wall chargers. In this sale you'll find up to 52 percent off select Anker accessories, with prices starting at just $17.99 for the company's MagSafe-compatible Magnetic Wireless Charger.\r\n\r\n\r\n\r\nNote: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.\r\n\r\n\r\n\r\nThere a…",
+          "link": "https://www.macrumors.com/2021/05/18/exclusive-deals-popular-anker-batteries/",
+          "publishedOn": "2021-05-18T15:15:01.000Z",
+          "wordCount": 1984,
+          "title": "Exclusive Deals: Get Up to 52% Off Popular Anker Portable Batteries, Wireless Chargers, and Other Accessories"
         },
         {
-          "id": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "In this new series of articles on UX, we take a closer look at some frustrating design patterns and explore better alternatives, along with plenty of examples to keep in mind when building or designing one. Let’s start with an infamous birthday picker.",
-          "link": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/",
-          "publishedOn": "2021-05-12T12:42:00.000Z",
-          "wordCount": 3443,
-          "title": "Frustrating Design Patterns That Need Fixing: Birthday Picker"
+          "id": "https://www.macrumors.com/2021/05/18/apple-tv-color-balance-quality-colors-worse/",
+          "author": "Hartley Charlton",
+          "description": "Apple TV's Color Balance calibration feature may make color accuracy and image quality worse on some TVs, tests have found (via AFTVnews).\r\n\r\n\r\n\r\n\r\n\r\nProfessional television calibrator Vincent Teoh, who runs the YouTube channel HDTVTest, put the ‌Apple TV‌'s color calibration feature to the test on a range of popular TVs in a recent video.\r\n\r\n\r\n\r\nThe ‌Apple TV‌'s Color Calibration debuted in tvOS 14.5 and iOS 14.5, giving users the ability to hold an iPhone with Face ID near their TV and, after tapping a no…",
+          "link": "https://www.macrumors.com/2021/05/18/apple-tv-color-balance-quality-colors-worse/",
+          "publishedOn": "2021-05-18T14:48:36.000Z",
+          "wordCount": 2334,
+          "title": "Apple TV Color Balance Feature May Make Image Quality and Colors Worse"
         },
         {
-          "id": "https://smashingmagazine.com/2021/05/little-smashing-stories/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Today marks the day we sent out our 300th edition of the Smashing Newsletter. This article is a little celebration in which we share little Smashing stories from people working behind the scenes.",
-          "link": "https://smashingmagazine.com/2021/05/little-smashing-stories/",
-          "publishedOn": "2021-05-12T08:00:00.000Z",
-          "wordCount": 1993,
-          "title": "Little Smashing Stories"
+          "id": "https://www.macrumors.com/2021/05/18/four-months-apple-arcade-nimbus-controller/",
+          "author": "Hartley Charlton",
+          "description": "SteelSeries, the makers of popular gaming controllers for Apple devices, has today announced that all purchases of the Nimbus+ Wireless Gamepad Controller will come with up to four free months of Apple Arcade.\r\n\r\n\r\n\r\n\r\n\r\nThe SteelSeries Nimbus+ Wireless Gamepad Controller delivers a \"console-quality experience\" with ‌Apple Arcade‌'s library of games.\r\n\r\n\r\n\r\nIterating on the original Nimbus controller, the Nimbus+ Wireless Gamepad Controller features an ergonomic design, ultra-responsive triggers and buttons…",
+          "link": "https://www.macrumors.com/2021/05/18/four-months-apple-arcade-nimbus-controller/",
+          "publishedOn": "2021-05-18T14:28:26.000Z",
+          "wordCount": 2265,
+          "title": "SteelSeries Offers up to Four Months of Apple Arcade Free With Nimbus+ Controller [Updated]"
         },
         {
-          "id": "https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/",
-          "author": "hello@smashingmagazine.com (Stephanie Eckles)",
-          "description": "A prototype of the long-awaited CSS container queries has landed in Chrome Canary and is available for experimentation. Let’s look at what problem is being solved, learn how container queries work, and see how they compare with and complement existing CSS features for layout.",
-          "link": "https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/",
-          "publishedOn": "2021-05-11T13:30:00.000Z",
-          "wordCount": 4874,
-          "title": "A Primer On CSS Container Queries"
+          "id": "https://www.macrumors.com/2021/05/18/next-macbook-air-faster-apple-silicon-chip/",
+          "author": "Sami Fathi",
+          "description": "Apple is working on a high-end version of the MacBook Air that will feature an improved iteration of the current M1 Apple silicon chip, featuring improved graphics, but the same number of high efficiency, and high performance cores, according to Bloomberg's Mark Gurman.\r\n\r\n\r\n\r\n\r\n\r\nApple updated its 13-inch ‌MacBook Air‌ alongside the 13-inch MacBook Pro and Mac mini with the ‌M1‌ Apple silicon chip in November. Bloomberg says that this new ‌MacBook Air‌, which could launch as soon as the end of this year, w…",
+          "link": "https://www.macrumors.com/2021/05/18/next-macbook-air-faster-apple-silicon-chip/",
+          "publishedOn": "2021-05-18T13:44:42.000Z",
+          "wordCount": 2012,
+          "title": "Next MacBook Air Will Feature Faster Apple Silicon Chip With Up to 10 Graphics Cores"
         },
         {
-          "id": "https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/",
-          "author": "hello@smashingmagazine.com (Amanda Annandale)",
-          "description": "At the beginning of 2020, the SmashingConf team was ready for a new year. We had so many things that excited us. New speakers, new workshops, new cities, new attendees, new experiences. And as we all know, 2020 had other ideas. With so many people working from home, we thought we would bring our [Smashing workshops](https://smashingconf.com/online-workshops/) from our home offices to yours — but how?",
-          "link": "https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/",
-          "publishedOn": "2021-05-11T10:00:00.000Z",
-          "wordCount": 1958,
-          "title": "The Conference Platform We Use For Our Online Events: Hopin"
+          "id": "https://www.macrumors.com/review/m1-imac&post_date=1621354704/",
+          "author": "Joe Rossignol",
+          "description": "The embargo has lifted on reviews of Apple's new 24-inch iMac, powered by the same M1 chip that debuted in the 13-inch MacBook Pro, MacBook Air, and Mac mini last year. We've gathered up impressions of the colorful new computer below.\r\n\r\n\r\n\r\n\r\n\r\nThe most striking aspect of the new iMac is its long-awaited redesign, with an ultra-thin 11.5mm chassis that comes in up to seven vibrant colors, including green, yellow, orange, pink, purple, blue, and silver. The Verge's Monica Chin said the new colors have gener…",
+          "link": "https://www.macrumors.com/review/m1-imac/",
+          "publishedOn": "2021-05-18T13:18:24.000Z",
+          "wordCount": 2389,
+          "title": "M1 iMac Reviews: Impressively Fast With Long-Awaited Redesign"
         },
         {
-          "id": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
-          "author": "hello@smashingmagazine.com (Jhey Tompkins)",
-          "description": "Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!",
-          "link": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
-          "publishedOn": "2021-05-10T11:00:00.000Z",
-          "wordCount": 6310,
-          "title": "Get Started With React By Building A Whac-A-Mole Game"
+          "id": "https://www.macrumors.com/2021/05/18/nomad-updated-bands-apple-watch/",
+          "author": "Mitchel Broussard",
+          "description": "Nomad today announced updated versions of its Titanium and Steel Bands for the Apple Watch (42mm or 44mm sizes only). The company said that the new versions of its existing accessories include multiple improvements that result in a lighter metal band that retains its durability.\r\n\r\n\r\n\r\n\r\n\r\nOther improvements include new custom 316L stainless steel lugs, 100% color matched to the rest of the band. Nomad added an ultra-slim clasp that stays closed using N52 magnets, and it also allows for easier opening and a…",
+          "link": "https://www.macrumors.com/2021/05/18/nomad-updated-bands-apple-watch/",
+          "publishedOn": "2021-05-18T13:10:21.000Z",
+          "wordCount": 2042,
+          "title": "Nomad Launches Updated Titanium and Steel Bands for Apple Watch, Priced From $149.95"
         },
         {
-          "id": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
-          "author": "hello@smashingmagazine.com (Valeriia Panina)",
-          "description": "How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.",
-          "link": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
-          "publishedOn": "2021-05-07T10:00:00.000Z",
-          "wordCount": 4127,
-          "title": "How To Organize Product-Related Assets And Collaborate Better"
+          "id": "https://www.macrumors.com/2021/05/18/m1-imac-unboxing-videos/",
+          "author": "Hartley Charlton",
+          "description": "The 24-inch iMac with the M1 chip is now available to order and set to begin arriving with customers starting on Friday, May 21.\r\n\r\n\r\n\r\n\r\n\r\nThe iMac features a 24-inch 4.5K Retina Display, Apple's custom silicon ‌M1‌ chip for improved performance, a new, ultra-slim design, and is available in a range of color options.\r\n\r\n\r\n\r\nAhead of the arrival of orders this Friday, Apple has provided some YouTube channels and media outlets with an early look at its new Apple silicon-powered desktop computer. We've rounde…",
+          "link": "https://www.macrumors.com/2021/05/18/m1-imac-unboxing-videos/",
+          "publishedOn": "2021-05-18T13:00:59.000Z",
+          "wordCount": 1873,
+          "title": "Watch: M1 iMac Unboxing Videos and First Impressions"
         },
         {
-          "id": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
-          "author": "hello@smashingmagazine.com (Carson Shold)",
-          "description": "When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.",
-          "link": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
-          "publishedOn": "2021-05-06T11:00:00.000Z",
-          "wordCount": 2617,
-          "title": "Improving The Performance Of Shopify Themes (Case Study)"
+          "id": "https://www.macrumors.com/2021/05/18/bloomberg-mac-pro-32-high-performance-cores/",
+          "author": "Sami Fathi",
+          "description": "Apple is working on an updated model of its Mac Pro that may feature an Apple silicon chip with as many as 32 high performance cores, and a 128 core option for graphics, according to a new report from Bloomberg's Mark Gurman. \r\n\r\n\r\n\r\n\r\n\r\nBloomberg has reported in the past that Apple is working on an updated Mac Pro that will feature an Apple silicon chip rather than an Intel processor. Today's new report echoes a similar story but offers more details on the performance of this upcoming high-end Mac. \r\n\r\n\r\n\r…",
+          "link": "https://www.macrumors.com/2021/05/18/bloomberg-mac-pro-32-high-performance-cores/",
+          "publishedOn": "2021-05-18T12:57:38.000Z",
+          "wordCount": 2314,
+          "title": "Bloomberg: Apple Silicon Mac Pro May Feature Up to 32 High Performance Cores, 128 Core Option for Graphics"
         },
         {
-          "id": "https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
-          "author": "hello@smashingmagazine.com (Liran Cohen)",
-          "description": "This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.",
-          "link": "https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
-          "publishedOn": "2021-05-05T10:30:00.000Z",
-          "wordCount": 2296,
-          "title": "Reducing HTML Payload With Next.js (Case Study)"
+          "id": "https://www.macrumors.com/2021/05/18/macbook-pro-64gb-ram-summer-2021/",
+          "author": "Joe Rossignol",
+          "description": "Apple plans to launch new 14-inch and 16-inch MacBook Pro models with an improved iteration of the M1 chip as early as this summer, according to Bloomberg's Mark Gurman. The new chip is said to include a 10-core CPU with eight high-performance cores and two energy-efficient cores, with 16-core or 32-core GPU options.\r\n\r\n\r\n\r\n\r\n\r\nGurman said the next-generation Apple silicon chip will also support up to 64GB of memory compared to the current maximum of 16GB. This would be in line with the current Intel-based …",
+          "link": "https://www.macrumors.com/2021/05/18/macbook-pro-64gb-ram-summer-2021/",
+          "publishedOn": "2021-05-18T12:39:47.000Z",
+          "wordCount": 2043,
+          "title": "Redesigned MacBook Pro Models With 10-Core Apple Silicon Chip Said to Launch as Early as This Summer"
         },
         {
-          "id": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
-          "author": "hello@smashingmagazine.com (Tobias Günther)",
-          "description": "No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.",
-          "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
-          "publishedOn": "2021-05-04T14:30:00.000Z",
-          "wordCount": 1791,
-          "title": "A Guide To Undoing Mistakes With Git"
+          "id": "https://www.macrumors.com/2021/05/18/spotify-lossless-hifi-option-spotted-app/",
+          "author": "Tim Hardwick",
+          "description": "Spotify in February announced plans to introduce a new \"HiFi\" premium tier sometime in 2021, and while the company declined to offer a date, there's reason to believe a launch could be imminent, especially in the wake of Apple Music's lossless tier announcement on Monday.\r\n\r\n\r\n\r\n\r\n\r\nIn a timely discovery, hints of Spotify's lossless HiFi audio streaming service have again been spotted this week by Reddit user themonarc, who shared their finding with the accompanying image above.  \r\n\r\n\r\n\r\nAccording to the Re…",
+          "link": "https://www.macrumors.com/2021/05/18/spotify-lossless-hifi-option-spotted-app/",
+          "publishedOn": "2021-05-18T12:22:38.000Z",
+          "wordCount": 2578,
+          "title": "Spotify HiFi Icon Spotted in Mobile App Suggests Imminent Launch"
         },
         {
-          "id": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode, we’re starting our new season of the Smashing Podcast with a look at the future of CSS. What new specs will be landing in browsers soon? Drew McLellan talks to expert Miriam Suzanne to find out.",
-          "link": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/",
-          "publishedOn": "2021-05-04T05:00:00.000Z",
-          "wordCount": 6993,
-          "title": "Smashing Podcast Episode 36 With Miriam Suzanne: What Is The Future Of CSS?"
+          "id": "https://www.macrumors.com/2021/05/18/new-imac-ipad-pro-apple-tv-may-21/",
+          "author": "Sami Fathi",
+          "description": "Apple today confirmed that the new 24-inch iMac, iPad Pro, and updated Apple TV 4K will be available for customers in Apple Stores and retail locations around the world on Friday, May 21. Pre-orders for the products began earlier last month, and Apple previously said the new products will be available in the second half of May.\r\n\r\n\r\n\r\n\r\n\r\nThe new ‌iPad Pro‌ features the M1 Apple silicon chip, first introduced in the MacBook Air, MacBook Pro, and Mac mini last November. The larger 12.9-inch ‌iPad Pro‌ also f…",
+          "link": "https://www.macrumors.com/2021/05/18/new-imac-ipad-pro-apple-tv-may-21/",
+          "publishedOn": "2021-05-18T12:06:26.000Z",
+          "wordCount": 2018,
+          "title": "New iMac, iPad Pro, and Apple TV 4K Available at Apple Stores Starting May 21"
         },
         {
-          "id": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
-          "author": "hello@smashingmagazine.com (Mathias Biilmann)",
-          "description": "Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.",
-          "link": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
-          "publishedOn": "2021-05-03T07:00:00.000Z",
-          "wordCount": 2141,
-          "title": "The Evolution Of Jamstack"
+          "id": "https://www.macrumors.com/2021/05/18/apple-music-android-no-dolby-atmos/",
+          "author": "Tim Hardwick",
+          "description": "Apple Music on Android devices will not include Dolby Atmos support when Apple launches Spatial Audio on the streaming service in June. That's the claim from MySmartPrice, which says it received confirmation from Apple India that the sound technology would not be crossing the divide between Apple and Android ecosystems.\r\n\r\n\r\n\r\n\r\n\r\nFor anyone confused by all the audio nomenclature that's been bandied about since the ‌Apple Music‌ announcement on Monday, Dolby Atmos is based on surround sound technology that …",
+          "link": "https://www.macrumors.com/2021/05/18/apple-music-android-no-dolby-atmos/",
+          "publishedOn": "2021-05-18T09:55:20.000Z",
+          "wordCount": 2583,
+          "title": "Apple Music for Android Reportedly Won't Support Dolby Atmos"
         },
         {
-          "id": "https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Do you need a little inspiration boost? Well, then our new collection of wallpapers is for you. Designed with love by the community for the community, the wallpapers are available with and without a calendar for May 2021.",
-          "link": "https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/",
-          "publishedOn": "2021-04-30T09:00:00.000Z",
-          "wordCount": 2139,
-          "title": "May Is In The Air (2021 Wallpapers Edition)"
+          "id": "https://www.macrumors.com/2021/05/18/ios-14-6-rc-shazam-app-clip/",
+          "author": "Sami Fathi",
+          "description": "As part of the iOS and iPadOS 14.6 RC update that was released yesterday, Apple has introduced a new Shazam App Clip, which now allows users to find and identify a song using the new iOS 14 feature, instead of being redirected to the Shazam website or app. \r\n\r\n\r\n\r\n\r\n\r\nApple introduced App Clips with ‌iOS 14‌ in June of last year as a small, mini-app that can run on a device, without a user needing to download an app from the App Store. There are multiple ways to activate an App Clip, including a specially d…",
+          "link": "https://www.macrumors.com/2021/05/18/ios-14-6-rc-shazam-app-clip/",
+          "publishedOn": "2021-05-18T08:50:56.000Z",
+          "wordCount": 2322,
+          "title": "iOS 14.6 RC Introduces New Shazam App Clip"
         },
         {
-          "id": "https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
-          "author": "hello@smashingmagazine.com (Addy Osmani)",
-          "description": "Images have also been a key part of the web. They communicate ideas instantly, but they are also a lot heavier than text to load. This means that it’s essential to get loading and displaying them right, if you want to give your users a fantastic first impression. An excerpt from [Addy's new book](https://www.smashingmagazine.com/2021/04/image-optimization-pre-release/) (also, check a [free PDF preview](http://provide.smashingmagazine.com/eBooks/image-optimization-sample-chapter.pdf)).",
-          "link": "https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
-          "publishedOn": "2021-04-29T12:15:00.000Z",
-          "wordCount": 5325,
-          "title": "The Humble `<img>` Element And Core Web Vitals"
+          "id": "https://www.macrumors.com/2021/05/18/redesigned-macbook-pro-launch-limited-supply/",
+          "author": "Sami Fathi",
+          "description": "Volume production of the redesigned 16-inch MacBook Pro with Apple silicon and a mini-LED display is set to begin in the first quarter of 2022, while mass production of the smaller and new 14-inch MacBook Pro will begin in the fourth quarter of this year, according to industry sources cited in a paywalled DigiTimes report.\r\n\r\n\r\n\r\n\r\n\r\nYesterday, DigiTimes posted a preview of a story reporting that the launch of the redesigned MacBook Pros could be delayed until next year. Now, the full report offers more con…",
+          "link": "https://www.macrumors.com/2021/05/18/redesigned-macbook-pro-launch-limited-supply/",
+          "publishedOn": "2021-05-18T08:12:18.000Z",
+          "wordCount": 2215,
+          "title": "Redesigned MacBook Pro Models Still on Track for 2021 Launch, But Supplies Likely to Be Constrained into Next Year"
         },
         {
-          "id": "https://smashingmagazine.com/2021/04/image-optimization-pre-release/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "The cat is out! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our practical modern guide to delivering high-quality images on the web with the best performance.",
-          "link": "https://smashingmagazine.com/2021/04/image-optimization-pre-release/",
-          "publishedOn": "2021-04-28T13:20:00.000Z",
-          "wordCount": 2130,
-          "title": "Meet Image Optimization, A New Smashing Book By Addy Osmani"
+          "id": "https://www.macrumors.com/2021/05/17/24-inch-imac-unboxing/",
+          "author": "Eric Slivka",
+          "description": "Update: The early unboxing video was taken down, but other unboxing and first impression videos are now available.\r\n\r\n\r\n\r\n\r\n\r\nThe new 24-inch iMac doesn't officially launch until this Friday, May 21, but an early unboxing of the machine has been shared on YouTube.\r\n\r\n\r\n\r\n\nThe ‌iMac‌ unboxing video was made private subsequent to this story.\n\r\n\r\nThe video from Gadget Guy is in Cantonese, but it offers an up-close look at the yellow version of the ‌iMac‌ including how the machine and its color-matched accessor…",
+          "link": "https://www.macrumors.com/2021/05/17/24-inch-imac-unboxing/",
+          "publishedOn": "2021-05-18T03:18:08.000Z",
+          "wordCount": 1992,
+          "title": "Apple's New 24-Inch iMac Shown Off in Early Unboxing"
         },
         {
-          "id": "https://smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/",
-          "author": "hello@smashingmagazine.com (Adrian Bece)",
-          "description": "Easing functions can change the look and feel of an animation by affecting the rate, or speed, of an animation. In this article, we’re going to take a deep dive into easing functions and see how we can use them to create those natural and stunning animations.",
-          "link": "https://smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/",
-          "publishedOn": "2021-04-27T12:00:00.000Z",
-          "wordCount": 2623,
-          "title": "Understanding Easing Functions For CSS Animations And Transitions"
+          "id": "https://www.macrumors.com/2021/05/17/airpods-max-no-direct-lossless-lightning-support/",
+          "author": "Juli Clover",
+          "description": "Earlier today, we confirmed that AirPods, AirPods Pro, and AirPods Max will not support lossless audio over Bluetooth because of Bluetooth limitations, and it turns out there's no direct wired lossless option for the ‌AirPods Max‌ either.\r\n\r\n\r\n\r\n\r\n\r\nApple's ‌AirPods Max‌ headphones are equipped with a Lightning port, but it is limited to analog sources and will not natively support digital audio formats in wired mode. \r\n\r\n\r\n\r\nApple told The Verge that when a 24-bit/48 kHz Apple Music lossless track is playe…",
+          "link": "https://www.macrumors.com/2021/05/17/airpods-max-no-direct-lossless-lightning-support/",
+          "publishedOn": "2021-05-17T20:56:31.000Z",
+          "wordCount": 2239,
+          "title": "AirPods Max Won't Directly Support Lossless Apple Music Over Lightning"
         },
         {
-          "id": "https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/",
-          "author": "hello@smashingmagazine.com (Kate Kalcevich & Mike Gifford)",
-          "description": "Accessibility experts Kate Kalcevich and Mike Gifford introduce readers to \"layered accessibility testing”, a practice of using a variety of tools and approaches at different stages in the digital product lifecycle to catch accessibility issues early — when it’s easier and cheaper to fix them.",
-          "link": "https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/",
-          "publishedOn": "2021-04-26T11:00:00.000Z",
-          "wordCount": 3279,
-          "title": "How To Bake Layers Of Accessibility Testing Into Your Process"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/",
-          "author": "hello@smashingmagazine.com (Stephanie Eckles)",
-          "description": "The CSS Working Group Editor’s Draft for [Selectors Level 4](https://drafts.csswg.org/selectors-4/) includes several pseudo-class selectors that already have proposal candidates in most modern browsers. This guide will cover ones that currently have the best support along with examples to demonstrate how you can start using them today!",
-          "link": "https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/",
-          "publishedOn": "2021-04-23T08:30:00.000Z",
-          "wordCount": 2430,
-          "title": "A Guide To Newly Supported, Modern CSS Pseudo-Class Selectors"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/web-design-done-well-part1/",
-          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
-          "description": "Sometimes it’s the little things in web life that make us look twice. From carousels to documentation to cookie disclaimers, here are some sites taking the mundane and sprinkling in a little magic.",
-          "link": "https://smashingmagazine.com/2021/04/web-design-done-well-part1/",
-          "publishedOn": "2021-04-22T14:00:00.000Z",
-          "wordCount": 1764,
-          "title": "Web Design Done Well: The Ordinary Made Extraordinary (Part 1)"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/",
-          "author": "hello@smashingmagazine.com (Lee Robinson)",
-          "description": "Incremental Static Regeneration (ISR) is a new evolution of the Jamstack, allowing you to update static content instantly without needing a full rebuild of your site. The hybrid approach of Next.js allows you to use ISR for e-commerce, marketing pages, blog posts, ad-backed media, and more.",
-          "link": "https://smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/",
-          "publishedOn": "2021-04-21T13:55:00.000Z",
-          "wordCount": 1929,
-          "title": "A Complete Guide To Incremental Static Regeneration (ISR) With Next.js"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/content-fundamental-part-web-design-process/",
-          "author": "hello@smashingmagazine.com (Matt Saunders)",
-          "description": "As designers, we are often burdened by the responsibility of producing and managing website content. It’s not our job to write it, but it’s not the client’s either. We can avert disaster by including content production in the design process.",
-          "link": "https://smashingmagazine.com/2021/04/content-fundamental-part-web-design-process/",
-          "publishedOn": "2021-04-21T08:30:00.000Z",
-          "wordCount": 2998,
-          "title": "Why Content Is Such A Fundamental Part Of The Web Design Process"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/making-graphql-work-in-wordpress/",
-          "author": "hello@smashingmagazine.com (Leonardo Losoviz)",
-          "description": "Let’s explore the plugins providing GraphQL servers to WordPress. When should we use WPGraphQL, and when the GraphQL API for WordPress? Is there some advantage of one over the other, or some particular task that is easier to accomplish with one of them? In this article, we will find out.",
-          "link": "https://smashingmagazine.com/2021/04/making-graphql-work-in-wordpress/",
-          "publishedOn": "2021-04-20T09:00:00.000Z",
-          "wordCount": 3482,
-          "title": "Making GraphQL Work In WordPress"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/",
-          "author": "hello@smashingmagazine.com (Barry Pollard)",
-          "description": "How are Core Web Vitals measured? How do you know your fixes have had the desired effect and when will you see the results in Google Search Console? Let’s figure it out.",
-          "link": "https://smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/",
-          "publishedOn": "2021-04-19T08:30:00.000Z",
-          "wordCount": 7206,
-          "title": "An In-Depth Guide To Measuring Core Web Vitals"
+          "id": "https://www.macrumors.com/2021/05/17/apple-security-compromises-china-icloud/",
+          "author": "Juli Clover",
+          "description": "Apple has been making concessions on privacy and security in order to continue building and selling its devices in China, according to an in-depth report from The New York Times.\r\n\r\n\r\n\r\n\r\n\r\nThe focal point of the report is Apple's decision to comply with a 2016 law that requires all personal information and data collected in China to be kept in China, which has led Apple to build a China data center and relocate Chinese customers' iCloud data to China, managed by a Chinese company.\r\n\r\n\r\n\r\nApple fought again…",
+          "link": "https://www.macrumors.com/2021/05/17/apple-security-compromises-china-icloud/",
+          "publishedOn": "2021-05-17T20:46:22.000Z",
+          "wordCount": 2577,
+          "title": "Apple's Security Compromises in China Outlined in New Report"
         }
       ]
     },
     {
-      "title": "freeCodeCamp.org",
-      "feedUrl": "https://www.freecodecamp.org/news/rss/",
-      "siteUrl": "https://www.freecodecamp.org/news",
+      "title": "Stratechery by Ben Thompson",
+      "feedUrl": "https://stratechery.com/feed/",
+      "siteUrl": "https://stratechery.com",
       "articles": [
         {
-          "id": "609bea6b62ab9107fe5a9f89",
-          "author": "",
-          "description": "If you're a Python developer who works with Keras SavedModels, this article is for you.  Perhaps you're not sure how to use SavedModels to leverage the power of machine learning in browser-based web apps. But don't worry – we'll cover all the basic steps you need to get started.  Along with",
-          "link": "https://www.freecodecamp.org/news/convert-keras-savedmodel-into-browser-based-webapp/",
-          "publishedOn": "2021-05-18T16:36:22.000Z",
-          "wordCount": 1938,
-          "title": "How to Convert a Keras SavedModel into a Browser-based Web App"
+          "id": "https://stratechery.com/?p=5889",
+          "author": "Ben Thompson",
+          "description": "Distribution on the Internet is free; what matters is controlling demand. AT&T and Verizon didn't understand the distinction.",
+          "link": "https://stratechery.com/2021/distribution-and-demand/",
+          "publishedOn": "2021-05-18T12:57:29.000Z",
+          "wordCount": 2560,
+          "title": "Distribution and Demand"
         },
         {
-          "id": "609fc4cc62ab9107fe5aac91",
-          "author": "",
-          "description": "Redux can be confusing for beginner React developers to understand. There are a lot of concepts you need to know to use it properly, like reducers, actions, store, pure functions, immutability, and much more. But every React developer should know the basics of how to work with Redux, since industry",
-          "link": "https://www.freecodecamp.org/news/redux-for-beginners/",
-          "publishedOn": "2021-05-18T16:18:18.000Z",
-          "wordCount": 2037,
-          "title": "Redux for Beginners – Learn Redux Basics with Code Examples"
+          "id": "https://stratechery.com/?p=5876",
+          "author": "Ben Thompson",
+          "description": "Cloudflare is uniquely positioned to become a major player in an Internet 3.0 world, where politics matter more than economics.",
+          "link": "https://stratechery.com/2021/cloudflare-on-the-edge/",
+          "publishedOn": "2021-05-11T17:01:56.000Z",
+          "wordCount": 3705,
+          "title": "Cloudflare on the Edge"
         },
         {
-          "id": "60685767d5756f080ba93df4",
-          "author": "",
-          "description": "According to freeCodeCamp’s 2018 New Coder Survey, 40.3% of participants want to build a business of their own, either as a freelancer or as an entrepreneur.  If you are in that 40.3%, then this article is for you. If you are in the remaining 59.7%, you",
-          "link": "https://www.freecodecamp.org/news/be-a-successful-entrepreneur-developers-guide-to-startup-strategy-and-design/",
-          "publishedOn": "2021-05-18T16:08:27.000Z",
-          "wordCount": 4368,
-          "title": "How to Be a Successful Entrepreneur – A Developer&#x27;s Guide to Startup Strategy and Design"
+          "id": "https://stratechery.com/?p=5856",
+          "author": "Ben Thompson",
+          "description": "More and more opportunities on the web come from market marking, not for advertisers, but for real goods and services paid for with real money.",
+          "link": "https://stratechery.com/2021/market-making-on-the-internet/",
+          "publishedOn": "2021-05-05T13:58:27.000Z",
+          "wordCount": 2382,
+          "title": "Market-Making on the Internet"
         },
         {
-          "id": "60a2771762ab9107fe5ab383",
-          "author": "",
-          "description": "HTML vs JSX Hypertext Markup Language (HTML) is the standard language for documents that determine the structure of a web page.  HTML is a very important language in web development. Your code is either in HTML originally or compiles to it so browsers can read it.  JSX, on the other",
-          "link": "https://www.freecodecamp.org/news/html-vs-jsx-whats-the-difference/",
-          "publishedOn": "2021-05-17T21:11:58.000Z",
-          "wordCount": 1169,
-          "title": "HTML vs JSX – What&#x27;s the Difference?"
+          "id": "https://stratechery.com/?p=5828",
+          "author": "Ben Thompson",
+          "description": "Spotify's new subscription podcast offerings embrace the open ecosystem of podcasts in multiple ways.",
+          "link": "https://stratechery.com/2021/spotifys-surprise/",
+          "publishedOn": "2021-04-28T13:19:27.000Z",
+          "wordCount": 2548,
+          "title": "Spotify’s Surprise"
         },
         {
-          "id": "60a16df162ab9107fe5ab01b",
-          "author": "",
-          "description": "When I started out as a web developer, people often threw around the term \"DOM\" in the industry. Every JavaScript tutorial mentioned it, but I didn't know what it meant. Fast forward two years, and now that I know what it's all about, I am going to explain what the",
-          "link": "https://www.freecodecamp.org/news/dom-explained-everything-you-need-to-know-about-the-document-object-model/",
-          "publishedOn": "2021-05-17T17:45:50.000Z",
-          "wordCount": 1282,
-          "title": "The DOM Explained for Beginners – How the Document Object Model Works"
+          "id": "https://stratechery.com/?p=5800",
+          "author": "Ben Thompson",
+          "description": "Apple's new Podcast Subscription service is what the App Store should be: a great Apple experience competing for customers.",
+          "link": "https://stratechery.com/2021/podcast-subscriptions-vs-the-app-store/",
+          "publishedOn": "2021-04-21T14:44:43.000Z",
+          "wordCount": 2539,
+          "title": "Podcast Subscriptions vs. the App Store"
+        }
+      ]
+    },
+    {
+      "title": "Coding Horror",
+      "feedUrl": "https://blog.codinghorror.com/rss",
+      "siteUrl": "https://blog.codinghorror.com/",
+      "articles": []
+    },
+    {
+      "title": "Julia Evans",
+      "feedUrl": "https://jvns.ca/atom.xml",
+      "siteUrl": "http://jvns.ca/atom.xml",
+      "articles": [
+        {
+          "id": "https://jvns.ca/blog/2021/05/17/how-to-look-at-the-stack-in-gdb/",
+          "author": null,
+          "description": "I was chatting with someone yesterday and they mentioned that they don’t really\nunderstand exactly how the stack works or how to look at it.\nSo here’s a quick walkthrough of how you can use gdb to look at the stack of a C\nprogram. I think this would be similar for a Rust program, but I’m going to use\nC because I find it a little simpler for a toy example and also you can do Terrible\nThings in C more easily.\nour test program\nHere’s a simple C program that declares a few variables and reads two strings\nfrom s…",
+          "link": "https://jvns.ca/blog/2021/05/17/how-to-look-at-the-stack-in-gdb/",
+          "publishedOn": "2021-05-17T09:14:37.000Z",
+          "wordCount": 2421,
+          "title": "How to look at the stack with gdb"
         },
         {
-          "id": "609f552e62ab9107fe5aaba0",
-          "author": "",
-          "description": "Lottie is a library that helps render Adobe After Effects animations natively on mobile and the web. I like using Lottie for animations in my projects because: Creating an animation from scratch can be time-consuming, andGIF files can be double the size of Lottie JSON files (the files containing the",
-          "link": "https://www.freecodecamp.org/news/how-to-use-lottie-like-a-pro-resources-for-designers-and-developers/",
-          "publishedOn": "2021-05-17T16:25:22.000Z",
-          "wordCount": 1076,
-          "title": "How to Use the Lottie Library like a Pro – Lottie Resources for Designers and Developers"
+          "id": "https://jvns.ca/blog/2021/05/11/what-s-the-osi-model-/",
+          "author": null,
+          "description": "TCP/IP is the set of networking protocols that we use on the modern internet –\nTCP, UDP, IP, ARP, ICMP, DNS, etc. When I talk about “networking”, I’m\nbasically always talking about TCP/IP.\nMany explanations of TCP/IP start with something called the “OSI model”. I\ndon’t use the OSI model when explaining networking because when I first\nstarted learning about internet networking I found all of the OSI model\nexplanations really confusing – it wasn’t clear to me at all how the OSI\nmodel corresponded to TCP/IP.\nS…",
+          "link": "https://jvns.ca/blog/2021/05/11/what-s-the-osi-model-/",
+          "publishedOn": "2021-05-11T14:58:41.000Z",
+          "wordCount": 1047,
+          "title": "The OSI model doesn't map well to TCP/IP"
         },
         {
-          "id": "609cb90262ab9107fe5aa026",
-          "author": "",
-          "description": "I'm a developer who's mostly been writing JavaScript, so the Solidity development environment was a bit hard to learn.  About four months ago, I switched to Hardhat from Truffle. This cool new kid on the block drastically improved my coding experience. So today I want to share it with my",
-          "link": "https://www.freecodecamp.org/news/solidity-tutorial-hardhat-nfts/",
-          "publishedOn": "2021-05-17T14:39:55.000Z",
-          "wordCount": 1233,
-          "title": "Solidity Tutorial – How to Create NFTs with Hardhat"
-        },
-        {
-          "id": "609d63e962ab9107fe5aa2ce",
-          "author": "",
-          "description": "You may have heard of the term SMTP before, and wondered what it is. SMTP is a common method for handling email messages. Today I am going to explain what SMTP is, and how to use an SMTP provider such as SendGrid to send emails from your address. What Is",
-          "link": "https://www.freecodecamp.org/news/what-is-sendgrid-smpt-email-newsletter-tutorial/",
-          "publishedOn": "2021-05-14T20:31:30.000Z",
-          "wordCount": 1293,
-          "title": "What is SendGrid? SMTP Email Newsletter Tutorial"
-        },
-        {
-          "id": "609ea83362ab9107fe5aa920",
-          "author": "",
-          "description": "Welcome to the React for Beginners guide. It's designed to teach you all the core React concepts that you need to know to start building React applications in 2021. I created this resource to give you the most complete and beginner-friendly path to learn React from the ground up. By",
-          "link": "https://www.freecodecamp.org/news/react-for-beginners-cheatsheet/",
-          "publishedOn": "2021-05-14T20:17:37.000Z",
-          "wordCount": 3252,
-          "title": "React for Beginners: Complete React Cheatsheet for 2021"
-        },
-        {
-          "id": "609e8c2162ab9107fe5aa77d",
-          "author": "",
-          "description": "Have you ever wondered how websites are built and designed? Do you want to learn the art of web development but you're not that tech savvy – yet? Well, then this tutorial is for you. It's an introduction to Web Development for beginners so you can learn the basics even if",
-          "link": "https://www.freecodecamp.org/news/web-development-for-beginners-basic-html-and-css/",
-          "publishedOn": "2021-05-14T17:13:14.000Z",
-          "wordCount": 1598,
-          "title": "Web Development for Beginners – Learn Basic HTML and CSS to Build Your First Web Page"
+          "id": "https://jvns.ca/blog/2021/05/02/publishing-comics/",
+          "author": null,
+          "description": "Hello! As you probably know, I write a lot of comics about programming, and I publish collections of them as zines you can buy at https://wizardzines.com.\nI also usually post the comics on Twitter as I write them. But there are a lot of problems with just posting them to Twitter, like:\nthe pages are hard to find. For example, if you want to find the one on\nsocat, you can search twitter\nand you’ll find it, but then you have to somehow magically guess what words I\nused in the tweet, and also sort through a bu…",
+          "link": "https://jvns.ca/blog/2021/05/02/publishing-comics/",
+          "publishedOn": "2021-05-02T11:41:59.000Z",
+          "wordCount": 674,
+          "title": "I put all of my comics online!"
         }
       ]
     }
