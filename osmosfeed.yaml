@@ -3,10 +3,17 @@ sources:
   - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
   - href: http://feeds.arstechnica.com/arstechnica/index/
   - href: www.polygon.com/rss/pc/index.xml
-  - href: http://feeds.macrumors.com/MacRumors-All
+  - href: http://feeds.macrumors.com/MacRumors-Front
   - href: https://stratechery.com/feed/
   - href: https://blog.codinghorror.com/rss
   - href: https://jvns.ca/atom.xml
   - href: https://wdrl.info/feed
   - href: https://ericasadun.com/feed/
   - href: https://waxy.org/feed/
+  - href: http://feeds.kottke.org/json
+  - href: https://daringfireball.net/feeds/json
+  - href: https://www.halfbakedharvest.com/feed/
+  - href: https://cate.blog/feed/
+  - href: https://shapeof.com/feed.json
+  - href: https://beckyhansmeyer.com/feed/
+  
