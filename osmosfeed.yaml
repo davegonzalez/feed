@@ -2,7 +2,7 @@ cacheUrl: https://davegonzalez.github.io/feed/cache.json
 sources:
   - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
   - href: http://feeds.arstechnica.com/arstechnica/index/
-  - href: www.polygon.com/rss/pc/index.xml
+  - href: https://www.polygon.com/rss/pc/index.xml
   - href: http://feeds.macrumors.com/MacRumors-Front
   - href: https://stratechery.com/feed/
   - href: https://blog.codinghorror.com/rss
