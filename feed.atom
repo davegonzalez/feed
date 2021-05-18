@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://davegonzalez.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-18T16:54:45.242Z</updated>
+    <updated>2021-05-18T17:50:41.636Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://davegonzalez.github.io/feed/index.html"/>
     <link rel="self" href="https://davegonzalez.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rick Steves: Germany’s Fascist Story]]></title>
+        <id>https://kottke.org/21/05/rick-steves-germanys-fascist-story</id>
+        <link href="https://kottke.org/21/05/rick-steves-germanys-fascist-story"/>
+        <updated>2021-05-18T17:22:59.000Z</updated>
+        <summary type="html"><![CDATA[Rick Steves’ travel shows and videos typically highlight the positive aspects of travel destinations in Europe and around the world. But more recently, he’s also been making shows about Europe’s unpleasant past. In 2019, he did an hour-long TV special about the history of fascism in Europe
+Because Steves hosts a travel show, they visit some of the places where this history played out, including Nuremberg, Auschwitz, and Rome, talk to historians and tour guides, and discuss fascist and anti-fascist art, incl…]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three Quick Links for Tuesday Noonish]]></title>
+        <id>https://kottke.org/quick-links</id>
+        <link href="https://kottke.org/quick-links"/>
+        <updated>2021-05-18T16:52:01.000Z</updated>
+        <summary type="html"><![CDATA[An AI tries to finish a 15-second clip of the Spice Girls' Wannabe in the style of Nine Inch Nails. [youtube.com]
+A profile of Shayne Bushfield and the relatively small online community he runs, LearnedLeague. "What Bushfield wants is to re-create, over and over, the experience of playing trivia with his friends at the office." [newyorker.com]
+"Contemporary German parents give their children a great deal of freedom — to do dangerous stuff; to go places alone; to make their own mistakes, most of which involv…]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No Man’s Sky gets Nvidia DLSS support for smoother 4K performance]]></title>
+        <id>https://www.polygon.com/no-mans-sky/22441939/no-mans-sky-dlss-4k-nvidia-geforce-rtx</id>
+        <link href="https://www.polygon.com/no-mans-sky/22441939/no-mans-sky-dlss-4k-nvidia-geforce-rtx"/>
+        <updated>2021-05-18T16:40:51.000Z</updated>
+        <summary type="html"><![CDATA[Image: Hello Games
+    
+
+  
+The feature will even work in VR
+ No Man’s Sky players will soon be able to explore the vast reaches of outer space at a smooth frame rate all the way up to 4K resolution, as support for Nvidia’s Deep Learning Super Sampling (DLSS) technology is coming to the game this month, Nvidia and developer Hello Games announced on Tuesday. 
+DLSS is a feature exclusive to certain Nvidia graphics cards that aims to bring improved performance and image quality to games. The process takes lowe…]]></summary>
+        <author>
+            <name>Polygon -  PC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple planning MacBook Pro with 16-core GPU, Mac Pro with 128 GPU cores]]></title>
         <id>https://arstechnica.com/?p=1765693</id>
@@ -14,6 +53,22 @@
         <summary type="html"><![CDATA[Bloomberg's sources spill core counts and more on the next wave of Macs.]]></summary>
         <author>
             <name>Samuel Axon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Die Hard’s Nakatomi Plaza is coming to the Call of Duty: Warzone map]]></title>
+        <id>https://www.polygon.com/call-of-duty/22440739/call-of-duty-black-ops-cold-war-warzone-mobile-trailer-80-action-hero-john-mcclane-rambo-nakatomi</id>
+        <link href="https://www.polygon.com/call-of-duty/22440739/call-of-duty-black-ops-cold-war-warzone-mobile-trailer-80-action-hero-john-mcclane-rambo-nakatomi"/>
+        <updated>2021-05-18T16:23:11.000Z</updated>
+        <summary type="html"><![CDATA[Image: Treyarch/Activision
+    
+
+  
+Movie heroes John McClane and John Rambo are the stars of the midseason patch
+ Call of Duty’s midseason update is all about action movies and the heroes that make them great. In the first trailer for the Call of Duty: Warzone and Black Ops Cold War ’80s Action Movie update, we got our first glimpse of John McClane and John Rambo in action. 
+The trailer itself is styled like a trailer for an ’80s action movie might be. It’s got a cheesy voice-over, lots of film grain, and …]]></summary>
+        <author>
+            <name>Polygon -  PC</name>
         </author>
     </entry>
     <entry>
@@ -39,6 +94,22 @@ What is Lossless Audio?
 Apple is upgrading its entire streaming musi…]]></summary>
         <author>
             <name>Juli Clover</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resident Evil Village’s best line raises big Chris Redfield questions]]></title>
+        <id>https://www.polygon.com/22442023/resident-evil-village-chris-redfield-boulder-punching-asshole-heisenberg-mystery</id>
+        <link href="https://www.polygon.com/22442023/resident-evil-village-chris-redfield-boulder-punching-asshole-heisenberg-mystery"/>
+        <updated>2021-05-18T16:07:41.000Z</updated>
+        <summary type="html"><![CDATA[Image: Capcom
+    
+
+  
+Wait, forget Ethan, what’s up with that Heisenberg line?
+ Resident Evil Village is a thrill ride of a game, taking players through a series of rich environments and battles with distinct, memorable bosses. There’s a lot of detail to pick apart and examine in the game, but I’m stuck on one question: Why does Karl Heisenberg, a Lord of a highly cursed Romanian village, know that Chris Redfield punched a boulder while inside an active volcano one time?
+[Ed. note: This article contains sp…]]></summary>
+        <author>
+            <name>Polygon -  PC</name>
         </author>
     </entry>
     <entry>
@@ -106,6 +177,21 @@ There a…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Classic card game Dominion is getting a scary good new AI]]></title>
+        <id>https://www.polygon.com/22440924/dominion-app-neural-network-ai-release-date-price</id>
+        <link href="https://www.polygon.com/22440924/dominion-app-neural-network-ai-release-date-price"/>
+        <updated>2021-05-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Image: Rio Grande Games
+    
+
+  
+Developers claim it can ‘master cards that have yet to be designed’
+ Dominion, a modern classic among tabletop games, is getting a new digital app. The collaboration between publisher Rio Grande Games and developer Temple Gates Games will be the first to apply an advanced artificial intelligence to the game, one that has been trained on a neural network. Developers say this new approach, designed in partnership with AI researcher Keldon Jones, is so adaptive that the AI is c…]]></summary>
+        <author>
+            <name>Polygon -  PC</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Apple TV Color Balance Feature May Make Image Quality and Colors Worse]]></title>
         <id>https://www.macrumors.com/2021/05/18/apple-tv-color-balance-quality-colors-worse/</id>
         <link href="https://www.macrumors.com/2021/05/18/apple-tv-color-balance-quality-colors-worse/"/>
@@ -126,6 +212,17 @@ The ‌Apple TV‌'s Color Calibration debuted in tvOS 14.5 and iOS 14.5, giving
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Barry Jenkins Films the Gaze of His Ancestors]]></title>
+        <id>https://kottke.org/21/05/barry-jenkins-films-the-gaze-of-his-ancestors</id>
+        <link href="https://kottke.org/21/05/barry-jenkins-films-the-gaze-of-his-ancestors"/>
+        <updated>2021-05-18T14:38:47.000Z</updated>
+        <summary type="html"><![CDATA[While he was filming the TV adaptation of Colson Whitehead’s The Underground Railroad, director Barry Jenkins was also working on this piece, entitled The Gaze. It’s a 50-minute, non-narrative video portrait of several of the show’s actors dressed in their period clothes, wordlessly looking into the camera.
+I don’t remember when we began making the piece you see here. Which is not and should not be considered an episode of The Underground Railroad. It exists apart from that, outside it. Early in production,…]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SteelSeries Offers up to Four Months of Apple Arcade Free With Nimbus+ Controller [Updated]]]></title>
         <id>https://www.macrumors.com/2021/05/18/four-months-apple-arcade-nimbus-controller/</id>
         <link href="https://www.macrumors.com/2021/05/18/four-months-apple-arcade-nimbus-controller/"/>
@@ -143,6 +240,38 @@ The SteelSeries Nimbus+ Wireless Gamepad Controller delivers a "console-quality 
 Iterating on the original Nimbus controller, the Nimbus+ Wireless Gamepad Controller features an ergonomic design, ultra-responsive triggers and buttons…]]></summary>
         <author>
             <name>Hartley Charlton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple might have scared one of the biggest gaming companies in the world]]></title>
+        <id>https://www.polygon.com/22440737/roblox-metaverse-game-experiences-apple-epic-trial</id>
+        <link href="https://www.polygon.com/22440737/roblox-metaverse-game-experiences-apple-epic-trial"/>
+        <updated>2021-05-18T14:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Image: Roblox
+    
+
+  
+Roblox no longer uses the term “game” on its platform
+ Roblox, a massively popular platform where people go to play and make video games, no longer wants the public to think of it as a platform where people go to play and make video games. As Roblox now tells it, it’s a place to go and enjoy experiences. 
+Why does this matter? It all has to do with the ongoing Epic Games’ vs. Apple Computer trial, where the game developer and publisher is suing Apple for allegedly stifling competition…]]></summary>
+        <author>
+            <name>Polygon -  PC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Riot suspends Valorant pro Jay ‘sinatraa’ Won following sexual assault investigation]]></title>
+        <id>https://www.polygon.com/22441836/valorant-pro-banned-sexual-assault-investigation-jay-sinatraa-won</id>
+        <link href="https://www.polygon.com/22441836/valorant-pro-banned-sexual-assault-investigation-jay-sinatraa-won"/>
+        <updated>2021-05-18T13:48:45.000Z</updated>
+        <summary type="html"><![CDATA[Photo: Robert Paul/Blizzard Entertainment
+    
+
+  
+Six-month ban is for not cooperating with Riot’s investigation
+ Valorant developer Riot Games has suspended Jay “sinatraa” Won for six months for his failure to cooperate with a sexual assault investigation. The former Overwatch pro player will also have to complete “professional conduct training,” Riot said in an announcement Monday. The investigation has been turned over to law enforcement, Riot said.
+In March, a former partner accused Won of sexual assau…]]></summary>
+        <author>
+            <name>Polygon -  PC</name>
         </author>
     </entry>
     <entry>
@@ -363,6 +492,18 @@ Yesterday, DigiTimes posted a preview of a story reporting that the launch of th
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Baked Blueberry Cinnamon Sugar Doughnuts.]]></title>
+        <id>https://www.halfbakedharvest.com/?p=106824</id>
+        <link href="https://www.halfbakedharvest.com/baked-blueberry-cinnamon-sugar-doughnuts/"/>
+        <updated>2021-05-18T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Baked Blueberry Cinnamon Sugar Doughnuts.
+Celebrating spring…and on into summer…with these Baked Blueberry Cinnamon Sugar Doughnuts. Made with simple pantry staple ingredients, plus fresh blueberries, and one secret ingredient that really is KEY…plenty of vanilla extract, and a swirl of wild blueberry jam. The doughnuts are then baked, dipped, dunked, and coated generously in sweet and warming cinnamon sugar for…
+READ: Baked Blueberry Cinnamon Sugar Doughnuts.]]></summary>
+        <author>
+            <name>halfbakedharvest</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Apple's New 24-Inch iMac Shown Off in Early Unboxing]]></title>
         <id>https://www.macrumors.com/2021/05/17/24-inch-imac-unboxing/</id>
         <link href="https://www.macrumors.com/2021/05/17/24-inch-imac-unboxing/"/>
@@ -387,6 +528,22 @@ The video from Gadget Guy is in Cantonese, but it offers an up-close look at the
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[★ New York Times Report on Apple’s iCloud ‘Hard Bargain’ in China]]></title>
+        <id>https://daringfireball.net/2021/05/nyt_apple_china_icloud</id>
+        <link href="https://daringfireball.net/2021/05/nyt_apple_china_icloud"/>
+        <updated>2021-05-17T22:57:29.000Z</updated>
+        <summary type="html"><![CDATA[Big feature story reported by Jack Nicas, Raymond Zhong, and Daisuke Wakabayashi for The New York Times, “Censorship, Surveillance, and Profits: A Hard Bargain for Apple in China”:
+But the iCloud data in China is vulnerable to the Chinese
+government because Apple made a series of compromises to meet the
+authorities’ demands, according to dozens of pages of internal
+Apple documents on the planned design and security of the Chinese
+iCloud system, which were reviewed for The Times by an Apple
+engineer and four…]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Biden pledges to share 20 million COVID-19 vaccine doses with the world]]></title>
         <id>https://arstechnica.com/?p=1765579</id>
         <link href="https://arstechnica.com/?p=1765579"/>
@@ -394,6 +551,38 @@ The video from Gadget Guy is in Cantonese, but it offers an up-close look at the
         <summary type="html"><![CDATA[The 20 million will be in addition to 60 million AstraZeneca doses already pledged.]]></summary>
         <author>
             <name>Beth Mole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Five Quick Links for Monday Afternoon]]></title>
+        <id>https://kottke.org/quick-links</id>
+        <link href="https://kottke.org/quick-links"/>
+        <updated>2021-05-17T21:52:01.000Z</updated>
+        <summary type="html"><![CDATA[Oh right, carmakers are probably going to charge vehicle owners by the hour for self-driving service. [teslarati.com]
+Bill McKibben: in order for the switchover to electric vehicles to happen quickly in the US, we need to build a national network of charging stations. [newyorker.com]
+"The Great Online Game is an infinite video game that plays out constantly across the internet. You’re no longer playing as an avatar in Fortnite or Roblox; you’re playing as yourself across Twitter, YouTube, Discords, work, pr…]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prosecutors can’t prove cheerleader mom deepfake is actually a deepfake]]></title>
+        <id>https://waxy.org/?p=41497</id>
+        <link href="https://www.washingtonpost.com/technology/2021/05/14/deepfake-cheer-mom-claims-dropped/"/>
+        <updated>2021-05-17T21:26:20.000Z</updated>
+        <summary type="html"><![CDATA[with evidence pointing to its authenticity, seems like a case of deepfakes being blamed for teens screwing around #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sending an international email in 1984]]></title>
+        <id>https://waxy.org/?p=41498</id>
+        <link href="https://www.youtube.com/watch?v=J5OlzonbgC0"/>
+        <updated>2021-05-17T21:26:16.000Z</updated>
+        <summary type="html"><![CDATA["I won't tell you my account number" (clearly types in account number and "0000" PIN on keyboard) #]]></summary>
+        <author>
+            <name>Andy Baio</name>
         </author>
     </entry>
     <entry>
@@ -414,6 +603,22 @@ Apple's ‌AirPods Max‌ headphones are equipped with a Lightning port, but it 
 Apple told The Verge that when a 24-bit/48 kHz Apple Music lossless track is playe…]]></summary>
         <author>
             <name>Juli Clover</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[F1 2021’s Deluxe Edition puts all-time greats in the career roster]]></title>
+        <id>https://www.polygon.com/22440790/f1-2021-deluxe-edition-perks-drivers-pitcoin-unlocks-items-pc-ps5-xbox-series-x</id>
+        <link href="https://www.polygon.com/22440790/f1-2021-deluxe-edition-perks-drivers-pitcoin-unlocks-items-pc-ps5-xbox-series-x"/>
+        <updated>2021-05-17T20:52:52.000Z</updated>
+        <summary type="html"><![CDATA[Image: Codemasters via Polygon
+    
+
+  
+If you want to sign them, your team still has to win and make money
+ F1 2021 will launch a premium Digital Deluxe edition that lets players choose from seven all-time greats as their racing team’s second driver in the My Team, single-player career mode. But because it isn’t a pay-to-win scheme, it means players still have to work to acquire the drivers after paying the $74.99 for the game.
+Players must still build up a racing team capable of paying the drivers, or mee…]]></summary>
+        <author>
+            <name>Polygon -  PC</name>
         </author>
     </entry>
     <entry>
@@ -457,6 +662,43 @@ Apple fought again…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Colossal Cave Adventure as a playable long-polling GIF on AO3]]></title>
+        <id>https://waxy.org/?p=41494</id>
+        <link href="https://archiveofourown.org/works/31095317"/>
+        <updated>2021-05-17T19:22:06.000Z</updated>
+        <summary type="html"><![CDATA[learn more about Andrew Sillers' Living GIFs, including Doom on AO3 #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Final Fantasy 14: the official guitar, coming in 2022]]></title>
+        <id>https://www.polygon.com/22440449/final-fantasy-14-fender-guitar-stratocaster-release-date</id>
+        <link href="https://www.polygon.com/22440449/final-fantasy-14-fender-guitar-stratocaster-release-date"/>
+        <updated>2021-05-17T19:13:09.000Z</updated>
+        <summary type="html"><![CDATA[Image: Fender/Square Enix
+    
+
+  
+New FF14-inspired Fender Stratocaster available IRL and in-game
+ Over the weekend, Square Enix revealed all-new details on Final Fantasy 14 and its upcoming Endwalker expansion — including a release date: Nov. 23. The publisher also announced the official Final Fantasy 14 guitar, which will be available both in real life and in-game.
+Fender and Square Enix are teaming up for a limited edition Final Fantasy 14 Stratocaster electric guitar “featuring imitation crystal detail…]]></summary>
+        <author>
+            <name>Polygon -  PC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Infinite Hotel Runs Out of Rooms]]></title>
+        <id>https://kottke.org/21/05/an-infinite-hotel-runs-out-of-rooms</id>
+        <link href="https://kottke.org/21/05/an-infinite-hotel-runs-out-of-rooms"/>
+        <updated>2021-05-17T19:09:35.000Z</updated>
+        <summary type="html"><![CDATA[This video from Veritasium is a nice explanation of the mathematician David Hilbert’s paradox of the Grand Hotel, which illustrates that a hotel with an infinite number of rooms can still accommodate new guests even when it’s full. Until it can’t, that is. See also Steven Strogatz’s explanation of Hilbert’s infinite hotel and how Georg Cantor’s discovery of different types of infinities complicated the hotel’s hospitality. (via digg)
+Tags: David Hilbert   Georg Cantor   mathematics   Steven Strogatz   video]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Rocket Lab reviewing data after its second Electron failure in a year]]></title>
         <id>https://arstechnica.com/?p=1765439</id>
         <link href="https://arstechnica.com/?p=1765439"/>
@@ -477,6 +719,34 @@ Apple fought again…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Sparks Brothers]]></title>
+        <id>https://kottke.org/21/05/the-sparks-brothers</id>
+        <link href="https://kottke.org/21/05/the-sparks-brothers"/>
+        <updated>2021-05-17T17:06:50.000Z</updated>
+        <summary type="html"><![CDATA[Edgar Wright has directed a documentary on a band called Sparks, which was formed by brothers Ron & Russell Mael in 1967 and the trailer (above) hails as “your favorite band’s favorite band”.
+How can one rock band be successful, underrated, hugely influential, and criminally overlooked all at the same time? Edgar Wright’s debut documentary THE SPARKS BROTHERS, which features commentary from celebrity fans Flea, Jane Wiedlin, Beck, Jack Antonoff, Jason Schwartzman, Neil Gaiman, and more, takes audiences on a…]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mass Effect’s revival reminds us it’s time to abolish the space police]]></title>
+        <id>https://www.polygon.com/22436615/mass-effect-legendary-edition-police-ea-bioware-brooklyn-99</id>
+        <link href="https://www.polygon.com/22436615/mass-effect-legendary-edition-police-ea-bioware-brooklyn-99"/>
+        <updated>2021-05-17T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Image: BioWare/Electronic Arts
+    
+
+
+  
+What would it mean to defund the Normandy?
+ What does the future hold? In our new series “Imagining the Next Future,” Polygon explores the new era of science fiction — in movies, books, TV, games, and beyond — to see how storytellers and innovators are imagining the next 10, 20, 50, or 100 years during a moment of extreme uncertainty. Follow along as we deep dive into the great unknown.
+After the wave of protests last summer following the police killings of George Fl…]]></summary>
+        <author>
+            <name>Polygon -  PC</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[AT&T to spin off WarnerMedia, basically admitting giant merger was a mistake]]></title>
         <id>https://arstechnica.com/?p=1765461</id>
         <link href="https://arstechnica.com/?p=1765461"/>
@@ -484,6 +754,21 @@ Apple fought again…]]></summary>
         <summary type="html"><![CDATA[WarnerMedia and Discovery to merge, and standalone AT&T will focus on broadband.]]></summary>
         <author>
             <name>Jon Brodkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Six Quick Links for Monday Noonish]]></title>
+        <id>https://kottke.org/quick-links</id>
+        <link href="https://kottke.org/quick-links"/>
+        <updated>2021-05-17T16:52:01.000Z</updated>
+        <summary type="html"><![CDATA[Coming in Jan 2022 from @michaelharriot, Black AF History: The Un-Whitewashed Story of America. [bookshop.org]
+Who can do what through the where now? [phys.org]
+What's the opposite of a Rube Goldberg machine called? [mobile.twitter.com]
+A useful thread from @waxpancake about the crisis in Gaza [twitter.com]
+Incredible fly-by video of Mount Rainier taken from a recent Delta flight. [twitter.com]
+"A new spin on [the classic video game Oregon Trail] focuses on more accurately representing Native Americans and …]]></summary>
+        <author>
+            <name>kottke.org</name>
         </author>
     </entry>
     <entry>
@@ -527,6 +812,17 @@ Apple fought again…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Watch as David Hockney Pages Through His Sketchbook]]></title>
+        <id>https://kottke.org/21/05/watch-as-david-hockney-pages-through-his-sketchbook</id>
+        <link href="https://kottke.org/21/05/watch-as-david-hockney-pages-through-his-sketchbook"/>
+        <updated>2021-05-17T14:19:20.000Z</updated>
+        <summary type="html"><![CDATA[This is a treat: artist David Hockney wordlessly flipping through one of his sketchbooks from 2019 for 6 minutes. For the first few minutes, I thought that some verbal annotation would be nice, but it’s actually perfect as-is — you can just focus on looking. (via open culture)
+Tags: art   David Hockney   video]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[From apes to birds, there are 65 animal species that “laugh”]]></title>
         <id>https://arstechnica.com/?p=1765400</id>
         <link href="https://arstechnica.com/?p=1765400"/>
@@ -544,6 +840,16 @@ Apple fought again…]]></summary>
         <summary type="html"><![CDATA[Electric vehicles were well represented during the early decades of the car.]]></summary>
         <author>
             <name>Ars Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Positive Intelligence]]></title>
+        <id>https://cate.blog/?p=53249</id>
+        <link href="https://cate.blog/2021/05/17/positive-intelligence/"/>
+        <updated>2021-05-17T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This year (thanks to my coach, Dani) I’ve been spending a lot of time on “PQ” aka “Positive Intelligence” aka “mental fitness”. I read the book, took the six week intensive program, and continue to practice it (almost) every day. What is it? the core premise is that there is the part of your brain […]]]></summary>
+        <author>
+            <name>Cate</name>
         </author>
     </entry>
     <entry>
@@ -565,6 +871,18 @@ from s…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Sheet Pan Jalapeño Pineapple Shrimp Tacos with Cilantro Garlic Sauce.]]></title>
+        <id>https://www.halfbakedharvest.com/?p=106778</id>
+        <link href="https://www.halfbakedharvest.com/jalapeno-pineapple-shrimp-tacos/"/>
+        <updated>2021-05-17T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sheet Pan Jalapeño Pineapple Shrimp Tacos with Cilantro Garlic Sauce.
+My new go-to weeknight tacos, Sheet Pan Jalapeño Pineapple Shrimp Tacos with Cilantro Garlic Sauce. Spicy roasted shrimp and sweet pineapple stuffed into warmed tortillas with a creamy, roasted garlic sauce, crunchy slaw, and avocado. The spicy tropical shrimp tacos made all on just one sheet pan and in under 30 minutes. These tacos are…
+READ: Sheet Pan Jalapeño Pineapple Shrimp Tacos with Cilantro Garlic Sauce.]]></summary>
+        <author>
+            <name>halfbakedharvest</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[v1.7.2]]></title>
         <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.2</id>
         <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.2"/>
@@ -573,6 +891,28 @@ from s…]]></summary>
 Chore: Reorganize to monorepo with npm workspace.]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Literati]]></title>
+        <id>https://literati.com/book-clubs/?utm_source=DaringFireballRSS&amp;utm_medium=social&amp;utm_campaign=lumilaunch&amp;utm_content=luminary</id>
+        <link href="https://literati.com/book-clubs/?utm_source=DaringFireballRSS&amp;utm_medium=social&amp;utm_campaign=lumilaunch&amp;utm_content=luminary"/>
+        <updated>2021-05-17T01:48:38.000Z</updated>
+        <summary type="html"><![CDATA[My thanks to Literati for sponsoring last week at DF. Literati is dedicated to the idea that great books should not be hard to find. They’ve created a book club so good, you might actually join. Those are their words, not mine, but I love that attitude. Literati doesn’t merely offer book recommendations — they host communities of book lovers where discussion is thoughtful and nuanced.
+Try Literati today and get your next read chosen by visionaries — then talk about it with them, in a book club unlike any ot…]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Typography on Pencils]]></title>
+        <id>https://twitter.com/presentcorrect/status/1393552565556678668</id>
+        <link href="https://twitter.com/presentcorrect/status/1393552565556678668"/>
+        <updated>2021-05-17T01:41:06.000Z</updated>
+        <summary type="html"><![CDATA[This is my kind of content. Just lovely.
+ ★]]></summary>
+        <author>
+            <name>Daring Fireball</name>
         </author>
     </entry>
     <entry>
@@ -603,6 +943,18 @@ Chore: Reorganize to monorepo with npm workspace.]]></summary>
         <summary type="html"><![CDATA[Discord groups promise big earnings  by manipulating the crypto market.]]></summary>
         <author>
             <name>WIRED</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nine Favorite Things.]]></title>
+        <id>https://www.halfbakedharvest.com/?p=106234</id>
+        <link href="https://www.halfbakedharvest.com/nine-favorite-things-194/"/>
+        <updated>2021-05-16T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nine Favorite Things.
+Thanks for joining me for another Nine Favorite Things post. Happy, Happy Sunday friends (trying something new, since I always say guys and it’s getting old)! Very excited for today’s favorite’s post. As you’ve all seen by now, we finally launched the new HBH site redesign. And while it came with a lot of hiccups…
+READ: Nine Favorite Things.]]></summary>
+        <author>
+            <name>halfbakedharvest</name>
         </author>
     </entry>
     <entry>
@@ -638,6 +990,430 @@ Thank you @tianheg, @onnyyonn]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[“Maybe We Need Masks Indoors Just a Bit Longer”]]></title>
+        <id>https://kottke.org/21/05/maybe-we-need-masks-indoors-just-a-bit-longer</id>
+        <link href="https://kottke.org/21/05/maybe-we-need-masks-indoors-just-a-bit-longer"/>
+        <updated>2021-05-15T02:09:01.000Z</updated>
+        <summary type="html"><![CDATA[Since yesterday’s announcement, I’d been feeling uneasy about the CDC’s decision to update its guidance to state that fully vaccinated people don’t need to wear masks in most situations indoors or out. Zeynep Tufekci’s piece in the Times nails why.
+It’s difficult for officials to issue rules as conditions evolve and uncertainty continues. So I hesitate to question the agency’s approach. But it’s not clear whether it was responding to scientific evidence or public clamor to lift state and local mandates, whi…]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Itch.io waiving all fees today for Creator Day]]></title>
+        <id>https://waxy.org/?p=41489</id>
+        <link href="https://itch.io/blog/252069/announcing-the-first-itchio-creator-day"/>
+        <updated>2021-05-14T23:03:38.000Z</updated>
+        <summary type="html"><![CDATA[go get some delightful indie games with 100% of revenue going to their creators #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vox on the Gaza doom loop]]></title>
+        <id>https://waxy.org/?p=41486</id>
+        <link href="https://www.vox.com/22430488/israel-gaza-war-2021-hamas-sheikh-jarrah"/>
+        <updated>2021-05-14T22:43:13.000Z</updated>
+        <summary type="html"><![CDATA[solid explainer on the political dynamics behind Israel, Hamas, and the Palestinian Authority #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers find 12 people responsible for the majority of anti-vaccine content online]]></title>
+        <id>https://waxy.org/?p=41482</id>
+        <link href="https://www.npr.org/2021/05/13/996570855/disinformation-dozen-test-facebooks-twitters-ability-to-curb-vaccine-hoaxes?utm_campaign=storyshare&amp;utm_source=twitter.com&amp;utm_medium=social"/>
+        <updated>2021-05-14T22:41:28.000Z</updated>
+        <summary type="html"><![CDATA[you can read the full report #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Palestinian Dispossession at the Heart of the Gaza Conflict]]></title>
+        <id>https://waxy.org/?p=41479</id>
+        <link href="https://newlinesmag.com/argument/the-palestinian-dispossession-at-the-heart-of-the-gaza-conflict/"/>
+        <updated>2021-05-14T22:38:20.000Z</updated>
+        <summary type="html"><![CDATA["They will rubber stamp more evictions, all the while using the tool of law to provide a veneer of integrity." #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A 12-Mile Video Walking Tour of Paris]]></title>
+        <id>https://kottke.org/21/05/a-12-mile-video-walking-tour-of-paris</id>
+        <link href="https://kottke.org/21/05/a-12-mile-video-walking-tour-of-paris"/>
+        <updated>2021-05-14T18:01:17.000Z</updated>
+        <summary type="html"><![CDATA[Walking, cities, Paris, and YouTube are four of my favorite things, so this 5.5-hour, 12-mile video walking tour of Paris is right up my alley. Along the way, they visit the Notre Dame, the Arc de Triomphe, the market on Rue Mouffetard, the Jardins du Luxembourg, the Louvre, the Eiffel Tower, and lots more. If you turn the closed captions on, you can read about the histories of the places as the walk progresses. Hopefully this will tide me over until I can visit again. (via open culture)
+Tags: cities   Pari…]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Four Quick Links for Friday Noonish]]></title>
+        <id>https://kottke.org/quick-links</id>
+        <link href="https://kottke.org/quick-links"/>
+        <updated>2021-05-14T16:52:01.000Z</updated>
+        <summary type="html"><![CDATA[Lovely and insightful reflections on 20 years of blogging from Cory Doctorow. I nodded along to almost all of this. [doctorow.medium.com]
+"A new analysis of the toll of the Covid-19 pandemic suggests 6.9 million people worldwide have died from the disease, more than twice as many people as has been officially reported." [statnews.com]
+New issue of the @kottke newsletter just published [mailchi.mp]
+CDC says vaccinated Americans can go maskless outdoors and indoors in most situations. I worry this is prematur…]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Banksy Graffitied Walls And Wasn’t Sorry]]></title>
+        <id>https://kottke.org/21/05/banksy-graffitied-walls-and-wasnt-sorry</id>
+        <link href="https://kottke.org/21/05/banksy-graffitied-walls-and-wasnt-sorry"/>
+        <updated>2021-05-14T15:51:58.000Z</updated>
+        <summary type="html"><![CDATA[Banksy Graffitied Walls And Wasn’t Sorry is biography of street artist Banksy written for children by Fausto Gilberti. Gilberti has also written kid’s books about other artists: Jackson Pollock Splashed Paint and Wasn’t Sorry, Yayoi Kusama Covered Everything in Dots and Wasn’t Sorry, and Yves Klein Painted Everything Blue and Wasn’t Sorry.
+Tags: art   Banksy   books   Fausto Gilberti]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fauxliage - Disguised Cell Phone Towers]]></title>
+        <id>https://kottke.org/21/05/fauxliage---disguised-cell-phone-towers</id>
+        <link href="https://kottke.org/21/05/fauxliage---disguised-cell-phone-towers"/>
+        <updated>2021-05-14T13:47:28.000Z</updated>
+        <summary type="html"><![CDATA[For the past several years, Annette LeMay Burke has been traveling the American West in search of disguised cell phone towers, collected in a project she calls Fauxliage.
+As disguised cell phone towers proliferate, I find it ironic that instead of providing camouflage, their disguises actually unmask their true identities. The towers have an array of creative concealments. They often impersonate trees such as evergreens, palms, and saguaros. Some pillars serve other uses such as flagpoles or iconographic ch…]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Homemade Oatmeal Chocolate Chip Cookie Crisp Cereal]]></title>
+        <id>http://www.halfbakedharvest.com/?p=6528</id>
+        <link href="https://www.halfbakedharvest.com/oatmeal-chocolate-chip-cookie-cereal/"/>
+        <updated>2021-05-14T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Homemade Oatmeal Chocolate Chip Cookie Crisp Cereal
+Better than store-bought Homemade Oatmeal Chocolate Chip Cookie Crisp Cereal. Yes, you can make chocolate chip cookie cereal at home. It’s way easier than you’d think. And yes, so much better than the boxed stuff! This cereal is crunchy, sweet, and heavy on those chocolate chips…just like a good chocolate chip cookie, but in cereal…
+READ: Homemade Oatmeal Chocolate Chip Cookie Crisp Cereal]]></summary>
+        <author>
+            <name>halfbakedharvest</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two Quick Links for Thursday Evening]]></title>
+        <id>https://kottke.org/quick-links</id>
+        <link href="https://kottke.org/quick-links"/>
+        <updated>2021-05-14T00:52:01.000Z</updated>
+        <summary type="html"><![CDATA[The American Girl Doll: Imperial Wives Collection. [twitter.com]
+Recent studies found that men who had Covid-19 were more likely to have severe erectile dysfunction, lower sperm counts, and decreased genital size. So...get vaccinated maybe, hesitant gents? [twitter.com]
+---
+Note: Quick Links are pushed to this RSS feed twice a day. For more immediate service, check out the front page of kottke.org, the Quick Links archive, or the @kottke Twitter feed.]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wired’s Megan Molteni on the 60-year-old scientific error that helped Covid kill]]></title>
+        <id>https://waxy.org/?p=41471</id>
+        <link href="https://www.wired.com/story/the-teeny-tiny-scientific-screwup-that-helped-covid-kill/"/>
+        <updated>2021-05-13T21:35:13.000Z</updated>
+        <summary type="html"><![CDATA[related: Zeynep Tufekci on the long delay in accepting spread by aerosol transmission #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[David Bowie as Tilda Swinton and Tilda Swinton as David Bowie]]></title>
+        <id>https://kottke.org/21/05/david-bowie-as-tilda-swinton-and-tilda-swinton-as-david-bowie</id>
+        <link href="https://kottke.org/21/05/david-bowie-as-tilda-swinton-and-tilda-swinton-as-david-bowie"/>
+        <updated>2021-05-13T21:02:47.000Z</updated>
+        <summary type="html"><![CDATA[It’s photoshopped (the original is here) but still. Mercy.
+Tags: David Bowie   Tilda Swinton]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Controlling Screen Sharing from the command line]]></title>
+        <id>https://ericasadun.com/?p=6913</id>
+        <link href="https://ericasadun.com/2021/05/13/controlling-screen-sharing-from-the-command-line/"/>
+        <updated>2021-05-13T19:29:36.000Z</updated>
+        <summary type="html"><![CDATA[My world often narrows to Xcode and Terminal. There are times I just want to check in on another computer quickly and I don’t want the hassle of creating a new Finder window, going to the network, waiting for the items to load, and clicking Screen Sharing. Let me share a quick osascript solution I […]]]></summary>
+        <author>
+            <name>erica</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aaron A. Reed on Monster Island, a play-by-mail MMO from 1989]]></title>
+        <id>https://waxy.org/?p=41468</id>
+        <link href="https://if50.substack.com/p/1989-monster-island"/>
+        <updated>2021-05-13T18:40:44.000Z</updated>
+        <summary type="html"><![CDATA[over 250,000 rooms and 1,600 concurrent players, all running on a 386 and played via postal mail #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[David Farrier gets scammed by a foot fetishist]]></title>
+        <id>https://waxy.org/?p=41465</id>
+        <link href="https://www.webworm.co/p/feet"/>
+        <updated>2021-05-13T18:39:33.000Z</updated>
+        <summary type="html"><![CDATA[don't miss his interview with an online sex worker about their lessons learned: cash up-front and never use Paypal #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everyday Objects, Sliced]]></title>
+        <id>https://kottke.org/21/05/everyday-objects-sliced</id>
+        <link href="https://kottke.org/21/05/everyday-objects-sliced"/>
+        <updated>2021-05-13T18:05:56.000Z</updated>
+        <summary type="html"><![CDATA[Fabian Oefner takes physical objects apart and puts them back together into exploded/fragmented sculptures.
+The sculptures of the Heisenberg Series are based on Werner Heisenberg’s famous Uncertainty Principle. This theory states, that you can not measure two separate parameters of a particle simultaneously. You can either determine one parameter and ignore the other or vice versa, but you can never know everything at once.
+Oefner took this idea from the world of physics  and created an artistic equivalent …]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bart Simpson feat. Daft Punk & Giorgio Moroder]]></title>
+        <id>https://kottke.org/21/05/bart-simpson-feat-daft-punk-giorgio-moroder</id>
+        <link href="https://kottke.org/21/05/bart-simpson-feat-daft-punk-giorgio-moroder"/>
+        <updated>2021-05-13T16:09:03.000Z</updated>
+        <summary type="html"><![CDATA[Part of what makes this so good & funny is the obvious level of care put into making it, right down to the smallest details. The audio distortion? Perfect lip syncing? The Doppler effect?! It’s just a meme, you didn’t have to go so hard! (via the xoxo slack)
+Tags: Daft Punk   Giorgio Moroder   music   remix   The Simpsons   TV   video]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Renewable Energy Is Suddenly Startlingly Cheap”]]></title>
+        <id>https://kottke.org/21/05/renewable-energy-is-suddenly-startlingly-cheap</id>
+        <link href="https://kottke.org/21/05/renewable-energy-is-suddenly-startlingly-cheap"/>
+        <updated>2021-05-13T14:01:03.000Z</updated>
+        <summary type="html"><![CDATA[Writing in the New Yorker and citing a report by Carbon Tracker Initiative, Bill McKibben provides some hope that we can address the climate crisis. 
+Titled “The Sky’s the Limit,” it begins by declaring that “solar and wind potential is far higher than that of fossil fuels and can meet global energy demand many times over.” Taken by itself, that’s not a very bold claim: scientists have long noted that the sun directs more energy to the Earth in an hour than humans use in a year. But, until very recently, it…]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wishes for WWDC 2021]]></title>
+        <id>https://beckyhansmeyer.com/?p=2519</id>
+        <link href="https://beckyhansmeyer.com/2021/05/12/wishes-for-wwdc-2021/"/>
+        <updated>2021-05-13T03:06:36.000Z</updated>
+        <summary type="html"><![CDATA[‘Tis the season for WWDC rumors, predictions, and wishlists! Spring is off to a shaky start here in Nebraska; we’ve had a series of colder, windy days that seem more at home in March than May, and the forecast for the coming weeks is much more “April showers” than “May flowers.” However, the foliage is […]]]></summary>
+        <author>
+            <name>Becky H.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Winners of the 2021 Type Directors Club Design Awards]]></title>
+        <id>https://kottke.org/21/05/winners-of-the-2021-type-directors-club-design-awards</id>
+        <link href="https://kottke.org/21/05/winners-of-the-2021-type-directors-club-design-awards"/>
+        <updated>2021-05-12T20:10:34.000Z</updated>
+        <summary type="html"><![CDATA[The Type Directors Club has announced the winners of their two design competitions: TDC67 Communication Design and 24TDC Typeface Design. (via print)
+Tags: best of   best of 2021   design   typography]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enhancing photorealism in GTA V with a convolutional networks]]></title>
+        <id>https://waxy.org/?p=41461</id>
+        <link href="https://www.youtube.com/watch?v=P1IcaBn3ej0"/>
+        <updated>2021-05-12T18:33:37.000Z</updated>
+        <summary type="html"><![CDATA[processing game imagery using a network trained on cityscapes #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Docs to switch from HTML to canvas based rendering]]></title>
+        <id>https://waxy.org/?p=41458</id>
+        <link href="https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html"/>
+        <updated>2021-05-12T18:19:28.000Z</updated>
+        <summary type="html"><![CDATA[I wonder when media sites will start doing this to prevent ad blockers #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Absurdity is the Point]]></title>
+        <id>https://waxy.org/?p=41454</id>
+        <link href="https://warzel.substack.com/p/the-absurdity-is-the-point"/>
+        <updated>2021-05-12T18:11:41.000Z</updated>
+        <summary type="html"><![CDATA[Charlie Warzel on memeified finance and politics as protest #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who Invented Heavy Metal?]]></title>
+        <id>https://kottke.org/21/05/who-invented-heavy-metal</id>
+        <link href="https://kottke.org/21/05/who-invented-heavy-metal"/>
+        <updated>2021-05-12T18:09:50.000Z</updated>
+        <summary type="html"><![CDATA[In this video, Polyphonic explores the roots of heavy metal, from the increasingly distorted guitar sounds in 50s blues to the fast-picked guitars of surf rock to the heavy rock of English groups like The Who and The Beatles to the first metal bands, Black Sabbath and Deep Purple. (via open culture)
+Tags: music   video]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mmm.page]]></title>
+        <id>https://waxy.org/?p=41451</id>
+        <link href="https://build.mmm.page/"/>
+        <updated>2021-05-12T18:08:10.000Z</updated>
+        <summary type="html"><![CDATA[friendly drag-and-drop quirky website builder #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the Personal Computer Broke the Human Body]]></title>
+        <id>https://waxy.org/?p=41448</id>
+        <link href="https://www.vice.com/en/article/y3dda7/how-the-personal-computer-broke-the-human-body"/>
+        <updated>2021-05-12T18:04:17.000Z</updated>
+        <summary type="html"><![CDATA[Laine Nooney on the history of computer-induced pain and the ways people tried to manage it #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WaPo interviews the Japanese biker dad who uses FaceApp to post as a young woman]]></title>
+        <id>https://waxy.org/?p=41445</id>
+        <link href="https://www.washingtonpost.com/technology/2021/05/11/japan-biker-faceapp-soya-azusagakuyuki/"/>
+        <updated>2021-05-12T17:44:21.000Z</updated>
+        <summary type="html"><![CDATA[raises complex questions around authenticity and identity online #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three Quick Links for Wednesday Noonish]]></title>
+        <id>https://kottke.org/quick-links</id>
+        <link href="https://kottke.org/quick-links"/>
+        <updated>2021-05-12T16:52:01.000Z</updated>
+        <summary type="html"><![CDATA[Hans Zimmer is creating an in-car soundscape for BMW's new M-brand EVs to compensate for the lack of growling engine noise. [autoblog.com]
+A high-level report concludes that the WHO and national leaders should have acted faster and more decisively to try to curb the pandemic. "It is glaringly obvious that February 2020 was a lost month." [nature.com]
+The Emerging Movement for Police and Prison Abolition. "I want [to] build up another world that is rooted in collective wellness, safety, and investment in the…]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11 Reasons to Keep Wearing a Mask After You’re Vaccinated and the Pandemic is “Over”]]></title>
+        <id>https://kottke.org/21/05/reasons-to-keep-wearing-a-mask</id>
+        <link href="https://kottke.org/21/05/reasons-to-keep-wearing-a-mask"/>
+        <updated>2021-05-12T13:53:52.000Z</updated>
+        <summary type="html"><![CDATA[You 100% do not want to get Covid-19.
+You are immunocompromised. Millions of people have immune conditions that make contracting Covid-19 much more dangerous for them.
+
+
+
+You’re traumatized from “the mental and emotional toll of the last year”.
+
+
+
+Because you need to be around people you suspect may not be vaccinated or taking Covid-19 seriously (e.g. as part of your job).
+
+
+
+You’re not feeling well and want to make sure to protect others around you.
+
+
+
+Because you want to signal to others that you are bein…]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two Quick Links for Wednesday Morning]]></title>
+        <id>https://kottke.org/quick-links</id>
+        <link href="https://kottke.org/quick-links"/>
+        <updated>2021-05-12T12:52:01.000Z</updated>
+        <summary type="html"><![CDATA[I Mailed an AirTag and Tracked Its Progress; Here's What Happened. [intego.com]
+An anti-vaccine conspiracy theory (that vaccinated people can "shed" harmful proteins) is "leading some anti-maskers and anti-vaxxers to contemplate wearing a mask and social distance". [vice.com]
+---
+Note: Quick Links are pushed to this RSS feed twice a day. For more immediate service, check out the front page of kottke.org, the Quick Links archive, or the @kottke Twitter feed.]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple on App Store Fraud]]></title>
+        <id>https://www.apple.com/newsroom/2021/05/app-store-stopped-over-1-5-billion-in-suspect-transactions-in-2020/</id>
+        <link href="https://www.apple.com/newsroom/2021/05/app-store-stopped-over-1-5-billion-in-suspect-transactions-in-2020/"/>
+        <updated>2021-05-11T23:52:51.000Z</updated>
+        <summary type="html"><![CDATA[Interesting piece at Apple’s Newsroom, headlined: “App Store Stopped More Than $1.5 Billion in Potentially Fraudulent Transactions in 2020”:
+It takes significant resources behind the scenes to ensure these
+bad actors can’t exploit users’ most sensitive information, from
+location to payment details. While it’s impossible to catch every
+act of fraud or ill intent before it happens, thanks to Apple’s
+industry-leading antifraud efforts, security experts agree the App
+Store is the safest place to find and downlo…]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Four Quick Links for Tuesday Afternoon]]></title>
+        <id>https://kottke.org/quick-links</id>
+        <link href="https://kottke.org/quick-links"/>
+        <updated>2021-05-11T21:52:02.000Z</updated>
+        <summary type="html"><![CDATA[Health Conspiracy Theorists Hate Living in the World They Helped Create. "By fighting the most commonsense public health measures at every turn, the health conspiracy theorists helped create a climate where more restrictive ones are looking...necessary." [vice.com]
+Did a cicada write this? [nytimes.com]
+"From the makers of Portrait of a Lady on Fire and The Favourite comes Lesbian Period Drama..." [youtube.com]
+This seems really useful: tests that can detect Covid, flu, RSV, and other respiratory illnesses …]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“The Woman Who Made van Gogh”]]></title>
+        <id>https://kottke.org/21/05/the-woman-who-made-van-gogh</id>
+        <link href="https://kottke.org/21/05/the-woman-who-made-van-gogh"/>
+        <updated>2021-05-11T21:13:06.000Z</updated>
+        <summary type="html"><![CDATA[There are certain writers that, when I see their byline, I read their stuff, even if it takes me a few weeks to find the time. Ever since reading his excellent The Island at the Center of the World, Russell Shorto has been one of those writers. His latest piece, The Woman Who Made van Gogh, tells the story of Jo van Gogh-Bonger who, after both her husband Theo and her brother-in-law Vincent died within a year and a half of each other, worked tirelessly for decades to get Vincent’s work out into the world.
+T…]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Final Border Humanity Will Never Cross]]></title>
+        <id>https://kottke.org/21/05/the-final-border-humanity-will-never-cross</id>
+        <link href="https://kottke.org/21/05/the-final-border-humanity-will-never-cross"/>
+        <updated>2021-05-11T19:06:40.000Z</updated>
+        <summary type="html"><![CDATA[This video focuses on one of my favorite astrophysics facts: 94% of the observable universe is permanently unreachable by humans. (Unless we discover faster-than-light travel, but that’s fantasy at this point.)
+This expansion means that there is a cosmological horizon around us. Everything beyond it, is traveling faster, relative to us, than the speed of light. So everything that passes the horizon, is irretrievably out of reach forever and we will never be able to interact with it again. In a sense it’s li…]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Sponsor] Literati]]></title>
+        <id>https://literati.com/book-clubs/?utm_source=DaringFireballRSS&amp;utm_medium=social&amp;utm_campaign=lumilaunch&amp;utm_content=luminary</id>
+        <link href="https://literati.com/book-clubs/?utm_source=DaringFireballRSS&amp;utm_medium=social&amp;utm_campaign=lumilaunch&amp;utm_content=luminary"/>
+        <updated>2021-05-11T18:12:57.000Z</updated>
+        <summary type="html"><![CDATA[We, the people of Literati, believe that great stories can shape the world. Mostly, we believe it shouldn’t be so hard to find a book worth reading. We created a book club so good, you might actually join. Imagine a magical place where conversations on the internet are thoughtful and nuanced. Get your next read chosen by visionaries — then talk about it with them, in a book club unlike any other.
+ ★]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Apple Robbed the Mob’s Bank’]]></title>
+        <id>https://mobiledevmemo.com/apple-robbed-the-mobs-bank/</id>
+        <link href="https://mobiledevmemo.com/apple-robbed-the-mobs-bank/"/>
+        <updated>2021-05-11T17:55:12.000Z</updated>
+        <summary type="html"><![CDATA[Eric Benjamin Seufert, writing at Mobile Dev Memo:
+Last week, Apple introduced a new ad unit to the App Store: a paid placement on its Search page. Rumors of this new unit had circulated previously, although the notion that Apple would increase the density of ad placements in the App Store was wholly predictable, as I assert in this piece and this piece. Apple is expanding its mobile advertising platform in parallel with the rollout of the App Tracking Transparency (ATT) privacy policy, which presents meani…]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Cloudflare on the Edge]]></title>
         <id>https://stratechery.com/?p=5876</id>
         <link href="https://stratechery.com/2021/cloudflare-on-the-edge/"/>
@@ -645,6 +1421,31 @@ Thank you @tianheg, @onnyyonn]]></summary>
         <summary type="html"><![CDATA[Cloudflare is uniquely positioned to become a major player in an Internet 3.0 world, where politics matter more than economics.]]></summary>
         <author>
             <name>Ben Thompson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Pantone Pee Chart]]></title>
+        <id>https://kottke.org/21/05/the-pantone-pee-chart</id>
+        <link href="https://kottke.org/21/05/the-pantone-pee-chart"/>
+        <updated>2021-05-11T16:56:57.000Z</updated>
+        <summary type="html"><![CDATA[Urine color is an indicator of how hydrated you are and Pantone are the color experts, so of course they’ve teamed up with a Scottish bottled water company to produce a chart with 5 color gradations that help you determine your hydration level. But 10 glasses of water a day?! I’m not sure the science supports that, particularly since we get a lot of our recommended intake from regular food & beverage consumption.
+It remains unclear where the “8 x 8” water intake recommendation comes from. Perhaps, this two-…]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three Quick Links for Tuesday Noonish]]></title>
+        <id>https://kottke.org/quick-links</id>
+        <link href="https://kottke.org/quick-links"/>
+        <updated>2021-05-11T16:52:01.000Z</updated>
+        <summary type="html"><![CDATA[TurboVax, the personal side-project site that centralized all of NYC's vaccine appointments, is closing down because vaccine availability is widespread now. Bravo! [twitter.com]
+On Monday, England, Scotland, and Northern Ireland recorded zero deaths from Covid-19. Lockdown + strong vaccine rollout saved thousands of lives. [bbc.com]
+The FDA has approved the Pfizer/BioNTech Covid-19 vaccine for 12- to 15-year-olds. (The CDC still needs to sign off.) [nytimes.com]
+---
+Note: Quick Links are pushed to this RSS …]]></summary>
+        <author>
+            <name>kottke.org</name>
         </author>
     </entry>
     <entry>
@@ -663,6 +1464,87 @@ model corresponded to TCP/IP.
 S…]]></summary>
         <author>
             <name>Julia Evans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Governor Abbott, Will You Save My Life?]]></title>
+        <id>https://kottke.org/21/05/governor-abbott-will-you-save-my-life</id>
+        <link href="https://kottke.org/21/05/governor-abbott-will-you-save-my-life"/>
+        <updated>2021-05-11T14:12:25.000Z</updated>
+        <summary type="html"><![CDATA[Quintin Jones murdered his aunt in 1999 and is scheduled to be executed on May 19, 2021. He admits his guilt, his family has forgiven him, and in this video, he shares his thoughts about personal growth & death and asks Texas governor Greg Abbott to spare his life.
+During his 21 years on death row, Quin has been the epitome of a prison success story. He entered at an unimaginable low, as lost as a soul can be. And through prayer, sobriety, reconciliation with his family, and longstanding correspondence with…]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Four Quick Links for Monday Afternoon]]></title>
+        <id>https://kottke.org/quick-links</id>
+        <link href="https://kottke.org/quick-links"/>
+        <updated>2021-05-10T21:52:01.000Z</updated>
+        <summary type="html"><![CDATA[Huh, a new incarnation of StumbleUpon. [stumbled.cc]
+scroll + click. [lab.hakim.se]
+Vaccine Side Effect, or Have You Just Been Alive for 40 Years? "Q: Are you experiencing unusual nausea? A: I am nauseous, but it could be because I ate some fried food yesterday. Fried food upsets my stomach. So does spicy food. So does too much fiber." [mcsweeneys.net]
+It seems that con man Frank Abagnale, the basis of Spielberg's 'Catch Me if You Can', made up many of his criminal exploits. We really should have seen this …]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Colette]]></title>
+        <id>https://kottke.org/21/05/colette</id>
+        <link href="https://kottke.org/21/05/colette"/>
+        <updated>2021-05-10T20:09:51.000Z</updated>
+        <summary type="html"><![CDATA[Colette is a remarkable short documentary that won the Oscar this year in the Documentary Short Subject category. You can watch the film online courtesy of The Guardian.
+90-year-old Colette Marin-Catherine confronts her past by visiting the German concentration camp Mittelbau-Dora where her brother was killed. As a young girl, she fought Hitler’s Nazis as a member of the French Resistance. For 74 years, she has refused to step foot in Germany, but that changes when a young history student named Lucie enters…]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sports From Above]]></title>
+        <id>https://kottke.org/21/05/sports-from-above</id>
+        <link href="https://kottke.org/21/05/sports-from-above"/>
+        <updated>2021-05-10T18:04:09.000Z</updated>
+        <summary type="html"><![CDATA[Photographer Brad Walls (Insta) makes aerial photos of people playing sports, providing a new angle on the actions of divers, gymnasts, tennis players, synchronized swimmers, and figure skaters. (via petapixel)
+Tags: Brad Walls   photography   sports]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Half-Renovated Houses]]></title>
+        <id>https://kottke.org/21/05/half-renovated-houses</id>
+        <link href="https://kottke.org/21/05/half-renovated-houses"/>
+        <updated>2021-05-10T15:55:09.000Z</updated>
+        <summary type="html"><![CDATA[When the mining industry declined in the Ruhr region of Germany, workers began selling their houses…but only half of them. Colossal explains:
+When the once burgeoning coal industry in Ruhrgebiet, Germany, began to decline, many of the workers’ apartments were sold off. Oftentimes, new owners only purchased half of the building — miners maintained a lifelong right of residence to their quarters — creating a stark split between the left and right sides of the structure.
+
+
+Photographer Wolfgang Fröhling docume…]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US Quarters to Honor Maya Angelou and Sally Ride]]></title>
+        <id>https://kottke.org/21/05/us-quarters-to-honor-maya-angelou-and-sally-ride</id>
+        <link href="https://kottke.org/21/05/us-quarters-to-honor-maya-angelou-and-sally-ride"/>
+        <updated>2021-05-10T13:51:42.000Z</updated>
+        <summary type="html"><![CDATA[Starting in 2022, the US Mint will release into circulation 20 quarters featuring notable American women as part of the American Women Quarters Program. From the US Mint:
+The American Women Quarters may feature contributions from a variety of fields, including, but not limited to, suffrage, civil rights, abolition, government, humanities, science, space, and the arts. The women honored will be from ethnically, racially, and geographically diverse backgrounds. The Public Law requires that no living person be…]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swiftly Speaking]]></title>
+        <id>https://cate.blog/?p=53241</id>
+        <link href="https://cate.blog/2021/05/10/swiftly-speaking/"/>
+        <updated>2021-05-10T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I recorded an episode of Swiftly Speaking with Paul Hudson. We talked about: Privacy and why developers should care about it. Working in Open Source. Public speaking. It is pretty long (~90 mins!) but was super fun to record and go into these topics in depth.]]></summary>
+        <author>
+            <name>Cate</name>
         </author>
     </entry>
     <entry>
@@ -692,6 +1574,17 @@ Removed: href for each source in cache. The value was never used so it's not a b
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Magic Lasso]]></title>
+        <id>https://www.magiclasso.co/</id>
+        <link href="https://www.magiclasso.co/"/>
+        <updated>2021-05-09T18:01:36.000Z</updated>
+        <summary type="html"><![CDATA[My thanks to Magic Lasso for sponsoring last week at DF. Magic Lasso Adblock is an efficient, high performance ad blocker for your iPhone, iPad, and Mac.  Magic Lasso Adblock provides up to a 2.0× speed increase on common websites, improves your privacy and security by removing ad trackers, and works with Safari across all Apple devices. It works and feels as if Apple themselves had designed an ad blocker.
+And unlike some other ad blockers, Magic Lasso Adblock respects your privacy, doesn’t accept payment f…]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[v1.5.0]]></title>
         <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0</id>
         <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0"/>
@@ -703,6 +1596,402 @@ Changed: Favicon, css, and js assets now existing at site root level.
 Chore: Excluded testing files from repo.]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flurry Analytics: 96 Percent of iOS 14.5 Users in U.S. Have Opted Out of App Tracking]]></title>
+        <id>https://www.flurry.com/blog/ios-14-5-opt-in-rate-att-restricted-app-tracking-transparency-worldwide-us-daily-latest-update/</id>
+        <link href="https://www.flurry.com/blog/ios-14-5-opt-in-rate-att-restricted-app-tracking-transparency-worldwide-us-daily-latest-update/"/>
+        <updated>2021-05-08T01:59:43.000Z</updated>
+        <summary type="html"><![CDATA[I don’t know, seems low to me.
+ ★]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[P.R.E.S.T.A.V.B.A. (1988)]]></title>
+        <id>https://waxy.org/?p=41438</id>
+        <link href="https://if50.substack.com/p/1988-prestavba"/>
+        <updated>2021-05-07T20:36:07.000Z</updated>
+        <summary type="html"><![CDATA[teen hackers in communist Czechoslovakia made and swapped illegal protest text games on bootleg cassettes #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Circumvents Roku Ban by Adding YouTube TV to the Main YouTube App]]></title>
+        <id>https://blog.youtube/news-and-events/next-steps-youtube-tv-members-roku/</id>
+        <link href="https://blog.youtube/news-and-events/next-steps-youtube-tv-members-roku/"/>
+        <updated>2021-05-07T20:20:09.000Z</updated>
+        <summary type="html"><![CDATA[Google’s official YouTube blog:
+Today, we’re introducing a new feature that gives you access to
+YouTube TV from within the YouTube app, making it easier to enjoy
+all the content you love. Existing members can easily access
+YouTube TV by clicking on “Go to YouTube TV” in the main YouTube
+app. This update will be available to all YouTube TV members on
+Roku over the next few days, and we will expand to as many devices
+as we can over time.
+Translation: Fuck you, Roku. We dare you to ban the YouTube app.
+Separat…]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genesis Noir leads IGF 2021 finalists]]></title>
+        <id>https://waxy.org/?p=41431</id>
+        <link href="https://igf.com/article/genesis-noir-leads-igf-finalists-four-nominations"/>
+        <updated>2021-05-07T20:12:12.000Z</updated>
+        <summary type="html"><![CDATA[as always, an incredible year of indie games to seek out and play #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stumbled]]></title>
+        <id>https://waxy.org/?p=41427</id>
+        <link href="https://stumbled.cc/"/>
+        <updated>2021-05-07T20:08:40.000Z</updated>
+        <summary type="html"><![CDATA[StumbleUpon reborn, it immediately paid off for me with this laser bagpipe #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Hires Stella Low, Formerly of Cisco, as New Communications Boss]]></title>
+        <id>https://www.buzzfeednews.com/article/johnpaczkowski/apple-taps-stella-low-as-new-communications-chief</id>
+        <link href="https://www.buzzfeednews.com/article/johnpaczkowski/apple-taps-stella-low-as-new-communications-chief"/>
+        <updated>2021-05-07T19:57:31.000Z</updated>
+        <summary type="html"><![CDATA[John Paczkowski, reporting for BuzzFeed News:
+Apple has hired a new vice president of worldwide corporate
+communications. Stella Low, former communications chief at
+networking giant Cisco, will take on the role, which has been
+unfilled since late 2019.
+A tech industry veteran, Low has done stints at Unisys and Dell,
+where she served as senior vice president of communications.
+She’ll report directly to Apple CEO Tim Cook. […]
+Low will succeed Steve Dowling, who served as Apple’s head of
+corporate public rela…]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Tesla Privately Admits Elon Musk Has Been Exaggerating About “Full Self-Driving”’]]></title>
+        <id>https://www.theverge.com/2021/5/7/22424592/tesla-elon-musk-autopilot-dmv-fsd-exaggeration</id>
+        <link href="https://www.theverge.com/2021/5/7/22424592/tesla-elon-musk-autopilot-dmv-fsd-exaggeration"/>
+        <updated>2021-05-07T17:44:49.000Z</updated>
+        <summary type="html"><![CDATA[Exaggerating or straight-up lying, you make the call. 
+ ★]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Script Debugger 8]]></title>
+        <id>https://latenightsw.com/</id>
+        <link href="https://latenightsw.com/"/>
+        <updated>2021-05-07T17:17:42.000Z</updated>
+        <summary type="html"><![CDATA[New version of Late Night Software’s amazing Script Debugger:
+You want your computer systems to be simple, reliable and
+automatic. Script Debugger is the integrated development
+environment that makes that happen by making your AppleScript
+coding easier, faster, and more transparent. And now Script
+Debugger runs natively on M1 Macs, with full support for universal
+applets, Dark Mode, and themes.
+For anyone who uses AppleScript seriously, Script Debugger is a veritable bargain at $99 (with generous upgrade pr…]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[★ 70/30 Is Fine for Me, but Not for Thee]]></title>
+        <id>https://daringfireball.net/2021/05/70_30_fine_for_me_but_not_for_thee</id>
+        <link href="https://daringfireball.net/2021/05/70_30_fine_for_me_but_not_for_thee"/>
+        <updated>2021-05-07T17:03:37.000Z</updated>
+        <summary type="html"><![CDATA[Tom Warren, writing for The Verge last week:
+Microsoft is shaking up the world of PC gaming today with a big
+cut to the amount of revenue it takes from games on Windows. The
+software giant is reducing its cut from 30 percent to just 12
+percent from August 1st, in a clear bid to compete with Steam and
+entice developers and studios to bring more PC games to its
+Microsoft Store. […]
+These changes will only affect PC games and not Xbox console games
+in Microsoft’s store. While Microsoft hasn’t explained why it’…]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook Remains a Right-Wing Amplification Tool]]></title>
+        <id>https://twitter.com/facebookstop10</id>
+        <link href="https://twitter.com/facebookstop10"/>
+        <updated>2021-05-07T16:12:42.000Z</updated>
+        <summary type="html"><![CDATA[Worth remembering, amidst all the Republican claims that Facebook’s continuing exile of Donald Trump from its platforms is proof that the company is biased against Republicans, that its algorithms are clearly biased in favor of them because Facebook optimizes for engagement above all else, and angry right-wing partisan misinformation is addictive content for wingnuts.
+New York Times columnist Kevin Roose tracks the top-performing link posts on Facebook every day, and every day, they are dominated by one thi…]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kara Swisher on Trump’s Continuing Exile From Facebook]]></title>
+        <id>https://www.nytimes.com/2021/05/05/opinion/trump-facebook-oversight-board.html</id>
+        <link href="https://www.nytimes.com/2021/05/05/opinion/trump-facebook-oversight-board.html"/>
+        <updated>2021-05-07T15:26:55.000Z</updated>
+        <summary type="html"><![CDATA[Kara Swisher, writing at The New York Times:
+In general, I have considered the case of Mr. Trump to be much
+less complex than people seem to think. And it has been made
+to appear highly complicated by big tech companies like
+Facebook because they want to exhaust us all in a noisy and
+intractable debate.
+Mr. Trump should be seen as an outlier — a lone, longtime rule
+breaker who was coddled and protected on social media platforms
+until he wandered into seditious territory. He’s an unrepentant
+gamer of Faceboo…]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yours Truly on Peter Kafka’s ‘Recode Media’ Podcast, Talking Epic vs. Apple]]></title>
+        <id>https://www.vox.com/recode/2021/5/6/22421760/apple-antitrust-john-gruber-app-store-epic-fortnite-spotify-podcast-recode-media</id>
+        <link href="https://www.vox.com/recode/2021/5/6/22421760/apple-antitrust-john-gruber-app-store-epic-fortnite-spotify-podcast-recode-media"/>
+        <updated>2021-05-07T01:01:12.000Z</updated>
+        <summary type="html"><![CDATA[Peter Kafka was kind enough to invite me on his podcast this week to talk — a little! — about the Epic-Apple lawsuit that started in court this week. I think I articulated pretty well my takes on what Apple should be allowed to do with the App Store and iOS, and what Apple should do with the App Store and iOS. I’m linking here to Kafka’s story for Recode about our discussion, but here are direct listening links for the episode. I say listen before you read, if you have time:
+Overcast.
+Apple Podcasts.
+Recode…]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Negativland’s Tiny Desk (Home) Concert]]></title>
+        <id>https://waxy.org/?p=41424</id>
+        <link href="https://www.youtube.com/watch?v=CajCimN0hf8"/>
+        <updated>2021-05-07T00:43:23.000Z</updated>
+        <summary type="html"><![CDATA[a tiny desk I never expected to see #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neopets’ blackmarket pet scandal, explained]]></title>
+        <id>https://waxy.org/?p=41421</id>
+        <link href="https://www.polygon.com/videos/2021/5/6/22423404/neopets-future-black-market-drama"/>
+        <updated>2021-05-07T00:39:32.000Z</updated>
+        <summary type="html"><![CDATA[Simone de Rochefort dives into the site's history, current drama, and future #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LiveLeak shuttered after 15 years]]></title>
+        <id>https://waxy.org/?p=41418</id>
+        <link href="https://www.vice.com/en/article/qj88w7/liveleak-the-infamous-site-for-beheading-videos-is-gone"/>
+        <updated>2021-05-07T00:37:19.000Z</updated>
+        <summary type="html"><![CDATA[I never knew until today that it started as an offshoot of internet shock site Ogrish #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Art in the Oval Office Through the Decades]]></title>
+        <id>https://www.nytimes.com/interactive/2021/05/05/arts/design/oval-office-art.html</id>
+        <link href="https://www.nytimes.com/interactive/2021/05/05/arts/design/oval-office-art.html"/>
+        <updated>2021-05-06T22:20:09.000Z</updated>
+        <summary type="html"><![CDATA[Great visualizations from The New York Times. I like Biden’s choices.
+ ★]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The World’s Most Beautiful Gas Stations]]></title>
+        <id>https://kottke.org/21/05/the-worlds-most-beautiful-gas-stations</id>
+        <link href="https://kottke.org/21/05/the-worlds-most-beautiful-gas-stations"/>
+        <updated>2021-05-06T20:17:59.000Z</updated>
+        <summary type="html"><![CDATA[I pulled some of my favorite images of gas stations from the following sources: Get Pumped: 8 Filling Stations Fueled By Great Design, It’s a Gas!: The Allure of the Gas Station, Gas Station Design — The World’s 10 Best Filling Stations for 2017, It’s Weird, But We’re Super Inspired by Gas Station Design, and Sometimes, Gas Stations Are Beautiful. May these buildings and their less attractive brethren soon fade into obsolescence, be converted to electric car/bike charging stations, or be repurposed for othe…]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Report finds ISPs funded fake net neutrality comments]]></title>
+        <id>https://waxy.org/?p=41410</id>
+        <link href="https://www.theverge.com/2021/5/6/22422818/net-neutrality-rollback-ajit-pai-telecom-broadband-new-york-attorney-general"/>
+        <updated>2021-05-06T18:22:37.000Z</updated>
+        <summary type="html"><![CDATA[18 out of 22 million comments were fake, 7.7 million from a single 19-year-old college student #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thom Yorke, From The Basement]]></title>
+        <id>https://kottke.org/21/05/thom-yorke-from-the-basement</id>
+        <link href="https://kottke.org/21/05/thom-yorke-from-the-basement"/>
+        <updated>2021-05-06T18:06:08.000Z</updated>
+        <summary type="html"><![CDATA[In 2005, Thom Yorke recorded a 15-minute set for the From The Basement series — just him, a piano, and a microphone. He sang Videotape from In Rainbows and Last Flowers & Down Is the New Up from In Rainbows Disk 2. Lovely.
+See also Radiohead, From The Basement.
+Tags: music   Radiohead   Thom Yorke   video]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More on Night Shift and Sleep Benefits]]></title>
+        <id>https://mjtsai.com/blog/2021/05/05/night-shift-sleep-study/</id>
+        <link href="https://mjtsai.com/blog/2021/05/05/night-shift-sleep-study/"/>
+        <updated>2021-05-06T16:55:21.000Z</updated>
+        <summary type="html"><![CDATA[Michael Tsai, regarding that BYU study suggesting that Night Shift doesn’t really offer any sleep benefits:
+Sleep benefits or not, I do find it more comfortable. Perhaps
+BYU’s results differ from previous studies because Night Shift
+shifts the colors much less than f.lux or blue light glasses.
+I’ve long heard from friends and readers who enjoy Night Shift (and f.lux) simply because they feel it reduces eye strain. Comfort is comfort — if you think Night Shift feels easier on your eyes, go ahead and use it. …]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Low Poly Landscapes]]></title>
+        <id>https://kottke.org/21/05/low-poly-landscapes</id>
+        <link href="https://kottke.org/21/05/low-poly-landscapes"/>
+        <updated>2021-05-06T16:03:37.000Z</updated>
+        <summary type="html"><![CDATA[Lovely work here by Elyse Dodge — these look like half-finished renderings by the machine that’s simulating our universe. You can keep up with her work on Instagram or get some for yourself in her shop. (via moss & fog)
+Tags: art   Elyse Dodge]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shadows in the Sky]]></title>
+        <id>https://kottke.org/21/05/shadows-in-the-sky</id>
+        <link href="https://kottke.org/21/05/shadows-in-the-sky"/>
+        <updated>2021-05-06T14:00:27.000Z</updated>
+        <summary type="html"><![CDATA[Always a treat to watch a new time lapse storm video from Mike Olbinski. It’s in 8K as well, so if you have the bandwidth and the screen resolution, this is going to look extra good. You can see more of Olbinski’s breathtaking videos here as well as plenty more cloud content. kottke.org: home of fine cloud products. (via colossal)
+Tags: clouds   Mike Olbinski   time lapse   video]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Berkshire Hathaway’s Stock Price vs. 32-Bit Integers]]></title>
+        <id>https://www.wsj.com/articles/berkshire-hathaways-stock-price-is-too-much-for-computers-11620168548</id>
+        <link href="https://www.wsj.com/articles/berkshire-hathaways-stock-price-is-too-much-for-computers-11620168548"/>
+        <updated>2021-05-06T01:45:46.000Z</updated>
+        <summary type="html"><![CDATA[Alexander Osipovich, reporting for The Wall Street Journal (News+ link):
+Berkshire Hathaway Inc. is trading at more than $421,000 per Class
+A share, and the market is optimistic. That’s a problem. […] On
+Tuesday, Nasdaq Inc. temporarily suspended broadcasting prices for
+Class A shares of Berkshire over several popular data feeds. Such
+feeds provide real-time price updates for a number of online
+brokerages and finance websites.
+Nasdaq’s computers can only count so high because of the compact
+digital format t…]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nuzzel Is Shutting Down After Acquisition by Twitter]]></title>
+        <id>https://blog.nuzzel.com/nuzzel-is-going-away-for-now/</id>
+        <link href="https://blog.nuzzel.com/nuzzel-is-going-away-for-now/"/>
+        <updated>2021-05-06T01:32:28.000Z</updated>
+        <summary type="html"><![CDATA[Tony Haile, writing yesterday at the Nuzzel blog:
+Simply cloning a service conceived in 2012 doesn’t make a ton of
+sense. Instead we’re going to spend a little time working out how
+the best of Nuzzel should be expressed in 2021. There may be
+elements of Nuzzel that also belong in the Twitter app or that can
+take advantage of new internal APIs.
+In the meantime, Nuzzel’s app, site and email service will go
+dark. To those of you who love Nuzzel and are disappointed that
+we can’t maintain Nuzzel as-is in the in…]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter Will Start Prompting Users to Reconsider Tweets Flagged as Angry or Offensive]]></title>
+        <id>https://blog.twitter.com/en_us/topics/product/2021/tweeting-with-consideration.html</id>
+        <link href="https://blog.twitter.com/en_us/topics/product/2021/tweeting-with-consideration.html"/>
+        <updated>2021-05-06T00:17:43.000Z</updated>
+        <summary type="html"><![CDATA[Anita Butler and Alberto Parrella, writing on Twitter’s product blog:
+People come to Twitter to talk about what’s happening, and
+sometimes conversations about things we care about can get intense
+and people say things in the moment they might regret later.
+That’s why in 2020, we tested
+prompts
+that encouraged people to pause and reconsider a potentially
+harmful or offensive reply before they hit send.
+Based on feedback and learnings from those tests, we’ve made
+improvements to the systems that decide when a…]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rolling Stone: The 100 Best TV Sitcoms of All Time]]></title>
+        <id>https://www.rollingstone.com/tv/tv-lists/best-tv-sitcoms-1162237/schitts-creek-2015-2020-1163263/</id>
+        <link href="https://www.rollingstone.com/tv/tv-lists/best-tv-sitcoms-1162237/schitts-creek-2015-2020-1163263/"/>
+        <updated>2021-05-06T00:04:58.000Z</updated>
+        <summary type="html"><![CDATA[No one is going to agree completely with any such list, but man, this one comes really close to being hard to argue with. I think they got the top 3 exactly right, and the top 10 is pretty close. (I’ll quibble most with The Larry Sanders Show at #10 — I’d have rated it in the top 5, no question — but my profoundly deep affection for that show probably biases me.)
+ ★]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Otherworldly Sounds of Ice]]></title>
+        <id>https://kottke.org/21/05/the-otherworldly-sounds-of-ice</id>
+        <link href="https://kottke.org/21/05/the-otherworldly-sounds-of-ice"/>
+        <updated>2021-05-05T18:31:07.000Z</updated>
+        <summary type="html"><![CDATA[The holes drilled into Arctic, Antarctic, and glacial ice to harvest ice cores can be up to 2 miles deep. One of my all-time favorite sounds is created by dropping ice down into one of these holes — it makes a super-cool pinging noise, as demonstrated in these two videos:
+
+
+Ice makes similar sounds under other conditions, like if you skip rocks on a frozen lake:
+
+Or skate on really thin ice (ok this might actually be my favorite sound, with apologies to the ice core holes):
+
+Headphones are recommended for a…]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three Quick Links for Wednesday Noonish]]></title>
+        <id>https://kottke.org/quick-links</id>
+        <link href="https://kottke.org/quick-links"/>
+        <updated>2021-05-05T16:52:01.000Z</updated>
+        <summary type="html"><![CDATA[A list of the 100 best sitcoms of all time. Frasier over Fleabag? No thank you. [rollingstone.com]
+How Filippo Brunelleschi, Untrained in Architecture or Engineering, Built the World’s Largest Dome at the Dawn of the Renaissance. [openculture.com]
+For a number of reasons (like a new less-lively ball), MLB hitters are having trouble getting on base this season, "maintaining a .233 batting average, the lowest mark in the league's 150-year history". [bleacherreport.com]
+---
+Note: Quick Links are pushed to this…]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘These Little Packets of Condiments Become Like Caviar’]]></title>
+        <id>https://www.theringer.com/tv/2021/5/5/22417569/sopranos-pine-barrens-oral-history</id>
+        <link href="https://www.theringer.com/tv/2021/5/5/22417569/sopranos-pine-barrens-oral-history"/>
+        <updated>2021-05-05T15:55:32.000Z</updated>
+        <summary type="html"><![CDATA[Fantastic piece from The Ringer: an oral history of “Pine Barrens”, arguably the best episode of The Sopranos.
+ ★]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump Suspension From Facebook Upheld by Oversight Board]]></title>
+        <id>https://www.nytimes.com/2021/05/05/technology/facebook-trump-ban-upheld.html</id>
+        <link href="https://www.nytimes.com/2021/05/05/technology/facebook-trump-ban-upheld.html"/>
+        <updated>2021-05-05T14:30:57.000Z</updated>
+        <summary type="html"><![CDATA[Mike Isaac, reporting for The New York Times:
+Facebook’s Oversight Board, which acts as a quasi-court to deliberate the company’s content decisions, said the social network was right to bar Mr. Trump after he used the site to foment an insurrection in Washington in January. The panel said the ongoing risk of violence “justified” the suspension. But the board also said that Facebook’s penalty of an indefinite suspension was “not appropriate,” and that the company should apply a “defined penalty.” The board g…]]></summary>
+        <author>
+            <name>Daring Fireball</name>
         </author>
     </entry>
     <entry>
@@ -762,6 +2051,206 @@ Chore: Refactored parameter passing for enrich step.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Signal banned from running Instagram ads revealing how much Facebook knows about you]]></title>
+        <id>https://waxy.org/?p=41403</id>
+        <link href="https://signal.org/blog/the-instagram-ads-you-will-never-see/"/>
+        <updated>2021-05-05T03:24:06.000Z</updated>
+        <summary type="html"><![CDATA[a stunt, but a good one #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BYU Study Suggests Night Shift Doesn’t Help People Sleep]]></title>
+        <id>https://news.byu.edu/intellect/is-night-shift-really-helping-you-sleep-better</id>
+        <link href="https://news.byu.edu/intellect/is-night-shift-really-helping-you-sleep-better"/>
+        <updated>2021-05-05T02:18:07.000Z</updated>
+        <summary type="html"><![CDATA[Cami Buckley, writing for BYU News:
+Until recently, claims of better sleep due to Night Shift have
+been theoretical. However, a new study from BYU published in
+Sleep Health challenges the premise made by phone manufacturers
+and found that the Night Shift functionality does not actually
+improve sleep.
+To test the theory, BYU psychology professor Chad Jensen and
+researchers from the Cincinnati Children’s Hospital Medical Center
+compared the sleep outcomes of individuals in three categories:
+those who used the…]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook and Instagram Apps Ask iOS 14 Users to Permit Surveillance Tracking to ‘Help Keep Facebook Free of Charge’]]></title>
+        <id>https://www.imore.com/facebook-and-instagram-threaten-charge-access-ios-145-unless-you-give-it-your-data</id>
+        <link href="https://www.imore.com/facebook-and-instagram-threaten-charge-access-ios-145-unless-you-give-it-your-data"/>
+        <updated>2021-05-04T23:21:44.000Z</updated>
+        <summary type="html"><![CDATA[That’d be just adorable if Facebook and Instagram started charging users because of mean old Apple. I’m sure that’s really on the table and this isn’t utterly shameless.
+ ★]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Never Perfect, Indeed]]></title>
+        <id>https://themarkup.org/citizen-browser/2021/05/04/facebook-pledges-to-remove-discriminatory-credit-and-loan-ads-discovered-by-the-markup</id>
+        <link href="https://themarkup.org/citizen-browser/2021/05/04/facebook-pledges-to-remove-discriminatory-credit-and-loan-ads-discovered-by-the-markup"/>
+        <updated>2021-05-04T23:14:23.000Z</updated>
+        <summary type="html"><![CDATA[Alfred Ng and Corin Faife, reporting for The Markup:
+Facebook says it will remove ads from several companies that
+violated its anti-discrimination policy after The Markup
+discovered companies targeting financial
+services
+to specific age groups on the platform. Facebook policy prohibits
+advertisers from discriminating by
+age
+when running ads for things like credit cards and loans.
+The Markup’s report was published on April 29. Facebook didn’t
+respond to multiple requests for comment but reached out to
+The Ma…]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Signal Ran Instagram Ads That Reveal What They Know About You and Facebook Quickly Banned Them]]></title>
+        <id>https://signal.org/blog/the-instagram-ads-you-will-never-see/</id>
+        <link href="https://signal.org/blog/the-instagram-ads-you-will-never-see/"/>
+        <updated>2021-05-04T23:02:09.000Z</updated>
+        <summary type="html"><![CDATA[Jun Harada, writing on the Signal blog:
+We created a multi-variant targeted ad designed to show you the
+personal data that Facebook collects about you and sells access
+to. The ad would simply display some of the information collected
+about the viewer which the advertising platform uses. Facebook was
+not into that idea.
+Facebook is more than willing to sell visibility into people’s
+lives, unless it’s to tell people about how their data is being
+used. Being transparent about how ads use people’s data is
+appar…]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verizon Sells AOL and Yahoo to Private Equity Group for $5 Billion]]></title>
+        <id>https://www.nytimes.com/2021/05/03/business/verizon-aol-yahoo-sale.html</id>
+        <link href="https://www.nytimes.com/2021/05/03/business/verizon-aol-yahoo-sale.html"/>
+        <updated>2021-05-04T20:28:55.000Z</updated>
+        <summary type="html"><![CDATA[Edmund Lee and Lauren Hirsch, reporting for The New York Times:
+Yahoo and AOL, kings of the early internet, saw their fortunes
+decline as Silicon Valley raced ahead to create new digital
+platforms. Google replaced Yahoo. AOL was supplanted by cable
+giants. Now they will become the property of private equity.
+Verizon, their current owner, agreed to sell them to Apollo
+Global Management in a deal worth $5 billion, the companies
+announced Monday.
+In 2002, Yahoo had the chance to buy Google for $1 billion; they…]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scorecard]]></title>
+        <id>https://www.getscorecard.app/</id>
+        <link href="https://www.getscorecard.app/"/>
+        <updated>2021-05-04T20:10:02.000Z</updated>
+        <summary type="html"><![CDATA[New iOS app from the keen minds at Lickability: a deceptively simple utility for keeping score of tabletop games. Lots to love: AirPlay support (so you can show the score on a TV), $5 pay-once-and-you’re-done pricing, a “no data collected” privacy nutrition label, and the app weighs only 5.5 MB.
+ ★]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[★ Apple and the Built-In Advantage]]></title>
+        <id>https://daringfireball.net/2021/05/apple_built_in_advantage</id>
+        <link href="https://daringfireball.net/2021/05/apple_built_in_advantage"/>
+        <updated>2021-05-04T15:36:53.000Z</updated>
+        <summary type="html"><![CDATA[Marques Brownlee has a great video this week on Apple’s ability to disrupt product categories with better integration. Take a break and watch it if you haven’t already — like everything from MKBHD, it goes down easy.
+The basic idea is evergreen, and is in no way specific to Apple. Smaller companies make products that build upon, or fill gaps within, platforms from larger companies. The best of those ideas — ideas that truly would be better “built in”, eventually do get built in. The small innovators need to…]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Sponsor] Magic Lasso Adblock]]></title>
+        <id>https://www.magiclasso.co/</id>
+        <link href="https://www.magiclasso.co/"/>
+        <updated>2021-05-04T01:24:49.000Z</updated>
+        <summary type="html"><![CDATA[Wish you could browse the web quickly, smoothly, and anonymously with no intrusive advertising?  
+Magic Lasso Adblock is an efficient, high performance ad blocker for your iPhone, iPad and Mac.  
+As a native Safari content blocking extension, Magic Lasso simply blocks all intrusive ads, pop ups and trackers. Just enable to browse in bliss.  
+As the fastest, most efficient Safari ad blocker available, 200,000+ users rely on Magic Lasso Adblock to:  
+Browse common websites 2.0× faster
+Improve privacy and secu…]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Basecamp Blew Up]]></title>
+        <id>https://waxy.org/?p=41399</id>
+        <link href="https://www.platformer.news/p/-how-basecamp-blew-up"/>
+        <updated>2021-05-04T00:10:47.000Z</updated>
+        <summary type="html"><![CDATA[incredible reporting from Casey Newton on the disastrous all-hands meeting that led to a third of the company quitting #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Are No-Vaxxers Thinking?]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2021/05/the-people-who-wont-get-the-vaccine/618765/</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2021/05/the-people-who-wont-get-the-vaccine/618765/"/>
+        <updated>2021-05-03T22:35:02.000Z</updated>
+        <summary type="html"><![CDATA[Derek Thompson, writing for The Atlantic:
+What are they thinking, these vaccine-hesitant, vaccine-resistant,
+and COVID-apathetic? I wanted to know. So I posted an invitation
+on Twitter for anybody who wasn’t planning to get vaccinated to
+email me and explain why. In the past few days, I spoke or
+corresponded with more than a dozen such people. I told them that
+I was staunchly
+pro-vaccine,
+but this wouldn’t be a takedown piece. I wanted to produce an
+ethnography of a position I didn’t really understand. […]
+…]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MacOS Big Sur 11.3.1 Released, Fixes WebKit Vulnerabilities]]></title>
+        <id>https://support.apple.com/en-us/HT212335</id>
+        <link href="https://support.apple.com/en-us/HT212335"/>
+        <updated>2021-05-03T19:43:06.000Z</updated>
+        <summary type="html"><![CDATA[Apple’s release notes for the MacOS 11.3.1 update:
+Impact: Processing maliciously crafted web content may lead to
+arbitrary code execution. Apple is aware of a report that this
+issue may have been actively exploited.
+Update: There are now updates for iOS (14.5.1 and 12.5.3) and WatchOS (7.4.1) that fix the same WebKit vulnerabilities.
+ ★]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verizon sells Yahoo and AOL to private equity firm]]></title>
+        <id>https://waxy.org/?p=41396</id>
+        <link href="https://www.nytimes.com/2021/05/03/business/verizon-aol-yahoo-sale.html"/>
+        <updated>2021-05-03T19:16:50.000Z</updated>
+        <summary type="html"><![CDATA[the new company will be just called "Yahoo," finally dropping the exclamation point #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Book: Let’s Talk]]></title>
+        <id>https://cate.blog/?p=53229</id>
+        <link href="https://cate.blog/2021/05/03/book-lets-talk/"/>
+        <updated>2021-05-03T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Let’s Talk: Make Effective Feedback Your Superpower (Amazon) was so good – I read an interview with the author, ordered it immediately, read it soon after, and was already recommending it to people a few chapters in. It’s a book about feedback, which, cool, plenty of them, and plenty of conversations about feedback. The thing […]]]></summary>
+        <author>
+            <name>Cate</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[I put all of my comics online!]]></title>
         <id>https://jvns.ca/blog/2021/05/02/publishing-comics/</id>
         <link href="https://jvns.ca/blog/2021/05/02/publishing-comics/"/>
@@ -777,6 +2266,222 @@ used in the tweet, and also sort through a bu…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Point Card]]></title>
+        <id>https://link.point.app/DARINGFIREBALL</id>
+        <link href="https://link.point.app/DARINGFIREBALL"/>
+        <updated>2021-05-02T00:06:56.000Z</updated>
+        <summary type="html"><![CDATA[My thanks to Point Card for sponsoring this week at DF. Everyone loves rewards and benefits on credit cards. But there’s one thing none of us like — interest rates that pile up into debt. Now you can have the best of both worlds with all the points and none of the risk. Point Card gives you unlimited cash back on every purchase and special access to bonus point offers on some of the best brands out there. The whole experience is elevated with Point App which offers concierge-level service in a clean, obsess…]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Curios returns]]></title>
+        <id>https://waxy.org/?p=41392</id>
+        <link href="https://webcurios.co.uk/"/>
+        <updated>2021-05-01T23:46:57.000Z</updated>
+        <summary type="html"><![CDATA[after a nine-month hiatus, Matt Muir's link-laden newsletter is back and at its own domain #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lena]]></title>
+        <id>https://waxy.org/?p=41388</id>
+        <link href="https://qntm.org/mmacevedo"/>
+        <updated>2021-05-01T23:43:42.000Z</updated>
+        <summary type="html"><![CDATA[fictional Wikipedia entry about the first executable image of a human brain #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Captain Yajima]]></title>
+        <id>https://waxy.org/?p=41385</id>
+        <link href="https://www.youtube.com/watch?v=l-TJm7HkzkQ"/>
+        <updated>2021-05-01T20:03:04.000Z</updated>
+        <summary type="html"><![CDATA[Worthikids uses Blender to flawlessly mimic the feel of stop-motion animation #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Internal Combustion Engine]]></title>
+        <id>https://ciechanow.ski/internal-combustion-engine/</id>
+        <link href="https://ciechanow.ski/internal-combustion-engine/"/>
+        <updated>2021-05-01T16:53:04.000Z</updated>
+        <summary type="html"><![CDATA[Well-written and staggeringly well-illustrated and animated guide explaining how internal combustion engines work, by Bartosz Ciechanowski. Would love to know how he made these animated models.
+Update: Ciechanowski: “I did the 3D models in [@Shapr3D] with small post processing in Blender, animations are just done by hand.”
+ ★]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Protocol Previews Next Week’s Epic Games v. Apple Court Case]]></title>
+        <id>https://www.protocol.com/apple-epic-trial/epic-games-apple-lawsuit</id>
+        <link href="https://www.protocol.com/apple-epic-trial/epic-games-apple-lawsuit"/>
+        <updated>2021-05-01T14:41:15.000Z</updated>
+        <summary type="html"><![CDATA[Protocol:
+Epic v. Apple starts Monday and is estimated to last about three weeks. In total, each side will have 45 hours to present its case. Gonzalez Rogers has been overseeing the case since the beginning and will preside over the trial as well.
+The trial will be held largely in person, but with only six people per side allowed in the courtroom at a time. (A few witnesses will testify over Zoom.) Masks have been a contentious issue, with the court ruling that attorneys will be required to wear masks, but …]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Outlines iMac Retail Availability]]></title>
+        <id>https://512pixels.net/2021/04/apple-outlines-imac-retail-availability/</id>
+        <link href="https://512pixels.net/2021/04/apple-outlines-imac-retail-availability/"/>
+        <updated>2021-05-01T14:27:27.000Z</updated>
+        <summary type="html"><![CDATA[As noted by Stephen Hackett, only the green, blue, pink, and silver iMacs will be stocked in Apple retail stores. Yellow, orange, and purple are online-order only. But I wonder if they’ll have display models of the yellow/orange/purples ones, so folks can see them in person before ordering?
+ ★]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Techdirt: ‘Disney Got Itself an “If You Own a Themepark…” Carveout From Florida’s Blatantly Unconstitutional Social Media Moderation Bill’]]></title>
+        <id>https://www.techdirt.com/articles/20210430/10004546712/disney-got-itself-if-you-own-themepark-carveout-floridas-blatantly-unconstitutional-social-media-moderation-bill.shtml</id>
+        <link href="https://www.techdirt.com/articles/20210430/10004546712/disney-got-itself-if-you-own-themepark-carveout-floridas-blatantly-unconstitutional-social-media-moderation-bill.shtml"/>
+        <updated>2021-05-01T14:02:19.000Z</updated>
+        <summary type="html"><![CDATA[Mike Masnick, writing for Techdirt:
+But, it gets worse. Seeing as this is Florida, which (obviously) is a place where Disney has some clout — and Disney has famously powerful lobbyists all over the damn place — it appears that Disney made sure the Florida legislature gave them a carveout. Florida Senator Ray Rodriques introduced an amendment to the bill, which got included in the final vote. The original bill said that this would apply to any website with 100 million monthly individual users globally. The R…]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Talk Show: ‘The Sour Grapes Commission’]]></title>
+        <id>https://daringfireball.net/thetalkshow/2021/04/30/ep-313</id>
+        <link href="https://daringfireball.net/thetalkshow/2021/04/30/ep-313"/>
+        <updated>2021-05-01T00:26:56.000Z</updated>
+        <summary type="html"><![CDATA[Glenn Fleishman returns to the show to talk about last week’s “Spring Loaded” product announcements from Apple: subscription podcasts, AirTags, AppleTV, colorful Apple Silicon iMacs, and the M1 iPad Pros.
+Sponsored by:
+Yes Plz: Banish bad coffee from your kitchen and give Yes Plz a try today. Use promo code FIREBALL to take 5 bucks off your first shipment.
+Alex Weinstein: Want to tell a better story? Start with better music.
+Backblaze: Unlimited cloud backup for just $6/month. Start a free 15-day trial toda…]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Weather]]></title>
+        <id>https://helloweather.com/</id>
+        <link href="https://helloweather.com/"/>
+        <updated>2021-05-01T00:15:28.000Z</updated>
+        <summary type="html"><![CDATA[Longtime readers know I have a thing for good iPhone weather apps. I find weather apps to be an evergreen playground for design ideas — and that’s more true than ever now with iOS 14 widgets. One of my very favorites in recent years is Hello Weather. It’s attractive, original, and highly useful. (Good iPad support too.) Free to download and use, but they’ve got a Pro tier that unlocks even more, like Apple Watch complications and additional data sources. No ads, and their privacy nutrition label simply stat…]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roku-YouTube Dispute Escalates]]></title>
+        <id>https://www.protocol.com/youtube-tv-roku-issues</id>
+        <link href="https://www.protocol.com/youtube-tv-roku-issues"/>
+        <updated>2021-04-30T22:34:33.000Z</updated>
+        <summary type="html"><![CDATA[Janko Roettgers, reporting for Protocol:
+Roku is alleging that Google is using the YouTube TV negotiations
+to push it to enforce hardware requirements for future Roku
+products that could make Roku devices more expensive. This
+allegation bears some extra weight because of Google’s own
+Chromecast TV streaming device, which is currently selling for $20
+more than the cheapest Roku streamer. […]
+Roku also alleges that Google aims to dictate how the streaming
+device maker treats voice search results. According to…]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Basecamp employees quit en masse after politics ban and severance offer]]></title>
+        <id>https://waxy.org/?p=41381</id>
+        <link href="https://www.theverge.com/2021/4/30/22412714/basecamp-employees-memo-policy-hansson-fried-controversy"/>
+        <updated>2021-04-30T22:16:13.000Z</updated>
+        <summary type="html"><![CDATA[I counted 19 out of 57, fully one-third of their team, and those are just the ones who announced it publicly #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flu Has Disappeared Worldwide During the COVID Pandemic]]></title>
+        <id>https://www.scientificamerican.com/article/flu-has-disappeared-worldwide-during-the-covid-pandemic/</id>
+        <link href="https://www.scientificamerican.com/article/flu-has-disappeared-worldwide-during-the-covid-pandemic/"/>
+        <updated>2021-04-30T21:41:34.000Z</updated>
+        <summary type="html"><![CDATA[Katie Peek, reporting for Scientific American:
+Since the novel coronavirus began its global spread, influenza
+cases reported to the World Health Organization have dropped to
+minuscule levels. The reason, epidemiologists think, is that the
+public health measures taken to keep the coronavirus from
+spreading also stop the flu. Influenza viruses are transmitted in
+much the same way as SARS-CoV-2, but they are less effective at
+jumping from host to host.
+As Scientific American reported last fall, the drop-off in…]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eagerness to Receive Johnson & Johnson Vaccine]]></title>
+        <id>https://www.washingtonpost.com/health/johnson-and-johnson-vaccine-preference/2021/04/28/75ee6662-a770-11eb-bca5-048b2759a489_story.html</id>
+        <link href="https://www.washingtonpost.com/health/johnson-and-johnson-vaccine-preference/2021/04/28/75ee6662-a770-11eb-bca5-048b2759a489_story.html"/>
+        <updated>2021-04-30T21:32:01.000Z</updated>
+        <summary type="html"><![CDATA[The Washington Post:
+There is no government data yet on whether health authorities’
+10-day halt in administration of the Johnson & Johnson vaccine
+soured people on the product, and the company declined to discuss
+the matter. But in spot checks across the country, people seeking
+vaccines and officials dispensing them appear eager to resume
+using the vaccine, which is also easier to store and transport.
+On Tuesday, for example, 1,355 people at the racetrack chose
+Johnson & Johnson at the clinic run by Indiana…]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ElevationLab’s TagVault]]></title>
+        <id>https://www.elevationlab.com/products/tagvault</id>
+        <link href="https://www.elevationlab.com/products/tagvault"/>
+        <updated>2021-04-30T19:33:37.000Z</updated>
+        <summary type="html"><![CDATA[Sealed, waterproof, durable AirTag case from the fine folks at ElevationLab. $13, cheap!
+ ★]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snopes or Nopes]]></title>
+        <id>https://waxy.org/?p=41377</id>
+        <link href="https://www.monkeon.co.uk/snopesornopes/"/>
+        <updated>2021-04-30T17:59:55.000Z</updated>
+        <summary type="html"><![CDATA[guess whether Snopes fact-checks were true or not based on the article titles #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple's April Security update for 10.15.7 breaks Acorn version 6 and lower, as well as Retrobatch.]]></title>
+        <id>https://shapeof.com/archives/2021/4/apple_april_2021_security_update_and_acorn.html</id>
+        <link href="https://shapeof.com/archives/2021/4/apple_april_2021_security_update_and_acorn.html"/>
+        <updated>2021-04-29T19:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Update (May 2nd): Acorn 6.6.5 and Retrobatch 1.4.4 are out for anyone who has downloaded or purchased the apps directly from Flying Meat.
+These releases fix most of the problems introduced by the security update, but Flood Fill, Instant Alpha, and the Magic Wand tools are still broken in Acorn. The App Store version of Acorn has not been updated because there's no way to have a new version distributed once it's been removed from sale (even if it is put back on sale, because I tried that and it's not working…]]></summary>
+        <author>
+            <name>The Shape of Everything</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Colin’s Bear Animation, Revisited]]></title>
+        <id>https://waxy.org/?p=41370</id>
+        <link href="https://waxy.org/2021/04/colins-bear-animation-revisited/"/>
+        <updated>2021-04-28T23:58:04.000Z</updated>
+        <summary type="html"><![CDATA[Colin's Bear Animation is finding a new life on TikTok with thousands recreating its signature dance, though with a new soundtrack and context.]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Spotify’s Surprise]]></title>
         <id>https://stratechery.com/?p=5828</id>
         <link href="https://stratechery.com/2021/spotifys-surprise/"/>
@@ -787,6 +2492,218 @@ used in the tweet, and also sort through a bu…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Casey Newton on what really happened at Basecamp]]></title>
+        <id>https://waxy.org/?p=41366</id>
+        <link href="https://www.platformer.news/p/-what-really-happened-at-basecamp"/>
+        <updated>2021-04-28T00:18:47.000Z</updated>
+        <summary type="html"><![CDATA[the company banned societal/political discussions at work, to the surprise and dismay of its employees #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making animated glitter text with SVG]]></title>
+        <id>https://waxy.org/?p=41363</id>
+        <link href="https://wh0.github.io/2021/04/25/glitter.html"/>
+        <updated>2021-04-27T18:10:25.000Z</updated>
+        <summary type="html"><![CDATA[reproducing the Angelfire look with SVG's noise, color cycling, and blending features #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Yayagram]]></title>
+        <id>https://waxy.org/?p=41360</id>
+        <link href="https://twitter.com/mrcatacroquer/status/1386318806411325440"/>
+        <updated>2021-04-26T19:08:08.000Z</updated>
+        <summary type="html"><![CDATA[charming Raspberry Pi project to send and receive Telegram messages to grandma #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SiriusXM acquires 99% Invisible]]></title>
+        <id>https://waxy.org/?p=41357</id>
+        <link href="https://www.nytimes.com/2021/04/26/arts/siriusxm-99-invisible-roman-mars.html"/>
+        <updated>2021-04-26T16:42:50.000Z</updated>
+        <summary type="html"><![CDATA[the show will remain free, with Roman Mars and his team developing new shows for Stitcher #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast: Ray Wenderlich / Living By the Code Series]]></title>
+        <id>https://cate.blog/?p=53224</id>
+        <link href="https://cate.blog/2021/04/26/podcast-ray-wenderlich-living-by-the-code-series/"/>
+        <updated>2021-04-26T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I recorded a podcast based on my Living By the Code interview, and got spicy talking about inclusion, equity, and sponsorship. We also talked about Glowforge, books I love, and what new managers need. [iTunes] [Spotify]]]></summary>
+        <author>
+            <name>Cate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yahoo, the Destroyer]]></title>
+        <id>https://waxy.org/?p=41354</id>
+        <link href="https://www.theatlantic.com/technology/archive/2021/04/how-yahoo-became-internet-villain/618681/"/>
+        <updated>2021-04-26T01:40:31.000Z</updated>
+        <summary type="html"><![CDATA[Kaitlin Tiffany interviewed me, Jason Scott, Maciej Ceglowski, and others about Yahoo's casual destruction of internet history #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Slander Industry]]></title>
+        <id>https://waxy.org/?p=41348</id>
+        <link href="https://www.nytimes.com/interactive/2021/04/24/technology/online-slander-websites.html"/>
+        <updated>2021-04-25T23:07:18.000Z</updated>
+        <summary type="html"><![CDATA[Aaron Krolik and Kashmir Hill dig into the relationship between gripe sites and reputation-management services #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Student illustrators envision post-pandemic New Yorker covers]]></title>
+        <id>https://waxy.org/?p=41345</id>
+        <link href="https://twitter.com/tropical_toxic/status/1385698382589698048"/>
+        <updated>2021-04-24T22:39:39.000Z</updated>
+        <summary type="html"><![CDATA[these pack an emotional punch #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The copyright quagmire of Emily Ratajkowski’s NFT]]></title>
+        <id>https://waxy.org/?p=41342</id>
+        <link href="https://www.theverge.com/2021/4/24/22399790/emily-ratajkowski-nft-christies-copyright-nightmare-richard-prince"/>
+        <updated>2021-04-24T22:12:20.000Z</updated>
+        <summary type="html"><![CDATA[who owns the rights to a link to a photo of a print of a screenshot of a photo #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pixel Fill]]></title>
+        <id>https://waxy.org/?p=41339</id>
+        <link href="https://ouro-eight.itch.io/pixel-fill"/>
+        <updated>2021-04-23T22:40:55.000Z</updated>
+        <summary type="html"><![CDATA[like Tetris meets Snake #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[★ Thoughts and Observations on This Week’s ‘Spring Loaded’ Apple Event]]></title>
+        <id>https://daringfireball.net/2021/04/spring_loaded_thoughts_and_observations</id>
+        <link href="https://daringfireball.net/2021/04/spring_loaded_thoughts_and_observations"/>
+        <updated>2021-04-23T21:43:28.000Z</updated>
+        <summary type="html"><![CDATA[Presented in the order in which they were announced:
+Apple Card Family and Co-Ownership
+An oddity of Apple Card, until now, is that all accounts were solely for individuals. Most credit cards can be shared between spouses, for example. (Maybe a lot more than most — Apple Card is the only card I’m aware of that couldn’t be shared between spouses.) My American Express card also lets my wife and me share it with our teenage son — a feature I know other cards offer too. Worse still, there was a deserved hubbub …]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[things are a little crazy rn]]></title>
+        <id>https://waxy.org/?p=41336</id>
+        <link href="https://www.jamesyu.org/a/things-are-a-little-crazy-rn/"/>
+        <updated>2021-04-23T18:06:26.000Z</updated>
+        <summary type="html"><![CDATA[two GPT-3 bots try to find a time to meet up #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using emoji as favicons]]></title>
+        <id>https://waxy.org/?p=41333</id>
+        <link href="https://css-tricks.com/emojis-as-favicons/"/>
+        <updated>2021-04-23T18:05:19.000Z</updated>
+        <summary type="html"><![CDATA[genius little hack #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oxford Malaria vaccine proves highly effective in trials]]></title>
+        <id>https://waxy.org/?p=41330</id>
+        <link href="https://www.theguardian.com/world/2021/apr/23/oxford-malaria-vaccine-proves-highly-effective-in-burkina-faso-trial"/>
+        <updated>2021-04-23T17:49:55.000Z</updated>
+        <summary type="html"><![CDATA[77% efficacy over 12 months compared to current vaccines that only prevent 29% of severe cases #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TikTok creators struggle with its opaque and unpredictable algorithm]]></title>
+        <id>https://waxy.org/?p=41327</id>
+        <link href="https://themarkup.org/working-for-an-algorithm/2021/04/22/shadow-bans-dopamine-hits-and-viral-videos-all-in-the-life-of-tiktok-creators"/>
+        <updated>2021-04-23T17:22:02.000Z</updated>
+        <summary type="html"><![CDATA[in the past, human moderators have suppressed videos based on attractiveness and political content #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[longARcat]]></title>
+        <id>https://waxy.org/?p=41324</id>
+        <link href="https://www.longarcat.app/"/>
+        <updated>2021-04-22T21:38:36.000Z</updated>
+        <summary type="html"><![CDATA[iOS app to make extremely long cats with augmented reality #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aaron A. Reed on Judy Malloy’s Uncle Roger]]></title>
+        <id>https://waxy.org/?p=41319</id>
+        <link href="https://if50.substack.com/p/1986-uncle-roger"/>
+        <updated>2021-04-22T21:26:37.000Z</updated>
+        <summary type="html"><![CDATA[completely new to me, a pioneering work of interactive fiction on the WELL that predates games like Her Story by 30 years #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Join my birthday paste party]]></title>
+        <id>https://waxy.org/?p=41316</id>
+        <link href="https://twitter.com/waxpancake/status/1385291669801631744"/>
+        <updated>2021-04-22T21:25:22.000Z</updated>
+        <summary type="html"><![CDATA[last year, I wrote about why I love these and their long history online #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Story Half-Told]]></title>
+        <id>https://beckyhansmeyer.com/?p=2512</id>
+        <link href="https://beckyhansmeyer.com/2021/04/22/a-story-half-told/"/>
+        <updated>2021-04-22T18:59:23.000Z</updated>
+        <summary type="html"><![CDATA[Back in November I wrote about how the introduction of the first M1 Macs put extra pressure on Apple to differentiate the iPad Pro from the recently upgraded iPad Air. The Airs were colorful, performant, and supported all the new accessories. Meanwhile, the new M1 MacBook Air was light, blazing fast, and could run iOS […]]]></summary>
+        <author>
+            <name>Becky H.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ed Zitron on the misplaced wrath directed at social media managers]]></title>
+        <id>https://waxy.org/?p=41313</id>
+        <link href="https://ez.substack.com/p/the-raiders-social-media-managers"/>
+        <updated>2021-04-21T22:52:12.000Z</updated>
+        <summary type="html"><![CDATA["the average social media manager has very little power over any of the decisions but all of the consequences" #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Charlie Warzel on Facebook’s worrying embrace of the creator economy]]></title>
+        <id>https://waxy.org/?p=41309</id>
+        <link href="https://warzel.substack.com/p/facebook-wants-to-help-creators-and"/>
+        <updated>2021-04-21T19:37:42.000Z</updated>
+        <summary type="html"><![CDATA[I expect these monetization tools will be a hit for Dan Bongino, Ben Shapiro, and their other biggest pages #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Podcast Subscriptions vs. the App Store]]></title>
         <id>https://stratechery.com/?p=5800</id>
         <link href="https://stratechery.com/2021/podcast-subscriptions-vs-the-app-store/"/>
@@ -794,6 +2711,16 @@ used in the tweet, and also sort through a bu…]]></summary>
         <summary type="html"><![CDATA[Apple's new Podcast Subscription service is what the App Store should be: a great Apple experience competing for customers.]]></summary>
         <author>
             <name>Ben Thompson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Empowering your engineering team with an effective decision-making process]]></title>
+        <id>https://cate.blog/?p=53217</id>
+        <link href="https://cate.blog/2021/04/19/empowering-your-engineering-team-with-an-effective-decision-making-process/"/>
+        <updated>2021-04-19T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[My latest for LeadDev… A common area where managers fail to scale is in decision-making. The two extremes are: being responsible means making all decisions and enabling a team means staying out of details and letting them make decisions. Both of these are bad. One is controlling and fails to scale for obvious reasons. The other fails to […]]]></summary>
+        <author>
+            <name>Cate</name>
         </author>
     </entry>
 </feed>
