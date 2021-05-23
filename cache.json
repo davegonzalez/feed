@@ -103,6 +103,51 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1766911",
+          "author": "Dan Goodin",
+          "description": "Colonial Pipeline hackers have cashed in spectacularly. Now, they're feeling the heat.",
+          "link": "https://arstechnica.com/?p=1766911",
+          "publishedOn": "2021-05-22T14:46:51.000Z",
+          "wordCount": 1015,
+          "title": "Hear ye, DarkSide! This honorable ransomware court is now in session"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1766852",
+          "author": "Financial Times",
+          "description": "Nations with sufficient supply could donate doses to vaccinate 60% of world population.",
+          "link": "https://arstechnica.com/?p=1766852",
+          "publishedOn": "2021-05-22T13:15:36.000Z",
+          "wordCount": 1175,
+          "title": "IMF says $50 billion is needed to end Covid pandemic in 2022"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1766961",
+          "author": "Eric Berger",
+          "description": "Ana's formation is part of a trend toward earlier storms in the Atlantic.",
+          "link": "https://arstechnica.com/?p=1766961",
+          "publishedOn": "2021-05-22T12:37:01.000Z",
+          "wordCount": 849,
+          "title": "The Atlantic hurricane season’s first storm forms early—again"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1766814",
+          "author": "WIRED",
+          "description": "Technology related to deepfakes helps match facial movements to dialogue.",
+          "link": "https://arstechnica.com/?p=1766814",
+          "publishedOn": "2021-05-22T12:15:05.000Z",
+          "wordCount": 1230,
+          "title": "This AI makes Robert De Niro perform lines in flawless German"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1766768",
+          "author": "WIRED",
+          "description": "\"Overwintering\" fires smolder under the snow, reigniting vegetation in the spring.",
+          "link": "https://arstechnica.com/?p=1766768",
+          "publishedOn": "2021-05-22T11:30:13.000Z",
+          "wordCount": 1457,
+          "title": "A zombie-fire outbreak may be growing in the north"
+        },
+        {
           "id": "https://arstechnica.com/?p=1766663",
           "author": "Jennifer Ouellette",
           "description": "Wood analysis shows the wrecks discovered  in 2019 are the warships Apollo and Maria",
@@ -811,6 +856,42 @@
       "feedUrl": "http://feeds.macrumors.com/MacRumors-Front",
       "siteUrl": "https://www.macrumors.com",
       "articles": [
+        {
+          "id": "https://www.macrumors.com/2021/05/22/new-ipad-pro-support-documents/",
+          "author": "Joe Rossignol",
+          "description": "The new iPad Pro started arriving to customers on Friday, and Apple has since shared additional details about the device in a series of support documents, covering topics like the Liquid Retina XDR display, Thunderbolt and USB4 support, 5G networking on cellular models, and the new Center Stage front camera feature for video calls.\r\n\r\n\r\n\r\n\r\n\r\nIn addition to up to 1,000 nits of full-screen brightness, Apple said the Liquid Retina XDR display supports a peak brightness of 1,600 nits for highlights in up to 40…",
+          "link": "https://www.macrumors.com/2021/05/22/new-ipad-pro-support-documents/",
+          "publishedOn": "2021-05-22T15:12:53.000Z",
+          "wordCount": 2571,
+          "title": "Apple Details New iPad Pro's Liquid Retina XDR Display, Thunderbolt, 5G, and More in New Support Documents"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/05/22/apple-tv-airpods-max-lossless-audio-details/",
+          "author": "Joe Rossignol",
+          "description": "Apple today shared a new support document confirming that the HomePod and HomePod mini will gain lossless audio support for Apple Music in a future software update, and the document also reveals some other tidbits.\r\n\r\n\r\n\r\n\r\n\r\nFirst, the document indicates that the Apple TV 4K \"currently doesn't support Hi-Res Lossless,\" with only the standard Lossless tier ranging from 16-bit at 44.1 kHz to 24-bit at 48 kHz to be available on the Apple TV 4K at launch. Apple's use of the word \"currently\" leaves the door ope…",
+          "link": "https://www.macrumors.com/2021/05/22/apple-tv-airpods-max-lossless-audio-details/",
+          "publishedOn": "2021-05-22T13:53:49.000Z",
+          "wordCount": 2220,
+          "title": "Apple TV Won't Support Hi-Res Lossless at Launch, AirPods Max Wired Playback 'Will Not Be Completely Lossless'"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/05/22/top-stories-apple-music-lossless/",
+          "author": "MacRumors Staff",
+          "description": "Apple continued to clear the decks of non-developer announcements ahead of WWDC this week, not only shipping the new iMac, iPad Pro, and Apple TV introduced at last month's \"Spring Loaded\" event but also revealing several other upcoming launches like new Lossless and Spatial Audio support for Apple Music and some new accessibility features.\r\n\r\n\r\n\r\n\r\n\r\nThere was also no shortage of rumors this week, including details on the upcoming MacBook Pro redesign, several other future Macs, and the Apple Watch Series …",
+          "link": "https://www.macrumors.com/2021/05/22/top-stories-apple-music-lossless/",
+          "publishedOn": "2021-05-22T13:00:57.000Z",
+          "wordCount": 3304,
+          "title": "Top Stories: Apple Music Lossless, M2 MacBook Pro Rumors, Apple Watch Redesign?"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/05/22/homepod-apple-music-lossless-future-update/",
+          "author": "Sami Fathi",
+          "description": "The HomePod and HomePod mini will gain support for playing back Apple Music Lossless audio in a future software update, according to a newly published Apple Support document.\r\n\r\n\r\n\r\n\r\n\r\nAt launch, the ‌HomePod‌ and ‌HomePod mini‌ will not support Apple Music Lossless but will instead feature support for Dolby Atmos for Apple Music. Dolby Atmos, otherwise known as Spatial Audio, creates an immersive three-dimensional experience that simulates music all around the listener. ‌Apple Music‌ Lossless provides lis…",
+          "link": "https://www.macrumors.com/2021/05/22/homepod-apple-music-lossless-future-update/",
+          "publishedOn": "2021-05-22T06:20:17.000Z",
+          "wordCount": 2347,
+          "title": "HomePod and HomePod mini to Gain Support For Apple Music Lossless Audio in Future Software Update"
+        },
         {
           "id": "https://www.macrumors.com/2021/05/21/m1-imac-hands-on/",
           "author": "Juli Clover",
@@ -2014,6 +2095,15 @@
       "siteUrl": "https://www.polygon.com/pc",
       "articles": [
         {
+          "id": "https://www.polygon.com/22444608/resident-evil-horror-eugenics-military-government-themes",
+          "author": null,
+          "description": "Image: Capcom\n    \n\n\n  \nLooking back on the horror at the core of Capcom’s long-running series\n The premise of the Resident Evil series is, outwardly, a simple one. The foundation of the games rests with the events that transpired in the Arklay Mountains in June 1998. It starts with a simple training mission gone awry; the STARS Alpha team, a special task squad for the Raccoon City Police Department, gets dispatched to investigate the missing Bravo team at the Spencer Estate, a mansion owned by the founder …",
+          "link": "https://www.polygon.com/22444608/resident-evil-horror-eugenics-military-government-themes",
+          "publishedOn": "2021-05-22T14:00:00.000Z",
+          "wordCount": 1956,
+          "title": "Resident Evil’s most unsettling theme isn’t zombies — it’s eugenics"
+        },
+        {
           "id": "https://www.polygon.com/22447588/destiny-2-seasonal-challenge-xp-weekly-bug-pass-level-rank",
           "author": null,
           "description": "You’re not imagining things\n After a rough few weeks of bugs for Destiny 2’s new Season of the Splicer, Bungie revealed another pain point: Seasonal Challenge XP wasn’t working properly last season.\nSince Season of the Chosen ended and Season of the Splicer began, players have complained about earning less XP from Seasonal Challenges (a new, weekly Challenge system that offers big XP gains for playing Destiny 2’s various activities). Turns out that the XP gain is a bug, but not in the way you might expect. …",
@@ -3060,33 +3150,6 @@
           "publishedOn": "2021-04-23T17:22:02.000Z",
           "wordCount": 3189,
           "title": "TikTok creators struggle with its opaque and unpredictable algorithm"
-        },
-        {
-          "id": "https://waxy.org/?p=41324",
-          "author": "Andy Baio",
-          "description": "iOS app to make extremely long cats with augmented reality #",
-          "link": "https://www.longarcat.app/",
-          "publishedOn": "2021-04-22T21:38:36.000Z",
-          "wordCount": 349,
-          "title": "longARcat"
-        },
-        {
-          "id": "https://waxy.org/?p=41319",
-          "author": "Andy Baio",
-          "description": "completely new to me, a pioneering work of interactive fiction on the WELL that predates games like Her Story by 30 years #",
-          "link": "https://if50.substack.com/p/1986-uncle-roger",
-          "publishedOn": "2021-04-22T21:26:37.000Z",
-          "wordCount": 4374,
-          "title": "Aaron A. Reed on Judy Malloy’s Uncle Roger"
-        },
-        {
-          "id": "https://waxy.org/?p=41316",
-          "author": "Andy Baio",
-          "description": "last year, I wrote about why I love these and their long history online #",
-          "link": "https://twitter.com/waxpancake/status/1385291669801631744",
-          "publishedOn": "2021-04-22T21:25:22.000Z",
-          "wordCount": 196,
-          "title": "Join my birthday paste party"
         }
       ]
     },
@@ -3734,15 +3797,6 @@
           "publishedOn": "2021-05-13T03:06:36.000Z",
           "wordCount": 685,
           "title": "Wishes for WWDC 2021"
-        },
-        {
-          "id": "https://beckyhansmeyer.com/?p=2512",
-          "author": "Becky H.",
-          "description": "Back in November I wrote about how the introduction of the first M1 Macs put extra pressure on Apple to differentiate the iPad Pro from the recently upgraded iPad Air. The Airs were colorful, performant, and supported all the new accessories. Meanwhile, the new M1 MacBook Air was light, blazing fast, and could run iOS […]",
-          "link": "https://beckyhansmeyer.com/2021/04/22/a-story-half-told/",
-          "publishedOn": "2021-04-22T18:59:23.000Z",
-          "wordCount": 661,
-          "title": "A Story Half-Told"
         }
       ]
     },
@@ -6348,15 +6402,6 @@
           "publishedOn": "2021-04-27T00:00:24.000Z",
           "wordCount": 182,
           "title": "India censors the platforms"
-        },
-        {
-          "id": "https://www.platformer.news/p/how-figma-remade-remote-work-for",
-          "author": "Casey Newton",
-          "description": "CEO Dylan Field on the fast-growing design platform's new digital whiteboard, and what it takes to make a hybrid office work",
-          "link": "https://www.platformer.news/p/how-figma-remade-remote-work-for",
-          "publishedOn": "2021-04-23T00:00:58.000Z",
-          "wordCount": 196,
-          "title": "How Figma went remote"
         }
       ]
     },
@@ -6989,6 +7034,42 @@
       "feedUrl": "https://goodguysgogrind.com/feed/",
       "siteUrl": "https://goodguysgogrind.com",
       "articles": [
+        {
+          "id": "http://goodguysgogrind.com/?p=28336",
+          "author": "goodguysgogrind",
+          "description": "You can buy these and many other patches at gutturalbreath.bigcartel.com",
+          "link": "https://goodguysgogrind.com/2021/05/22/badass-patches-from-guttural-breath/",
+          "publishedOn": "2021-05-22T08:10:08.000Z",
+          "wordCount": 275,
+          "title": "Badass patches from Guttural Breath!"
+        },
+        {
+          "id": "http://goodguysgogrind.com/?p=28330",
+          "author": "goodguysgogrind",
+          "description": "Get a ticket HERE! The first confirmed headliner is…",
+          "link": "https://goodguysgogrind.com/2021/05/22/great-news-oef-2021-is-going-to-happen/",
+          "publishedOn": "2021-05-22T08:02:43.000Z",
+          "wordCount": 290,
+          "title": "Great news! OEF 2021 is going to happen!"
+        },
+        {
+          "id": "http://goodguysgogrind.com/?p=28325",
+          "author": "goodguysgogrind",
+          "description": "You can check that stuff at ironcorpse.bandcamp.com",
+          "link": "https://goodguysgogrind.com/2021/05/22/iron-corpse-is-going-to-release-4-new-releases/",
+          "publishedOn": "2021-05-22T07:34:32.000Z",
+          "wordCount": 291,
+          "title": "Iron Corpse is going to release 4 new releases!"
+        },
+        {
+          "id": "http://goodguysgogrind.com/?p=28319",
+          "author": "goodguysgogrind",
+          "description": "Complete Discography 2005 – 2021 hand-numbered boxset! Released by 783 Punx",
+          "link": "https://goodguysgogrind.com/2021/05/22/hello-bastards-since-2005%e2%80%8b-%e2%80%8b-%e2%80%8b-making-hardcore-punk-again/",
+          "publishedOn": "2021-05-22T07:29:15.000Z",
+          "wordCount": 295,
+          "title": "Hello Bastards – Since 2005​.​.​. Making Hardcore, Punk Again!"
+        },
         {
           "id": "http://goodguysgogrind.com/?p=28312",
           "author": "goodguysgogrind",
