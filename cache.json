@@ -6,6 +6,24 @@
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
       "articles": [
         {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.1",
+          "author": null,
+          "description": "Fixed: UnhandledPromiseRejectionWarning: Error: At least one option must be a string",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.1",
+          "publishedOn": "2021-05-23T05:40:12.000Z",
+          "wordCount": 282,
+          "title": "v1.8.1"
+        },
+        {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.0",
+          "author": null,
+          "description": "Changed: Smart summary truncation. When there is no dedicated summary (only Atom feed has it, and many sites don't use it) from the source, we check if the content/description (Both Atom and RSS) field is long enough to be full text. If so, it will be truncated into a \"pseudo\" summary. If not, we assume the source used the content field as summary, and it will be displayed in full length.\nThank you: @LooperXX.",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.0",
+          "publishedOn": "2021-05-23T05:12:08.000Z",
+          "wordCount": 341,
+          "title": "v1.8.0"
+        },
+        {
           "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.2",
           "author": null,
           "description": "⚠ Deprecated: To accommodate the monorepo setup, the node version in all templates/demos/examples has changed from 14 to 16. This is not a breaking change as our compile target is still node 14, and node 16 is backward compatible. We still recommend you start using node-version: \"16\" in your .github/workflows/update-feed.yaml today to get the performance/security improvements from the newer node. See example\nChore: Reorganize to monorepo with npm workspace.",
@@ -102,6 +120,42 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index/",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1766503",
+          "author": "Jennifer Ouellette",
+          "description": "Snyder reined in his worst impulses in this entertaining twist on a zombie apocalypse.",
+          "link": "https://arstechnica.com/?p=1766503",
+          "publishedOn": "2021-05-23T20:01:52.000Z",
+          "wordCount": 1841,
+          "title": "Review: Zombie heist thriller Army of the Dead is Zack Snyder at his best"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1766729",
+          "author": "Ron Amadeo",
+          "description": "Holding a trade show inside an online game is actually pretty fun.",
+          "link": "https://arstechnica.com/?p=1766729",
+          "publishedOn": "2021-05-23T13:30:36.000Z",
+          "wordCount": 1484,
+          "title": "Google’s I/O Adventure was almost as good as being there"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1767000",
+          "author": "Jonathan M. Gitlin",
+          "description": "The cars have starred in Gran Turismo and on the Nordschleife.",
+          "link": "https://arstechnica.com/?p=1767000",
+          "publishedOn": "2021-05-23T13:00:56.000Z",
+          "wordCount": 1124,
+          "title": "When is a Porsche 911 not a Porsche 911? When it’s a Ruf"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1766759",
+          "author": "WIRED",
+          "description": "Gas taxes are the largest source of funding for highway construction, maintenance.",
+          "link": "https://arstechnica.com/?p=1766759",
+          "publishedOn": "2021-05-23T11:00:46.000Z",
+          "wordCount": 1485,
+          "title": "All those electric vehicles pose a problem for building roads"
+        },
         {
           "id": "https://arstechnica.com/?p=1766911",
           "author": "Dan Goodin",
@@ -856,6 +910,15 @@
       "feedUrl": "http://feeds.macrumors.com/MacRumors-Front",
       "siteUrl": "https://www.macrumors.com",
       "articles": [
+        {
+          "id": "https://www.macrumors.com/how-to/scrub-through-video-new-siri-remote-2nd-gen&post_date=1621793671/",
+          "author": "Tim Hardwick",
+          "description": "With the new Apple TV 4K now in customers' hands, some users are reporting issues when trying to control video with the redesigned Siri Remote. \r\n\r\n\r\n\r\n\r\n\r\nSpecifically, some users are complaining that using the circular gesture on the new clickpad ring to fast-forward or rewind paused video isn't working as expected. Rather than scrubbing through video continually in the direction of the gesture, the video scrubs back and forth in opposite directions.\r\n\r\n\r\n\r\nFrom what we've been able to work out, the problem seems to relate to a subtle additional gesture that users are missing out, either because it isn't very intuitive or Apple doesn't demonstrate it particularly well in the marketing material. \r\n\r\n\r\n\r\n\r\n\r\nTry following these steps to get it working. We've italicized the crucial gesture …",
+          "link": "https://www.macrumors.com/how-to/scrub-through-video-new-siri-remote-2nd-gen/",
+          "publishedOn": "2021-05-23T15:14:31.000Z",
+          "wordCount": 2327,
+          "title": "Apple TV 4K: How to Scrub Through Video Properly Using the New Siri Remote (2nd Gen)"
+        },
         {
           "id": "https://www.macrumors.com/2021/05/22/new-ipad-pro-support-documents/",
           "author": "Joe Rossignol",
@@ -2077,15 +2140,6 @@
           "publishedOn": "2021-04-30T19:33:37.000Z",
           "wordCount": 1656,
           "title": "ElevationLab’s TagVault"
-        },
-        {
-          "id": "https://daringfireball.net/2021/04/spring_loaded_thoughts_and_observations",
-          "author": null,
-          "description": "Presented in the order in which they were announced:\nApple Card Family and Co-Ownership\nAn oddity of Apple Card, until now, is that all accounts were solely for individuals. Most credit cards can be shared between spouses, for example. (Maybe a lot more than most — Apple Card is the only card I’m aware of that couldn’t be shared between spouses.) My American Express card also lets my wife and me share it with our teenage son — a feature I know other cards offer too. Worse still, there was a deserved hubbub …",
-          "link": "https://daringfireball.net/2021/04/spring_loaded_thoughts_and_observations",
-          "publishedOn": "2021-04-23T21:43:28.000Z",
-          "wordCount": 2089,
-          "title": "★ Thoughts and Observations on This Week’s ‘Spring Loaded’ Apple Event"
         }
       ]
     },
@@ -2503,6 +2557,24 @@
       "feedUrl": "https://waxy.org/feed/",
       "siteUrl": "https://waxy.org",
       "articles": [
+        {
+          "id": "https://waxy.org/?p=41608",
+          "author": "Andy Baio",
+          "description": "short doc about two friends who illicitly explored every inch of the Horizons ride at Disney World #",
+          "link": "https://www.youtube.com/watch?v=Rfh7A0lH1ac",
+          "publishedOn": "2021-05-23T01:48:31.000Z",
+          "wordCount": 21,
+          "title": "Remain Seated Please"
+        },
+        {
+          "id": "https://waxy.org/?p=41604",
+          "author": "Andy Baio",
+          "description": "Gina Cherelus and Caity Weaver interviewed several of the people behind it #",
+          "link": "https://www.nytimes.com/2021/05/21/style/welcome-to-the-space-jam-again.html",
+          "publishedOn": "2021-05-23T01:33:22.000Z",
+          "wordCount": 1824,
+          "title": "NYT retrospective of the Space Jam website from 1996"
+        },
         {
           "id": "https://waxy.org/?p=41601",
           "author": "Andy Baio",
@@ -3105,51 +3177,6 @@
           "publishedOn": "2021-04-24T22:12:20.000Z",
           "wordCount": 1226,
           "title": "The copyright quagmire of Emily Ratajkowski’s NFT"
-        },
-        {
-          "id": "https://waxy.org/?p=41339",
-          "author": "Andy Baio",
-          "description": "like Tetris meets Snake #",
-          "link": "https://ouro-eight.itch.io/pixel-fill",
-          "publishedOn": "2021-04-23T22:40:55.000Z",
-          "wordCount": 91,
-          "title": "Pixel Fill"
-        },
-        {
-          "id": "https://waxy.org/?p=41336",
-          "author": "Andy Baio",
-          "description": "two GPT-3 bots try to find a time to meet up #",
-          "link": "https://www.jamesyu.org/a/things-are-a-little-crazy-rn/",
-          "publishedOn": "2021-04-23T18:06:26.000Z",
-          "wordCount": 92,
-          "title": "things are a little crazy rn"
-        },
-        {
-          "id": "https://waxy.org/?p=41333",
-          "author": "Andy Baio",
-          "description": "genius little hack #",
-          "link": "https://css-tricks.com/emojis-as-favicons/",
-          "publishedOn": "2021-04-23T18:05:19.000Z",
-          "wordCount": 828,
-          "title": "Using emoji as favicons"
-        },
-        {
-          "id": "https://waxy.org/?p=41330",
-          "author": "Andy Baio",
-          "description": "77% efficacy over 12 months compared to current vaccines that only prevent 29% of severe cases #",
-          "link": "https://www.theguardian.com/world/2021/apr/23/oxford-malaria-vaccine-proves-highly-effective-in-burkina-faso-trial",
-          "publishedOn": "2021-04-23T17:49:55.000Z",
-          "wordCount": 1098,
-          "title": "Oxford Malaria vaccine proves highly effective in trials"
-        },
-        {
-          "id": "https://waxy.org/?p=41327",
-          "author": "Andy Baio",
-          "description": "in the past, human moderators have suppressed videos based on attractiveness and political content #",
-          "link": "https://themarkup.org/working-for-an-algorithm/2021/04/22/shadow-bans-dopamine-hits-and-viral-videos-all-in-the-life-of-tiktok-creators",
-          "publishedOn": "2021-04-23T17:22:02.000Z",
-          "wordCount": 3189,
-          "title": "TikTok creators struggle with its opaque and unpredictable algorithm"
         }
       ]
     },
@@ -3643,6 +3670,15 @@
       "siteUrl": "https://www.halfbakedharvest.com",
       "articles": [
         {
+          "id": "https://www.halfbakedharvest.com/?p=107052",
+          "author": "halfbakedharvest",
+          "description": "Nine Favorite Things.\nThanks for joining me for another Nine Favorite Things post. How pretty is that photo above? I’m happy to say that while our weather is still so all over the place, with plenty of stormy days and dark clouds. We’ve also had moments like the photo above. All signs that beautiful summer weather is on…\nREAD: Nine Favorite Things.",
+          "link": "https://www.halfbakedharvest.com/nine-favorite-things-195/",
+          "publishedOn": "2021-05-23T08:00:00.000Z",
+          "wordCount": 4350,
+          "title": "Nine Favorite Things."
+        },
+        {
           "id": "https://www.halfbakedharvest.com/?p=107014",
           "author": "halfbakedharvest",
           "description": "Peanut Butter Mocha Oreo Ice Cream Sandwiches\nThese Peanut Butter Mocha Oreo Ice Cream Sandwiches are the homemade version of everyone’s favorite childhood ice cream truck dessert…but all done up and dipped in a magic chocolate shell. Each chocolate cookie is crisp on the edges, but soft and brownie-like in the center. The cookies are sandwiched with vanilla cream frosting (just like…\nREAD: Peanut Butter Mocha Oreo Ice Cream Sandwiches",
@@ -3781,6 +3817,15 @@
       "siteUrl": "https://beckyhansmeyer.com",
       "articles": [
         {
+          "id": "https://beckyhansmeyer.com/?p=2537",
+          "author": "Becky H.",
+          "description": "When I first released YarnBuddy, it had an orange-to-pink gradient as the navigation bar background color. The colors reminded me of a sunset, which I liked, but the overall effect was a little too heavy and could easily clash with the user’s own project photos. I wondered if I could do something a little more […]",
+          "link": "https://beckyhansmeyer.com/2021/05/22/adding-a-gradient-to-your-large-title-text-in-swiftui-or-uikit/",
+          "publishedOn": "2021-05-23T02:19:39.000Z",
+          "wordCount": 751,
+          "title": "Adding a Gradient to Large Title Text in SwiftUI or UIKit"
+        },
+        {
           "id": "https://beckyhansmeyer.com/?p=2528",
           "author": "Becky H.",
           "description": "My backlog of blog posts I want to write is getting a bit ridiculous at this point. One of them is a follow-up to YarnBuddy’s “App of the Day” feature back in March, complete with screenshots and stats and the whole story of how that feature came to be. I’m not quite ready to put […]",
@@ -3805,6 +3850,24 @@
       "feedUrl": "https://bloody-disgusting.com/feed/",
       "siteUrl": "https://bloody-disgusting.com",
       "articles": [
+        {
+          "id": "https://bloody-disgusting.com/?p=3666424",
+          "author": "Brad Miska",
+          "description": "Lionsgate and Twisted Pictures’ SAW franchise has just hit two major milestones this weekend. Spiral: From the Book of Saw is officially the #1 film in North America for the second week in a row. “And with this weekend’s success, the franchise marks a momentous achievement, crossing over one billion dollars in worldwide theatrical receipts […]",
+          "link": "https://bloody-disgusting.com/movie/3666424/spiral-pushes-saw-franchise-past-1-billion-box-office/",
+          "publishedOn": "2021-05-23T17:50:24.000Z",
+          "wordCount": 1128,
+          "title": "‘Spiral’ Pushes the ‘SAW’ Franchise Past $1 Billion at the Box Office"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3666415",
+          "author": "John Squires",
+          "description": "Up next from Edgar Wright (Shaun of the Dead, Baby Driver) is the psychological horror movie Last Night in Soho, which Focus Features is releasing on October 22, 2021. Last Night in Soho, starring Anya Taylor-Joy and Thomasin McKenzie, is set in London’s Soho district during the Swinging Sixties, and there seems to be a time travel element involved. Revealed during […]",
+          "link": "https://bloody-disgusting.com/movie/3666415/official-trailer-edgar-wrights-last-night-soho-will-debut-coming-tuesday/",
+          "publishedOn": "2021-05-23T06:05:30.000Z",
+          "wordCount": 1116,
+          "title": "Official Trailer for Edgar Wright’s ‘Last Night in Soho’ Will Debut This Coming Tuesday"
+        },
         {
           "id": "https://bloody-disgusting.com/?p=3666384",
           "author": "Luiz H. C.",
@@ -4980,6 +5043,15 @@
       "feedUrl": "https://www.broadstreethockey.com/rss/current.xml",
       "siteUrl": "https://www.broadstreethockey.com/",
       "articles": [
+        {
+          "id": "https://www.broadstreethockey.com/2021/5/23/22449165/the-bsh-bandwagoners-guide-to-the-central-division-playoff-hockey-nhl-tampa-bay-nashville-carolina",
+          "author": null,
+          "description": "Photo by Mike Ehrmann/Getty Images\n    \n\n  \nWith no dog in the fight, it’s always fun to pick one.\n In the sleepiest days of the Flyers’ offseason, there’s not much to do in terms of leisure activities aside from watching baseball or playoff hockey. The latter might be a bit painful given the status of your favorite team, but fear not; we here at Broad Street Hockey are creating a brief, yet vaguely comprehensive guide to each division and the teams who you might choose to root for in their quest for the Cup. In the interest of hatred of rivals (a primary interest of any Flyers fan) the East division won’t be receiving this treatment, particularly because Philly fans are familiar with the teams included in that category.\nToday’s overview will cover the Central division, aka my home turf. A…",
+          "link": "https://www.broadstreethockey.com/2021/5/23/22449165/the-bsh-bandwagoners-guide-to-the-central-division-playoff-hockey-nhl-tampa-bay-nashville-carolina",
+          "publishedOn": "2021-05-23T15:00:00.000Z",
+          "wordCount": 3167,
+          "title": "The BSH bandwagoner’s guide to the Central division"
+        },
         {
           "id": "https://www.broadstreethockey.com/2021/5/21/22442215/flyers-2020-2021-player-grades-the-bottom-six-nhl-hockey-lindblom-laughton-patrick-raffl-bunnaman",
           "author": null,
@@ -7181,5 +7253,5 @@
       ]
     }
   ],
-  "cliVersion": "1.7.2"
+  "cliVersion": "1.8.1"
 }
