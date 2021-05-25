@@ -121,6 +121,150 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1767287",
+          "author": "Eric Berger",
+          "description": "The Endless Frontier Act? More like the Endless Amendment Act.",
+          "link": "https://arstechnica.com/?p=1767287",
+          "publishedOn": "2021-05-24T23:29:04.000Z",
+          "wordCount": 1002,
+          "title": "Bernie Sanders wants to stop NASA funding for Blue Origin"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1767203",
+          "author": "Jim Salter",
+          "description": "Former staffer alleges \"a hostile entity is now in control... and has your data.\"",
+          "link": "https://arstechnica.com/?p=1767203",
+          "publishedOn": "2021-05-24T23:06:10.000Z",
+          "wordCount": 1365,
+          "title": "Freenode IRC resign en masse after takeover by Korea’s crown prince"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1767247",
+          "author": "Dan Goodin",
+          "description": "Apple patches vulnerability that malware used to bypass macOS privacy protections.",
+          "link": "https://arstechnica.com/?p=1767247",
+          "publishedOn": "2021-05-24T22:52:07.000Z",
+          "wordCount": 1252,
+          "title": "Actively exploited macOS 0day let hackers take screenshots of infected Macs"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1767246",
+          "author": "John Timmer",
+          "description": "Looking back at big replication projects, finding they don't seem to have mattered.",
+          "link": "https://arstechnica.com/?p=1767246",
+          "publishedOn": "2021-05-24T22:44:13.000Z",
+          "wordCount": 1136,
+          "title": "For research citations, no replication is no problem"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1767237",
+          "author": "Beth Mole",
+          "description": "Protection wanes by 6 months; Experts call for high-risk people to get 3rd dose.",
+          "link": "https://arstechnica.com/?p=1767237",
+          "publishedOn": "2021-05-24T21:58:28.000Z",
+          "wordCount": 907,
+          "title": "Efficacy of Chinese vaccines is “not high”—officials back 3rd dose"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1767230",
+          "author": "Kyle Orland",
+          "description": "Has Apple unfairly locked down iOS? Or is it boxed in by external competitors?",
+          "link": "https://arstechnica.com/?p=1767230",
+          "publishedOn": "2021-05-24T21:45:07.000Z",
+          "wordCount": 2337,
+          "title": "The Epic v. Apple case could hinge on the definition of the “marketplace”"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1767189",
+          "author": "Samuel Axon",
+          "description": "One of the biggest features won't become available until June, though.",
+          "link": "https://arstechnica.com/?p=1767189",
+          "publishedOn": "2021-05-24T20:20:29.000Z",
+          "wordCount": 1090,
+          "title": "iOS 14.6 and macOS Big Sur 11.4 arrive with new audio features and more"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1767107",
+          "author": "Jennifer Ouellette",
+          "description": "\"Throughout the years we have never interfered... until now.\"",
+          "link": "https://arstechnica.com/?p=1767107",
+          "publishedOn": "2021-05-24T19:42:31.000Z",
+          "wordCount": 1513,
+          "title": "We have our first good look at Eternals as Marvel drops extended teaser"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1767143",
+          "author": "Jon Brodkin",
+          "description": "Biden makes $65B offer, but GOP opposes municipal broadband and overall jobs plan.",
+          "link": "https://arstechnica.com/?p=1767143",
+          "publishedOn": "2021-05-24T17:55:04.000Z",
+          "wordCount": 1140,
+          "title": "Biden cuts broadband plan from $100 billion to $65 billion to match GOP offer"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1766823",
+          "author": "Doug Johnson",
+          "description": "Researchers found a way to make fuel from plastic—critics wonder if it's practical.",
+          "link": "https://arstechnica.com/?p=1766823",
+          "publishedOn": "2021-05-24T17:10:29.000Z",
+          "wordCount": 1230,
+          "title": "From trash to jet fuel in 60 minutes—and 220º C"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1767078",
+          "author": "Ron Amadeo",
+          "description": "iFixit was Samsung's upcycling partner in 2017 but says Samsung never delivered.",
+          "link": "https://arstechnica.com/?p=1767078",
+          "publishedOn": "2021-05-24T16:26:34.000Z",
+          "wordCount": 1088,
+          "title": "iFixit tells the sad story of how Samsung “ruined” its upcycling program"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1767112",
+          "author": "Tim De Chant",
+          "description": "Country’s top financial regulator homes in on the source.",
+          "link": "https://arstechnica.com/?p=1767112",
+          "publishedOn": "2021-05-24T16:12:31.000Z",
+          "wordCount": 1143,
+          "title": "China will likely ban all bitcoin mining soon"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1767090",
+          "author": "Jonathan M. Gitlin",
+          "description": "The 300-mile extended-range version will cost $49,974 before tax incentives.",
+          "link": "https://arstechnica.com/?p=1767090",
+          "publishedOn": "2021-05-24T14:02:54.000Z",
+          "wordCount": 863,
+          "title": "Ford reveals pricing for the F-150 Lightning Pro work truck"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1767081",
+          "author": "Financial Times",
+          "description": "Google faces fallout as Moscow moves to force Western tech groups to comply with laws.",
+          "link": "https://arstechnica.com/?p=1767081",
+          "publishedOn": "2021-05-24T13:40:42.000Z",
+          "wordCount": 1645,
+          "title": "YouTube feels heat as Russia ramps up “digital sovereignty” drive"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1767069",
+          "author": "Eric Berger",
+          "description": "\"We will immediately begin processing the data.\"",
+          "link": "https://arstechnica.com/?p=1767069",
+          "publishedOn": "2021-05-24T12:21:03.000Z",
+          "wordCount": 915,
+          "title": "After Virgin Galactic’s success on Saturday, how soon can it fly again?"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1761885",
+          "author": "Scott K. Johnson",
+          "description": "Under the hood, lithium-ion batteries have gotten better in the last decade.",
+          "link": "https://arstechnica.com/?p=1761885",
+          "publishedOn": "2021-05-24T11:15:00.000Z",
+          "wordCount": 1494,
+          "title": "Eternally five years away? No, batteries are improving under your nose"
+        },
+        {
           "id": "https://arstechnica.com/?p=1766503",
           "author": "Jennifer Ouellette",
           "description": "Snyder reined in his worst impulses in this entertaining twist on a zombie apocalypse.",
@@ -911,6 +1055,186 @@
       "siteUrl": "https://www.macrumors.com",
       "articles": [
         {
+          "id": "https://www.macrumors.com/2021/05/24/macos-big-sur-11-4-malware-screenshots/",
+          "author": "Juli Clover",
+          "description": "macOS Big Sur 11.4, which was released this morning, addresses a zero-day vulnerability that could allow attackers to piggyback off of apps like Zoom, taking secret screenshots and surrepetiously recording the screen.\r\n\r\n\r\n\r\n\r\n\r\nJamf, a mobile device management company, today highlighted a security issue that allowed Privacy preferences to be bypassed, providing an attacker with Full Disk Access, Screen Recording, and other permissions without a user's consent.\r\n\r\n\r\n\r\nThe bypass was actively exploited in the wild, and was discovered by Jamf when analyzing XCSSET malware. The XCSSET malware has been out in the wild since 2020, but Jamf noticed an uptick in recent activity and discovered a new variant.\r\n\r\n\r\n\r\nOnce installed on a victim's system, the malware was used specifically for taking screenshots of the user's desktop with no additional permissions required. Jamf said that it could be used to bypass other permissions as well, as long as the donor application the malware piggybacked off of had that permission enabled.\r\n\r\n\r\n\r\nJamf has a full rundown on how the exploit worked, and the company says that Apple addressed the vulnerability in ‌macOS Big Sur‌ 11.4, Apple confirmed to TechCrunch that a fix has indeed been enabled in macOS 11.4, so Mac users should update their software as soon as possible.\nRelated Roundup: macOS Big Sur\nRelated Forum: macOS Big Sur (11.0)\nThis article, \"macOS Big Sur 11.4 Addresses Vulnerability That Could Let Attackers Take Secret Screenshots\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/05/24/macos-big-sur-11-4-malware-screenshots/",
+          "publishedOn": "2021-05-25T00:26:58.000Z",
+          "wordCount": 1962,
+          "title": "macOS Big Sur 11.4 Addresses Vulnerability That Could Let Attackers Take Secret Screenshots"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/05/24/epic-games-v-apple-trial-ends/",
+          "author": "Juli Clover",
+          "description": "The three week Epic Games v. Apple trial wrapped up today, with a series of debates that were held in lieu of traditional closing arguments. The wrap up follows Apple CEO Tim Cook's testimony last week, which saw him grilled by Judge Yvonne Gonzalez Rogers on Apple's App Store policies.\r\n\r\n\r\n\r\n\r\n\r\nAs outlined by Protocol, at the conclusion of the trial, Rogers aimed to get at the heart of the dispute and determine what remedies might ultimately be appropriate.\r\n\r\n\r\n\r\nAs she did earlier in the trial, Rogers hinted that she may be leaning toward something of a compromise with a ruling that would see Apple required to allow apps like Fortnite to direct users to make purchases on the web rather than in apps, something that's currently forbidden by the ‌App Store‌ rules.\r\n\r\n\r\n\r\nIn this scenario…",
+          "link": "https://www.macrumors.com/2021/05/24/epic-games-v-apple-trial-ends/",
+          "publishedOn": "2021-05-24T23:58:23.000Z",
+          "wordCount": 2329,
+          "title": "Epic Games v. Apple Trial Wraps Up, But We Likely Won't Know the Outcome for Months"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/05/24/wwdc-new-macbook-pro-models/",
+          "author": "Juli Clover",
+          "description": "New MacBook Pro models are coming at WWDC, according to leaker Jon Prosser who has a mixed track record when it comes to predicting Apple's plans.\r\n\r\n\r\n\r\n\r\n\r\nProsser provided no additional information, but there are new 14 and 16-inch MacBook Pro models in the works. The new MacBook Pros will feature the most radical redesign to the MacBook Pro lineup since 2016.\r\n\r\n\r\n\r\nApple is planning to reintroduce the MagSafe port, and the 2021 MacBook Pro models will feature an HDMI port and an SD card reader in addition to a trio of Thunderbolt/USB-C ports, and multiple color options are a possibility. \r\n\r\n\r\n\r\nThere will be no Touch Bar included, with Apple returning to a traditional row of function keys, and there will be a redesigned thermal system to accommodate the upgraded Apple silicon chips that the machines are expected to include.\r\n\r\n\r\n\r\nBloomberg recently said that the new MacBook Pro models will feature 10-core Apple silicon chips with eight high-performance cores and two energy-efficient cores, along with 16 or 32-core GPU options and support for up to 64GB RAM.\r\n\r\n\r\n\r\nNo other sources have indicated that the MacBook Pro models will be coming at WWDC, and it has been atypical for Apple to debut hardware at the event in recent years, but it is not unheard of. The new MacBook Pro models are expected to enter production in the second half of 2021, and reliable sources that include Bloomberg's Mark Gurman and Apple analyst Ming-Chi Kuo have suggested a launch in the second half of the year.\nRelated Roundups: MacBook Pro 13\", MacBook Pro 16\"\nTag: 14-Inch MacBook Pro\nBuyer's Guide: 13\" MacBook Pro (Don't Buy), 16\" MacBook Pro (Don't Buy)\nRelated Forum: MacBook Pro\nThis article, \"New MacBook Pro Models Coming at WWDC, Suggests Leaker\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/05/24/wwdc-new-macbook-pro-models/",
+          "publishedOn": "2021-05-24T20:27:47.000Z",
+          "wordCount": 2072,
+          "title": "New MacBook Pro Models Coming at WWDC, Suggests Leaker"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/05/24/ifixit-tears-down-24-inch-m1-imac/",
+          "author": "Juli Clover",
+          "description": "Apple last Friday released the first M1 iMac models to customers and began selling them in stores, and iFixit has now started one of its traditional teardowns on the new machines.\r\n\r\n\r\n\r\n\r\n\r\niFixit is tearing down the mid-tier purple ‌iMac‌ model with an 8-core CPU, an 8-core GPU, and 8GB RAM. It's worth noting that the internals of this model will look different than the internals of the base model with a 7-core GPU as the two machines have different cooling systems.\r\n\r\n\r\n\r\nThe base ‌iMac‌ has a single cooling fan and a heat sink while the higher-end 8-core GPU models have two fans and a heat pipe along with heat sinks, so expect the internals to look different if you have a 7-core GPU ‌iMac‌.\r\n\r\n\r\n\r\nThe teardown starts off with a detailed x-ray, and the x-rays are always fun to look at b…",
+          "link": "https://www.macrumors.com/2021/05/24/ifixit-tears-down-24-inch-m1-imac/",
+          "publishedOn": "2021-05-24T20:13:24.000Z",
+          "wordCount": 2359,
+          "title": "iFixit Tears Down 24-Inch M1 iMac"
+        },
+        {
+          "id": "https://www.macrumors.com/guide/ios-14-6-features&post_date=1621896247/",
+          "author": "Juli Clover",
+          "description": "Apple today released iOS 14.6 and iPadOS 14.6 to the public. The iOS 14.6 update isn't quite as significant as the iOS 14.5 update that preceded it, but it still introduces a number of notable new features. We've highlighted everything that's new in iOS and iPadOS 14.6 below.\r\n\r\n\r\n\r\n\r\n\r\nApple Music Spatial Audio and Lossless Audio Support\n\r\n\r\nApple in May introduced two new Apple Music features, which ‌Apple Music‌ subscribers are getting for no additional cost. ‌Apple Music‌ Spatial Audio with Dolby Atmos will offer up an immersive, multi-dimensional audio experience that lets artists mix music in a way that makes it sound like the notes are coming from all around you.\r\n\r\n\r\n\r\n\r\n\r\nApple is also upgrading its entire music catalog to Lossless Audio, which preserves the details in the origina…",
+          "link": "https://www.macrumors.com/guide/ios-14-6-features/",
+          "publishedOn": "2021-05-24T19:44:07.000Z",
+          "wordCount": 2849,
+          "title": "iOS 14.6 Features: Everything New in iOS 14.6"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/05/24/hands-on-apple-tv-4k-siri-remote/",
+          "author": "Juli Clover",
+          "description": "Apple alongside the second-generation Apple TV 4K debuted a redesigned version of the Siri Remote, which is now available to customers with new ‌Apple TV‌ orders and as a $60 standalone replacement for the original ‌Siri‌ Remote.\r\n\r\n\r\n\r\n\nSubscribe to the MacRumors YouTube channel for more videos.\n\r\n\r\nWe picked up the updated ‌Siri‌ Remote to see if it's worth picking up if you have an original ‌Apple TV‌ 4K or HD and are tired of the first iteration of the remote, which has several shortcomings.\r\n\r\n\r\n\r\nApple entirely overhauled the ‌Siri‌ Remote's design. It has an all-aluminum body that does away with the touchpad interface, instead adopting a touch-based clickpad and several additional buttons for control purposes.\r\n\r\n\r\n\r\n\r\n\r\nThe new remote is thicker than the prior version, and Apple ha…",
+          "link": "https://www.macrumors.com/2021/05/24/hands-on-apple-tv-4k-siri-remote/",
+          "publishedOn": "2021-05-24T19:20:53.000Z",
+          "wordCount": 2513,
+          "title": "Hands-On With the Redesigned Apple TV 4K Siri Remote"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/05/24/apple-card-merging-in-july/",
+          "author": "Sami Fathi",
+          "description": "Following its announcement last month, Apple today officially flipped the switch to allow parents to share their Apple Card with their teenagers or friends and the ability for spouses to co-own a single ‌Apple Card‌ account. However, one notable feature that didn't get released today is the ability for two separate ‌Apple Card‌ accounts to be merged into one.\r\n\r\n\r\n\r\n\r\n\r\nApple announced the feature last month but didn't specifically pin a release date. Now, in a new support document, Apple says that starting later on in July, users will be able to merge two existing ‌Apple Card‌ accounts into one, and in doing so, be able to combine their credit limits. \r\n\r\nComing July 2021: You will be able to invite another ‌Apple Card‌ owner to combine credit limits and form one co-owned account.1\nThe ability to share an ‌Apple Card‌ with iCloud Family members above 13 years old and the ability to co-own an ‌Apple Card‌ were released today as part of the iOS 14.6 update. \nTag: Apple Card\nThis article, \"PSA: Apple Card Owners Won’t Be Able to Combine Existing Accounts Until July\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/05/24/apple-card-merging-in-july/",
+          "publishedOn": "2021-05-24T17:51:17.000Z",
+          "wordCount": 2024,
+          "title": "PSA: Apple Card Owners Won’t Be Able to Combine Existing Accounts Until July"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/05/24/apple-card-family-how-tos/",
+          "author": "Sami Fathi",
+          "description": "Apple today released iOS 14.6, with it bringing support for Apple Podcasts subscriptions and new support for Apple Card Family. Announced last month, ‌Apple Card‌ Family allows families to share a single ‌Apple Card‌ with users above 13 years old with the ability to set a spending limit.\r\n\r\n\r\n\r\n\r\n\r\nFollowing its release, Apple has shared two how-to videos on how exactly to share an Apple Card with your teenager or friend and how to co-own a single Apple Card with your significant other. The process for sharing an ‌Apple Card‌ with a friend or teenager is enabled within the Wallet app on iOS 14.6 or later and requires that you be in an iCloud Family with the person you wish to share the card with.  \r\n\r\n\r\n\r\n\n\r\n\r\n\r\n\r\nLast month, Apple also announced the ability for couples to co-own a single ‌Apple Card‌, allowing them to build their credit score together. The process is similar to sharing an ‌Apple Card‌ with your teenager or friend but requires you to share your spouse's annual income. \r\n\r\n\r\n\r\n\n\r\n\r\n\r\n\r\n‌Apple Card‌ Family is available today with the iOS 14.6 update.\nTag: Apple Card\nThis article, \"Apple Details How to Share an Apple Card and Add a Co-Owner\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/05/24/apple-card-family-how-tos/",
+          "publishedOn": "2021-05-24T17:22:35.000Z",
+          "wordCount": 1990,
+          "title": "Apple Details How to Share an Apple Card and Add a Co-Owner"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/05/24/apple-releases-ios-14-6/",
+          "author": "Juli Clover",
+          "description": "Apple today released iOS and iPadOS 14.6, marking the sixth major updates to the iOS and iPadOS operating systems that initially came out in September 2020. iOS 14.6 comes one month after the launch of iOS 14.5, an update that added Apple Watch iPhone unlocking, Apple Maps accident crowdsourcing, and tons more.\r\n\r\n\r\n\r\n\r\n\r\nThe iOS and iPadOS 14.5 updates can be downloaded for free and the software is available on all eligible devices over-the-air in the Settings app. To access the new software, go to Settings > General > Software Update.\r\n\r\n\r\n\r\niOS 14.6 introduces support for several previously announced features. It lays the groundwork for the Apple Music Spatial Audio with Dolby Atmos and Lossless Audio functionality, but these new ‌Apple Music‌ capabilities aren't expected to launch unti…",
+          "link": "https://www.macrumors.com/2021/05/24/apple-releases-ios-14-6/",
+          "publishedOn": "2021-05-24T17:09:31.000Z",
+          "wordCount": 2193,
+          "title": "Apple Releases iOS and iPadOS 14.6 With Apple Card Family, Podcast Subscriptions, and More"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/05/24/apple-releases-macos-big-sur-11-4/",
+          "author": "Juli Clover",
+          "description": "Apple today released macOS Big Sur 11.4, the fourth major update to the ‌macOS Big Sur‌ operating system that launched in November 2020. ‌macOS Big Sur‌ comes one month after the release of macOS Big Sur 11.3, an update that added M1 optimizations, AirTag integration, and more.\r\n\r\n\r\n\r\n\r\n\r\nThe new ‌‌‌‌‌macOS Big Sur‌‌‌‌ 11.4 update can be downloaded for free on all eligible Macs using the Software Update section of System Preferences.\r\n\r\n\r\n\r\n‌macOS Big Sur‌ 11.4 lays the groundwork for two upcoming Apple Music features: Spatial Audio with Dolby Atmos and Lossless Audio, both of which will be available on the Mac.\r\n\r\n\r\n\r\nIt also adds support for Apple Podcasts subscriptions, and fixes a number of bugs, as outlined in Apple's release notes.\r\n\r\n‌macOS Big Sur‌ 11.4 adds ‌Apple Podcasts‌ subscr…",
+          "link": "https://www.macrumors.com/2021/05/24/apple-releases-macos-big-sur-11-4/",
+          "publishedOn": "2021-05-24T17:08:50.000Z",
+          "wordCount": 2064,
+          "title": "Apple Releases macOS Big Sur 11.4 With Apple Podcasts Subscription Support"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/05/24/apple-releases-watchos-7-5/",
+          "author": "Juli Clover",
+          "description": "Apple today released watchOS 7.5, the fifth major update to the watchOS 7 operating system that was released in September 2020. watchOS 7.5 comes one month after the release of watchOS 7.4, an update that added Apple Watch iPhone unlocking and other features.\r\n\r\n\r\n\r\n\r\n\r\n‌‌The watchOS 7.5 update‌‌ can be downloaded for free through the dedicated Apple Watch app on the ‌iPhone‌ by going to General > Software Update. To install the new software, the Apple Watch needs to have at least 50 percent battery, it needs to be placed on a charger, and it needs to be in range of the ‌‌‌‌‌‌‌‌iPhone‌‌‌‌‌‌‌‌.\r\n\r\n\r\n\r\nwatchOS 7.5 introduces support for Apple Card Family and subscription content in the Podcasts app. In Malaysia and Peru, it enables the ECG app and irregular heart rate rhythm notifications.\r\n\r\n\r\n\r\nThe update also includes support for the new Pride faces that are designed to accompany the 2021 Pride bands that Apple released today. There are two new \"Pride Woven\" faces to choose from in an animated rectangle or circle design.\nRelated Roundup: watchOS 7\nRelated Forum: iOS, Mac, tvOS, watchOS Programming\nThis article, \"Apple Releases watchOS 7.5 With Apple Card Family and Subscription Podcast Support\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/05/24/apple-releases-watchos-7-5/",
+          "publishedOn": "2021-05-24T17:07:46.000Z",
+          "wordCount": 2043,
+          "title": "Apple Releases watchOS 7.5 With Apple Card Family and Subscription Podcast Support"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/05/24/apple-releases-tvos-14-6/",
+          "author": "Juli Clover",
+          "description": "Apple today released tvOS 14.6, the sixth update to the tvOS 14 operating system that was released in September 2020. tvOS 14.6 comes a month after the release of tvOS 14.5, an update that added a new Color Balance feature and support for the latest gaming controllers.\r\n\r\n\r\n\r\n\r\n\r\ntvOS 14.6, which is a free update, can be downloaded over the air through the Settings app on the Apple TV by going to System > Software Update. ‌‌Apple TV‌‌ owners who have automatic software updates enabled will be upgraded to tvOS 14.5 automatically.\r\n\r\n\r\n\r\ntvOS updates are often minor in scale, focusing primarily on under-the-hood bug fixes and improvements rather than outward-facing changes. tvOS 14.6 lays the groundwork for the new Apple Music Spatial Audio with Dolby Atmos and Lossless Audio features.\r\n\r\n\r\n\r\nSpatial Audio offers an immersive audio experience that makes it sound like music is coming from all around you, while Lossless Audio will provide higher-quality songs that sound exactly like they do when artists record them in the studio.\r\n\r\n\r\n\r\nAt launch in June, thousands of tracks will feature Spatial Audio support, and more than 20,000 songs will support Lossless Audio. By the end of the year, 75 million songs will support it.\nRelated Roundups: Apple TV, tvOS 14\nBuyer's Guide: Apple TV (Buy Now)\nRelated Forum: Apple TV and Home Theater\nThis article, \"Apple Releases tvOS 14.6 to Prepare for Upcoming Apple Music Spatial Audio and Lossless Audio Features\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/05/24/apple-releases-tvos-14-6/",
+          "publishedOn": "2021-05-24T17:06:15.000Z",
+          "wordCount": 2107,
+          "title": "Apple Releases tvOS 14.6 to Prepare for Upcoming Apple Music Spatial Audio and Lossless Audio Features"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/05/24/apple-tv-app-dolby-vision-xbox/",
+          "author": "Sami Fathi",
+          "description": "This past November, the Apple TV app made its debut on Xbox gaming consoles, now, the Apple TV app is gaining support for Dolby Vision on Xbox, offering viewers improved high dynamic range paired with Dolby Atmos for a truly cinematic experience.\r\n\r\n\r\n\r\n\r\n\r\nXbox says that to enable Dolby Vision for ‌Apple TV‌ on Xbox, users must first have a compatible TV that supports high dynamic range. With compatible TVs, users will find a new toggle under \"TV & display options\" in their Xbox settings tab to enable Dolby Vision. Additionally, not all ‌Apple TV‌ content will initially support Dolby Vision. \r\n\r\nTo start experiencing it with a Dolby Vision compatible TV, you need to have “Allow Dolby Vision” enabled and checked in Settings > General > TV & display options > Video Modes on your console. You can also confirm if content is available in Dolby Vision by looking for the Dolby Vision logo at the bottom of the Movie / Show’s description page in the ‌Apple TV‌ app or during playback by pressing the B button on your controller.\nThe ‌Apple TV‌ app, which previously only lived on Apple devices, has gradually been making its way to other devices such as the PS4, and select smart TVs. This is part of Apple's recent strategy to expand its services business to more customers. \r\n\r\nTags: Xbox, Apple TV\nThis article, \"Apple TV App on Xbox Gaining Support for Dolby Vision\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/05/24/apple-tv-app-dolby-vision-xbox/",
+          "publishedOn": "2021-05-24T16:47:22.000Z",
+          "wordCount": 1995,
+          "title": "Apple TV App on Xbox Gaining Support for Dolby Vision"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/05/24/wwdc-2021-schedule-keynote/",
+          "author": "Eric Slivka",
+          "description": "Apple today officially announced the lineup for its Worldwide Developers Conference in June, which will kick off with the traditional keynote at 10:00 a.m. Pacific Time on Monday, June 7.\r\n\r\n\r\n\r\n\r\n\r\nThe keynote will be streamed directly from Apple Park. Developers and Apple users will be able to watch on Apple.com, the Apple Developer app, the Apple Developer website, the Apple TV app, and YouTube. The remainder of WWDC will include the usual Platforms State of the Union following the keynote, as well as the Apple Design Awards on June 10 and an array of other sessions throughout the week.\r\n\r\n\r\n\r\nWWDC will feature over 200 sessions and labs, with over 1,000 Apple experts on hand for consultation with developers.\r\n\r\n\r\n\r\nApple is also launching a new Pavilions features for WWDC 2021, which will make it easy for developers to plan and organize their conference experience around topics like SwiftUI, Developer Tools, Accessibility & Inclusion, and more.\nRelated Roundup: WWDC 2021\nRelated Forum: Apple, Inc and Tech Industry\nThis article, \"Apple Shares WWDC 2021 Schedule, Keynote Takes Place June 7 at 10:00 a.m PT\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/05/24/wwdc-2021-schedule-keynote/",
+          "publishedOn": "2021-05-24T16:07:19.000Z",
+          "wordCount": 1989,
+          "title": "Apple Shares WWDC 2021 Schedule, Keynote Takes Place June 7 at 10:00 a.m PT"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/05/24/anker-nano-ii-chargers/",
+          "author": "Eric Slivka",
+          "description": "Anker today is introducing a new set of gallium nitride (GaN) USB-C chargers that offer fast charging speeds for mobile devices in a design that's smaller than ever. The new Nano II line is available in 30W, 45W, and 65W versions, and Anker says it has improved the chips and internal layout of its chargers to deliver greater efficiency while generating less heat.\r\n\r\n\r\n\r\n\r\n\r\nThe 30-watt charger measures in at just 31.5 mm by 30.4 mm and about 38 mm deep. (The UK versions of all three chargers are about 1.5 mm deeper due to their prong design.) It can fast-charge an iPhone or iPad, and even fully support the latest MacBook Air.\r\n\r\n\r\n\r\nThe 45-watt version offers a bit more power to be able to charge a wider variety of notebooks and other gadgets, and it measures 37.7 mm by 35 mm by about 41 mm. It also features foldable prongs to make it less likely to be damaged or to damage other items when tossed in together.\r\n\r\n\r\n\r\nThe 65-watt version can fully power devices all the way up to the 13-inch MacBook Pro, and it too features foldable prongs. The charger measures 41.7 mm by 36 mm by about 44 mm.\r\n\r\n\r\n\r\nAll three chargers are available for preorder on Amazon and Anker.com for US customers, priced at $29.99, $35.99, and $39.99 respectively. Versions for UK and EU customers will be available at a later date.\nTag: Anker\nThis article, \"Anker's Nano II USB-C Chargers Pack Up to 65W of Power in a Smaller Design\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/05/24/anker-nano-ii-chargers/",
+          "publishedOn": "2021-05-24T16:00:36.000Z",
+          "wordCount": 2320,
+          "title": "Anker's Nano II USB-C Chargers Pack Up to 65W of Power in a Smaller Design"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/05/24/users-notice-blooming-on-ipad-pro-xdr-display/",
+          "author": "Hartley Charlton",
+          "description": "Some users are noticing more blooming on the 12.9-inch iPad Pro's Liquid Retina XDR mini-LED display than expected, despite Apple's claims that the effect is minimized.\r\n\r\n\r\n\r\n\r\n\r\nAccording to recently published Apple Support documents, the ‌iPad Pro‌'s Liquid Retina XDR display is designed to improve on \"the trade-offs of typical local dimming systems, where the extreme brightness of LEDs might cause a slight blooming effect,\" suggesting that the effect should be minimized.\nThe Liquid Retina XDR display improves upon the trade-offs of typical local dimming systems, where the extreme brightness of LEDs might cause a slight blooming effect because the LED zones are larger than the LCD pixel size. This display is designed to deliver crisp front-of-screen performance with its incredibly small…",
+          "link": "https://www.macrumors.com/2021/05/24/users-notice-blooming-on-ipad-pro-xdr-display/",
+          "publishedOn": "2021-05-24T15:25:02.000Z",
+          "wordCount": 2462,
+          "title": "Apple Says iPad Pro's XDR Display Designed to Minimize Blooming, but Some Users Still Notice the Effect"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/05/24/beats-studio-buds-show-up-in-fcc-database/",
+          "author": "Sami Fathi",
+          "description": "Apple has filed the unreleased \"Beats Studio Buds\" in the FCC or Federal Communications Commission database under model numbers A2512 and A2513. The new filings come after the reveal of the new earbuds last week within the release candidates for iOS and tvOS 14.6.\r\n\r\n\r\n\r\n\r\n\r\nThe new earbuds feature a smaller design with no stem, much in line with what we're expecting to be a similar design language for the second-generation AirPods Pro. In addition, according to code found within the latest iOS release candidate, the new Beats Studio Buds will feature Active Noise Cancellation, currently a feature exclusive to Apple's ‌AirPods Pro‌ and AirPods Max. \r\n\r\n\r\n\r\n\r\n\r\nToday's new FCC filings reveal nothing new about the design or the feature set of the upcoming earbuds; however, its filing indicates that a release should be imminent. \nTag: Beats\nThis article, \"Beats Studio Buds Show Up in FCC Database\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/05/24/beats-studio-buds-show-up-in-fcc-database/",
+          "publishedOn": "2021-05-24T14:40:18.000Z",
+          "wordCount": 1980,
+          "title": "Beats Studio Buds Show Up in FCC Database"
+        },
+        {
+          "id": "https://www.macrumors.com/how-to/apple-tv-customize-clickpad-new-siri-remote&post_date=1621876738/",
+          "author": "Tim Hardwick",
+          "description": "Apple's second-generation redesigned Siri Remote features a touch-sensitive clickpad that can be used to navigate menus as well as fast-forward and rewind video. \r\n\r\n\r\n\r\n\r\n\r\nWhen you first start using the ‌Siri‌ Remote, touch surface tracking is on by default, but if you can't get on with the sensitivity or you're just not comfortable using touch controls on a remote, you can always customize it or turn it off. \r\n\r\n\r\n\r\n\r\n\r\nChange Siri Remote Clickpad Functionality\n\r\n\r\n\nLaunch the Settings app on your Apple TV.\n\r\n\r\nSelect Remotes and Devices.\n\r\n\r\nSelect ClickPad.\n\r\n\r\nSelect Click and Touch to allow both clicking and touch surface tracking, or Click Only to turn off touch surface tracking.\n\r\n\r\n\r\n\r\n\r\n\r\nChange Siri Remote Tracking Sensitivity\n\r\n\r\n\nLaunch the Settings app on your ‌Apple TV‌.\n\r\n\r\nSelect Remotes and Devices.\n\r\n\r\nSelect Touch Surface Tracking.\n\r\n\r\nSelect Fast to make smaller thumb movements move farther on the ‌Apple TV‌ screen, or Slow to reduce tracking sensitivity.\n\r\n\r\n\r\n\r\n\r\n\r\nIf you're having trouble scrubbing through video when playback is paused, check our mini guide to make sure you're using the correct clickpad gesture.\nRelated Roundups: Apple TV, tvOS 14\nTag: Siri Remote\nBuyer's Guide: Apple TV (Buy Now)\nRelated Forum: Apple TV and Home Theater\nThis article, \"Apple TV: How to Customize the Clickpad on the New Siri Remote (2nd Gen)\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/how-to/apple-tv-customize-clickpad-new-siri-remote/",
+          "publishedOn": "2021-05-24T14:18:58.000Z",
+          "wordCount": 2643,
+          "title": "Apple TV: How to Customize the Clickpad on the New Siri Remote (2nd Gen)"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/05/24/apple-seen-in-vehicle-supply-chains/",
+          "author": "Hartley Charlton",
+          "description": "Apple is intensely researching all aspects of car engineering and manufacturing, but there are growing questions around what form Apple's vehicle project may take, according to a report from the Wall Street Journal.\r\n\r\n\r\n\r\n\r\n\r\nSpeaking to the Wall Street Journal, Peter Fintl, the director of technology and innovation for Capgemini Engineering Germany, explained that Apple's movement in vehicle supply chains is noticeable.\nWe have seen enough echoes in the supply chain that we know Apple is really looking into every detail of car engineering and car manufacturing. But nobody knows if what Apple creates will be a car or a tech platform or a mobility service.\nThe report suggests that Apple's car project may not actually culminate in a consumer-purchasable complete vehicle. Instead, Apple may …",
+          "link": "https://www.macrumors.com/2021/05/24/apple-seen-in-vehicle-supply-chains/",
+          "publishedOn": "2021-05-24T13:49:22.000Z",
+          "wordCount": 2453,
+          "title": "Apple Seen in Vehicle Supply Chains, but It May Be Exploring Taxi Service or Car Platform Instead"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/05/24/verizon-customers-year-free-apple-arcade/",
+          "author": "Hartley Charlton",
+          "description": "Verizon today announced that customers with unlimited, \"Play More,\" or \"Get More\" plans will receive up to a year of Apple Arcade or Google Play Pass for free.\r\n\r\n\r\n\r\n\r\n\r\nStarting May 25, new and existing Verizon customers will be eligible to get six months of ‌Apple Arcade‌ or Google Play Pass for free with any unlimited plan, or 12 months of ‌Apple Arcade‌ or Google Play Pass with \"Play More\" or \"Get More\" plans. The new perk comes with Verizon's Mix and Match Unlimited, which already includes services such as Apple Music.\r\n\r\n\r\n\r\n‌Apple Arcade‌ is Apple's premium subscription gaming service that lets users download and play included games ad-free and with no added costs. There are now over 180 games in ‌Apple Arcade‌'s library, and a subscription works across iPhone, iPad, Mac, and Apple TV, with many titles working with popular Bluetooth controllers, such as the Xbox Series X controller and the PS5 DualSense controller.\nTags: Verizon, Apple Arcade\nThis article, \"Eligible Verizon Customers Will Get up to a Year of Apple Arcade Free\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/05/24/verizon-customers-year-free-apple-arcade/",
+          "publishedOn": "2021-05-24T13:41:18.000Z",
+          "wordCount": 1915,
+          "title": "Eligible Verizon Customers Will Get up to a Year of Apple Arcade Free"
+        },
+        {
           "id": "https://www.macrumors.com/how-to/scrub-through-video-new-siri-remote-2nd-gen&post_date=1621793671/",
           "author": "Tim Hardwick",
           "description": "With the new Apple TV 4K now in customers' hands, some users are reporting issues when trying to control video with the redesigned Siri Remote. \r\n\r\n\r\n\r\n\r\n\r\nSpecifically, some users are complaining that using the circular gesture on the new clickpad ring to fast-forward or rewind paused video isn't working as expected. Rather than scrubbing through video continually in the direction of the gesture, the video scrubs back and forth in opposite directions.\r\n\r\n\r\n\r\nFrom what we've been able to work out, the problem seems to relate to a subtle additional gesture that users are missing out, either because it isn't very intuitive or Apple doesn't demonstrate it particularly well in the marketing material. \r\n\r\n\r\n\r\n\r\n\r\nTry following these steps to get it working. We've italicized the crucial gesture …",
@@ -1674,6 +1998,24 @@
       "siteUrl": "https://daringfireball.net/",
       "articles": [
         {
+          "id": "https://www.cnbc.com/2021/05/21/snap-ceo-evan-spiegel-were-happy-to-pay-apple-30percent.html",
+          "author": null,
+          "description": "Salvador Rodriguez, reporting for CNBC:\nSnap CEO Evan Spiegel on Friday said the social media company is\nhappy to pay Apple’s 30% commission rate on in-app transactions.\n“We really feel like Snapchat wouldn’t exist without the iPhone\nand without the amazing platform that Apple has created,” Spiegel\nsaid on TechCheck. “In that sense, I’m not sure we have a choice\nabout paying the 30% fee, and of course, we’re happy to do it in\nexchange for all of the amazing technology that they provide to us\nin terms of the software but also in terms of their hardware\nadvancements.”\nAt first blush you might think this is lickspittle-ism. But I think Spiegel is right that Snap might not exist without the iPhone — or, if it did, that would exist in a very different form. The iPhone and App Store have been very good for Snap.\nBut here’s thing thing: Snap isn’t in the business of charging its users money. From Investopedia, citing Snap’s 10-K for 2020:\nSubstantially all of Snap’s revenue is generated from advertising,\nwhich accounted for 99% of the company’s total $2.5 billion in\nrevenue in 2020, up from 98% in 2019.\n99 percent of Snap’s revenue is from advertising, not a nickel of which Apple gets a commission from. I’m not faulting Snap in the least for building an ad-based business — Daring Fireball gets at least 95 percent of its revenue from advertising. But the CEO of a company whose business doesn’t rely on in-app purchases or subscriptions doesn’t really seem like a good person to ask about Apple’s commission structure.\nFind me the CEOs of companies that generate a significant percentage of their revenue through App Store transactions who espouse the same sentiment as Spiegel. I’m not saying they don’t exist — I’m sure some do — but let’s hear from those with skin in the game.\n ★",
+          "link": "https://www.cnbc.com/2021/05/21/snap-ceo-evan-spiegel-were-happy-to-pay-apple-30percent.html",
+          "publishedOn": "2021-05-24T18:26:15.000Z",
+          "wordCount": 746,
+          "title": "Vegetarian Unconcerned by Lax Meat Inspection"
+        },
+        {
+          "id": "https://youtu.be/8w4qPUSG17Y",
+          "author": null,
+          "description": "I love this new ad from Apple. But given that I wrote this a few months ago, that’s probably not surprising. Funny, eye-opening, and true — that’s a good foundation for any ad.\n ★",
+          "link": "https://youtu.be/8w4qPUSG17Y",
+          "publishedOn": "2021-05-24T01:16:29.000Z",
+          "wordCount": 19,
+          "title": "‘Tracked’ — New Privacy Ad From Apple"
+        },
+        {
           "id": "https://daringfireball.net/2021/05/the_new_siri_remote_etc",
           "author": null,
           "description": "Here are the last three Apple TV remotes. (There have only been four, but alas, I can’t find my original white Apple Remote.1)\n\n\n\nThe old aluminum Apple Remote shipped with the 2nd and 3rd generation Apple TVs (2010 and 2012). It’s not obvious from looking at it, but the center of the D-pad ring is a Select button.\nThe despicable black Siri Remote shipped with the Apple TV HD (a.k.a. 4th generation Apple TV) and 1st generation Apple TV 4K (2015 and 2017). Apple made one minor tweak when the Apple TV 4K ship…",
@@ -2149,6 +2491,60 @@
       "siteUrl": "https://www.polygon.com/pc",
       "articles": [
         {
+          "id": "https://www.polygon.com/guides/22450842/biomutant-beginners-tips-tricks",
+          "author": null,
+          "description": "Image: Experiment 101/THQ Nordic\n    \n\n  \nHow to start your journey, and where it is all headed\n Biomutant is a role-playing game where your experience tends to be differentiated more by character alignment rather than by their build of attributes and gear. The first two hours of Biomutant onboard the player to the world’s lore; its combat, crafting, and other systems; and then send them off on their first main mission. \nThis Biomutant beginner’s guide will help you understand the game’s story, the ethos that informs the choices you have to make, and the initial choices themselves, so that you can shape your character and your story in a sensible way. \nFor more on how to develop a starting character and what Biomutant’s different “classes” entail, visit our Biomutant character creation gui…",
+          "link": "https://www.polygon.com/guides/22450842/biomutant-beginners-tips-tricks",
+          "publishedOn": "2021-05-24T19:28:36.000Z",
+          "wordCount": 2525,
+          "title": "Biomutant beginner’s guide, tips, and tricks"
+        },
+        {
+          "id": "https://www.polygon.com/22451701/victoria-3-announced-meme-pdxcon-2021-release-dates-pc-xbox-game-pass",
+          "author": null,
+          "description": "Not quite Half-Life 3 confirmed, but it is to Victoria fans\n Victoria 3, a sequel so long-awaited by its fans the title has become a meme, is in development and coming soon. The grand strategy title was a keynote reveal of this weekend’s PDXCon, the annual gathering for all things Paradox Interactive.\nParadox’s Victoria series is a “society simulation” set in Great Britain during the time surrounding the industrial revolution. The most recent title was 2010’s Victoria 2 for PC. In the decade since, Victoria fans had beaten news or rumor of a sequel into a meme somewhat like the well-known Half-Life 3 meme. \nThis weekend, the meme died. A Paradox Interactive community manager took to the official forums this weekend to start a meme contest for the game, posting this picture of game director Martin Anward (which Anward himself tweeted out on Friday.)\nImage: Martin Anward via Twitter\n  \n“Victoria 3 is instantly one of the most highly anticipated grand strategy games in Paradox’s history,” the company said in a statement, obliquely acknowledging its meme status. In the game, players take one of “dozens of nations,” not just the U.K., and lead it through a time of societal change, technological innovation, economic turmoil, and geopolitical rivalries.\nParadox’s news release did not say when Victoria 3 would launch, but did say it would be available for Windows PC via Steam, Xbox Game Pass for PC, and the Paradox Store.\nAs for the meme contest, I don’t know who won, but this was my personal favorite:\nImage: Hemothep via Paradox Interactive forums",
+          "link": "https://www.polygon.com/22451701/victoria-3-announced-meme-pdxcon-2021-release-dates-pc-xbox-game-pass",
+          "publishedOn": "2021-05-24T19:06:29.000Z",
+          "wordCount": 750,
+          "title": "Victoria 3’s announcement ends a decade of grand strategy memeing"
+        },
+        {
+          "id": "https://www.polygon.com/22451476/final-fantasy-origin-team-ninja-ps5-pc-square-enix",
+          "author": null,
+          "description": "The Warrior of Light in Dissidia Final Fantasy NT | Image: Team Ninja/Square Enix\n    \n\n  \nFinal Fantasy Origin rumored for PS5, PC\n Nioh and Ninja Gaiden developer Team Ninja is developing a new Final Fantasy spinoff action game for Square Enix, according to a report from Fanbyte. That game, reportedly titled Final Fantasy Origin, is expected to be announced in June in conjunction with E3 2021. Square Enix is confirmed to appear at this year’s E3.\nFanbyte’s report follows a series of rumors regarding Final Fantasy Origin, which has been compared to FromSoftware’s Dark Souls series and Respawn Entertainment’s Star Wars Jedi: Fallen Order. The Final Fantasy spinoff is said to be “more accessible [than Nioh] for a wider audience” and set during the events of the first game in the franchise. Origin is reportedly bound for PlayStation 5, with a Windows PC version coming later.\nAnother component of the rumor surrounding Final Fantasy Origin is that Team Ninja will release a playable demo of the game this summer to solicit feedback from players. The studio similarly released “alpha” demos of Nioh and Nioh 2 ahead of each game’s final product.\nTeam Ninja and Square Enix already have a close working relationship, thanks to the former’s work on Dissidia Final Fantasy NT, a fighting game featuring characters plucked from the wider Final Fantasy franchise. That game features two characters based on the original Final Fantasy, the Warrior of Light (pictured above) and Garland.\nSquare Enix previously released a game under the name Final Fantasy Origins. Released for the original PlayStation, Final Fantasy Origins compiled the first two games in the franchise in remastered form.",
+          "link": "https://www.polygon.com/22451476/final-fantasy-origin-team-ninja-ps5-pc-square-enix",
+          "publishedOn": "2021-05-24T17:13:13.000Z",
+          "wordCount": 737,
+          "title": "Report: Team Ninja making a Final Fantasy ‘Souls-like’ action game"
+        },
+        {
+          "id": "https://www.polygon.com/2021/5/24/22451454/crusader-kings-3-royal-court-expansion-details-hybrid-cultures",
+          "author": null,
+          "description": "Image: Paradox Interactive\n    \n\n  \nThere’s other stuff too, but the bear’s fun\n Crusader Kings 3’s first major expansion is coming soon, and it’s all about your seat of power. Royal Court allows medieval rulers to hang out in a 3D throne room, meet with their courtiers, and hire bards to sing epic tales. \nRoyal Court fleshes out one of Crusader Kings 3’s most intriguing elements — managing your home base. Players have to deal with unruly vassals and rebellions, hold feasts, seduce lords, and ferret out secrets. Sometimes, the stories that take place in the player’s own royal hall are far more compelling than anything that happens over foreign borders.\nTherefore, it makes sense that Royal Court turns your throne room into a much more tangible place that players can decorate, show off, and fill with fun entertainment like woodworkers or, uh, angry bears.\nThe Royal Court expansion will also introduce hybrid cultures and new ways for cultures to develop and diverge over the years, allowing rulers to make new ways of life for their kingdoms and empires. A previous, smaller scale expansion in March added winter weather and Norse invasions.\nCrusader Kings 3: Royal Court will launch later in 2021.",
+          "link": "https://www.polygon.com/2021/5/24/22451454/crusader-kings-3-royal-court-expansion-details-hybrid-cultures",
+          "publishedOn": "2021-05-24T16:58:58.000Z",
+          "wordCount": 683,
+          "title": "Crusader Kings 3’s first expansion lets you hang out with a bear"
+        },
+        {
+          "id": "https://www.polygon.com/22451199/destiny-2-vault-glass-raid-race-chart-atheon-deep-stone-crypt",
+          "author": null,
+          "description": "Image: Bungie\n    \n\n  \nRaid charts are a universal language in Destiny, and key to taking on its hardest challenges\n Vault of Glass, the original Destiny raid, made its debut in Destiny 2 on Saturday. Bungie gave the old raid a new coat of paint, and many teams — including my own — dove in to conquer the challenge within the first 24 hours. But even though we all knew the fights from the original game, it didn’t stop me and a host of my peers from participating in my favorite Destiny raid-race experience: chart-making.\nDestiny raids are like a cooperative puzzle. Players normally need to communicate information about something that only they can see to someone else who has to apply that information. Shouting “the thing to your left” doesn’t usually cut it, especially in a day-one scenario,…",
+          "link": "https://www.polygon.com/22451199/destiny-2-vault-glass-raid-race-chart-atheon-deep-stone-crypt",
+          "publishedOn": "2021-05-24T16:15:42.000Z",
+          "wordCount": 1436,
+          "title": "Destiny’s reworked Vault of Glass is no match for my MS Paint skills"
+        },
+        {
+          "id": "https://www.polygon.com/2021/5/24/22451350/rainbow-six-siege-operation-north-star-thunderbird-operator-details-notes",
+          "author": null,
+          "description": "Image: Ubisoft\n    \n\n  \nMeet Thunderbird\n Ubisoft is constantly updating Rainbow Six Siege, and a new Operator is coming to the game along with a slew of quality-of-life changes to the meta. Operation North Star is the next big update, and and the star is Mina “Thunderbird” Sky, an Indigenous Nakoda pilot with powerful healing tech.\nThunderbird carries a trio of deployable healing turrets known as the Kona Station.  She’s a flexible, fast Operator who can get around a defense site quickly to drop her Kona Stations. Players who enter a Kona Station’s radius are healed; the Station then goes on cooldown. Her weapon options include a Spear .308 and SPAS-15, as well as a backup Bearing-9 and Q-929.\nUbisoft is also reworking the Favela map, which is similar aesthetically but dramatically changed layout wise. The Operator Melusi is also getting a rework to make her less of a balance headache for players (her Banshee gadget can now be destroyed by a single bullet.) Operation North Star has tons of changes to make the game clearer and more fun, which are explained in detail on Ubisoft’s official site.\nOperation North Star is live on Ubisoft’s test servers on May 25; it is slated to launch to all players in mid-June.",
+          "link": "https://www.polygon.com/2021/5/24/22451350/rainbow-six-siege-operation-north-star-thunderbird-operator-details-notes",
+          "publishedOn": "2021-05-24T16:09:18.000Z",
+          "wordCount": 673,
+          "title": "Rainbow Six Siege’s new update includes a Nakoda Operator, tons of fixes"
+        },
+        {
           "id": "https://www.polygon.com/22444608/resident-evil-horror-eugenics-military-government-themes",
           "author": null,
           "description": "Image: Capcom\n    \n\n\n  \nLooking back on the horror at the core of Capcom’s long-running series\n The premise of the Resident Evil series is, outwardly, a simple one. The foundation of the games rests with the events that transpired in the Arklay Mountains in June 1998. It starts with a simple training mission gone awry; the STARS Alpha team, a special task squad for the Raccoon City Police Department, gets dispatched to investigate the missing Bravo team at the Spencer Estate, a mansion owned by the founder …",
@@ -2502,6 +2898,15 @@
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
         {
+          "id": "https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with/",
+          "author": null,
+          "description": "I was talking to Jemma recently about what stops people\nfrom blogging. One barrier that stood out to me was: it’s hard to identify\nwhich things you know will be useful to other people!\nThe process I use for a lot of my blog posts is:\nStruggle with something (usually computer-related)\nEventually (days or months or years later), figure out how to solve some of\nthe problems I had\nWrite a blog post about what helped me\nI think this approach is effective because if I struggled with something,\nthere’s a pretty good chance that other people are struggling with it too, and\nwhat I learned is likely to be useful to at least some of them!\nObviously this isn’t the only approach to blogging, but it’s my approach, so\nthat’s what I’m going to write about here :). I’ll give a few examples of\nspecific blog…",
+          "link": "https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with/",
+          "publishedOn": "2021-05-24T13:59:07.000Z",
+          "wordCount": 1869,
+          "title": "Blog about what you've struggled with"
+        },
+        {
           "id": "https://jvns.ca/blog/2021/05/17/how-to-look-at-the-stack-in-gdb/",
           "author": null,
           "description": "I was chatting with someone yesterday and they mentioned that they don’t really\nunderstand exactly how the stack works or how to look at it.\nSo here’s a quick walkthrough of how you can use gdb to look at the stack of a C\nprogram. I think this would be similar for a Rust program, but I’m going to use\nC because I find it a little simpler for a toy example and also you can do Terrible\nThings in C more easily.\nour test program\nHere’s a simple C program that declares a few variables and reads two strings\nfrom s…",
@@ -2557,6 +2962,33 @@
       "feedUrl": "https://waxy.org/feed/",
       "siteUrl": "https://waxy.org",
       "articles": [
+        {
+          "id": "https://waxy.org/?p=41617",
+          "author": "Andy Baio",
+          "description": "from 2017, a stunning Commodore 64 demo made in 256 bytes #",
+          "link": "https://linusakesson.net/scene/a-mind-is-born/",
+          "publishedOn": "2021-05-24T19:33:24.000Z",
+          "wordCount": 7411,
+          "title": "A Mind Is Born"
+        },
+        {
+          "id": "https://waxy.org/?p=41614",
+          "author": "Andy Baio",
+          "description": "using Tacotron, generate synthetic speech using dozens of famous voices, such as rappers, politicians, and cartoon characters #",
+          "link": "https://uberduck.ai/",
+          "publishedOn": "2021-05-24T19:32:25.000Z",
+          "wordCount": 32,
+          "title": "Uberduck"
+        },
+        {
+          "id": "https://waxy.org/?p=41611",
+          "author": "Andy Baio",
+          "description": "CGP Grey digs into a London art group's hilarious battle with a city council #",
+          "link": "https://www.youtube.com/watch?v=_8xhdL8BPvU",
+          "publishedOn": "2021-05-24T19:27:03.000Z",
+          "wordCount": 16,
+          "title": "The Battle of Sharks!"
+        },
         {
           "id": "https://waxy.org/?p=41608",
           "author": "Andy Baio",
@@ -3159,24 +3591,6 @@
           "publishedOn": "2021-04-25T23:07:18.000Z",
           "wordCount": 3413,
           "title": "The Slander Industry"
-        },
-        {
-          "id": "https://waxy.org/?p=41345",
-          "author": "Andy Baio",
-          "description": "these pack an emotional punch #",
-          "link": "https://twitter.com/tropical_toxic/status/1385698382589698048",
-          "publishedOn": "2021-04-24T22:39:39.000Z",
-          "wordCount": 196,
-          "title": "Student illustrators envision post-pandemic New Yorker covers"
-        },
-        {
-          "id": "https://waxy.org/?p=41342",
-          "author": "Andy Baio",
-          "description": "who owns the rights to a link to a photo of a print of a screenshot of a photo #",
-          "link": "https://www.theverge.com/2021/4/24/22399790/emily-ratajkowski-nft-christies-copyright-nightmare-richard-prince",
-          "publishedOn": "2021-04-24T22:12:20.000Z",
-          "wordCount": 1226,
-          "title": "The copyright quagmire of Emily Ratajkowski’s NFT"
         }
       ]
     },
@@ -3185,6 +3599,33 @@
       "feedUrl": "http://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/21/05/trillions-and-trillions-and-trillions-of-stars",
+          "author": null,
+          "description": "This is a photo of a tiny tiny snippet of the universe, taken by the Hubble Space Telescope. Every object you see in the photo is a staggeringly massive galaxy that contains hundreds of billions of stars along with all sort of other things.\nOur own galaxy, the Milky Way, is well over one hundred thousand light years across. We only see a pitiful portion of it. Although it contains several hundred billion stars in its expanse, we can only see a fraction of a fraction of them.\nAnd even that doesn’t fully capture the essence of a galaxy, which also has planets, gas, dust, dark matter, and more. Galaxies are colossal objects, their true nature only becoming apparent to us a century ago.\n\n\nI know I’ve posted photos like this before, but every time I see something like this, my mind boggles anew at the sheer scale and magnitude of it all and I just have to share it.\nP.S. And Earth contains the only sentient life in the entire universe? Lol.\nTags: astronomy   Hubble telescope   photography   space",
+          "link": "https://kottke.org/21/05/trillions-and-trillions-and-trillions-of-stars",
+          "publishedOn": "2021-05-24T17:32:54.000Z",
+          "wordCount": 220,
+          "title": "Trillions and Trillions and Trillions of Stars"
+        },
+        {
+          "id": "https://kottke.org/21/05/when-a-raindrop-falls-in-the-us-where-does-it-end-up",
+          "author": null,
+          "description": "Using data from the United States Geological Survey, River Runner visualizes the path taken by a raindrop from its landing spot to its eventual endpoint. Just click on any spot in the US and it maps out the path the drop would take, complete with a satellite fly-through of the route. I spent many happy minutes playing with this, although the endpoint of “Canada” for a raindrop that lands in my Vermont yard was somewhat unsatisfying.\nSee also The Marvelous Mississippi River Meander Maps and a map of all of the rivers in the US. (via waxy)\nTags: infoviz   maps   USA",
+          "link": "https://kottke.org/21/05/when-a-raindrop-falls-in-the-us-where-does-it-end-up",
+          "publishedOn": "2021-05-24T15:28:12.000Z",
+          "wordCount": 153,
+          "title": "When a Raindrop Falls in the US, Where Does It End Up?"
+        },
+        {
+          "id": "https://kottke.org/21/05/a-map-of-the-internet-2021",
+          "author": null,
+          "description": "Translating sites, search engines, social networks, browsers, ISPs, and other internet entities into geographic features, Martin Vargic has created a map of the internet circa 2021.\nIt includes several thousand of some of the most popular websites, represented as distinct “countries”, which are grouped together with others of similar type or category, forming dozens of distinct clusters, regions and continents that stretch throughout the map, such as “news sites”, “search engines”, “social networks”, “e-commerce”, “adult entertainment”, “file sharing”, “software companies” and so much more.  In the center of it all can be found ISPs and web browsers, which form the core and backbone of the internet as we know it, while the far south is the domain of the mysterious “dark web”.\n\n\nSee also an actual map of the known internet from May 1973.\nTags: infoviz   internet   maps   Martin Vargic   remix",
+          "link": "https://kottke.org/21/05/a-map-of-the-internet-2021",
+          "publishedOn": "2021-05-24T13:24:45.000Z",
+          "wordCount": 179,
+          "title": "A Map of the Internet 2021"
+        },
         {
           "id": "https://kottke.org/21/05/100-visions-of-motherhood",
           "author": null,
@@ -3670,6 +4111,15 @@
       "siteUrl": "https://www.halfbakedharvest.com",
       "articles": [
         {
+          "id": "https://www.halfbakedharvest.com/?p=107102",
+          "author": "halfbakedharvest",
+          "description": "Pesto Chicken, Corn, and Avocado Bacon Pasta Salad.\nThis Pesto Chicken, Corn, and Avocado Bacon Pasta Salad is the perfect quick fix salad. It’s almost no-cook and comes together in minutes. Grilled pesto chicken tossed together with a creamy, lemony parmesan dressing, fresh romaine lettuce, grilled corn, crispy bacon, and creamy avocado. This pasta is simple to toss together, super flavorful, filling, and…\nREAD: Pesto Chicken, Corn, and Avocado Bacon Pasta Salad.",
+          "link": "https://www.halfbakedharvest.com/pesto-chicken-corn-and-avocado-bacon-pasta-salad/",
+          "publishedOn": "2021-05-24T08:00:00.000Z",
+          "wordCount": 2249,
+          "title": "Pesto Chicken, Corn, and Avocado Bacon Pasta Salad."
+        },
+        {
           "id": "https://www.halfbakedharvest.com/?p=107052",
           "author": "halfbakedharvest",
           "description": "Nine Favorite Things.\nThanks for joining me for another Nine Favorite Things post. How pretty is that photo above? I’m happy to say that while our weather is still so all over the place, with plenty of stormy days and dark clouds. We’ve also had moments like the photo above. All signs that beautiful summer weather is on…\nREAD: Nine Favorite Things.",
@@ -3748,6 +4198,15 @@
       "feedUrl": "https://cate.blog/feed/",
       "siteUrl": "https://cate.blog",
       "articles": [
+        {
+          "id": "https://cate.blog/?p=53253",
+          "author": "Cate",
+          "description": "For the past couple of months, I’ve kept a post it on my desk. It says: How are people doing? – Downtime– Social isolation– Perspective You can probably guess what it’s for – it’s a reminder of the core struggles I’ve been noticing from people. Downtime: downtime is lower quality, and people struggle to recharge. […]",
+          "link": "https://cate.blog/2021/05/24/pandemic-problems/",
+          "publishedOn": "2021-05-24T12:00:00.000Z",
+          "wordCount": 668,
+          "title": "Pandemic Problems"
+        },
         {
           "id": "https://cate.blog/?p=53249",
           "author": "Cate",
@@ -3850,6 +4309,267 @@
       "feedUrl": "https://bloody-disgusting.com/feed/",
       "siteUrl": "https://bloody-disgusting.com",
       "articles": [
+        {
+          "id": "https://bloody-disgusting.com/?p=3666657",
+          "author": "John Squires",
+          "description": "Funko‘s “FunkoWeen” celebration continues tonight with a brand new Jaws reveal, a deluxe offering that recreates Quint’s iconic (and brutal) death scene from the 1975 horror classic. The killer display piece, a GameStop and EB Games Canada exclusive, depicts Quint being eaten by the shark aboard the Orca, and it comes with a watery base […]",
+          "link": "https://bloody-disgusting.com/toys/3666657/new-jaws-toy-funko-includes-shark-boat-whole-damn-thing/",
+          "publishedOn": "2021-05-24T22:06:41.000Z",
+          "wordCount": 1251,
+          "title": "New ‘Jaws’ Toy from Funko Includes the Shark, the Boat, the Whole Damn Thing"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3666654",
+          "author": "John Squires",
+          "description": "As we recently learned, Elisabeth Moss is set to both star in and executive produce a series adaptation of Lauren Beukes‘s novel The Shining Girls for Apple, and it turns out that Moss will also be finding herself in the director’s chair for the upcoming series. Deadline reports tonight that “Elisabeth Moss, Michelle MacLaren and Daina Reid are set to take turns […]",
+          "link": "https://bloody-disgusting.com/news/3666654/directors-apples-thriller-series-shining-girls-include-elisabeth-moss-michelle-maclaren/",
+          "publishedOn": "2021-05-24T21:47:50.000Z",
+          "wordCount": 969,
+          "title": "Directors for Apple’s Thriller Series “Shining Girls” Include Elisabeth Moss and  Michelle MacLaren"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3666651",
+          "author": "John Squires",
+          "description": "From David E. Kelley, Nicole Kidman and Lionsgate Television comes HBO Max‘s “Love and Death,” a true crime series that will be led by Jesse Plemons and Elizabeth Olsen. Deadline reports that the project is “a limited series about the true story of Wylie, TX, housewife Candy Montgomery’s (Elizabeth Olsen) murder of Betty Gore in 1980.” […]",
+          "link": "https://bloody-disgusting.com/tv/3666651/jesse-plemons-elizabeth-olsen-starring-hbo-maxs-true-crime-series-love-death/",
+          "publishedOn": "2021-05-24T21:43:26.000Z",
+          "wordCount": 987,
+          "title": "Jesse Plemons and Elizabeth Olsen Starring in HBO Max’s True Crime Series “Love and Death”"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3666625",
+          "author": "John Squires",
+          "description": "Announced today, this year’s Etheria Film Festival (www.etheriafilmnight.com) lineup will stream exclusively on Shudder, beginning Friday, June 25 and running through July 25! “This year’s Festival, the world’s most respected annual showcase of horror, science fiction, fantasy, action and thriller films directed by women, will feature nine short films and honor The Walking Dead Showrunner and Executive Producer Angela […]",
+          "link": "https://bloody-disgusting.com/videos/3666625/etheria-film-festivals-2021-lineup-will-stream-exclusively-shudder-trailer/",
+          "publishedOn": "2021-05-24T20:55:57.000Z",
+          "wordCount": 1210,
+          "title": "The Etheria Film Festival’s 2021 Lineup Will Stream Exclusively on Shudder [Trailer]"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3666622",
+          "author": "Mike Wilson",
+          "description": "While there’s no doubt that some will take this as a sign of the apocalypse (hint: it’s not), Sony Pictures and Constantin Films’ upcoming Resident Evil: Welcome to Raccoon City is headed back for reshoots. The news comes courtesy of actor Robbie Amell, who spilled the beans during a recent Twitch stream. Amell, who is […]",
+          "link": "https://bloody-disgusting.com/news/3666622/resident-evil-welcome-to-raccoon-city-undergoing-reshoots-in-toronto/",
+          "publishedOn": "2021-05-24T20:47:03.000Z",
+          "wordCount": 985,
+          "title": "‘Resident Evil: Welcome to Raccoon City’ Undergoing Reshoots in Toronto"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3666620",
+          "author": "John Squires",
+          "description": "Sam Raimi has joined forces with A Quiet Place writers Scott Beck and Bryan Woods for 65, an original sci-fi thriller starring Adam Driver, Ariana Greenblatt and Chloe Coleman. The film’s plot is still under wraps at this time, but we now have a date. Sony will release 65 in theaters on May 13, 2022. The sci-fi thriller, written by Beck and Woods, […]",
+          "link": "https://bloody-disgusting.com/movie/3666620/sam-raimi-produced-sci-fi-thriller-65-writers-quiet-place-dated-2022-release/",
+          "publishedOn": "2021-05-24T20:25:34.000Z",
+          "wordCount": 1222,
+          "title": "Sam Raimi-Produced Sci-fi Thriller ’65’ from Writers of ‘A Quiet Place’ Dated for 2022 Release"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3666613",
+          "author": "John Squires",
+          "description": "EPIX recently gave the green light to a sci-fi/horror series titled “From,” created by John Griffin (Crater), and Deadline reports today that Oscar-nominated actress Catalina Sandino Moreno (“American Gothic,” “The Affair”) is on board to lead the cast. She’ll be joined by Eion Bailey (“Band Brothers,” “The Stand”) and Harold Perrineau (“Claws,” “The Rookie”). Deadline reports, “Written […]",
+          "link": "https://bloody-disgusting.com/tv/3666613/catalina-sandino-moreno-leading-cast-epix-horror-series/",
+          "publishedOn": "2021-05-24T19:51:22.000Z",
+          "wordCount": 976,
+          "title": "Catalina Sandino Moreno Leading the Cast of EPIX Horror Series “From”"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3666404",
+          "author": "Meagan Navarro",
+          "description": "South Korea’s 2016 zombie apocalypse movie Train to Busan broke significant records, becoming not just one of the country’s top-grossing films of all time but an international hit as well. Parasite landed four Oscar wins in 2020, including Best Director and Best Picture. Throw in a handful of titles, like A Tale of Two Sisters and I Saw the Devil, and South […]",
+          "link": "https://bloody-disgusting.com/editorials/3666404/stay-home-watch-horror-5-south-korean-horror-movies-stream-week/",
+          "publishedOn": "2021-05-24T19:21:41.000Z",
+          "wordCount": 2635,
+          "title": "Stay Home, Watch Horror: 5 South Korean Horror Movies to Stream This Week"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3666598",
+          "author": "John Squires",
+          "description": "The Mistress of the Dark and the Master of the Macabre are reuniting in a new comic series from Dynamite, with Elvira Meets Vincent Price set to launch this coming August! “The two titans of horror and comedy unite in comics for the very first time! Dynamite Entertainment Proudly Presents… Elvira Meets Vincent Price,” the […]",
+          "link": "https://bloody-disgusting.com/comics/3666598/elvira-teams-ghost-vincent-price-new-comic-elvira-meets-vincent-price/",
+          "publishedOn": "2021-05-24T18:55:24.000Z",
+          "wordCount": 1381,
+          "title": "Elvira Teams Up With the Ghost of Vincent Price in New Comic ‘Elvira Meets Vincent Price’!"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3666587",
+          "author": "Paul Le",
+          "description": "Although The Asylum has a reputation for releasing opportunistic mockbusters alongside major genre releases, Aquarium of the Dead doesn’t parallel Zack Snyder’s Army of the Dead all too much. The timing is right and they both feature zombies, but with the exception of the undead tiger in Army, Glenn Miller’s movie boasts a whole menagerie […]",
+          "link": "https://bloody-disgusting.com/reviews/3666587/review-asylums-aquarium-dead-fishy-sounds/",
+          "publishedOn": "2021-05-24T18:15:08.000Z",
+          "wordCount": 1725,
+          "title": "[Review] The Asylum’s ‘Aquarium of the Dead’ Is as Fishy as It Sounds"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3666577",
+          "author": "John Squires",
+          "description": "Last year’s Friday the 13th: Complete Collection Blu-ray set from Scream Factory will likely forever be *the* must-own set for Friday fans, packed with all twelve films and all kinds of bonus features. That set is still available for just over $100, but if that’s a bit too rich for your blood, Paramount Pictures is […]",
+          "link": "https://bloody-disgusting.com/home-video/3666577/new-friday-13th-8-movie-blu-ray-collection-way-paramount-summer/",
+          "publishedOn": "2021-05-24T17:50:05.000Z",
+          "wordCount": 1104,
+          "title": "New ‘Friday the 13th’ 8-Movie Blu-ray Collection on the Way from Paramount This Summer"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3663874",
+          "author": "Trace Thurman",
+          "description": "Who shit in the toilet? We began the month by checking our reflections in Marina Sargenti’s Mirror Mirror and continued with a return trip to high school in Robert Rodriguez’s The Faculty last week. This week, we’re celebrating the release of Spiral: From the Book of Saw with a discussion of James Wan‘s influential debut film Saw! In […]",
+          "link": "https://bloody-disgusting.com/podcasts/3663874/saw-horror-queers-podcast/",
+          "publishedOn": "2021-05-24T17:34:35.000Z",
+          "wordCount": 1424,
+          "title": "The Lasting Legacy of ‘SAW’! [Horror Queers Podcast]"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3666070",
+          "author": "Meagan Navarro",
+          "description": "It’s been a long journey for the Abbott family and fans of the breakout hit A Quiet Place. With the long-awaited sequel finally here, writer/director/actor John Krasinski chats with Bloody Disgusting about why he took on a sequel and the pressure that comes with following a massive theatrical success. Mort importantly, the filmmaker talks about the […]",
+          "link": "https://bloody-disgusting.com/videos/3666070/quiet-place-part-ii-writer-director-john-krasinski-cites-horror-best-storytelling-medium-video-interview/",
+          "publishedOn": "2021-05-24T17:14:23.000Z",
+          "wordCount": 1053,
+          "title": "‘A Quiet Place Part II’ Writer/Director John Krasinski on Why Horror is the Best Storytelling Medium [Video Interview]"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3666561",
+          "author": "John Squires",
+          "description": "In the wake of Godzilla vs. Kong, Adam Wingard (V/H/S, You’re Next, The Guest, Blair Witch) has set up a handful of new projects, including another movie for Legendary’s MonsterVerse and even a ThunderCats movie plus a sequel to Face/Off. But that’s not all, as Deadline reports today that Wingard has signed on to direct action-thriller […]",
+          "link": "https://bloody-disgusting.com/movie/3666561/adam-wingard-directing-film-adaptation-robert-kirkmans-hardcore-universal-pictures/",
+          "publishedOn": "2021-05-24T17:10:17.000Z",
+          "wordCount": 1237,
+          "title": "Adam Wingard Directing Film Adaptation of Robert Kirkman’s ‘Hardcore’ for Universal Pictures"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3666465",
+          "author": "Mike Wilson",
+          "description": "As the saying goes, if you want something done right, you have to do it yourself. That’s what a group of fans have decided to do after Capcom has apparently overlooked doing a remake of Resident Evil – Code: Veronica in favour of Resident Evil 4. Resident Evil — Code: Veronica Remake has been in […]",
+          "link": "https://bloody-disgusting.com/video-games/3666465/fan-remake-of-resident-evil-code-veronica-to-have-first-chapter-released-next-month/",
+          "publishedOn": "2021-05-24T17:02:10.000Z",
+          "wordCount": 1180,
+          "title": "Fan Remake of ‘Resident Evil – Code: Veronica’ to Have First Chapter Released Next Month"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3666535",
+          "author": "John Squires",
+          "description": "Funko celebrated “FunkoWeen” this afternoon with a new batch of horror-themed reveals, giving us our first look at brand new Michael Myers, Elvira, and even Mandy toys! The Mistress of the Dark herself made a special appearance in the fun reveal video, which you can check out below. Elvira’s new 40th anniversary toy puts her […]",
+          "link": "https://bloody-disgusting.com/toys/3666535/fresh-new-funkoween-reveals-funko-include-elvira-cereal-monsters/",
+          "publishedOn": "2021-05-24T16:50:00.000Z",
+          "wordCount": 1253,
+          "title": "Fresh New FunkoWeen Reveals from Funko Include Elvira, the Cereal Monsters and More!"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3666541",
+          "author": "Brad Miska",
+          "description": "Six new people who unwittingly find themselves locked in another series of escape rooms on July 16, 2021.",
+          "link": "https://bloody-disgusting.com/movie/3666541/images-escape-room-sequel-brings-winners-together-tournament-champions/",
+          "publishedOn": "2021-05-24T16:18:51.000Z",
+          "wordCount": 1364,
+          "title": "[Images] ‘Escape Room’ Sequel Brings All the Winners Together In a ‘Tournament of Champions’!"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3666530",
+          "author": "John Squires",
+          "description": "Funko is truly leaving no stone unturned with their line of POP! vinyl toys, announcing this morning that vinyl figures based on Panos Cosmatos’s horror movie Mandy are on the way! The film’s title character, Andrea Riseborough’s Mandy is getting two different vinyl toys, one in black & white and the other a chase variant […]",
+          "link": "https://bloody-disgusting.com/toys/3666530/nicolas-cage-horror-movie-mandy-getting-official-line-vinyl-toys-funko-images/",
+          "publishedOn": "2021-05-24T15:47:22.000Z",
+          "wordCount": 956,
+          "title": "Nicolas Cage Horror Movie ‘Mandy’ Getting Official Line of Vinyl Toys from Funko! [Images]"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3666517",
+          "author": "Brad Miska",
+          "description": "Paddington's Paul King will direct Wonka, based on Roald Dahl's characters.",
+          "link": "https://bloody-disgusting.com/movie/3666517/willy-wonka-getting-origin-story-starring-timothee-chalamet/",
+          "publishedOn": "2021-05-24T15:30:03.000Z",
+          "wordCount": 1318,
+          "title": "Willy ‘Wonka’ Getting an Origin Story Starring Timothée Chalamet!"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3666521",
+          "author": "John Squires",
+          "description": "Virtual sneak preview presentations have become something of the norm here in pandemic times, and up next Netflix will be following in the footsteps of DC and Blumhouse with their special Geeked Week, a week-long preview of upcoming Netflix content next month. The first ever Geeked Week runs from June 7-11, 2021! The press release […]",
+          "link": "https://bloody-disgusting.com/news/3666521/netflix-announces-geeked-week-next-month-sneak-peeks-upcoming-movies-shows/",
+          "publishedOn": "2021-05-24T15:28:42.000Z",
+          "wordCount": 973,
+          "title": "Netflix Announces “Geeked Week” for Next Month With Sneak Peeks of Upcoming Movies and Shows"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3666513",
+          "author": "John Squires",
+          "description": "Announced late last year, 20th Century Studios has ordered up a new installment in the Predator film franchise, with Dan Trachtenberg (10 Cloverfield Lane) directing the new take. The film’s working title is Skulls, and the following plot synopsis was recently provided: “A Comanche woman goes against gender norms and traditions to become a warrior.” Filming […]",
+          "link": "https://bloody-disgusting.com/news/3666513/amber-midthunder-reportedly-leading-cast-dan-trachtenbergs-predator-movie/",
+          "publishedOn": "2021-05-24T15:22:14.000Z",
+          "wordCount": 950,
+          "title": "Amber Midthunder Reportedly Leading the Cast of Dan Trachtenberg’s ‘Predator’ Movie"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3666499",
+          "author": "Brad Miska",
+          "description": "The team behind “Rick and Morty” must be huge horror fans. Over the years, they’ve done more than a handful of tributes to classic horror films, not to mention spilling an absurd amount of blood and guts throughout the first four seasons. New episodes are on the way, with Adult Swim teasing the return of “Rick and […]",
+          "link": "https://bloody-disgusting.com/tv/3666499/trailer-footage-hellraiser-themed-rick-morty-episode/",
+          "publishedOn": "2021-05-24T14:51:23.000Z",
+          "wordCount": 902,
+          "title": "[Trailer] More Footage From the ‘Hellraiser’-Themed “Rick and Morty” Episode!"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3666487",
+          "author": "Brad Miska",
+          "description": "James Wan has passed the baton to Michael Chaves (The Curse of La Llorona) with this one, which has Ed and Lorraine Warren helping to prove a murder was provoked by a demon. In the previously released first clip from The Conjuring: The Devil Made Me Do It, Lorraine uses her gift as a medium to relive someone […]",
+          "link": "https://bloody-disgusting.com/movie/3666487/watch-four-clips-conjuring-devil-made-including-brutal-exorcism-video/",
+          "publishedOn": "2021-05-24T14:41:39.000Z",
+          "wordCount": 1413,
+          "title": "Watch Four Clips From ‘The Conjuring: The Devil Made Me Do It’ Including a Brutal Exorcism [Video]"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3666489",
+          "author": "John Squires",
+          "description": "The late John Steinbeck is known for classic novels including Of Mice and Men, The Grapes of Wrath, and East of Eden, but he of course wrote many other novels throughout his legendary career. A few of them, it turns out, were never published. Of particular note for horror fans, Steinbeck wrote a murder-mystery werewolf […]",
+          "link": "https://bloody-disgusting.com/books/3666489/john-steinbeck-wrote-werewolf-murder-mystery-1930-still-hasnt-published-day/",
+          "publishedOn": "2021-05-24T14:37:50.000Z",
+          "wordCount": 1109,
+          "title": "John Steinbeck Wrote a Werewolf Murder-Mystery in 1930 That Still Hasn’t Been Published to This Day"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3666462",
+          "author": "Mike Wilson",
+          "description": "After seeing success with the “Choose Your Own Adventure” stylings with Black Mirror: Bandersnatch and crossover projects like Stranger Things 3: The Game, Netflix is apparently looking to delve further into the melding of TV and video games. According to The Information, Netflix are apparently hiring an executive to further expand into the medium. According […]",
+          "link": "https://bloody-disgusting.com/news/3666462/netflix-looking-to-expand-further-into-video-games/",
+          "publishedOn": "2021-05-24T14:33:22.000Z",
+          "wordCount": 934,
+          "title": "Netflix Looking to Expand Further Into Video Games"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3666477",
+          "author": "Brad Miska",
+          "description": "David Bruckner is opening the box for Spyglass Media.",
+          "link": "https://bloody-disgusting.com/movie/3666477/hellraiser-remake-pinhead-brings-pleasure-pain-hulu/",
+          "publishedOn": "2021-05-24T14:08:09.000Z",
+          "wordCount": 1352,
+          "title": "‘Hellraiser’ Reimagining: Pinhead Brings Pleasure and Pain to Hulu!"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3666472",
+          "author": "John Squires",
+          "description": "This article contains Army of the Dead spoilers. Zack Snyder never did get a chance to make a sequel to his remake of George Romero’s Dawn of the Dead, but his return to zombie world with the new Netflix movie Army of the Dead is going to afford him the opportunity to create a whole […]",
+          "link": "https://bloody-disgusting.com/movie/3666472/know-exactly-story-goes-zack-snyder-hopes-make-army-dead-prequel/",
+          "publishedOn": "2021-05-24T13:48:43.000Z",
+          "wordCount": 1514,
+          "title": "“I Know Exactly Where the Story Goes”: Zack Snyder Hopes to Make an ‘Army of the Dead’ Sequel"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3666435",
+          "author": "Michael Roffman",
+          "description": "The magic WAS back in 1997.",
+          "link": "https://bloody-disgusting.com/podcasts/3666435/scream-2-reunion-halloweenies-podcast/",
+          "publishedOn": "2021-05-24T13:28:29.000Z",
+          "wordCount": 1321,
+          "title": "‘Scream 2’ Conjured Up a Fast and Furious Friends Reunion [Halloweenies Podcast]"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3666458",
+          "author": "Mike Wilson",
+          "description": "It seems that the parody commercial with Resident Evil Village‘s Lady Dimitrescu action figure may have caught the attention of Capcom, as they’ve announced that as part of the milestone of their Dev1 Twitter account reaching 50,000 followers, Capcom are holding a contest to win a Lady Dimitrescu figurine! Produced by Gecco Corp (who also […]",
+          "link": "https://bloody-disgusting.com/video-games/3666458/capcom-giving-away-limited-edition-lady-dimitrescu-figure-from-gecco-corp/",
+          "publishedOn": "2021-05-24T12:33:09.000Z",
+          "wordCount": 1177,
+          "title": "Capcom Giving Away Limited Edition Lady Dimitrescu Figure From Gecco Corp"
+        },
         {
           "id": "https://bloody-disgusting.com/?p=3666424",
           "author": "Brad Miska",
@@ -5044,6 +5764,24 @@
       "siteUrl": "https://www.broadstreethockey.com/",
       "articles": [
         {
+          "id": "https://www.broadstreethockey.com/2021/5/24/22450896/iihf-wc-update-russia-surges-as-canada-falters",
+          "author": null,
+          "description": "Photo by Natalia Fedosenko\\TASS via Getty Images\n    \n\n  \nCanada still haven’t won a game. \n On the eve of day four of the IIHF World Championships, taking place in Riga, Latvia, the standings don’t look as many had predicted.\nAt the top of each group stands Russia in A and Germany in B, par for the course, especially considering the hockey talent Germany has produced in recent years. In particular, Lukas Reichel, a player we were personally high on, has stood out with five points in his first two games. \nHowever, Canada have not won a game yet (their goal differential sits at -6!) and the USA find themselves in 5th place at 1-1 with a +3 goal difference. \nWhat a day!  Here are the standings after today’s six games at #IIHFWorlds.  pic.twitter.com/2LHp5racQk\n— IIHF (@IIHFHockey) May 23, 20…",
+          "link": "https://www.broadstreethockey.com/2021/5/24/22450896/iihf-wc-update-russia-surges-as-canada-falters",
+          "publishedOn": "2021-05-24T13:30:00.000Z",
+          "wordCount": 773,
+          "title": "IIHF WC Update: Russia surges as Canada falters"
+        },
+        {
+          "id": "https://www.broadstreethockey.com/2021/5/24/22450389/monday-morning-fly-by-the-wagons-roll-on",
+          "author": null,
+          "description": "Photo by Len Redkoles/NHLI via Getty Images\n    \n\n  \nToday’s open discussion thread, complete with your daily dose of Flyers news and notes…  \n *Let’s start our Monday morning with a little Wayne Simmonds. Kick this week off properly.\nRule number 1. Do not mess with Wayne Simmonds. Rule number 2. Do not mess with his teammates. pic.twitter.com/cnNFHeqy68\n— Nasty Knuckles (@NastyKnuckles) May 23, 2021\n\n\n\n*The first round is going to be over fast; have you selected a bandwagon? A team from the Central Division, perhaps? [BSH]\n*As more and more of these guys end up in the NHL, the one-stacked prospect corps will naturally thin out. Right now, who are the best of the bunch? [Inquirer]\n*About those top prospects transitioning... Joel Farabee did that pretty nicely eh? We’re going to need him to get even better. [NBC Sports Philly]\n*Speaking of getting better, we grade out this season’s bottom six forwards. [BSH]\n*Kevin Hayes was playing injured this season. Which, frankly, seems obvious. [NBC Sports Philly]\n*This weekend’s playoff action continued the excitement we’ve seen from this first round so far. Unfortunately, this weekend also brought us an incredibly scary moment for Leafs’ captain John Tavares. [Pension Plan Puppets]\n*This weekend also brought a long suspension for Nazem Kadri. Which we are forced to compare to Tom Wilson. And then think about things. [Mile High Hockey]\n*He’s appealing, though. [AP]\n*And finally, another decision by the DoPS brings another round of calls for some kind of examination of the NHL’s discipline process. It just plain isn’t working. [The Athletic]",
+          "link": "https://www.broadstreethockey.com/2021/5/24/22450389/monday-morning-fly-by-the-wagons-roll-on",
+          "publishedOn": "2021-05-24T10:00:00.000Z",
+          "wordCount": 674,
+          "title": "Monday Morning Fly By: The wagons roll on"
+        },
+        {
           "id": "https://www.broadstreethockey.com/2021/5/23/22449165/the-bsh-bandwagoners-guide-to-the-central-division-playoff-hockey-nhl-tampa-bay-nashville-carolina",
           "author": null,
           "description": "Photo by Mike Ehrmann/Getty Images\n    \n\n  \nWith no dog in the fight, it’s always fun to pick one.\n In the sleepiest days of the Flyers’ offseason, there’s not much to do in terms of leisure activities aside from watching baseball or playoff hockey. The latter might be a bit painful given the status of your favorite team, but fear not; we here at Broad Street Hockey are creating a brief, yet vaguely comprehensive guide to each division and the teams who you might choose to root for in their quest for the Cup. In the interest of hatred of rivals (a primary interest of any Flyers fan) the East division won’t be receiving this treatment, particularly because Philly fans are familiar with the teams included in that category.\nToday’s overview will cover the Central division, aka my home turf. A…",
@@ -5221,6 +5959,24 @@
       "feedUrl": "https://indyweek.com/api/rss/content.rss",
       "siteUrl": "https://indyweek.com/api/rss/content.rss",
       "articles": [
+        {
+          "id": "https://indyweek.com/news/northcarolina/knight-foundation-urges-unc-to-approve-tenure-for-nikole-hannah-jones/",
+          "author": "Joe Killian",
+          "description": "The Knight Foundation's president called Nikole Hannah-Jones \"eminently qualified\" and urged the board to reconsider its decision.",
+          "link": "https://indyweek.com/news/northcarolina/knight-foundation-urges-unc-to-approve-tenure-for-nikole-hannah-jones/",
+          "publishedOn": "2021-05-24T10:15:19.000Z",
+          "wordCount": 1698,
+          "title": "Knight Foundation Urges UNC-Chapel Hill Trustees to Approve Tenure for Acclaimed Journalist to"
+        },
+        {
+          "id": "https://indyweek.com/news/northcarolina/unc-chapel-hill-student-body-president-demands-board-of-trustees-vote-on-tenure-for-nikole-hannah-jones/",
+          "author": "Joe Killian",
+          "description": "Lamar Richards, who was sworn in this week as the student representative on the board, called on fellow board members to hold a vote in a statement addressed to university leaders.",
+          "link": "https://indyweek.com/news/northcarolina/unc-chapel-hill-student-body-president-demands-board-of-trustees-vote-on-tenure-for-nikole-hannah-jones/",
+          "publishedOn": "2021-05-24T10:05:25.000Z",
+          "wordCount": 2074,
+          "title": "UNC-Chapel Hill Student Body President Demands Board of Trustees Vote on Tenure for Acclaimed Journalist"
+        },
         {
           "id": "https://indyweek.com/news/durham/former-durham-employee-absolved-internet-cafe-crime/",
           "author": "Thomasi McDonald",
@@ -5697,6 +6453,42 @@
       "siteUrl": "https://daily.bandcamp.com",
       "articles": [
         {
+          "id": "139902",
+          "author": "Oliver Walkden",
+          "description": "From dub-house anthems to Latin percussion-influenced jams and sound collages, we dive into three decades of work with Glyn Bush.\nRead full story on the Bandcamp Daily.",
+          "link": "https://daily.bandcamp.com/lists/rockers-hi-fi-biggabush-list",
+          "publishedOn": "2021-05-24T16:53:29.000Z",
+          "wordCount": 2387,
+          "title": "A Guide to the Dubwise Discography of Rockers Hi Fi and Biggabush"
+        },
+        {
+          "id": "139998",
+          "author": "Marcus J. Moore",
+          "description": "Known for his gigs with Thelonious Monk, Betty Carter, Art Blakey, and Dizzy Gillespie, Shihab’s own work is stunning in its own right.\nRead full story on the Bandcamp Daily.",
+          "link": "https://daily.bandcamp.com/lists/sahib-shihab-critical-discography",
+          "publishedOn": "2021-05-24T13:32:00.000Z",
+          "wordCount": 1952,
+          "title": "A Guide to Hard Bop Legend Sahib Shihab"
+        },
+        {
+          "id": "139852",
+          "author": "Jordan N. Mamone",
+          "description": "The band's 1984 debut \"Disease Is Relative,\" a longtime holy grail for punk collectors, is one of two hard-to-find releases just reissued by Scat Records.\nRead full story on the Bandcamp Daily.",
+          "link": "https://daily.bandcamp.com/features/spike-in-vain-disease-is-relative-interview",
+          "publishedOn": "2021-05-24T13:31:53.000Z",
+          "wordCount": 1402,
+          "title": "How Spike in Vain Rewrote the Loud, Fast Rules of 1980’s American Hardcore"
+        },
+        {
+          "id": "139929",
+          "author": "Shannon Nico Shreibak",
+          "description": "Inspired by the grim absurdities of the here and now, the Chicago post-punks power through their fourth album with a primal urgency.\nRead full story on the Bandcamp Daily.",
+          "link": "https://daily.bandcamp.com/album-of-the-day/facs-present-tense-review",
+          "publishedOn": "2021-05-24T13:31:44.000Z",
+          "wordCount": 714,
+          "title": "FACS, “Present Tense”"
+        },
+        {
           "id": "139891",
           "author": "Nour Abi Nakhoul",
           "description": "An intentionally community-oriented approach to making, sharing, and playing music has ensured that Canada’s screamo revival culture is invested in and actively maintained.\nRead full story on the Bandcamp Daily.",
@@ -6172,6 +6964,15 @@
       "siteUrl": "https://www.cjr.org",
       "articles": [
         {
+          "id": "https://www.cjr.org/the_media_today/emily_wilder_ap_israel_objectivity.php",
+          "author": null,
+          "description": "Three weeks ago today, Emily Wilder, a twenty-two-year-old journalist, joined the Associated Press as a news associate for the Western US region, based in Phoenix, Arizona. A week or so later, conflict in Israel and Palestine started to consume the news cycle. It would go on to consume Wilder’s AP career. Wilder retweeted other people’s […]",
+          "link": "https://www.cjr.org/the_media_today/emily_wilder_ap_israel_objectivity.php",
+          "publishedOn": "2021-05-25T01:04:42.882Z",
+          "wordCount": 2895,
+          "title": "Emily Wilder, tradition, and the double standards around objectivity"
+        },
+        {
           "id": "https://www.cjr.org/podcast/abortion-mississippi-dobbs-jackson-supreme-court.php",
           "author": null,
           "description": "As the Supreme Court prepares to hear Dobbs v. Jackson Women’s Health Organization, a Mississippi case that outlaws abortion after 15 weeks gestation, the media’s coverage of abortion, and the language used to describe it, will be back in the spotlight. On this week’s Kicker, Maria Clark, a Louisiana-based healthcare reporter with USA Today’s American […]",
@@ -6331,6 +7132,15 @@
       "feedUrl": "https://www.platformer.news/feed",
       "siteUrl": "https://www.platformer.news",
       "articles": [
+        {
+          "id": "https://www.platformer.news/p/a-global-war-on-speech-unfolds",
+          "author": "Casey Newton",
+          "description": "From Belarus to India to Palestine, platforms are at the center",
+          "link": "https://www.platformer.news/p/a-global-war-on-speech-unfolds",
+          "publishedOn": "2021-05-24T23:59:26.000Z",
+          "wordCount": 183,
+          "title": "A global war on speech unfolds"
+        },
         {
           "id": "https://www.platformer.news/p/snap-hits-its-stride",
           "author": "Casey Newton",
@@ -6662,15 +7472,6 @@
           "publishedOn": "2021-05-01T06:25:22.000Z",
           "wordCount": 1394,
           "title": "Beginnings and Endings"
-        },
-        {
-          "id": "https://nightafternight.substack.com/p/for-the-record-april-23-2021",
-          "author": "Steve Smith",
-          "description": "Keeping tabs on new recordings of interest to the new-music community, on CD, vinyl LP, cassette, and digital-only formats—including two boxes of compositions and standards from Anthony Braxton.",
-          "link": "https://nightafternight.substack.com/p/for-the-record-april-23-2021",
-          "publishedOn": "2021-04-24T16:00:53.000Z",
-          "wordCount": 1507,
-          "title": "For the Record: April 23, 2021"
         }
       ]
     },
@@ -6679,6 +7480,15 @@
       "feedUrl": "https://yourlastrites.com/feed/",
       "siteUrl": "https://yourlastrites.com",
       "articles": [
+        {
+          "id": "https://yourlastrites.com/?p=36321",
+          "author": "Andrew Edmunds",
+          "description": "Another of Frontiers Records’ apparently endless combinations of hard rock all-stars, Sunbomb is the pairing of Stryper vocalist / guitarist Michael Sweet with L.A. Guns / ex-Brides Of Destruction shredder Tracii Guns. Per Guns, the two have been longtime friends, and they had initially discussed their primary bands touring together in a “heaven & hell” ...",
+          "link": "https://yourlastrites.com/2021/05/24/sunbomb-evil-and-divine-review/",
+          "publishedOn": "2021-05-24T10:00:16.000Z",
+          "wordCount": 1270,
+          "title": "Sunbomb – Evil And Divine Review"
+        },
         {
           "id": "https://yourlastrites.com/?p=36222",
           "author": "Last Rites",
@@ -6785,6 +7595,15 @@
       "feedUrl": "https://www.teethofthedivine.com/feed/",
       "siteUrl": "https://www.teethofthedivine.com",
       "articles": [
+        {
+          "id": "https://www.teethofthedivine.com/?p=55616",
+          "author": "Frank Rini",
+          "description": "This is not the same Solstice, who are from the UK and play incredible epic and heavy doom, no this is the death/thrashy bastids who originated from Florida in the 90’s.  About a decade ago I reviewed the excellent compilation Pray for the Sentencing which included their first 2 outstanding albums – I reviewed that […]",
+          "link": "https://www.teethofthedivine.com/featured/solstice-casting-the-die/",
+          "publishedOn": "2021-05-24T11:09:44.000Z",
+          "wordCount": 977,
+          "title": "Solstice – Casting the Die"
+        },
         {
           "id": "https://www.teethofthedivine.com/?p=55534",
           "author": "Luke Saunders",
@@ -7106,6 +7925,15 @@
       "feedUrl": "https://goodguysgogrind.com/feed/",
       "siteUrl": "https://goodguysgogrind.com",
       "articles": [
+        {
+          "id": "http://goodguysgogrind.com/?p=28343",
+          "author": "goodguysgogrind",
+          "description": "To be honest live records are not my favorite, mostly because of the quality, but there are always exceptions. Today I want to play great live stuff of legendary Dropdead! This material was recorded at a secret gig in Amsterdam (back in 2016). This release has a pretty simple design, you can see the photo of the vocalist (Bob Otis) as the main cover, plus there is a songs list, and that`s all. Nothing much, but do we need more? I won`t say that this is the best live recording that I heard, it`s a bit messy but on the …",
+          "link": "https://goodguysgogrind.com/2021/05/24/dropdead-live-at-occii/",
+          "publishedOn": "2021-05-24T17:39:08.000Z",
+          "wordCount": 508,
+          "title": "Dropdead – Live At Occii"
+        },
         {
           "id": "http://goodguysgogrind.com/?p=28336",
           "author": "goodguysgogrind",
