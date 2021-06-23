@@ -31,6 +31,123 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1775463",
+          "author": "John Timmer",
+          "description": "Within a few decades, many areas of the US may see a rapid change in frequency.",
+          "link": "https://arstechnica.com/?p=1775463",
+          "publishedOn": "2021-06-22T23:20:58.000Z",
+          "wordCount": 1503,
+          "title": "Climate-driven coastal flooding in the US likely to get worse suddenly"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1775411",
+          "author": "Sam Machkovech",
+          "description": "Game Pass Ultimate's $15/mo now goes a lot further, and we break down why.",
+          "link": "https://arstechnica.com/?p=1775411",
+          "publishedOn": "2021-06-22T23:16:35.000Z",
+          "wordCount": 1294,
+          "title": "Xbox cloud upgrade is live: Series X power on your browser for over 260 games"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1775434",
+          "author": "Beth Mole",
+          "description": "The Delta coronavirus variant now accounts for 20.6 percent of cases in the US.",
+          "link": "https://arstechnica.com/?p=1775434",
+          "publishedOn": "2021-06-22T22:29:39.000Z",
+          "wordCount": 1258,
+          "title": "Once-dreaded Alpha variant is falling fast—Delta and Gamma take over"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1775366",
+          "author": "Jennifer Ouellette",
+          "description": "\"Your mission is to destroy every trace of something known only as Project Starfish.\"",
+          "link": "https://arstechnica.com/?p=1775366",
+          "publishedOn": "2021-06-22T21:59:36.000Z",
+          "wordCount": 1343,
+          "title": "The “loser, B-grade supervillains” are back in new The Suicide Squad trailer"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1775200",
+          "author": "Jim Salter",
+          "description": "Today's RISC-V microcontrollers may lead to future RISC-V phones and laptops.",
+          "link": "https://arstechnica.com/?p=1775200",
+          "publishedOn": "2021-06-22T20:39:02.000Z",
+          "wordCount": 1561,
+          "title": "SiFive’s brand-new P550 is one of the world’s fastest RISC-V CPUs"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1775362",
+          "author": "Dan Goodin",
+          "description": "Leak shows that, like the rest of the ransomware scourge, Cl0p isn't going away.",
+          "link": "https://arstechnica.com/?p=1775362",
+          "publishedOn": "2021-06-22T20:07:09.000Z",
+          "wordCount": 1002,
+          "title": "A week after arrests, Cl0p ransomware group dumps new tranche of stolen data"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1775281",
+          "author": "Corey Gaskin",
+          "description": "You can get a phone with 2020 flagship specs and a 90 Hz display for under $400.",
+          "link": "https://arstechnica.com/?p=1775281",
+          "publishedOn": "2021-06-22T18:24:32.000Z",
+          "wordCount": 863,
+          "title": "The OnePlus 8 for $349 is the best Prime Day smartphone deal"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1775299",
+          "author": "Sam Machkovech",
+          "description": "Bad news if you're a Twitch streamer on PS5, though dev says fix is incoming.",
+          "link": "https://arstechnica.com/?p=1775299",
+          "publishedOn": "2021-06-22T17:59:24.000Z",
+          "wordCount": 1020,
+          "title": "Marvel’s Avengers update flashes IP addresses on screen, dev promises fix"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1775253",
+          "author": "Ron Amadeo",
+          "description": "Car manufacturing expertise could supercharge Boston Dynamics' commercial hopes.",
+          "link": "https://arstechnica.com/?p=1775253",
+          "publishedOn": "2021-06-22T17:50:00.000Z",
+          "wordCount": 1166,
+          "title": "Boston Dynamics is officially part of Hyundai Motor Group"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1775272",
+          "author": "Jon Brodkin",
+          "description": "EC says Google hiding user data from advertisers may violate competition rules.",
+          "link": "https://arstechnica.com/?p=1775272",
+          "publishedOn": "2021-06-22T16:19:40.000Z",
+          "wordCount": 1413,
+          "title": "EU launches antitrust probe into Google banning third-party cookies in Chrome"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1775256",
+          "author": "Jonathan M. Gitlin",
+          "description": "Unsurprisingly, EV accessibility is unevenly distributed across the country.",
+          "link": "https://arstechnica.com/?p=1775256",
+          "publishedOn": "2021-06-22T15:08:06.000Z",
+          "wordCount": 967,
+          "title": "These are the 9 worst states to buy an electric car in"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1775246",
+          "author": "Financial Times",
+          "description": "Untraceable \"privacy coin\" is rising in popularity among ransomware gangs.",
+          "link": "https://arstechnica.com/?p=1775246",
+          "publishedOn": "2021-06-22T13:35:57.000Z",
+          "wordCount": 1396,
+          "title": "Monero emerges as crypto of choice for cybercriminals"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1775212",
+          "author": "Eric Berger",
+          "description": "\"I would simply say, Congress supports SLS and Orion.\"",
+          "link": "https://arstechnica.com/?p=1775212",
+          "publishedOn": "2021-06-22T13:03:47.000Z",
+          "wordCount": 1315,
+          "title": "Congress isn’t happy about SpaceX’s lunar lander and may vent this week"
+        },
+        {
           "id": "https://arstechnica.com/?p=1775128",
           "author": "Samuel Axon",
           "description": "Not long ago, Spielberg was trying to disqualify Netflix films from the Oscars.",
@@ -1343,51 +1460,6 @@
           "publishedOn": "2021-05-24T13:40:42.000Z",
           "wordCount": 1645,
           "title": "YouTube feels heat as Russia ramps up “digital sovereignty” drive"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1767069",
-          "author": "Eric Berger",
-          "description": "\"We will immediately begin processing the data.\"",
-          "link": "https://arstechnica.com/?p=1767069",
-          "publishedOn": "2021-05-24T12:21:03.000Z",
-          "wordCount": 915,
-          "title": "After Virgin Galactic’s success on Saturday, how soon can it fly again?"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1761885",
-          "author": "Scott K. Johnson",
-          "description": "Under the hood, lithium-ion batteries have gotten better in the last decade.",
-          "link": "https://arstechnica.com/?p=1761885",
-          "publishedOn": "2021-05-24T11:15:00.000Z",
-          "wordCount": 1494,
-          "title": "Eternally five years away? No, batteries are improving under your nose"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1766503",
-          "author": "Jennifer Ouellette",
-          "description": "Snyder reined in his worst impulses in this entertaining twist on a zombie apocalypse.",
-          "link": "https://arstechnica.com/?p=1766503",
-          "publishedOn": "2021-05-23T20:01:52.000Z",
-          "wordCount": 1841,
-          "title": "Review: Zombie heist thriller Army of the Dead is Zack Snyder at his best"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1766729",
-          "author": "Ron Amadeo",
-          "description": "Holding a trade show inside an online game is actually pretty fun.",
-          "link": "https://arstechnica.com/?p=1766729",
-          "publishedOn": "2021-05-23T13:30:36.000Z",
-          "wordCount": 1484,
-          "title": "Google’s I/O Adventure was almost as good as being there"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1767000",
-          "author": "Jonathan M. Gitlin",
-          "description": "The cars have starred in Gran Turismo and on the Nordschleife.",
-          "link": "https://arstechnica.com/?p=1767000",
-          "publishedOn": "2021-05-23T13:00:56.000Z",
-          "wordCount": 1124,
-          "title": "When is a Porsche 911 not a Porsche 911? When it’s a Ruf"
         }
       ]
     },
@@ -1396,6 +1468,141 @@
       "feedUrl": "http://feeds.macrumors.com/MacRumors-Front",
       "siteUrl": "https://www.macrumors.com",
       "articles": [
+        {
+          "id": "https://www.macrumors.com/2021/06/22/apple-tv-plus-awards-nominations/",
+          "author": "Joe Rossignol",
+          "description": "Apple this week announced that, to date, Apple TV+ films and series have received 389 awards nominations and have won 112 awards since the streaming service launched in November 2019. The company said Apple TV+ has \"received more award recognitions faster than any other streaming service in its debut.\"\r\n\r\n\r\n\r\n\r\n\r\nRecent award wins for Apple TV+ include hit comedy series \"Ted Lasso\" receiving a Peabody Award for excellence in storytelling, while Apple also earned two Critics Choice Real TV Awards for Oprah Winfrey's talk series \"The Oprah Conversation\" and the musician docuseries \"1971: The Year That Music Changed Everything.\"\r\n\r\n\r\n\r\nRival streaming services like Netflix and Disney+ do not appear to have readily available awards statistics for comparison, but Netflix secured a record-breaking 160 Emmy Awards nominations in 2020 alone, compared to 18 for Apple TV+. Netflix has been streaming original content since 2013, however, giving it a six year lead on Apple TV+.\r\n\r\n\r\n\r\nApple TV+ has more original content coming over the next several months:\n\"Central Park\" animated musical comedy series: season two premieres June 25\n\r\n\r\n\"Ted Lasso\" comedy series: season two premieres July 23\n\r\n\r\n\"Truth Be Told\" anthology drama series: season two premieres August 20\n\r\n\r\n\"See\" sci-fi drama series: season two premieres August 27\n\r\n\r\n\"The Morning Show\" drama series: season two premieres September 17\n\r\n\r\n\"Invasion\" sci-fi thriller series: premieres October 22\n\r\n\r\n\"The Shrink Next Door\" dark comedy series: premieres November 12\nApple TV+ costs $4.99 per month, with a seven-day free trial available to all users. Apple TV+ is also included free for one year when you purchase and activate a qualifying Apple device through June 30, 2021 — it's dropping to three months after this date.\nTag: Apple TV Plus\nThis article, \"Apple TV+ Has Received Nearly 400 Awards Nominations Since Launch\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/06/22/apple-tv-plus-awards-nominations/",
+          "publishedOn": "2021-06-22T23:00:00.000Z",
+          "wordCount": 1982,
+          "title": "Apple TV+ Has Received Nearly 400 Awards Nominations Since Launch"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/06/22/sony-wf-1000xm4-vs-airpods-pro/",
+          "author": "Eric Slivka",
+          "description": "Apple's AirPods Pro are the flagship earbuds in the company's lineup, but there are plenty of other third-party truly wireless earbuds out there on the market. Sony is one of the main contenders in the space, so MacRumors videographer Dan took a look at the brand-new WF-1000XM4 earbuds to see how they stack up.\r\n\r\n\r\n\r\n\nSubscribe to the MacRumors YouTube channel for more videos.\n\r\n\r\nThe awkwardly named WF-1000XM4 buds are priced at $279, just a bit higher than the ‌AirPods Pro‌ at $249, although we've been regularly seeing discounted pricing on ‌AirPods Pro‌ in the $200 range (including $189.99 for Prime Day), so that's one factor in favor of the ‌AirPods Pro‌, at least for now.\r\n\r\n\r\n\r\nWhen it comes to performance, the XM4s offer solid audio quality that can be tweaked to find the perfect b…",
+          "link": "https://www.macrumors.com/2021/06/22/sony-wf-1000xm4-vs-airpods-pro/",
+          "publishedOn": "2021-06-22T20:05:21.000Z",
+          "wordCount": 2244,
+          "title": "Video: Sony's New WF-1000XM4 Earbuds vs. Apple's AirPods Pro"
+        },
+        {
+          "id": "https://www.macrumors.com/review/aqara-h1-switches-temperature-sensor-hub-m2&post_date=1624401207/",
+          "author": "Hartley Charlton",
+          "description": "Aqara makes a range of HomeKit-compatible smart home devices for multiple regions around the world. This review takes a look at four of Aqara's latest products, including its Temperature and Humidity Sensor and the newly-released Hub M2, as well as the Wireless Remote Switch H1 and Smart Wall Switch H1, which launch today.\r\n\r\n\r\n\r\n\n\r\n\r\nWith these new accessories, I was able to add to the HomeKit setup I created with some of Aqara's devices earlier this year, and put the company's new additions to the smart home to the test.\r\n\r\n\r\n\r\n\nReview: Aqara Camera Hub G2H and Sensors Offer Easy Setup and Fast Response Times in Compact Designs\n\r\n\r\n\r\n\r\nWhile Aqara does have its own app for controlling and setting up the accessories, it is possible to control, automate, and manage them entirely through Ap…",
+          "link": "https://www.macrumors.com/review/aqara-h1-switches-temperature-sensor-hub-m2/",
+          "publishedOn": "2021-06-22T19:33:27.000Z",
+          "wordCount": 3267,
+          "title": "Review: Aqara's HomeKit H1 Switches, Temperature Sensor, and Hub M2 Expand Any Smart Home With Easy Setup"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/06/22/dark-sky-updated-for-apple-watch-and-more/",
+          "author": "Joe Rossignol",
+          "description": "Apple today updated the Dark Sky weather app for the first time since November with improved VoiceOver support and other bug fixes and performance improvements. In addition, Dark Sky complications on the Apple Watch now update more frequently.\r\n\r\n\r\n\r\n\r\n\r\nThe full release notes for Dark Sky version 6.8.6:\n• Improved VoiceOver support\r\n\r\n• Complications on Apple Watch update more frequently\r\n\r\n• Addresses an issue that could prevent the moon phase from updating\r\n\r\n• Stability and performance improvements\nApple acquired Dark Sky in March 2020, and while its Android app has since been shut down, it was recently announced that Dark Sky will remain available as an iPhone, iPad, and Apple Watch app and on the web until the end of 2022.\r\n\r\n\r\n\r\nApple's stock Weather app on iOS 15 features a new design with more detailed forecasts, notifications, and many other Dark Sky-like features.\nTag: Dark Sky\nThis article, \"Apple Updates Dark Sky Weather App With Apple Watch Improvements and More\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/06/22/dark-sky-updated-for-apple-watch-and-more/",
+          "publishedOn": "2021-06-22T18:58:54.000Z",
+          "wordCount": 1829,
+          "title": "Apple Updates Dark Sky Weather App With Apple Watch Improvements and More"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/06/22/jetpack-joyride-coming-to-apple-arcade/",
+          "author": "Sami Fathi",
+          "description": "Apple Arcade continues its strategy to bring classical and popular games to the game platform, with the latest addition soon to be the classic endless runner \"Jetpack Joyride.\"\r\n\r\n\r\n\r\n\r\n\r\nJetpack Joyride was initially launched in 2011 and is developed by game developer Halfbrick. The game has grown in popularity and consists of Barry's main character embarking on a journey with a jetpack and entrusting the user to control them as they move and avoid obstacles. When it launches on ‌Apple Arcade‌, the game will be rebranded with the addition of a \"+\" to its name, leaving it to be \"Jetpack Joyride +.\"\r\n\r\n\r\n\r\nOther hit classic games such as \"Fruit Ninja\" and \"Cut the Rope\" launched on ‌Apple Arcade‌ earlier this year. ‌Apple Arcade‌ users can subscribe to notifications within the App Store for when the game becomes available. \nTag: Apple Arcade\nThis article, \"Popular Classic Endless Runner 'Jetpack Joyride' Coming to Apple Arcade\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/06/22/jetpack-joyride-coming-to-apple-arcade/",
+          "publishedOn": "2021-06-22T18:03:17.000Z",
+          "wordCount": 1846,
+          "title": "Popular Classic Endless Runner 'Jetpack Joyride' Coming to Apple Arcade"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/06/22/apple-tower-theatre-photos-ahead-of-opening/",
+          "author": "Sami Fathi",
+          "description": "Ahead of its grand opening later this week on June 24, Apple today shared photos of its upcoming \"Apple Tower Theatre\" retail store in Los Angeles. \r\n\r\n\r\n\r\n\r\n\r\nThe store will reside in the historic Tower Theatre originally designed in the heart of Los Angeles in 1927. Apple has collaborated with the local community, leading preservationists, and artists to \"thoughtfully preserve and restore the theater’s beauty and grandeur.\" \r\n\r\n\r\n\r\n\r\n\r\nApple's senior vice president of retail, Deirdre O’Brien, says that this new store \"honors the rich history and legacy of this entertainment capital\" and that it builds on Apple's special relationship with the people of Los Angeles. The store will mark the 26th Apple Store in the greater Los Angeles area and employ 100 retail team members. Photos of the upcoming store can be seen on Apple's press release. \nTag: Apple Stores\nThis article, \"Apple Shares Photos of Upcoming Tower Theatre Store in Los Angeles Ahead of June 24 Opening\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/06/22/apple-tower-theatre-photos-ahead-of-opening/",
+          "publishedOn": "2021-06-22T17:26:24.000Z",
+          "wordCount": 2048,
+          "title": "Apple Shares Photos of Upcoming Tower Theatre Store in Los Angeles Ahead of June 24 Opening"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/06/22/today-at-apple-expanding-with-new-creative-studios-initiative/",
+          "author": "Joe Rossignol",
+          "description": "Apple today announced an expansion of its \"Today at Apple\" program with a new \"Creative Studios\" initiative that will provide career-building mentorship, professional industry skills training, creative resources, and access to Apple's full line of products like the iPhone, iPad, and Mac to underrepresented communities around the world.\r\n\r\n\r\n\r\n\r\n\r\nCreative Studios will launch first in Los Angeles and Beijing, followed by Bangkok, London, Chicago, and Washington, D.C. later this year. In each city, Apple said it will work hand-in-hand with nonprofit community organizations to connect youth with mentors and established artists, such as Grammy Award-winning producer Larrance \"Rance\" Dopson.\r\n\r\n\r\n\r\nCreative Studios programming will revolve around creative areas such as music, film, photography, and art and design, and will be available to young people who face barriers to meaningful artistic education, according to Apple. An eight to 12 week curriculum will provide hands-on sessions, insider industry knowledge, and ongoing feedback from mentors.\r\n\r\n\r\n\r\nIn Los Angeles, Creative Studios runs from June 26 to July 22, with free registration available on Apple's website.\nRelated Roundup: Apple Stores\nTag: Today at Apple\nRelated Forum: Mac Basics, Help and Buying Advice\nThis article, \"'Today at Apple' Expanding With New 'Creative Studios' Initiative\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/06/22/today-at-apple-expanding-with-new-creative-studios-initiative/",
+          "publishedOn": "2021-06-22T17:09:22.000Z",
+          "wordCount": 2347,
+          "title": "'Today at Apple' Expanding With New 'Creative Studios' Initiative"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/06/22/brave-search-beta-now-available/",
+          "author": "Sami Fathi",
+          "description": "Brave, the browser which has gained momentum and popularity in recent years, is taking another leap forward in its quest to offer users a more private and secure internet experience. Starting today, Brave browser users will have access to Brave Search in beta, a completely new search engine that offers \"unmatched privacy.\"\r\n\r\n\r\n\r\n\n\r\n\r\nBrave Search was announced last March, and since its announcement, it's been tested by more than 100,000 users. Brave, which prides itself on being a \"browser reimagined,\" recently surpassed 32 million monthly active users and is hoping that Brave Search will further its role in the browser market. \r\n\r\n\r\n\r\nBrave Search beta is available to all Brave browser users on iOS, Android, and desktop starting today. At first, users will need to manually select Brave S…",
+          "link": "https://www.macrumors.com/2021/06/22/brave-search-beta-now-available/",
+          "publishedOn": "2021-06-22T16:00:00.000Z",
+          "wordCount": 2470,
+          "title": "Brave Search Now Available in Beta as Privacy-Protecting Search Engine Alternative to Google"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/06/22/foxconn-iphone-13-signing-bonuses/",
+          "author": "Joe Rossignol",
+          "description": "Apple's largest manufacturing partner Foxconn is offering \"record-high\" signing bonuses in an effort to recruit workers for iPhone 13 production over the next few months, according to the South China Morning Post.\r\n\r\n\r\n\r\n\n‌iPhone 13‌ Pro in Matte Black render via EverythingApplePro\n\r\n\r\nThe report claims Foxconn is offering up to 8,000 yuan ($1,235) as a signing bonus to former workers willing to return to its Zhengzhou, China factory to assist with iPhone assembly during the \"peak season,\" up from 5,500 yuan last month and 5,000 yuan in 2020. Workers will receive their bonuses after working for Foxconn's iPhone assembly division for four months and staying until the end of the peak season, the report adds.\r\n\r\n\r\n\r\nApple manufacturers like Foxconn commonly offer signing bonuses in the months leading up to an iPhone launch, but this year's bonus range for returning workers is the highest since the Zhengzhou factory started operations in 2010, according to the South China Morning Post's review of past recruitment ads from Foxconn.\r\n\r\n\r\n\r\nApple is increasingly expected to unveil the iPhone 13 lineup in September, marking a return to its usual launch timeframe after unveiling the iPhone 12 lineup in October 2020 due to reported COVID-19-related production delays.\r\n\r\n\r\n\r\niPhone 13 models are rumored to feature a smaller notch at the top of the display, but otherwise they are expected to have a similar design as their iPhone 12 counterparts. Other key new features expected include a faster A15 chip, a 120Hz refresh rate on the Pro models, several camera upgrades, a new Matte Black color, and more.\nRelated Roundup: iPhone 13\nTag: Foxconn\nRelated Forum: iPhone\nThis article, \"Foxconn Offers 'Record-High' Bonuses to Recruit Workers for iPhone 13 Assembly\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/06/22/foxconn-iphone-13-signing-bonuses/",
+          "publishedOn": "2021-06-22T14:29:11.000Z",
+          "wordCount": 2188,
+          "title": "Foxconn Offers 'Record-High' Bonuses to Recruit Workers for iPhone 13 Assembly"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/06/22/amazon-prime-day-accessory/",
+          "author": "Mitchel Broussard",
+          "description": "Prime Day is still ongoing today, offering numerous discounts across many different storefronts on Amazon. Yesterday we highlighted some of the best Apple discounts, some of which are still on sale. Today, we're focusing on popular third-party accessories from companies like Anker, Belkin, Ecobee, and more.\r\n\r\n\r\n\r\nNote: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.\r\n\r\n\r\n\r\nThere are a few things to note. Firstly, Prime Day sales are typically time sensitive, so purchase quickly if you're interested. Secondly, Amazon Prime Day sales require an Amazon Prime membership. Lastly, deals change fast during Prime Day, so the prices you see below may eventually change on Amazon.\r\n\r\n\r\n\r\nA…",
+          "link": "https://www.macrumors.com/2021/06/22/amazon-prime-day-accessory/",
+          "publishedOn": "2021-06-22T14:01:05.000Z",
+          "wordCount": 2364,
+          "title": "Amazon Prime Day: The Best Accessory Deals"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/06/22/homepod-mini-launches-in-new-zealand/",
+          "author": "Joe Rossignol",
+          "description": "Apple this week made the HomePod mini available to order in New Zealand, with pricing set at $159 including tax. Available in Space Gray and White, the speaker currently faces a 2-3 weeks shipping estimate in the country.\r\n\r\n\r\n\r\n\r\n\r\nApple confirmed the HomePod mini would be launching in additional countries during its WWDC keynote earlier this month. The speaker became available to order in Austria and Ireland last week, and it will be released in Italy later this year. The international expansion comes after the full-sized HomePod was discontinued earlier this year.\r\n\r\n\r\n\r\nHomePod mini was first released in October 2020 in the United States, Australia, Canada, France, Germany, Hong Kong, India, Japan, Spain, and the UK.\r\n\r\n\r\n\r\n\nHomePod mini finally available to order in NZ today. The New Zealand apple store site didn’t allow you to order it till now. @MacRumors pic.twitter.com/cjPFZpocsf\n— Louis (@Ldeverell) June 21, 2021\n \n\r\n\r\nLike the full-sized HomePod, the HomePod mini features built-in Siri for controlling music playback, managing HomeKit accessories, and more. Starting with tvOS 15, two HomePod minis can be set as an Apple TV 4K's default speaker outputs.\nRelated Roundup: HomePod mini\nBuyer's Guide: HomePod Mini (Buy Now)\nRelated Forum: HomePod, HomeKit, CarPlay, Home & Auto Technology\nThis article, \"HomePod Mini Now Available to Order in New Zealand\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/06/22/homepod-mini-launches-in-new-zealand/",
+          "publishedOn": "2021-06-22T13:13:37.000Z",
+          "wordCount": 2032,
+          "title": "HomePod Mini Now Available to Order in New Zealand"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/06/22/uk-emergency-alerts-test-iphones-next-week/",
+          "author": "Tim Hardwick",
+          "description": "The U.K. government on Tuesday will perform its first national test of a new Emergency Alerts system, but only Android users will receive the alert, with iPhones to be included in a smaller, regional test later this month, the Cabinet Office has confirmed to MacRumors.\r\n\r\n\r\n\r\n\r\n\r\nThe government-issued emergency alerts, set to go live this summer, are part of a public safety system similar to one used in the U.S. that is designed to warn smartphone and tablet users if there's a danger to life nearby, with advice about how to stay safe. Alerts will be either national or localized depending on the threat level, and will be sent in cases of severe flooding, fires, explosions, terrorist incidents, and public health emergencies.\r\n\r\n\r\n\r\nWhen an alert arrives, your phone or tablet may make a loud …",
+          "link": "https://www.macrumors.com/2021/06/22/uk-emergency-alerts-test-iphones-next-week/",
+          "publishedOn": "2021-06-22T10:05:06.000Z",
+          "wordCount": 2190,
+          "title": "First National UK Emergency Alerts Test Set for Today, But iPhones Won't Be Included in Testing Until Next Week"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/06/22/london-underground-full-mobile-coverage-by-2024/",
+          "author": "Tim Hardwick",
+          "description": "London Underground passengers will be able to get mobile coverage across the rail network by the end of 2024, it has been announced.\r\n\r\n\r\n\r\n\r\n\r\nIn a press release, Transport for London (TfL) said the capital's Oxford Circus, Tottenham Court Road and Bank stations would be among the first fully connected stations by the end of the year, followed by Tottenham Court Road, Euston, and Camden Town by the end of 2022.\r\n\r\n\r\n\r\nMobile reception was introduced on the eastern half of the Jubilee line in March last year. TfL says the additional infrastructure will support 5G as well as 4G, but that it will be the responsibility of mobile operators to offer support for the fastest network speeds.\r\n\r\n\r\n\r\nThe London mayor, Sadiq Khan, who was re-elected last month, said in a statement: \r\n\r\n\"I promised Londoners that if they re-elected me for a second term as mayor I would deliver 4G throughout the tube network. It's already up and running on the eastern half of the Jubilee line and I'm delighted to announce today that I am fulfilling that commitment and full internet access will be available across the tube, with key central London stations such as Oxford Circus and Euston set to benefit before the end of next year.\"\nTfL is partnering with BAI Communications (BAI), a global provider of 4G and 5G connected infrastructure, to plug so-called coverage \"not-spots\" in the underground network. The over 1,242 miles of fibre cabling installed in London Underground tunnels will also benefit above-ground coverage for buildings and other infrastructure by allowing more mobile transmitters to be installed.\nTag: United Kingdom\nThis article, \"London Underground to Gain Full Mobile Phone Coverage by 2024\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/06/22/london-underground-full-mobile-coverage-by-2024/",
+          "publishedOn": "2021-06-22T08:35:52.000Z",
+          "wordCount": 2077,
+          "title": "London Underground to Gain Full Mobile Phone Coverage by 2024"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/06/22/facebook-clubhouse-competitor-launches/",
+          "author": "Tim Hardwick",
+          "description": "Facebook this week launched its Clubhouse competitor in the U.S., called Live Audio Rooms, along with its new podcasts service, details of which we covered previously.\r\n\r\n\r\n\r\n\r\n\r\nTo begin with, Live Audio Rooms is only available to some public figures and certain groups, and can only be hosted through the Facebook iOS app, but both iOS and Android users can join a room, and the feature supports up to 50 speaking participants and an unlimited number of listeners. \r\n\r\n\r\n\r\nWhile Clubhouse already has a solid user base, it limits the number of people who can enter a room, so Facebook's offering has one up on its rival from the off. Facebook users can also \"raise a hand\" to join a conversation, and use reactions to participate in real time.\r\n\r\n\r\n\r\nIn addition, Live Audio Rooms is set to receive more features that Clubhouse presently lacks, including notifications when friends or followers join a room and live captioning.\r\n\r\n\r\n\r\n\r\n\r\nUsers can discover and join Live Audio Rooms within Facebook Groups. In private groups, admins can control whether moderators, group members or other admins can create a Live Audio Room. Meanwhile, in public groups, both members and visitors can listen to the Live Audio Room, but in private groups, only members can listen. \r\n\r\n\r\n\r\nLive Audio Room hosts can also select a nonprofit or fundraiser to support during their conversation, and listeners and speakers can directly donate.\r\n\r\n\r\n\r\nAmong the U.S.-basd public figures with first access to Live Audio Rooms are music artist TOKiMONSTA, football quarterback Russell Wilson, Internet personality Omareloff, and entrepreneur Amanda Nguyen. Initial group conversations are also being hosted on topics ranging from dance and vegan food to guided meditation.\nTag: Facebook\nThis article, \"Facebook Aims to Take on Clubhouse With 'Live Audio Rooms'\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/06/22/facebook-clubhouse-competitor-launches/",
+          "publishedOn": "2021-06-22T07:57:27.000Z",
+          "wordCount": 2047,
+          "title": "Facebook Aims to Take on Clubhouse With 'Live Audio Rooms'"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/06/22/iphone-13-chipmakers-ramp-up-supply-q3/",
+          "author": "Tim Hardwick",
+          "description": "Apple is set to receive supply priority status from pure play foundry TSMC for iPhone 13 chip orders going into the third quarter of 2021, as the Taiwanese partner grapples with orders for automative and other device chips amid a supply shortfall, according to DigiTimes.\r\n\r\n\r\n\r\n\nTSMC is also set to ramp up its output for the upcoming iPhone series in the third quarter, the sources indicated.\nOther chip suppliers in Apple's supply chain, including Genesys Logic and Parade Technologies, are also scaling up supply to fulfill Apple's orders for the third quarter, which are said to be 30-40% higher than second quarter levels. \r\n\r\n\r\n\r\nWith the ‌iPhone 13‌ series expected to follow a more usual launch timeline this year, chipmakers are poised to see Apple's orders peak for 2021 in the fourth quarter, said DigiTimes' supply chain sources.\r\n\r\n\r\n\r\nThe ‌iPhone 13‌ models dropping in September are expected to look similar to the 2020 ‌iPhone‌ lineup, with four devices in sizes that include 5.4-inches, 6.1-inches, and 6.7-inches, with two of the iPhones being higher-end \"Pro\" models and two positioned as lower-cost, more affordable devices.\r\n\r\n\r\n\r\nThough major design changes aren't expected, rumors suggest camera improvements, a faster A-series processor, a new 5G chip from Qualcomm, increased battery life, and some tweaks to the notch. Check out our dedicated iPhone 13 roundup for all the details.\nRelated Roundup: iPhone 13\nTags: TSMC, digitimes.com\nRelated Forum: iPhone\nThis article, \"iPhone 13 Chipmakers Poised to Scale Up Supply in the Third Quarter\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/06/22/iphone-13-chipmakers-ramp-up-supply-q3/",
+          "publishedOn": "2021-06-22T06:49:05.000Z",
+          "wordCount": 2001,
+          "title": "iPhone 13 Chipmakers Poised to Scale Up Supply in the Third Quarter"
+        },
         {
           "id": "https://www.macrumors.com/guide/facetime-ios-15&post_date=1624319746/",
           "author": "Juli Clover",
@@ -2790,15 +2997,6 @@
           "publishedOn": "2021-05-24T13:41:18.000Z",
           "wordCount": 1915,
           "title": "Eligible Verizon Customers Will Get up to a Year of Apple Arcade Free"
-        },
-        {
-          "id": "https://www.macrumors.com/how-to/scrub-through-video-new-siri-remote-2nd-gen&post_date=1621793671/",
-          "author": "Tim Hardwick",
-          "description": "With the new Apple TV 4K now in customers' hands, some users are reporting issues when trying to control video with the redesigned Siri Remote. \r\n\r\n\r\n\r\n\r\n\r\nSpecifically, some users are complaining that using the circular gesture on the new clickpad ring to fast-forward or rewind paused video isn't working as expected. Rather than scrubbing through video continually in the direction of the gesture, the video scrubs back and forth in opposite directions.\r\n\r\n\r\n\r\nFrom what we've been able to work out, the problem seems to relate to a subtle additional gesture that users are missing out, either because it isn't very intuitive or Apple doesn't demonstrate it particularly well in the marketing material. \r\n\r\n\r\n\r\n\r\n\r\nTry following these steps to get it working. We've italicized the crucial gesture …",
-          "link": "https://www.macrumors.com/how-to/scrub-through-video-new-siri-remote-2nd-gen/",
-          "publishedOn": "2021-05-23T15:14:31.000Z",
-          "wordCount": 2327,
-          "title": "Apple TV 4K: How to Scrub Through Video Properly Using the New Siri Remote (2nd Gen)"
         }
       ]
     },
@@ -2807,6 +3005,24 @@
       "feedUrl": "https://daringfireball.net/feeds/main",
       "siteUrl": "https://daringfireball.net/",
       "articles": [
+        {
+          "id": "https://brave.com/brave-search-beta/",
+          "author": null,
+          "description": "Brave:\nBrave Search is available in beta release globally on all Brave\nbrowsers (desktop, Android, and iOS) as one of the search options\nalongside other search engines, and will become the default search\nin the Brave browser later this year. It is also available from\nany other browser at search.brave.com. […]\nBrave Search is different from other search engines because it\nuses its own index and follows different principles:\nPrivacy: no tracking or profiling of users.\nUser-first: the user comes first, not the advertising and data\nindustries.\nIndependence: Brave has its own search index for answering\ncommon queries privately without reliance on other providers.\nChoice: soon, options for ad-free paid search and ad-supported\nsearch.\nTransparency: no secret methods or algorithms to bias results,\nand soon, community-curated open ranking models to ensure\ndiversity and prevent algorithmic biases and outright\ncensorship.\nSeamlessness: best-in-class integration between the browser and\nsearch without compromising privacy, from personalization to\ninstant results as the user types.\nOpenness: Brave Search will soon be available to power other\nsearch engines.\nI’m interested to see how it compares to DuckDuckGo (my default for several years now) in daily driving.\nRoger Montti at Search Engine Journal had good things to say about it last week:\nBrave search is currently in testing mode. So it’s not fair to\nmake judgments on an unfinished product. That said, the quality of\nthe search results that I have seen are outstanding in terms of\nusefulness. […]\nThere is a lack of clutter in Brave that sets it apart not only\nfrom Google but from Bing and DuckDuckGo. After using Brave, I\nsuspect that a reason why I have not embraced Bing, despite liking\nBing’s search results, is that Bing feels similar to Google.\nBrave on the other hand offers me something different that feels\njust right and makes me want to return to it, something I’ve never\nfelt using any other Google competitor.\n ★",
+          "link": "https://brave.com/brave-search-beta/",
+          "publishedOn": "2021-06-22T19:10:05.000Z",
+          "wordCount": 1462,
+          "title": "Brave Search Now in Public Beta"
+        },
+        {
+          "id": "https://techcrunch.com/2021/06/04/this-one-email-explains-apple/",
+          "author": null,
+          "description": "Matthew Panzarino, in a piece published just before WWDC:\nAn email has been going around the internet as a part of a release\nof documents related to Apple’s App Store-based suit brought by\nEpic Games. I love this email for a lot of reasons, not the least\nof which is that you can extrapolate from it the very reasons\nApple has remained such a vital force in the industry for the past\ndecade. […]\nThis efficacy is at the core of what makes Apple good when it is\ngood. It’s not always good, but nothing ever is 100% of the time\nand the hit record is incredibly strong across a decade’s worth of\nshipped software and hardware. Crisp, lean communication that does\nnot coddle or equivocate, coupled with a leader that is confident\nin their own ability and the ability of those that they hired\nmeans that there is no need to bog down the process in order to\nestablish a record of involvement.\nA truly remarkable email exchange, and a model of clarity and conciseness.\n ★",
+          "link": "https://techcrunch.com/2021/06/04/this-one-email-explains-apple/",
+          "publishedOn": "2021-06-22T00:52:09.000Z",
+          "wordCount": 1121,
+          "title": "‘This One Email Explains Apple’"
+        },
         {
           "id": "https://tidbits.com/2021/06/11/the-real-system-requirements-for-apples-2021-operating-systems/",
           "author": null,
@@ -3310,15 +3526,6 @@
           "publishedOn": "2021-05-24T18:26:15.000Z",
           "wordCount": 746,
           "title": "Vegetarian Unconcerned by Lax Meat Inspection"
-        },
-        {
-          "id": "https://youtu.be/8w4qPUSG17Y",
-          "author": null,
-          "description": "I love this new ad from Apple. But given that I wrote this a few months ago, that’s probably not surprising. Funny, eye-opening, and true — that’s a good foundation for any ad.\n ★",
-          "link": "https://youtu.be/8w4qPUSG17Y",
-          "publishedOn": "2021-05-24T01:16:29.000Z",
-          "wordCount": 19,
-          "title": "‘Tracked’ — New Privacy Ad From Apple"
         }
       ]
     },
@@ -3327,6 +3534,96 @@
       "feedUrl": "https://www.polygon.com/rss/pc/index.xml",
       "siteUrl": "https://www.polygon.com/pc",
       "articles": [
+        {
+          "id": "https://www.polygon.com/22545120/alex-kidd-miracle-world-dx-remaster-release-date-sega-jankenteam",
+          "author": null,
+          "description": "Image: Jankenteam/Merge Games/Sega\n    \n\n\n  \nSega’s Master System mascot gets a makeover, but not much else\n The latest revival of a vintage Sega game that’s not made by Sega itself is Alex Kidd in Miracle World DX, a remaster of the 8-bit platformer that launched on the Sega Master System. Developed by Jankenteam and originally created as a fan project, the officially sanctioned remaster is a handsome visual update that does little else to modernize Alex Kidd’s 35-year-old adventure.\nAlex Kidd in Miracle World DX plays nearly identically to its 1986 counterpart, largely for the worse. The developers, who clearly love Alex Kidd, have only slightly modified how Sega’s former mascot controls. Many of the changes are superficial or minor interface changes; it’s easier to use Alex’s power ups,…",
+          "link": "https://www.polygon.com/22545120/alex-kidd-miracle-world-dx-remaster-release-date-sega-jankenteam",
+          "publishedOn": "2021-06-22T21:15:49.000Z",
+          "wordCount": 877,
+          "title": "Alex Kidd in Miracle World’s remaster doesn’t do enough to redeem Sega’s old mascot"
+        },
+        {
+          "id": "https://www.polygon.com/22545814/farming-simulator-22-trailer-narrator-story-cgi-release-dates-pc-ps5-xbox",
+          "author": null,
+          "description": "Shuck on that, Call of Duty\n With big-budget, pre-rendered cinematics and a narrator after Sam Elliott’s own heart, Focus Home Interactive wants you to know that Farming Simulator 22 is officially not, uh, farmin’ around when it lands on your harvest table this Thanksgiving.\nWe’ve gotta hand it to them, and developers Giants Software, and whoever directed this. If the match cut of a truck bedliner’s grooves to the 24 earthen lines carved by a New Holland disc harrow doesn’t get you fired up to put some wheat in the ground, then perhaps nothing will.\nAnd perhaps nothing will, if you’re the soft-hands type whose Novembers are spent on Call of Duty instead of doing real virtual work. Or virtual real work. Whatever, snowflake, Farming Simulator 22 dispenses wisdom, not Pez.\nSpeaking of wisdom, the man quoted in the opening of the trailer was Mohandas K. Gandhi. And Farming Simulator 22 will find the divinity within you on Nov. 22, 2021 on PlayStation 4, PlayStation 5, Windows PC, Xbox One, and Xbox Series X.",
+          "link": "https://www.polygon.com/22545814/farming-simulator-22-trailer-narrator-story-cgi-release-dates-pc-ps5-xbox",
+          "publishedOn": "2021-06-22T19:53:44.000Z",
+          "wordCount": 673,
+          "title": "Farming Simulator gives us holiday 2021’s first big-budget CGI hype trailer"
+        },
+        {
+          "id": "https://www.polygon.com/22545446/amd-fidelityfx-super-resolution-nvidia-dlss-release-date",
+          "author": null,
+          "description": "A scene from Godfall, one of the first seven games to support AMD FidelityFX Super Resolution. | Image: Counterplay Games/Gearbox Publishing\n    \n\n  \nFidelityFX Super Resolution promises massive performance gains\n AMD’s new foray into the field of image enhancement technologies is now available, providing PC gamers with an open-source alternative to options like Nvidia’s well-regarded Deep Learning Super Sampling.\nFirst teased last fall during the announcement of the Radeon RX 6000 series graphics cards, AMD’s technology is called FidelityFX Super Resolution. The goal of these kinds of techniques is to improve performance (i.e., frame rate) by rendering a game at a lower internal resolution and then upscaling that original image to a higher output resolution — without sacrificing image qua…",
+          "link": "https://www.polygon.com/22545446/amd-fidelityfx-super-resolution-nvidia-dlss-release-date",
+          "publishedOn": "2021-06-22T19:40:00.000Z",
+          "wordCount": 1215,
+          "title": "AMD’s answer to Nvidia’s image-upscaling DLSS tech is here"
+        },
+        {
+          "id": "https://www.polygon.com/22545586/minecraft-sonic-the-hedgehog-dlc-sega",
+          "author": null,
+          "description": "Image: Mojang/Sega\n    \n\n  \n30th anniversary Sonic DLC available in Minecraft’s marketplace\n Sonic the Hedgehog and friends are now playable in Minecraft, making good on a tease from Sega earlier this year. Sega and Minecraft developer Mojang promise “epic levels,” races against friends, and hidden secrets in the first trailer for Sonic the Hedgehog’s blockiest adventure yet.\nThe whole gang’s here: Knuckles the Echidna, Amy Rose, Miles “Tails” Prower, Shadow the Hedgehog, Super Sonic, Dr. Robotnik, and, well, some Chaos. Big the Cat does not appear to be confirmed ... yet.\nMinecraft players will be able to visit Sonic’s popular haunts, like the Green Hills Zone and Chemical Plant Zone, and battle bosses (Robotnik, naturally) in the new Minecraft Marketplace content. Players can also nab a free Sonic the Hedgehog character creator item. An upcoming two-week special event will feature Sonic the Hedgehog-themed minigames and “additional surprises.”\nSonic the Hedgehog turns 30 years old this week, and Sega is marking the anniversary with a variety of new game projects, including a Sonic Colors remaster, a retro collection that includes Sonic 3 and Knuckles, and a new 3D Sonic game coming sometime next year.",
+          "link": "https://www.polygon.com/22545586/minecraft-sonic-the-hedgehog-dlc-sega",
+          "publishedOn": "2021-06-22T18:07:07.000Z",
+          "wordCount": 668,
+          "title": "Sonic the Hedgehog is in Minecraft now"
+        },
+        {
+          "id": "https://www.polygon.com/22545007/overwatch-cross-play-platforms-battlenet-crossplay-ps4-pc-xbox-nintendo-switch",
+          "author": null,
+          "description": "Image: Blizzard Entertainment\n    \n\n  \nCompetitive mode separates PC and console; players may opt-out\n Overwatch’s long-requested cross-platform play launched on Tuesday, Blizzard has announced. The feature connects players on all platforms: Nintendo Switch, PlayStation 4, Windows PC, and Xbox One.\nThe update means that all Overwatch players must set up a free Battle.net account (or connect to an existing one) and link it to their console accounts, regardless of whether they want to participate in cross-platform multiplayer.\nGoing forward, cross-play will be available to all Overwatch playlists, with limitations on the game’s Competitive mode. In Competitive, console players will be matched with one another, and PC players will only be matched with other PC players. Overwatch players can toggle an opt-out for cross-play, but that means they will only be matched with other players on their platform who have also opted out, which shrinks their pool of available matches.\nIn addition to cross-play support, Overwatch’s June 22 update introduces a new challenge — Ashe’s Deadlock Challenge — offering four new cosmetics, including a Legendary Ashe and B.O.B. Skin, for playing up to 27 games. Players may also watch up to six hours of Overwatch matches on Twitch to earn up to three more sprays.\nThe challenge ties into “Deadlock Rebels,” a new novel by Lyndsay Ely, which goes deep into the history between Ashe and another fan-favorite hero, McCree, and how they founded the Deadlock gang. A preview of its first chapter, localized in 14 languages, is also available for free beginning June 22.",
+          "link": "https://www.polygon.com/22545007/overwatch-cross-play-platforms-battlenet-crossplay-ps4-pc-xbox-nintendo-switch",
+          "publishedOn": "2021-06-22T18:00:00.000Z",
+          "wordCount": 732,
+          "title": "Overwatch cross-play is available now"
+        },
+        {
+          "id": "https://www.polygon.com/22545442/marvels-avengers-bug-ip-address-cosmic-cube-update",
+          "author": null,
+          "description": "Image: Crystal Dynamics/Square Enix\n    \n\n  \nPlayers’ IP addresses are showing on-screen\n Marvel’s Avengers was updated on Tuesday, with new content added to Crystal Dynamics’ ensemble beat-’em-up. The patch also has one serious and potentially dangerous issue: Some players’ IP addresses are being shown on the screen.\nThe update went live Tuesday morning, and players have reported this problem to the studio since then. Forbes reporter Paul Tassi confirmed that bug revealed his information in white text at the bottom of a screenshot he posted to Twitter. \nthis is legitimately \"shut the game off\" bad pic.twitter.com/o22YOeLwuL\n— Paul Tassi (@PaulTassi) June 22, 2021\n\n\n\nThe game’s official social media account coyly confirmed there was a problem in the game with “a floating string of text.” D…",
+          "link": "https://www.polygon.com/22545442/marvels-avengers-bug-ip-address-cosmic-cube-update",
+          "publishedOn": "2021-06-22T17:06:49.000Z",
+          "wordCount": 886,
+          "title": "Marvel’s Avengers bug reveals players’ personal information"
+        },
+        {
+          "id": "https://www.polygon.com/reviews/22545418/dungeons-dragons-dark-alliance-review-tuque-games",
+          "author": null,
+          "description": "Image: Tuque Games\n    \n\n\n  \nIf you grew up reading The Crystal Shard, this one’s for you\n The first trailer for Dungeons & Dragons: Dark Alliance is dark and haphazard, ridden with nauseating visuals set to post-hardcore metal that tries to sell a perceived coolness to a franchise associated with a tabletop scenario. It felt like a show of desperation, an attempt to prove something to an untapped player base. But that trailer couldn’t be any more misleading. Instead, Dark Alliance tapped directly into the comforting nostalgia of sitting on the floor of my bedroom as a child, bending the spine of the novel that would be one of my first exposures to Western fantasy and everything the genre would behold.\nDungeons & Dragons: Dark Alliance attempts to adapt one of the most seminal novels in Th…",
+          "link": "https://www.polygon.com/reviews/22545418/dungeons-dragons-dark-alliance-review-tuque-games",
+          "publishedOn": "2021-06-22T16:51:50.000Z",
+          "wordCount": 2058,
+          "title": "Dungeons & Dragons: Dark Alliance has rough edges, but the deep comfort of nostalgia"
+        },
+        {
+          "id": "https://www.polygon.com/deals/2021/6/21/22538724/amazon-prime-day-2021-best-deals",
+          "author": null,
+          "description": "Image: James Bareham/Polygon\n    \n\n  \nAmazon Prime Day 2021 is here, and we’ve scoured the retailer to find the event’s best sales.\nAs usual, Amazon is discounting thousands of products this Prime Day. Some of of those products aren’t worth your time, but we’ve spent a lot of time combing through the deals  so that you don’t have to. Check out our Prime Day 2021 coverage for deals on 4K TVs, gaming accessories and more. There aren’t a ton of deals on video games, but we found  bunch of discounts on add-ons like controllers, headsets, keyboards, and more. \nIf you’ve shopped during Amazon Prime Day before, you know the deal: Some of the stuff is solid. Other stuff is … well, let’s say less than great. That’s sales for you! Our goal while pouring over the deals was to find whatever we thought you’d like. \nWe’ll be updating posts regularly throughout the event. Keep this page bookmarked to stay updated on the best deals of Amazon Prime Day 2021 in gaming and entertainment.",
+          "link": "https://www.polygon.com/deals/2021/6/21/22538724/amazon-prime-day-2021-best-deals",
+          "publishedOn": "2021-06-22T16:31:58.000Z",
+          "wordCount": 577,
+          "title": "The best Amazon Prime Day 2021 gaming and entertainment deals"
+        },
+        {
+          "id": "https://www.polygon.com/22545084/league-of-legends-riot-games-sentinels-of-light-event-details",
+          "author": null,
+          "description": "Image: Riot Games\n    \n\n  \nYes, even Valorant\n Riot Games is unrolling a major lore event across all of their games, and it all comes from the Ruined King. Viego, the ultimate wife guy and undead wraith, is going on the offensive in an event called Sentinels of Light Starting on July 8, Sentinels of Light will play out in League of Legends, Legends of Runeterra, Wild Rift, Teamfight Tactics, and even the completely unrelated shooter Valorant.\nThe event’s key art, which was revealed by fans through a puzzle on the official Riot site, shows off a few things we can expect from the event. Viego and Thresh, the bad guys from the in-game setting of the Shadow Isles, seem to serve a central role as the antagonists. The Sentinels of Light, a faction dedicated to battling back the Black Mist of the…",
+          "link": "https://www.polygon.com/22545084/league-of-legends-riot-games-sentinels-of-light-event-details",
+          "publishedOn": "2021-06-22T16:00:00.000Z",
+          "wordCount": 970,
+          "title": "League of Legends’ Ruined King will plague all of Riot’s games in new event"
+        },
+        {
+          "id": "https://www.polygon.com/22545214/left-4-dead-zombie-army-4-dead-war-season-3-drop-crossover",
+          "author": null,
+          "description": "Image: Rebellion Developments\n    \n\n  \nBill, Francis, Louis, and Zoey show up in Zombie Army 4: Dead War\n Zombie Army 4: Dead War is a game where players battle the zombie armies of Hitler as they pour forth from a Hellmouth. It’s a terrible world where Europe is overrun by the walking dead, and it takes a lot of firepower to clean it up. Well, reinforcements have arrived.\nThe original cast of Left 4 Dead: Zoey, Francis, Louis, and Bill, are all playable characters in the game’s latest season, Rebellion Entertainment announced on Tuesday. Zombie Army 4’s latest update also adds a new map and mission. Players can delve into the Abaddon Asylum in the second mission of the “Return to Hell” campaign, where players must hunt down the deadly Baron Umbra. \nThe map is available for $6.99, but the Left 4 Dead Character Pack is free on all platforms.\nThis isn’t the first time the Left 4 Dead cast have wandered out of their original game. All eight characters from both Left 4 Dead titles were playable in the original Zombie War trilogy. Bill has even shown up in Dead by Daylight, where players can uncover some scary lore about his past in Vietnam.\nZombie Army 4: Dead War launched in February 2020 on PlayStation 4, Xbox One, and PC.",
+          "link": "https://www.polygon.com/22545214/left-4-dead-zombie-army-4-dead-war-season-3-drop-crossover",
+          "publishedOn": "2021-06-22T14:58:25.000Z",
+          "wordCount": 711,
+          "title": "Left 4 Dead’s original crew is back (in a different zombie game)"
+        },
         {
           "id": "https://www.polygon.com/22544106/legends-of-runeterra-rise-of-the-underworlds-expansion-launch-date-june-30",
           "author": null,
@@ -4600,6 +4897,42 @@
       "siteUrl": "http://kottke.org/",
       "articles": [
         {
+          "id": "https://kottke.org/21/06/summer-of-soul",
+          "author": null,
+          "description": "Stevie Wonder. Mahalia Jackson. Nina Simone. Gladys Knight & the Pips. B.B. King. Sly and the Family Stone. Over six weeks in the summer of 1969, all of these legendary artists (and more!) performed at the Harlem Cultural Festival in NYC, drawing an estimated 300,000 people. The festival was filmed and broadcast on a local TV station, but the footage was never commercially released and so unlike that other 1969 festival, this event largely slipped from public memory.\nNow, the Harlem Cultural Festival finally gets its due in the form of Summer of Soul, a forthcoming documentary directed by Questlove that uses that old footage to great effect. I’ve heard nothing but good things about this movie — it won both the Grand Jury Prize and the Audience Award at the Sundance Film Festival earlier this year. Summer of Soul is out in theaters and on Hulu July 2.\nTags: movies   music   NYC   Questlove   Summer of Soul   trailers   video",
+          "link": "https://kottke.org/21/06/summer-of-soul",
+          "publishedOn": "2021-06-22T19:55:48.000Z",
+          "wordCount": 189,
+          "title": "Summer of Soul"
+        },
+        {
+          "id": "https://kottke.org/21/06/100-visions-of-fatherhood",
+          "author": null,
+          "description": "Just as they did last month in capturing motherhood, The Luupe has curated a collection of photos taken by women and non-binary photographers called 100 Visions of Fatherhood. Photos above by Amanda Addison, Kari Grimsby, and Hanifa Haris.\nTags: parenting   photography",
+          "link": "https://kottke.org/21/06/100-visions-of-fatherhood",
+          "publishedOn": "2021-06-22T17:47:46.000Z",
+          "wordCount": 78,
+          "title": "100 Visions of Fatherhood"
+        },
+        {
+          "id": "https://kottke.org/21/06/evs-wont-save-us-from-our-car-cultures-ill-effects",
+          "author": null,
+          "description": "From Electric Vehicles Won’t Save Us by Coby Lefkowitz:\nThis isn’t a story about Elon Musk, or Tesla, or a contrarian take about how “oil is good, actually.” I unconditionally support electric vehicles in their quest to take over the primacy of gasoline-powered vehicles in the market. But I don’t save that enthusiasm for their prospects on society broadly. From the perspective of the built environment, there is nothing functionally different between an electric vehicle and a gasoline propelled one. The relationship is the same, and it’s unequivocally destructive. Cars, however they’re powered, are environmentally cataclysmic, break the tethers of community, and force an infrastructure of dependency that is as financially ruinous to our country as it is dangerous to us as people. In order to build a more sustainable future and a better world for humanity, we need to address the root problems that have brought us to where we so perilously lie today.\n\n\n Tags: cars   cities   Coby Lefkowitz   global warming   USA",
+          "link": "https://kottke.org/21/06/evs-wont-save-us-from-our-car-cultures-ill-effects",
+          "publishedOn": "2021-06-22T15:31:15.000Z",
+          "wordCount": 209,
+          "title": "EVs Won’t Save Us from Our Car Culture’s Ill Effects"
+        },
+        {
+          "id": "https://kottke.org/21/06/believe",
+          "author": null,
+          "description": "The second season of Ted Lasso starts on July 23rd and this new trailer has me all fired up. The first season was a very welcome diversion during the height of the pandemic and was an almost magical unicorn of a TV thing.\nTags: Ted Lasso   trailers   TV   video",
+          "link": "https://kottke.org/21/06/believe",
+          "publishedOn": "2021-06-22T12:52:20.000Z",
+          "wordCount": 78,
+          "title": "Believe"
+        },
+        {
           "id": "https://kottke.org/21/06/100-3d-artists-interpret-the-same-scene-of-a-walking-person",
           "author": null,
           "description": "Clinton Jones challenged his community of 3D artists to interpret a simple animation of a person walking with a heavy load. 2400 people participated and Jones collected the 100 renders for this video. What a fantastic illustration of the power of constraints and the abundance of human creativity. Ok, much of the imagery is borrowed from Star Wars and other sci-fi universes, but the stuff that isn’t is delightful. Even with no explicit narrative connection between the scenes, somehow this all seems like part of one big journey. One of the simplest stories we tell is someone moving from one place to another and it doesn’t need to be The Odyssey, Fury Road, or Thelma & Louise to be compelling.\nYou can also watch a video featuring all 2400 entries (it’s 2h 45m long) and a montage from a previous challenge featuring 125 artists.\nSee also Transfiguration: An Ever-Evolving Walking Figure. (via waxy)\nTags: 3D   Clinton Jones   video",
@@ -5192,6 +5525,15 @@
       "siteUrl": "https://www.halfbakedharvest.com",
       "articles": [
         {
+          "id": "https://www.halfbakedharvest.com/?p=108384",
+          "author": "halfbakedharvest",
+          "description": "4 Ingredient Creamy Fruit Popsicles.\nThese homemade 4 Ingredient Creamy Fruit Popsicles are the healthier dessert we all need to have stashed away in our freezers this summer. Made simply with just four ingredients…creamy Greek yogurt, fruit jam, milk (of any variety, but I love coconut milk), and vanilla. It does not get any simpler. They’re extra creamy, so fruity,…\nREAD: 4 Ingredient Creamy Fruit Popsicles.",
+          "link": "https://www.halfbakedharvest.com/creamy-fruit-popsicles/",
+          "publishedOn": "2021-06-22T08:00:00.000Z",
+          "wordCount": 2559,
+          "title": "4 Ingredient Creamy Fruit Popsicles."
+        },
+        {
           "id": "https://www.halfbakedharvest.com/?p=108340",
           "author": "halfbakedharvest",
           "description": "Pesto Peach Chicken in White Wine with Burrata.\nKeeping things colorful and easy today with this Pesto Peach Chicken in White Wine with Burrata. Lightly breaded chicken seared in browned butter until golden with sweet summer peaches and a savory white wine pan sauce. The chicken is finished with creamy burrata cheese and basil pesto. It’s simple but mouthwatering and made in just…\nREAD: Pesto Peach Chicken in White Wine with Burrata.",
@@ -5316,15 +5658,6 @@
           "publishedOn": "2021-06-07T08:00:00.000Z",
           "wordCount": 1564,
           "title": "Grilled Lemon Herb Chicken Avocado Orzo Salad with Honey Mustard Bacon Dressing."
-        },
-        {
-          "id": "https://www.halfbakedharvest.com/?p=107102",
-          "author": "halfbakedharvest",
-          "description": "Pesto Chicken, Corn, and Avocado Bacon Pasta Salad.\nThis Pesto Chicken, Corn, and Avocado Bacon Pasta Salad is the perfect quick fix salad. It’s almost no-cook and comes together in minutes. Grilled pesto chicken tossed together with a creamy, lemony parmesan dressing, fresh romaine lettuce, grilled corn, crispy bacon, and creamy avocado. This pasta is simple to toss together, super flavorful, filling, and…\nREAD: Pesto Chicken, Corn, and Avocado Bacon Pasta Salad.",
-          "link": "https://www.halfbakedharvest.com/pesto-chicken-corn-and-avocado-bacon-pasta-salad/",
-          "publishedOn": "2021-05-24T08:00:00.000Z",
-          "wordCount": 2249,
-          "title": "Pesto Chicken, Corn, and Avocado Bacon Pasta Salad."
         }
       ]
     },
@@ -5368,15 +5701,6 @@
           "publishedOn": "2021-05-31T12:00:00.000Z",
           "wordCount": 649,
           "title": "Habit: April & May"
-        },
-        {
-          "id": "https://cate.blog/?p=53253",
-          "author": "Cate",
-          "description": "For the past couple of months, I’ve kept a post it on my desk. It says: How are people doing? – Downtime– Social isolation– Perspective You can probably guess what it’s for – it’s a reminder of the core struggles I’ve been noticing from people. Downtime: downtime is lower quality, and people struggle to recharge. […]",
-          "link": "https://cate.blog/2021/05/24/pandemic-problems/",
-          "publishedOn": "2021-05-24T12:00:00.000Z",
-          "wordCount": 668,
-          "title": "Pandemic Problems"
         }
       ]
     },
@@ -5407,6 +5731,240 @@
       "feedUrl": "https://bloody-disgusting.com/feed/",
       "siteUrl": "https://bloody-disgusting.com",
       "articles": [
+        {
+          "id": "https://bloody-disgusting.com/?p=3670683",
+          "author": "Brad Miska",
+          "description": "Anna Diop, who appeared in Jordan Peele’s Us as Rayne Thomas / Eartha, will star in the title role of Nanny, a psychological horror thriller from Stay Gold Features and Topic Studios, says THR. Shark Night 3D‘s Sinqua Walls also stars alongside Michelle Monaghan (The Craft: Legacy). “Nikyatu Jusu wrote the script and is making […]",
+          "link": "https://bloody-disgusting.com/movie/3670683/shark-night-3ds-sinqua-walls-joins-cast-nanny-alongside-us-star-anna-diop/",
+          "publishedOn": "2021-06-22T22:47:45.000Z",
+          "wordCount": 965,
+          "title": "‘Shark Night 3D’s Sinqua Walls Joins Cast of ‘Nanny’ Alongside ‘Us’ Star Anna Diop!"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3670676",
+          "author": "John Squires",
+          "description": "Director John Trengrove (The Wound) is set to make his English-language debut with the upcoming Manodrome, detailed by Deadline today and described as a “nihilistic thriller.” Jesse Eisenberg, Adrien Brody, and Riley Keough will lead the cast. Keough is also on board to produce. “Manodrome tells the story of Ralphie (Eisenberg), an Uber driver and […]",
+          "link": "https://bloody-disgusting.com/movie/3670676/manodrome-jesse-eisenberg-adrien-brody-riley-keough-starring-nihilistic-thriller/",
+          "publishedOn": "2021-06-22T21:24:37.000Z",
+          "wordCount": 956,
+          "title": "‘Manodrome’: Jesse Eisenberg, Adrien Brody and Riley Keough Starring in “Nihilistic Thriller”"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3670201",
+          "author": "Luiz H. C.",
+          "description": "A lot of genre fans insist that the 2000s was one of the worst decades for horror, but even if most mainstream productions at that time appeared to be edgy remakes and attempted cash-ins on trends like J-horror and “Torture Porn,” the independent scene was actually stronger than ever. This is especially true for Slasher […]",
+          "link": "https://bloody-disgusting.com/editorials/3670201/six-underappreciated-slasher-villains-2000s/",
+          "publishedOn": "2021-06-22T19:55:54.000Z",
+          "wordCount": 2869,
+          "title": "Six More Underappreciated Slasher Villains From the 2000s!"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3670649",
+          "author": "John Squires",
+          "description": "Why hasn’t the Jaws franchise been brought back to life in well over 30 years, you ask? That’d be because Steven Spielberg is incredibly protective of the original classic’s legacy, at many points over the years promising to never digitally touch it up and also to never allow for it to be remade. And it […]",
+          "link": "https://bloody-disgusting.com/movie/3670649/steven-spielberg-reportedly-still-determined-prevent-jaws-reboot-happening/",
+          "publishedOn": "2021-06-22T19:18:29.000Z",
+          "wordCount": 1114,
+          "title": "Steven Spielberg is Reportedly Still Determined to Prevent a ‘Jaws’ Reboot from Happening"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3670643",
+          "author": "John Squires",
+          "description": "As we learned last year, Paramount is bringing the Transformers back to life with a live-action Transformers: Beast Wars movie, and today the official title has been revealed. Steven Caple Jr. (Creed II) is directing Transformers: Rise of the Beasts for Paramount! Anthony Ramos and Dominique Fishback will star in the movie, set in 1994. […]",
+          "link": "https://bloody-disgusting.com/movie/3670643/transformers-rise-beasts-official-title-next-live-action-transformers-movie/",
+          "publishedOn": "2021-06-22T18:46:48.000Z",
+          "wordCount": 1012,
+          "title": "‘Transformers: Rise of the Beasts’ is the Official Title of the Next Live Action ‘Transformers’ Movie!"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3670636",
+          "author": "John Squires",
+          "description": "National Geographic‘s annual “SharkFest” will return on Monday, July 5th, we’ve learned today, and we’ve also been provided with the schedule for the SIX-WEEK(!) event. The press release explains, “National Geographic is making a splash this July with the ninth annual SHARKFEST! The must-sea summer event swims onto screens Monday, July 5, with the premiere […]",
+          "link": "https://bloody-disgusting.com/tv/3670636/national-geographics-sharkfest-returns-july-schedule-includes-shark-beach-chris-hemsworth/",
+          "publishedOn": "2021-06-22T17:51:24.000Z",
+          "wordCount": 2096,
+          "title": "National Geographic’s “SharkFest” Returns in July; Schedule Includes “Shark Beach” With Chris Hemsworth"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3670631",
+          "author": "John Squires",
+          "description": "Production has wrapped on Eli Roth‘s video game adaptation Borderlands, we’ve learned today, and the team has also given us our first look at the movie’s take on the lovable Claptrap. The robot companion from the Borderlands video games is being voiced by Jack Black in Eli Roth’s movie, and it looks like it’ll at […]",
+          "link": "https://bloody-disgusting.com/movie/3670631/production-wraps-eli-roths-borderlands-first-look-claptrap/",
+          "publishedOn": "2021-06-22T17:30:04.000Z",
+          "wordCount": 1173,
+          "title": "Production Wraps on Eli Roth’s ‘Borderlands’; First Look at Claptrap"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3670625",
+          "author": "John Squires",
+          "description": "It’s not all in your head. The “American Horror Story” universe is expanding not only with the tenth season of the main series but also brand new spinoff “American Horror Stories,” both coming this summer. FX is calling it the “American Horror Summer,” and today they’ve shared another poster for the spinoff series that once again teases […]",
+          "link": "https://bloody-disgusting.com/tv/3670625/rubber-man-back-another-poster-ryan-murphys-american-horror-stories/",
+          "publishedOn": "2021-06-22T17:08:00.000Z",
+          "wordCount": 2101,
+          "title": "The Rubber Man is Back on Another Poster for Ryan Murphy’s “American Horror Stories”"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3670619",
+          "author": "John Squires",
+          "description": "Scooby-Doo and Courage the Cowardly Dog are going on a spooky adventure together in the upcoming Straight Outta Nowhere: Scooby-Doo Meets Courage the Cowardly Dog! The brand new animated movie is coming to Digital & DVD on September 14, 2021, and the official trailer was debuted by SYFY this afternoon. You can check it out […]",
+          "link": "https://bloody-disgusting.com/movie/3670619/worlds-collide-animated-movie-straight-outta-nowhere-scooby-doo-meets-courage-cowardly-dog-trailer/",
+          "publishedOn": "2021-06-22T16:42:30.000Z",
+          "wordCount": 1042,
+          "title": "Worlds Collide in Animated Movie ‘Straight Outta Nowhere: Scooby-Doo Meets Courage the Cowardly Dog’ [Trailer]"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3670610",
+          "author": "Brad Miska",
+          "description": "Here’s an absolutely wild concept that’s being brought to life by producer Timur Bekmambetov as part of his ongoing “Screenlife” series, which includes the excellent trio of films Searching, Unfriended, and Profile. “Resurrected is set in a dystopian future, where the Vatican has discovered how to resurrect people.” “Dave Davis (pictured in The Vigil, “True […]",
+          "link": "https://bloody-disgusting.com/news/3670610/resurrected-vatican-bring-dead-life-timur-bekmambetov-produced-thriller/",
+          "publishedOn": "2021-06-22T16:30:39.000Z",
+          "wordCount": 1084,
+          "title": "‘Resurrected’: The Vatican Bring the Dead to Life in Timur Bekmambetov-Produced Thriller!"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3670499",
+          "author": "John Squires",
+          "description": "They’re dying… to save the world. James Gunn‘s version of The Suicide Squad will be quite a bit different than the 2016 take on the material in many ways, not the least of which is its MPA rating. Unlike Suicide Squad, released with a PG-13 rating, The Suicide Squad is coming to theaters with a hard “R” rating, and that’s […]",
+          "link": "https://bloody-disgusting.com/movie/3670499/james-gunns-suicide-squad-new-trailer-unleashes-kaiju-sized-project-starfish-video/",
+          "publishedOn": "2021-06-22T16:21:39.000Z",
+          "wordCount": 1139,
+          "title": "James Gunn’s ‘The Suicide Squad’: New Trailer Unleashes Kaiju-Sized “Project Starfish”! [Video]"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3670596",
+          "author": "John Squires",
+          "description": "Announced today, Netflix is adapting Adam Gidwitz‘s books with the upcoming animated series “A Tale Dark & Grimm,” which “follows Hansel & Gretel through classic fairy tales, with all of the wonderfully gross and creepy bits left in.” Deadline details, “The series follows Hansel and Gretel as they run away from home to find better […]",
+          "link": "https://bloody-disgusting.com/tv/3670596/tale-dark-grimm-hansel-gretel-will-battle-witches-dragons-devil-netflix-animated-series/",
+          "publishedOn": "2021-06-22T16:10:33.000Z",
+          "wordCount": 2100,
+          "title": "“A Tale Dark & Grimm”: Hansel & Gretel Will Battle Witches, Dragons and the Devil in Netflix Animated Series"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3670594",
+          "author": "Brad Miska",
+          "description": "Before coming to Starz in October, Darren Bousman‘s franchise relaunch Spiral: From the Book of Saw (read Meagan’s review) makes its way to Digital HD on July 13 before arriving on 4K Ultra HD Combo Pack (plus Blu-ray and Digital), Blu-ray Combo Pack (plus DVD and Digital), DVD, and On Demand July 20 from Lionsgate and Twisted Pictures. Spiral, directed […]",
+          "link": "https://bloody-disgusting.com/home-video/3670594/spiral-book-saw-cuts-4k-blu-ray-dvd-digital-hd-july/",
+          "publishedOn": "2021-06-22T16:07:39.000Z",
+          "wordCount": 1128,
+          "title": "‘Spiral: From the Book of Saw’ Cuts Into 4K Blu-Ray, DVD and Digital HD This July"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3670576",
+          "author": "John Squires",
+          "description": "NECA is working on a new line of Universal Monsters action figures based on the original classics, with Frankenstein’s monster, The Wolfman, The Mummy and Dracula confirmed. Today, NECA has taken to social media to show off some first-look images of their figure of Lon Chaney Jr. as the Wolf Man from The Wolf Man (1941), which you’ll find […]",
+          "link": "https://bloody-disgusting.com/toys/3670576/necas-universal-monsters-collection-unleashes-beast-new-wolf-man-action-figure/",
+          "publishedOn": "2021-06-22T15:56:41.000Z",
+          "wordCount": 1047,
+          "title": "NECA’s “Universal Monsters” Collection Unleashes the Beast With New ‘Wolf Man’ Action Figure"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3670529",
+          "author": "Brad Miska",
+          "description": "A24‘s Rosemary’s Baby-inspired thriller False Positive (read Meagan Navarro’s review out of Tribeca) is being delivered to Hulu subscribers on June 25, directed by John Lee (“Wonder Showzen”) and co-written by Lee and Ilana Glazer (“Broad City”). Glazer also stars alongside Gretchen Mol, Sophia Bush, Pierce Brosnan and Justin Theroux. In the film, “After months of trying and failing to get pregnant, Lucy (Glazer) and Adrian (Theroux) finally […]",
+          "link": "https://bloody-disgusting.com/movie/3670529/new-artwork-hulus-false-positive-birthed-alongside-tons-new-images/",
+          "publishedOn": "2021-06-22T15:50:07.000Z",
+          "wordCount": 1027,
+          "title": "New Artwork for Hulu’s ‘False Positive’ Birthed Alongside Tons of New Images"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3670574",
+          "author": "Brad Miska",
+          "description": "Dark Sky Films is making a sharp turn from horror to thriller with their next, Night Drive, which stars You’re Next and The Signal‘s AJ Bowen as a driver in Los Angeles who’s reeling from a series of bad decisions. “While his life seems to be caught in a downward spiral, a business proposition from […]",
+          "link": "https://bloody-disgusting.com/movie/3670574/night-drive-turns-hit-run-night-panic-trailer/",
+          "publishedOn": "2021-06-22T15:39:31.000Z",
+          "wordCount": 994,
+          "title": "‘Night Drive’ Turns a Hit-and-Run Into a Night of Panic [Trailer]"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3663214",
+          "author": "Mike Wilson",
+          "description": "It’s difficult to think at times that id Software revolutionized the 3D shooter thrice in a decade. Yet from Wolfenstein 3D to Doom to ultimately Quake, that’s what they’ve done, with each iteration specializing in a specific area. Wolfenstein established the FPS genre as we know it, while Doom refined the genre into a frantic […]",
+          "link": "https://bloody-disgusting.com/video-games/3663214/cthulhu-quad-damage-quake-25/",
+          "publishedOn": "2021-06-22T15:14:58.000Z",
+          "wordCount": 1789,
+          "title": "Cthulhu and Quad Damage: ‘Quake’ at 25"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3670518",
+          "author": "Brad Miska",
+          "description": "Anya Taylor-Joy is working her way to becoming a household name. After making her lead debut in A24’s The Witch, the actress has landed several starring roles from M. Night Shyamalan’s Split to Netflix’s incredible chess-themed dramatic thriller “The Queen’s Gambit”. It only helps that she carries captivating features that are instantly recognizable. As for […]",
+          "link": "https://bloody-disgusting.com/movie/3670518/anya-taylor-joy-thought-witch-performance-end-career/",
+          "publishedOn": "2021-06-22T14:46:54.000Z",
+          "wordCount": 1223,
+          "title": "Anya Taylor-Joy Thought Her ‘The Witch’ Performance Would End Her Career?!"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3670514",
+          "author": "Mike Wilson",
+          "description": "It appears that the characters of Left 4 Dead get around. First they show up in Dying Light (twice, actually), and now Rebellion’s borrowing them for a free Season 3 DLC drop in Zombie Army 4! Bill, Francis, Louis and Zoey are joining the fray, and along with them, a brand-new mission as part of […]",
+          "link": "https://bloody-disgusting.com/video-games/3670514/left-4-dead-characters-join-zombie-army-4-today-as-free-dlc/",
+          "publishedOn": "2021-06-22T14:26:05.000Z",
+          "wordCount": 1809,
+          "title": "‘Left 4 Dead’ Characters Join ‘Zombie Army 4’ Today as Free DLC!"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3670515",
+          "author": "John Squires",
+          "description": "Directed by Bigas Luna and released in 1987, the horror movie Anguish starred Zelda Rubinstein (Poltergeist) and Michael Lerner (Maniac Cop 2, Barton Fink), and we’ve learned this week that a remake is on the way from director F. Javier Gutiérrez (Rings). The press release explains, “Kiko Martínez (Nadie es Perfecto) and Antonio Pérez (Maestranza […]",
+          "link": "https://bloody-disgusting.com/movie/3670515/1987-horror-movie-anguish-remade-rings-filmmaker-f-javier-gutierrez/",
+          "publishedOn": "2021-06-22T14:23:25.000Z",
+          "wordCount": 1077,
+          "title": "1987 Horror Movie ‘Anguish’ Being Remade By ‘Rings’ Filmmaker F. Javier Gutiérrez"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3670510",
+          "author": "Brad Miska",
+          "description": "Octane Entertainment, the sales company behind Superhost, The Stylist, The Boy Behind the Door, among many others, is also handling sales on Nix, the latest from Boo! and Sharknado director Anthony C. Ferrante. In the film… “When a mysterious entity manifests itself, a family finds themselves on a scary and dark journey into their own […]",
+          "link": "https://bloody-disgusting.com/indie/3670510/sharknado-directors-nix-deals-trauma-addiction/",
+          "publishedOn": "2021-06-22T14:08:24.000Z",
+          "wordCount": 1298,
+          "title": "‘Sharknado’ Director’s ‘Nix’ Deals With Trauma and Addiction"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3670494",
+          "author": "Brad Miska",
+          "description": "Metallica celebrates the 30th anniversary of their self-titled The Black Album, releasing a massive covers album featuring more than 50 artists. Set for release on September 10th, The Metallica Blacklist boasts contributions from over 50 artists, including Miley Cyrus, Elton John, Depeche Mode’s Dave Gahan, J Balvin, St. Vincent, Phoebe Bridgers, My Morning Jacket, Weezer, Mac DeMarco, Cage […]",
+          "link": "https://bloody-disgusting.com/music/3670494/metallica-blacklist-50-artists-cover-metallica-celebrate-30th-anniversary-black-album/",
+          "publishedOn": "2021-06-22T13:50:50.000Z",
+          "wordCount": 1369,
+          "title": "‘The Metallica Blacklist’: Over 50 Artists Cover Metallica to Celebrate the 30th Anniversary of ‘The Black Album’ [Video]"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3670481",
+          "author": "John Squires",
+          "description": "Coming soon from director Coke Daniels, Taryn Manning stars in the horror movie Karen, and as we learned last week, 13 Films has boarded sales ahead of the Cannes market. The film centers on “Karen Drexler (Manning), a racist white woman who makes it her personal mission to displace the new Black family that has just moved in next […]",
+          "link": "https://bloody-disgusting.com/movie/3670481/taryn-manning-racist-white-woman-karen-upcoming-bet-original-thriller-trailer/",
+          "publishedOn": "2021-06-22T13:38:52.000Z",
+          "wordCount": 1048,
+          "title": "Taryn Manning is Racist White Woman ‘Karen’ in Upcoming BET Original Thriller [Trailer]"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3670480",
+          "author": "Brad Miska",
+          "description": "If you’re a fan of “Sherlock” and “Dracula”, Hartswood Films, the British company behind both, is next waking up in the middle of “The Devil’s Hour”, which Amazon has already begun casting. “From the mind of rising British writer Tom Moran, “The Devil’s Hour” is a UK original that tells the story of a woman who wakes […]",
+          "link": "https://bloody-disgusting.com/tv/3670480/peter-capaldi-joins-amazons-devils-hour-murderous-nomad/",
+          "publishedOn": "2021-06-22T13:33:49.000Z",
+          "wordCount": 2198,
+          "title": "Peter Capaldi Joins Amazon’s “The Devil’s Hour” as a Murderous Nomad"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3670458",
+          "author": "Brad Miska",
+          "description": "A24 is about to make a triumphant return to theaters with David Lowery‘s (A Ghost Story) dark fantasy The Green Knight, said to be a fresh and bold spin on a classic tale from the knights of the round table. “The Green Knight tells the story of Sir Gawain (Dev Patel), King Arthur’s reckless and headstrong nephew, […]",
+          "link": "https://bloody-disgusting.com/movie/3670458/new-green-knight-footage-gives-tribute-headless-horseman-video/",
+          "publishedOn": "2021-06-22T13:00:39.000Z",
+          "wordCount": 1048,
+          "title": "‘The Green Knight’ Rides as the Headless Horseman in New Footage! [Video]"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3670470",
+          "author": "Mike Wilson",
+          "description": "With Shin Megami Tensei V landing on the Switch later this year, Atlus has announced a Premium Edition for the game, as well as a pre-order bonus. Right now, physical pre-orders for the game include a SteelBook (while supplies last, of course), while the big one is the Fall of Man Premium Edition. The Fall […]",
+          "link": "https://bloody-disgusting.com/video-games/3670470/video-new-gameplay-trailer-for-shin-megami-tensei-v-released-premium-edition-revealed/",
+          "publishedOn": "2021-06-22T11:31:14.000Z",
+          "wordCount": 1746,
+          "title": "[Video] New Gameplay Trailer For ‘Shin Megami Tensei V’ Released; Premium Edition Revealed"
+        },
         {
           "id": "https://bloody-disgusting.com/?p=3670446",
           "author": "John Squires",
@@ -7989,24 +8547,6 @@
           "publishedOn": "2021-05-24T13:28:29.000Z",
           "wordCount": 1321,
           "title": "‘Scream 2’ Conjured Up a Fast and Furious Friends Reunion [Halloweenies Podcast]"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3666458",
-          "author": "Mike Wilson",
-          "description": "It seems that the parody commercial with Resident Evil Village‘s Lady Dimitrescu action figure may have caught the attention of Capcom, as they’ve announced that as part of the milestone of their Dev1 Twitter account reaching 50,000 followers, Capcom are holding a contest to win a Lady Dimitrescu figurine! Produced by Gecco Corp (who also […]",
-          "link": "https://bloody-disgusting.com/video-games/3666458/capcom-giving-away-limited-edition-lady-dimitrescu-figure-from-gecco-corp/",
-          "publishedOn": "2021-05-24T12:33:09.000Z",
-          "wordCount": 1177,
-          "title": "Capcom Giving Away Limited Edition Lady Dimitrescu Figure From Gecco Corp"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3666424",
-          "author": "Brad Miska",
-          "description": "Lionsgate and Twisted Pictures’ SAW franchise has just hit two major milestones this weekend. Spiral: From the Book of Saw is officially the #1 film in North America for the second week in a row. “And with this weekend’s success, the franchise marks a momentous achievement, crossing over one billion dollars in worldwide theatrical receipts […]",
-          "link": "https://bloody-disgusting.com/movie/3666424/spiral-pushes-saw-franchise-past-1-billion-box-office/",
-          "publishedOn": "2021-05-23T17:50:24.000Z",
-          "wordCount": 1128,
-          "title": "‘Spiral’ Pushes the ‘SAW’ Franchise Past $1 Billion at the Box Office"
         }
       ]
     },
@@ -8031,6 +8571,24 @@
       "feedUrl": "https://www.broadstreethockey.com/rss/current.xml",
       "siteUrl": "https://www.broadstreethockey.com/",
       "articles": [
+        {
+          "id": "https://www.broadstreethockey.com/2021/6/22/22543886/nhl-philadelphia-flyers-bsh-2021-community-draft-board-no-11-mason-mctavish",
+          "author": null,
+          "description": "Photo by Chris Tanouye/Getty Images\n    \n\n  \nA scoring center, you say?\n This season has been, if nothing else, one of adjustments. We’ve seen that really across the board, but we’ve seen it particularly with our next player up on the draft board. \nWith the OHL season ultimately being cancelled this year, that left Mason McTavish, who spent last season with the Peterborough Petes, in a bit of a bind. Finding a way to get playing time was going to be a challenge, but it’s one that perhaps still worked out for him, as he got an early taste of professional hockey this season, as he got in a handful of games with EHC Olten, in Switzerladnd’s second-tier professional league. It was an abbreviated look, to be sure, but he was able to find a way to be effective in a league full of grown men, and …",
+          "link": "https://www.broadstreethockey.com/2021/6/22/22543886/nhl-philadelphia-flyers-bsh-2021-community-draft-board-no-11-mason-mctavish",
+          "publishedOn": "2021-06-22T18:00:07.000Z",
+          "wordCount": 1762,
+          "title": "BSH 2021 Community Draft Board, No. 11: Mason McTavish"
+        },
+        {
+          "id": "https://www.broadstreethockey.com/2021/6/22/22543822/tuesday-morning-fly-by-living-amongst-the-zebras-flyers-news-nhl-hockey-philadelphia-offseason",
+          "author": null,
+          "description": "Photo by Len Redkoles/NHLI via Getty Images\n    \n\n  \nToday’s open discussion thread, complete with your daily dose of Flyers news and notes…\n It’s been another “fun” day of the NHL offseason (notice how fun is in quotes there, implying that the Flyers missing the playoffs is not, in fact, fun). Here are some links to pass the time.\nFlyers News\n*Among the multitude of defenders that have been named as reputed targets for Chuck Fletcher and co. this offseason, Matt Dumba is arguably the most interesting and risky. How exactly does he fit? (BSH)\n*With the Flyers increasingly associated with Buffalo star Jack Eichel’s name in rumors, comments are coming out about the Sabres’ asking price for a trade. Apparently it’s pretty absurd. (Philly Hockey Now)\n*Continuing BSH’s community draft board, Maddie took a look at arguably the highest upside player in the 2021 Entry Draft. Swedish goalie Jesper Wallstedt is a potential gem and looks like a franchise talent, much like Jaroslav Askarov of the 2020 class. (BSH)\n*The Orange & Black owe their fans a lot of things, but they can start by picking a better goal song. “Feel The Shake” is lame. (BSH)\n*Philly legend Reggie Leach went on Sportsnet’s “Lead Off” radio show to discuss Indigenous People’s Day and what it means to him. (Sportsnet)\nAround The League\n*NHL fans have been subjected to some... questionable officiating in this postseason. Absolutely nobody is shocked. (The Hockey News)\n*The Islanders have sold out their first batch of season tickets for their new arena in Belmont. That’s excellent news for the NHL as it transitions to ESPN for a new TV deal, but not so great when considering that the Flyers will have yet another tough road environment in the division. (The Hockey News)\n*People decided to say some nasty things on Twitter after Robin Lehner was announced as Vegas’s starter for Game 4. The veteran netminder kept those comments in the back of his mind and played with a chip on his shoulder en route to a win. (ESPN)",
+          "link": "https://www.broadstreethockey.com/2021/6/22/22543822/tuesday-morning-fly-by-living-amongst-the-zebras-flyers-news-nhl-hockey-philadelphia-offseason",
+          "publishedOn": "2021-06-22T10:00:00.000Z",
+          "wordCount": 764,
+          "title": "Tuesday Morning Fly By: Living amongst the zebras"
+        },
         {
           "id": "https://www.broadstreethockey.com/2021/6/21/22535736/philadelphia-flyers-trade-rumors-is-matt-dumba-the-move-minnesota-wild-nhl-analysis",
           "author": null,
@@ -8345,24 +8903,6 @@
           "publishedOn": "2021-05-24T13:30:00.000Z",
           "wordCount": 773,
           "title": "IIHF WC Update: Russia surges as Canada falters"
-        },
-        {
-          "id": "https://www.broadstreethockey.com/2021/5/24/22450389/monday-morning-fly-by-the-wagons-roll-on",
-          "author": null,
-          "description": "Photo by Len Redkoles/NHLI via Getty Images\n    \n\n  \nToday’s open discussion thread, complete with your daily dose of Flyers news and notes…  \n *Let’s start our Monday morning with a little Wayne Simmonds. Kick this week off properly.\nRule number 1. Do not mess with Wayne Simmonds. Rule number 2. Do not mess with his teammates. pic.twitter.com/cnNFHeqy68\n— Nasty Knuckles (@NastyKnuckles) May 23, 2021\n\n\n\n*The first round is going to be over fast; have you selected a bandwagon? A team from the Central Division, perhaps? [BSH]\n*As more and more of these guys end up in the NHL, the one-stacked prospect corps will naturally thin out. Right now, who are the best of the bunch? [Inquirer]\n*About those top prospects transitioning... Joel Farabee did that pretty nicely eh? We’re going to need him to get even better. [NBC Sports Philly]\n*Speaking of getting better, we grade out this season’s bottom six forwards. [BSH]\n*Kevin Hayes was playing injured this season. Which, frankly, seems obvious. [NBC Sports Philly]\n*This weekend’s playoff action continued the excitement we’ve seen from this first round so far. Unfortunately, this weekend also brought us an incredibly scary moment for Leafs’ captain John Tavares. [Pension Plan Puppets]\n*This weekend also brought a long suspension for Nazem Kadri. Which we are forced to compare to Tom Wilson. And then think about things. [Mile High Hockey]\n*He’s appealing, though. [AP]\n*And finally, another decision by the DoPS brings another round of calls for some kind of examination of the NHL’s discipline process. It just plain isn’t working. [The Athletic]",
-          "link": "https://www.broadstreethockey.com/2021/5/24/22450389/monday-morning-fly-by-the-wagons-roll-on",
-          "publishedOn": "2021-05-24T10:00:00.000Z",
-          "wordCount": 674,
-          "title": "Monday Morning Fly By: The wagons roll on"
-        },
-        {
-          "id": "https://www.broadstreethockey.com/2021/5/23/22449165/the-bsh-bandwagoners-guide-to-the-central-division-playoff-hockey-nhl-tampa-bay-nashville-carolina",
-          "author": null,
-          "description": "Photo by Mike Ehrmann/Getty Images\n    \n\n  \nWith no dog in the fight, it’s always fun to pick one.\n In the sleepiest days of the Flyers’ offseason, there’s not much to do in terms of leisure activities aside from watching baseball or playoff hockey. The latter might be a bit painful given the status of your favorite team, but fear not; we here at Broad Street Hockey are creating a brief, yet vaguely comprehensive guide to each division and the teams who you might choose to root for in their quest for the Cup. In the interest of hatred of rivals (a primary interest of any Flyers fan) the East division won’t be receiving this treatment, particularly because Philly fans are familiar with the teams included in that category.\nToday’s overview will cover the Central division, aka my home turf. A…",
-          "link": "https://www.broadstreethockey.com/2021/5/23/22449165/the-bsh-bandwagoners-guide-to-the-central-division-playoff-hockey-nhl-tampa-bay-nashville-carolina",
-          "publishedOn": "2021-05-23T15:00:00.000Z",
-          "wordCount": 3167,
-          "title": "The BSH bandwagoner’s guide to the Central division"
         }
       ]
     },
@@ -8371,6 +8911,48 @@
       "feedUrl": "https://indyweek.com/api/rss/content.rss",
       "siteUrl": "https://indyweek.com/api/rss/content.rss",
       "articles": [
+        {
+          "id": "https://indyweek.com/news/orange/n-c-policy-watch-exclusive-nikole-hannah-jones-will-not-join-unc-faculty-without-tenure/",
+          "author": "Joe Killian",
+          "description": "According to a letter from her legal team to the university this week, Hannah-Jones will not begin her position as Knight Chair in Race and Investigative Journalism on July 1, as scheduled, and will not take the position without tenure.",
+          "link": "https://indyweek.com/news/orange/n-c-policy-watch-exclusive-nikole-hannah-jones-will-not-join-unc-faculty-without-tenure/",
+          "publishedOn": "2021-06-22T21:37:25.000Z",
+          "wordCount": 1565,
+          "title": "N.C. Policy Watch Exclusive: Nikole Hannah-Jones Will Not Join UNC Faculty Without Tenure",
+          "enclosure": {
+            "url": "https://indyweek.com/downloads/75607/download/nikole-hannah-jones.jpg?cb=8f3879f0e81517aab19b95e476e21c66",
+            "type": "image/jpeg",
+            "length": "393921"
+          }
+        },
+        {
+          "id": "https://indyweek.com/news/wake/rapper-j-cole-dreamville-2022-raleigh/",
+          "author": "Leigh Tauss",
+          "description": "The festival hasn't had the best of luck—it's been rescheduled or canceled three times since 2018.",
+          "link": "https://indyweek.com/news/wake/rapper-j-cole-dreamville-2022-raleigh/",
+          "publishedOn": "2021-06-22T21:22:55.000Z",
+          "wordCount": 570,
+          "title": "J.Cole's Dreamville Festival Will Return to Raleigh in 2022",
+          "enclosure": {
+            "url": "https://indyweek.com/downloads/73223/download/dreamville-IMG_0120.jpg?cb=12bd09cec339ff43a8d73d5e783cff2f",
+            "type": "image/jpeg",
+            "length": "165656"
+          }
+        },
+        {
+          "id": "https://indyweek.com/music/news/ahji-love-hayti-heritage-center-performance-review/",
+          "author": "Thomasi McDonald",
+          "description": "The event was part of the Hayti Heritage Black Music Month series, which will continue  with two final performances on June 23 and June 30.",
+          "link": "https://indyweek.com/music/news/ahji-love-hayti-heritage-center-performance-review/",
+          "publishedOn": "2021-06-22T20:13:05.000Z",
+          "wordCount": 1043,
+          "title": "Rhythm and Blues Songstress Ahji Love Delivers a Fresh, Commanding Performance at Hayti Heritage Center",
+          "enclosure": {
+            "url": "https://indyweek.com/downloads/82465/download/thumbnail_154783609_1665414363658883_2861187339946376039_n.jpg?cb=fcc694a98672a1c1b6585108af2379f5",
+            "type": "image/jpeg",
+            "length": "85073"
+          }
+        },
         {
           "id": "https://indyweek.com/news/northcarolina/north-carolina-petition-curb-carbon-dioxide-emissions/",
           "author": "Greg Barnes",
@@ -9364,24 +9946,6 @@
             "type": "image/jpeg",
             "length": "393921"
           }
-        },
-        {
-          "id": "https://indyweek.com/news/northcarolina/knight-foundation-urges-unc-to-approve-tenure-for-nikole-hannah-jones/",
-          "author": "Joe Killian",
-          "description": "The Knight Foundation's president called Nikole Hannah-Jones \"eminently qualified\" and urged the board to reconsider its decision.",
-          "link": "https://indyweek.com/news/northcarolina/knight-foundation-urges-unc-to-approve-tenure-for-nikole-hannah-jones/",
-          "publishedOn": "2021-05-24T10:15:19.000Z",
-          "wordCount": 1698,
-          "title": "Knight Foundation Urges UNC-Chapel Hill Trustees to Approve Tenure for Acclaimed Journalist to"
-        },
-        {
-          "id": "https://indyweek.com/news/northcarolina/unc-chapel-hill-student-body-president-demands-board-of-trustees-vote-on-tenure-for-nikole-hannah-jones/",
-          "author": "Joe Killian",
-          "description": "Lamar Richards, who was sworn in this week as the student representative on the board, called on fellow board members to hold a vote in a statement addressed to university leaders.",
-          "link": "https://indyweek.com/news/northcarolina/unc-chapel-hill-student-body-president-demands-board-of-trustees-vote-on-tenure-for-nikole-hannah-jones/",
-          "publishedOn": "2021-05-24T10:05:25.000Z",
-          "wordCount": 2074,
-          "title": "UNC-Chapel Hill Student Body President Demands Board of Trustees Vote on Tenure for Acclaimed Journalist"
         }
       ]
     },
@@ -9390,6 +9954,56 @@
       "feedUrl": "https://daily.bandcamp.com/feed",
       "siteUrl": "https://daily.bandcamp.com",
       "articles": [
+        {
+          "id": "141061",
+          "author": "Erin Margaret Day",
+          "description": "Full Spectrum's roster engages with a sense of place and experimentation.\nRead full story on the Bandcamp Daily.",
+          "link": "https://daily.bandcamp.com/label-profile/full-spectrum-label-profile",
+          "publishedOn": "2021-06-22T18:08:48.000Z",
+          "wordCount": null,
+          "title": "Full Spectrum Nurtures an Intentional Community for Experimentation",
+          "itunes": {}
+        },
+        {
+          "id": "141053",
+          "author": "Christina Lee",
+          "description": "As the group prepares its next album, and ahead of the 10-year anniversary reissue of 2011’s beloved \"Oneireology,\" Kno reflects on the group’s ambitious catalog.\nRead full story on the Bandcamp Daily.",
+          "link": "https://daily.bandcamp.com/lists/cunninlynguists-albums-guide",
+          "publishedOn": "2021-06-22T18:07:54.000Z",
+          "wordCount": null,
+          "title": "A Guide to CunninLynguists’ High-Minded, Concept-Driven Discography",
+          "itunes": {}
+        },
+        {
+          "id": "140610",
+          "author": "Jon Kaps",
+          "description": "It may have started out small, but the hard rock scene in Greece is now home to a host of thriving new acts.\nRead full story on the Bandcamp Daily.",
+          "link": "https://daily.bandcamp.com/scene-report/greek-hard-rock-scene-report",
+          "publishedOn": "2021-06-22T13:41:22.000Z",
+          "wordCount": null,
+          "title": "The Greek Hard Rock Scene, Past and Present",
+          "itunes": {}
+        },
+        {
+          "id": "140610",
+          "author": "Dani Choi",
+          "description": "It may have started out small, but the hard rock scene in Greece is now home to a host of thriving new acts.\nRead full story on the Bandcamp Daily.",
+          "link": "https://daily.bandcamp.com/scene-report/greek-hard-rock-scene-report",
+          "publishedOn": "2021-06-22T13:41:22.000Z",
+          "wordCount": null,
+          "title": "The Greek Hard Rock Scene, Past and Present",
+          "itunes": {}
+        },
+        {
+          "id": "140976",
+          "author": "Andra Nikolayi",
+          "description": "The Kampala producer's debut LP subverts the dominant paradigm of club music, providing a fresh, dark, and doomy soundtrack that is as meditative as it is danceable.\nRead full story on the Bandcamp Daily.",
+          "link": "https://daily.bandcamp.com/album-of-the-day/don-zilla-ekizikiza-mubwengula-review",
+          "publishedOn": "2021-06-22T13:40:44.000Z",
+          "wordCount": null,
+          "title": "Don Zilla, “Ekizikiza Mubwengula”",
+          "itunes": {}
+        },
         {
           "id": "140680",
           "author": "Jesse Locke",
@@ -10154,6 +10768,24 @@
       "siteUrl": "https://www.cjr.org",
       "articles": [
         {
+          "id": "https://www.cjr.org/the_media_today/yang_adams_new_york_mayor_media.php",
+          "author": null,
+          "description": "Until quite recently, whenever the mayoral race in New York City pierced the wider news cycle, the coverage seemed to coalesce around a single candidate: Andrew Yang. In some quarters, a narrative of unstoppability developed around him; others argued that he’d essentially vaulted into pole position via his profile-raising Democratic presidential bid in 2020, when […]",
+          "link": "https://www.cjr.org/the_media_today/yang_adams_new_york_mayor_media.php",
+          "publishedOn": "2021-06-23T00:47:07.353Z",
+          "wordCount": 2646,
+          "title": "Andrew Yang, Eric Adams, and uncertainty on primary day in New York"
+        },
+        {
+          "id": "https://www.cjr.org/analysis/press-freedom-nicaragua-daniel-ortega.php",
+          "author": null,
+          "description": "In April of 2018, Daniel Ortega, the president of Nicaragua, announced reforms to the country’s social security benefits. Protests erupted, following years of discontent with the increasingly repressive regime. The Ortega government responded with brutal crackdowns on protesters, political opponents, and the independent press that still have not abated. As protests gained momentum that April, […]",
+          "link": "https://www.cjr.org/analysis/press-freedom-nicaragua-daniel-ortega.php",
+          "publishedOn": "2021-06-23T00:47:07.314Z",
+          "wordCount": 1300,
+          "title": "Three years of deteriorating press freedom in Nicaragua"
+        },
+        {
           "id": "https://www.cjr.org/the_media_today/hong_kong_apple_daily.php",
           "author": null,
           "description": "Last year, as June turned to July, China imposed a draconian new “security law” on Hong Kong, sparking widespread doubt—and no little alarm—as to what it might mean for freedoms of speech and the press in a territory that had once been a redoubt of both. Immediately, police made mass arrests at protests marking the […]",
@@ -10367,6 +10999,21 @@
       "feedUrl": "https://www.platformer.news/feed",
       "siteUrl": "https://www.platformer.news",
       "articles": [
+        {
+          "id": "https://www.platformer.news/p/what-tinder-learned-from-fortnite",
+          "author": "Casey Newton",
+          "description": "CEO Jim Lanzone on the dating app's move into in-app events",
+          "link": "https://www.platformer.news/p/what-tinder-learned-from-fortnite",
+          "publishedOn": "2021-06-23T00:00:59.000Z",
+          "wordCount": null,
+          "title": "What Tinder learned from Fortnite",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F91ff3643-6802-4482-bfdb-442cdb3cbe76_1636x1004.png",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
         {
           "id": "https://www.platformer.news/p/tiktoks-miniature-ambitions",
           "author": "Casey Newton",
@@ -10608,6 +11255,60 @@
       "feedUrl": "https://cvltnation.com/feed/",
       "siteUrl": "https://cvltnation.com",
       "articles": [
+        {
+          "id": "https://cvltnation.com/?p=281984",
+          "author": "Meghan",
+          "description": "What are you thinking about? Are you immersed in what’s in front of you, or are you diving into your past? Are you deep in the understanding that only this moment right here and now as you read these words is real, or are you somewhere in an imaginary future, predicting what might happen later […]\nThe post Rest in the Electro Presence of XOR “Saturn Returns” first appeared on CVLT Nation.",
+          "link": "https://cvltnation.com/rest-in-the-electro-presence-of-xor-saturn-returns/",
+          "publishedOn": "2021-06-22T12:00:13.000Z",
+          "wordCount": 858,
+          "title": "Rest in the Electro Presence of XOR “Saturn Returns”"
+        },
+        {
+          "id": "https://cvltnation.com/?p=281917",
+          "author": "Joey",
+          "description": "Okay, punky black metallurgists, get ready to give a warm welcome—or perhaps even an infernal hail—to MELISSA. They’re here to say hello from the gutters of New York (yes, I did recently watch the SOS docuseries, what about it) with their 5 track demo on FLESH PRISON, and you better take notice.  While bands like […]\nThe post Welcome To MELISSA’s Punk Black Metal Scum Hell (premiere stream + review) first appeared on CVLT Nation.",
+          "link": "https://cvltnation.com/welcome-to-melissa-punk-black-metal-scum-hell/",
+          "publishedOn": "2021-06-22T11:00:11.000Z",
+          "wordCount": 809,
+          "title": "Welcome To MELISSA’s Punk Black Metal Scum Hell (premiere stream + review)"
+        },
+        {
+          "id": "https://cvltnation.com/?p=281978",
+          "author": "Meghan",
+          "description": "It’s deliciously ironic that a band who makes such deranged blackened noise calls themselves EDEN. They are, after all, from the home of the Catholic Church, an organization that practically invented doublespeak and public relations cover-ups. EDEN’s music reminds me that the chaos of human existence is mostly manufactured; it’s a tactic to drive us […]\nThe post Hear the Deranged Blackened Noise of EDEN “Gehenna” first appeared on CVLT Nation.",
+          "link": "https://cvltnation.com/hear-the-deranged-blackened-noise-of-eden-gehenna/",
+          "publishedOn": "2021-06-22T10:00:22.000Z",
+          "wordCount": 788,
+          "title": "Hear the Deranged Blackened Noise of EDEN “Gehenna”"
+        },
+        {
+          "id": "https://cvltnation.com/?p=281946",
+          "author": "Sean Reveron",
+          "description": "The new EUTHANIZED record Sanguine Spectacle is really fucking AWESOME! I love how it’s Lo-Fi but still kicks you in the teeth and never lets up. This band is filthy and totally reeks of sonic sewage that gets all over your skin as they seep into your eardrums! Yeah EUTHANIZED is Black Metal without a […]\nThe post Experience the ruthless demonic march EUTHANIZED “Sanguine Spectacle” first appeared on CVLT Nation.",
+          "link": "https://cvltnation.com/experience-the-ruthless-demonic-march-euthanized-sanguine-spectacle/",
+          "publishedOn": "2021-06-22T09:00:07.000Z",
+          "wordCount": 498,
+          "title": "Experience the ruthless demonic march EUTHANIZED “Sanguine Spectacle”"
+        },
+        {
+          "id": "https://cvltnation.com/?p=281953",
+          "author": "Sean Reveron",
+          "description": "If you could see me now you see me with a HUGE smile on my face because I’m blasting their new Anytime Cowboy song “Bug Bite”! Damn this tune is so infectious and is giving me a full-on eargasm. This on-point off-kilter jam will make want to dance in the summertime sun. I can’t front […]\nThe post Listen to the weirdo pop with a country twist ANYTIME COWBOY  “Bug Bite” first appeared on CVLT Nation.",
+          "link": "https://cvltnation.com/listen-to-the-weirdo-pop-with-a-country-twist-anytime-cowboy-bug-bite/",
+          "publishedOn": "2021-06-22T08:00:43.000Z",
+          "wordCount": 594,
+          "title": "Listen to the weirdo pop with a country twist ANYTIME COWBOY  “Bug Bite”"
+        },
+        {
+          "id": "https://www.cvltnation.com/?p=238402",
+          "author": "JasonB",
+          "description": "The film Hereditary, which was recently released on video, is scary as shit. I don’t need to quote a well-established critic to back me up here, I’m a horror connoisseur and I spent the last the last ten minutes of the film with my mouth literally agape. When the reveal hits, it’s also batshit insane […]\nThe post Discover the Kings, Popes, and Witches Who Conjured Demons first appeared on CVLT Nation.",
+          "link": "https://cvltnation.com/discover-kings-popes-witches-conjured-demons/",
+          "publishedOn": "2021-06-22T07:00:00.000Z",
+          "wordCount": 3669,
+          "title": "Discover the Kings, Popes, and Witches Who Conjured Demons"
+        },
         {
           "id": "https://cvltnation.com/?p=281915",
           "author": "Meghan",
@@ -10924,6 +11625,15 @@
       "siteUrl": "https://yourlastrites.com",
       "articles": [
         {
+          "id": "https://yourlastrites.com/?p=36707",
+          "author": "Zach Duvall",
+          "description": "Sometimes the potential of a band is more tantalizing than the present, even if the present is still pretty entertaining. Take for instance Slovenia’s Siderean, who aren’t exactly new to the game, but are new to this version of their game. They began life as Teleport, who experienced a bit of musical evolution and a ...",
+          "link": "https://yourlastrites.com/2021/06/22/siderean-lost-on-voids-horizon-review/",
+          "publishedOn": "2021-06-22T10:00:45.000Z",
+          "wordCount": 1060,
+          "title": "Siderean ‒ Lost On Void’s Horizon Review"
+        },
+        {
           "id": "https://yourlastrites.com/?p=36666",
           "author": "Andrew Edmunds",
           "description": "Like so many of us, the five Swedes in General Surgery spent the past year or so in lockdown. So they did what we all should have done with our unexpected spare time: They wrote and recorded a goregrind EP. Now that productivity in forced seclusion has paid off for them — and for the ...",
@@ -11048,15 +11758,6 @@
           "publishedOn": "2021-05-28T10:00:29.000Z",
           "wordCount": 1375,
           "title": "Code ‒ Flyblown Prince Review"
-        },
-        {
-          "id": "https://yourlastrites.com/?p=36321",
-          "author": "Andrew Edmunds",
-          "description": "Another of Frontiers Records’ apparently endless combinations of hard rock all-stars, Sunbomb is the pairing of Stryper vocalist / guitarist Michael Sweet with L.A. Guns / ex-Brides Of Destruction shredder Tracii Guns. Per Guns, the two have been longtime friends, and they had initially discussed their primary bands touring together in a “heaven & hell” ...",
-          "link": "https://yourlastrites.com/2021/05/24/sunbomb-evil-and-divine-review/",
-          "publishedOn": "2021-05-24T10:00:16.000Z",
-          "wordCount": 1270,
-          "title": "Sunbomb – Evil And Divine Review"
         }
       ]
     },
@@ -11065,6 +11766,15 @@
       "feedUrl": "https://www.teethofthedivine.com/feed/",
       "siteUrl": "https://www.teethofthedivine.com",
       "articles": [
+        {
+          "id": "https://www.teethofthedivine.com/?p=55721",
+          "author": "Erik T",
+          "description": "You kind of know what you are getting into here from the get-go: the band name taken from a Vlad Tepes song, the album title, the corpse painted, armored promo shots of lone Finnish member, Lord Vrăjitor, (also of Old Sorcery and doom act Musta Risti) the logo, the cool artwork, prior releases named Burning […]",
+          "link": "https://www.teethofthedivine.com/reviews/warmoon-lord-battlespells/",
+          "publishedOn": "2021-06-22T11:42:26.000Z",
+          "wordCount": 501,
+          "title": "Warmoon Lord – Battlespells"
+        },
         {
           "id": "https://www.teethofthedivine.com/?p=55589",
           "author": "Frank Rini",
@@ -11262,15 +11972,6 @@
           "publishedOn": "2021-05-25T11:17:24.000Z",
           "wordCount": 517,
           "title": "Endseeker – Mount Carcass"
-        },
-        {
-          "id": "https://www.teethofthedivine.com/?p=55616",
-          "author": "Frank Rini",
-          "description": "This is not the same Solstice, who are from the UK and play incredible epic and heavy doom, no this is the death/thrashy bastids who originated from Florida in the 90’s.  About a decade ago I reviewed the excellent compilation Pray for the Sentencing which included their first 2 outstanding albums – I reviewed that […]",
-          "link": "https://www.teethofthedivine.com/featured/solstice-casting-the-die/",
-          "publishedOn": "2021-05-24T11:09:44.000Z",
-          "wordCount": 977,
-          "title": "Solstice – Casting the Die"
         }
       ]
     },
