@@ -31,6 +31,42 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1776577",
+          "author": "Dan Goodin",
+          "description": "Discovery came as Microsoft was investigating new breaches by the same hacker group.",
+          "link": "https://arstechnica.com/?p=1776577",
+          "publishedOn": "2021-06-26T15:45:33.000Z",
+          "wordCount": 974,
+          "title": "SolarWinds hackers breach new victims, including a Microsoft support agent"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1776421",
+          "author": "Kiona N. Smith",
+          "description": "Even the sediment in the floor of Denisova Cave has a story to tell.",
+          "link": "https://arstechnica.com/?p=1776421",
+          "publishedOn": "2021-06-26T13:00:20.000Z",
+          "wordCount": 1747,
+          "title": "All the major players spent time in the Denisovan cave"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1775718",
+          "author": "Nathan Mattise",
+          "description": "Be warned: Calves needed to climb all 133 feet of Turn 1 if you're using a road bike.",
+          "link": "https://arstechnica.com/?p=1775718",
+          "publishedOn": "2021-06-26T11:30:47.000Z",
+          "wordCount": 1391,
+          "title": "Circling—or cycling—the track at F1’s famous Circuit of the Americas"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1776495",
+          "author": "Eric Bangeman",
+          "description": "Firmware security tool flaws affect as many as 30M desktops, laptops, and tablets.",
+          "link": "https://arstechnica.com/?p=1776495",
+          "publishedOn": "2021-06-26T10:15:39.000Z",
+          "wordCount": 1071,
+          "title": "A well-meaning feature leaves millions of Dell PCs vulnerable"
+        },
+        {
           "id": "https://arstechnica.com/?p=1776542",
           "author": "Beth Mole",
           "description": "Common symptoms among young adults included fatigue and cognitive problems.",
@@ -1666,6 +1702,33 @@
       "feedUrl": "http://feeds.macrumors.com/MacRumors-Front",
       "siteUrl": "https://www.macrumors.com",
       "articles": [
+        {
+          "id": "https://www.macrumors.com/2021/06/26/apple-lists-products-to-keep-away-from-pacemakers/",
+          "author": "Joe Rossignol",
+          "description": "In a support document updated this week, Apple shared a list of products that should be kept a safe distance away from medical devices, such as implanted pacemakers and defibrillators, due to potential magnetic interference.\r\n\r\n\r\n\r\n\r\n\r\nTo avoid any potential interference with medical devices, Apple says to keep the products listed below a safe distance away from medical devices — more than six inches apart or more than 12 inches apart if the Apple product is wirelessly charging. Apple says to consult with a physician and the device manufacturer for specific guidelines.\nAirPods and charging cases\r\n\r\n• AirPods and Charging Case\r\n\r\n• AirPods and Wireless Charging Case \r\n\r\n• AirPods Pro and Wireless Charging Case\r\n\r\n• AirPods Max and Smart Case\r\n\r\n\r\n\r\nApple Watch and accessories\r\n\r\n• Apple Wat…",
+          "link": "https://www.macrumors.com/2021/06/26/apple-lists-products-to-keep-away-from-pacemakers/",
+          "publishedOn": "2021-06-27T00:07:38.000Z",
+          "wordCount": 2224,
+          "title": "Apple Shares List of Products to Keep Safe Distance Away From Pacemakers"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/06/26/adobe-removing-photoshop-sketch-illustrator-draw/",
+          "author": "Joe Rossignol",
+          "description": "Adobe this week reminded customers that its Photoshop Sketch and Illustrator Draw apps will no longer be available for download on iOS and Android starting July 19. Adobe plans to stop supporting the apps for existing users on January 10, 2022.\r\n\r\n\r\n\r\n\r\n\r\nIn a support document, Adobe said users can easily migrate to its Fresco app, which combines many Photoshop Sketch and Illustrator Draw drawing and painting tools. All projects created in Illustrator Draw and Photoshop Sketch will be automatically migrated to Fresco after a user signs into the app with their Adobe ID email address.\r\n\r\n\r\n\r\nExisting users can continue to use Photoshop Sketch and Illustrator Draw after July 19, with all artwork and projects remaining available, but Adobe said it will not add any new features or updates to the apps once they are discontinued.\r\n\r\n\r\n\r\nAdobe Fresco first launched on the iPad in 2019 and expanded to the iPhone last year. The app is free on the App Store, with premium features available for $9.99.\nTag: Adobe\nThis article, \"Adobe Removing Photoshop Sketch and Illustrator Draw From App Store in July\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/06/26/adobe-removing-photoshop-sketch-illustrator-draw/",
+          "publishedOn": "2021-06-26T23:02:03.000Z",
+          "wordCount": 1796,
+          "title": "Adobe Removing Photoshop Sketch and Illustrator Draw From App Store in July"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/06/26/top-stories-iphone-14-touch-id-ios-15-beta-2/",
+          "author": "MacRumors Staff",
+          "description": "This week saw an interesting mix of news and rumors, led by a new report from Ming-Chi Kuo outlining some of his expectations for the 2022 iPhone models.\r\n\r\n\r\n\r\n\r\n\r\nWe also saw the second betas of iOS 15 and iPadOS 15, a claim that Apple has already stopped production of the iPhone 12 mini amid slow sales, and a report that Apple is clamping down on some prominent leakers, so read on for details on all of these stories and more!\r\n\r\n\r\n\r\niPhone 14 May Feature Under-Screen Touch ID\n\r\n\r\nApple may include an under-screen version of Touch ID on some \"iPhone 14\" models in 2022, according to credible Apple analyst Ming-Chi Kuo, providing users with an alternative to Face ID.\r\n\r\n\r\n\r\n\r\n\r\nIn a wide-ranging research note this week, Kuo added that a new iPhone SE will be released in the first half of 2…",
+          "link": "https://www.macrumors.com/2021/06/26/top-stories-iphone-14-touch-id-ios-15-beta-2/",
+          "publishedOn": "2021-06-26T13:00:00.000Z",
+          "wordCount": 3018,
+          "title": "Top Stories: iPhone 14 With In-Screen Touch ID, iOS 15 Beta 2, Apple Warns Leakers, and More"
+        },
         {
           "id": "https://www.macrumors.com/2021/06/25/ios-15-hotspot-connections-wpa3-security/",
           "author": "Sami Fathi",
@@ -5045,15 +5108,6 @@
           "publishedOn": "2021-06-09T03:30:00.000Z",
           "wordCount": 814,
           "title": "WDRL — Edition 289: Simplify your life and work and new stuff on the web"
-        },
-        {
-          "id": "https://wdrl.info/archive/288",
-          "author": null,
-          "description": "Hey,\nit’s been a long while and I’ll start with a big sorry to all my loyal readers over the past years. I’ve neglected this project since January this year and just now found enough time to bring it back to life. Why to life? Because I broke my setup in January and then went the bigger upgrade path and had to update and partially refactor my entire custom software for the newsletter. I’m now using Kirby 3 (previously v2) for the project together with my browser web extension to save links into my draft editions. I also switched to use TailwindCSS to understand the concept a bit better and have to say it definitely is worth it. It’s probably not the most suitable solution for this kind of project but for bigger projects in a team with many devs or if a website has to be built on a budget i…",
-          "link": "https://wdrl.info/archive/288",
-          "publishedOn": "2021-05-28T03:45:00.000Z",
-          "wordCount": 1127,
-          "title": "WDRL — Edition 288: Back again with Kirby 3 and some fresh content for you"
         }
       ]
     },
@@ -5455,51 +5509,6 @@
           "publishedOn": "2021-05-28T17:10:10.000Z",
           "wordCount": 1659,
           "title": "We Need To Get Real About How the Pandemic Will End"
-        },
-        {
-          "id": "https://waxy.org/?p=41666",
-          "author": "Andy Baio",
-          "description": "Blender virtuoso Ian Hubert's absurdly detailed CG-rich short film about a salad vendor in a cyberpunk city #",
-          "link": "https://youtu.be/LsGZ_2RuJ2A",
-          "publishedOn": "2021-05-28T01:09:38.000Z",
-          "wordCount": 20,
-          "title": "Dynamo Dream: Salad Mug"
-        },
-        {
-          "id": "https://waxy.org/?p=41661",
-          "author": "Andy Baio",
-          "description": "Nicole He and Eran Hilleli's delightful AR prototype imagining the secret lives of smart devices #",
-          "link": "https://everydayexperiments.com/invisible-roommates",
-          "publishedOn": "2021-05-27T23:37:28.000Z",
-          "wordCount": 1396,
-          "title": "Invisible Roommates"
-        },
-        {
-          "id": "https://waxy.org/?p=41656",
-          "author": "Andy Baio",
-          "description": "remarkable reporting using internal documents, messages, and roadmaps #",
-          "link": "https://www.vice.com/en/article/y3dpyw/inside-crime-app-citizen-vigilante",
-          "publishedOn": "2021-05-27T23:35:04.000Z",
-          "wordCount": 4724,
-          "title": "Motherboard’s exposé of Citizen’s dangerous effort to cash in on vigilantism"
-        },
-        {
-          "id": "https://waxy.org/?p=41651",
-          "author": "Andy Baio",
-          "description": "from 2012, a very silly new-to-me Conan sketch that made me laugh #",
-          "link": "https://www.youtube.com/watch?v=bGROryzHLII",
-          "publishedOn": "2021-05-27T23:33:37.000Z",
-          "wordCount": 24,
-          "title": "Rublight"
-        },
-        {
-          "id": "https://waxy.org/?p=41648",
-          "author": "Andy Baio",
-          "description": "they prompt OpenAI's GPT-3 model with the cartoon description, you vote on the output #",
-          "link": "https://pudding.cool/projects/caption-contest/",
-          "publishedOn": "2021-05-27T23:28:15.000Z",
-          "wordCount": 149,
-          "title": "The Pudding tries to get an AI to win New Yorker cartoon contest"
         }
       ]
     },
@@ -12278,36 +12287,6 @@
           "wordCount": null,
           "title": "Various Artists, “Modern Love”",
           "itunes": {}
-        },
-        {
-          "id": "139855",
-          "author": "John Colpitts",
-          "description": "With liners by Amiri Baraka, ”The Little Bird” was a powerhouse record, never to be repeated.\nRead full story on the Bandcamp Daily.",
-          "link": "https://daily.bandcamp.com/features/vernacular-cleveland-the-little-bird-interview",
-          "publishedOn": "2021-05-27T18:05:06.000Z",
-          "wordCount": null,
-          "title": "Seventeen Years Ago, Punk-Jazz Outfit Vernacular Created a Scorching Debut",
-          "itunes": {}
-        },
-        {
-          "id": "139466",
-          "author": "Marshall Gu",
-          "description": "After drumming for Fela Kuti in Africa ‘70, Tony Allen embarked on a multi-decade solo career.\nRead full story on the Bandcamp Daily.",
-          "link": "https://daily.bandcamp.com/lists/the-beat-behind-afrobeat-a-guide-to-the-music-of-tony-allen",
-          "publishedOn": "2021-05-27T17:59:28.000Z",
-          "wordCount": null,
-          "title": "The Beat Behind Afrobeat: A Guide to the Music of Tony Allen",
-          "itunes": {}
-        },
-        {
-          "id": "139466",
-          "author": "Nick Dahlen",
-          "description": "After drumming for Fela Kuti in Africa ‘70, Tony Allen embarked on a multi-decade solo career.\nRead full story on the Bandcamp Daily.",
-          "link": "https://daily.bandcamp.com/lists/the-beat-behind-afrobeat-a-guide-to-the-music-of-tony-allen",
-          "publishedOn": "2021-05-27T17:59:28.000Z",
-          "wordCount": null,
-          "title": "The Beat Behind Afrobeat: A Guide to the Music of Tony Allen",
-          "itunes": {}
         }
       ]
     },
@@ -12823,21 +12802,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc237b476-e16e-40df-8a63-7cb43c3d0168_6000x4000.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          }
-        },
-        {
-          "id": "https://www.platformer.news/p/facebooks-lab-leak-reversal",
-          "author": "Casey Newton",
-          "description": "PLUS: Twitter shows its spine",
-          "link": "https://www.platformer.news/p/facebooks-lab-leak-reversal",
-          "publishedOn": "2021-05-28T00:01:29.000Z",
-          "wordCount": null,
-          "title": "Facebook's lab-leak reversal",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fabd7808b-eb50-404e-bc7d-9eafcddb8204_4000x2250.jpeg",
             "length": "0",
             "type": "image/jpeg"
           }
@@ -13532,15 +13496,6 @@
           "publishedOn": "2021-06-01T10:00:38.000Z",
           "wordCount": 1274,
           "title": "Seputus – Phantom Indigo Review"
-        },
-        {
-          "id": "https://yourlastrites.com/?p=36403",
-          "author": "Zach Duvall",
-          "description": "[Artwork by Mors Ultima Ratio Art] Code has always been a little unpredictable for a variety of reasons (lineups, stylistic choices, timelines), but the choice to never make the same album twice is easily the most appealing and rewarding of those reasons. Nouveau Gloaming introduced founder and guitarist Aort’s vision as a proggy combination of ...",
-          "link": "https://yourlastrites.com/2021/05/28/code-flyblown-prince-review/",
-          "publishedOn": "2021-05-28T10:00:29.000Z",
-          "wordCount": 1375,
-          "title": "Code ‒ Flyblown Prince Review"
         }
       ]
     },
@@ -13737,24 +13692,6 @@
           "publishedOn": "2021-05-31T11:51:22.000Z",
           "wordCount": 842,
           "title": "Fear Factory – Aggression Continuum"
-        },
-        {
-          "id": "https://www.teethofthedivine.com/?p=55543",
-          "author": "Frank Rini",
-          "description": "If you’re at least a casual fan of my reviews or personally know me you’re aware of my wide range of genres of music I listen to.  I’ve been a fan of Long Island, NY’s Bile since their 1994 debut – Suck Pump.  Bile play industrial metal and if you’re a fan of Ministry, early […]",
-          "link": "https://www.teethofthedivine.com/reviews/bile-sharks-and-covid-vol%e2%80%8b-%e2%80%8b1-children-of-the-gun/",
-          "publishedOn": "2021-05-28T11:34:03.000Z",
-          "wordCount": 987,
-          "title": "Bile – Sharks And Covid, Vol​.​1 / Children Of The Gun EP"
-        },
-        {
-          "id": "https://www.teethofthedivine.com/?p=55539",
-          "author": "J Mays",
-          "description": "Full confession; I dig Wednesday 13. I wanted to tackle this because I searched and did not find a single review for him on the site. That’s cool. I get it. His material is definitely more horror punk than metal. If this sums it up well for you, a good friend of mine, after we […]",
-          "link": "https://www.teethofthedivine.com/reviews/wednesday-13-necrophaze-antidote-ep/",
-          "publishedOn": "2021-05-28T11:18:15.000Z",
-          "wordCount": 613,
-          "title": "Wednesday 13 – Necrophaze-Antidote EP"
         }
       ]
     },
