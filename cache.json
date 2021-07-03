@@ -22,6 +22,132 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1777983",
+          "author": "Jim Salter",
+          "description": "dRAID vdevs resilver very quickly, using spare capacity rather than spare disks.",
+          "link": "https://arstechnica.com/?p=1777983",
+          "publishedOn": "2021-07-02T23:11:16.000Z",
+          "wordCount": 2015,
+          "title": "OpenZFS 2.1 is out—let’s talk about its brand-new dRAID vdevs"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1778045",
+          "author": "Dan Goodin",
+          "description": "Researchers uncovered 9 apps that used a sneaking method to pilfer credentials.",
+          "link": "https://arstechnica.com/?p=1778045",
+          "publishedOn": "2021-07-02T21:00:28.000Z",
+          "wordCount": 975,
+          "title": "Apps with 5.8 million Google Play downloads stole users’ Facebook passwords"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1777987",
+          "author": "Jon Brodkin",
+          "description": "Large carriers deploy STIR/SHAKEN. Small carriers, old landlines are still problems.",
+          "link": "https://arstechnica.com/?p=1777987",
+          "publishedOn": "2021-07-02T19:38:58.000Z",
+          "wordCount": 1595,
+          "title": "US hits anti-robocall milestone but annoying calls won’t stop any time soon"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1777775",
+          "author": "Jennifer Ouellette",
+          "description": "The only non-Lego components are the lenses, salvaged from smartphone cameras.",
+          "link": "https://arstechnica.com/?p=1777775",
+          "publishedOn": "2021-07-02T19:32:35.000Z",
+          "wordCount": 1563,
+          "title": "German scientists built a high-resolution microscope out of Lego bricks"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1777958",
+          "author": "Samuel Axon",
+          "description": "The first interview with Qualcomm CEO Cristiano Amon lays out the strategy.",
+          "link": "https://arstechnica.com/?p=1777958",
+          "publishedOn": "2021-07-02T19:05:41.000Z",
+          "wordCount": 756,
+          "title": "Qualcomm plans to design an M1 competitor for PCs—sans ARM"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1777964",
+          "author": "Beth Mole",
+          "description": "This isn't the first time the deadly bacteria has surfaced in the US unexpectedly.",
+          "link": "https://arstechnica.com/?p=1777964",
+          "publishedOn": "2021-07-02T18:26:04.000Z",
+          "wordCount": 1689,
+          "title": "New, deadly bacteria may be lurking in US; CDC warns of three puzzling cases"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1777911",
+          "author": "Kyle Orland",
+          "description": "Nintendo seeks permanent injunction after Storman fails to make $50/month payment.",
+          "link": "https://arstechnica.com/?p=1777911",
+          "publishedOn": "2021-07-02T17:00:33.000Z",
+          "wordCount": 1152,
+          "title": "Despite $2.1M ruling, RomUniverse owner considers bringing back ROM site"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1777860",
+          "author": "Ron Amadeo",
+          "description": "Flagship OnePlus phones get three major OS updates, four years of security updates.",
+          "link": "https://arstechnica.com/?p=1777860",
+          "publishedOn": "2021-07-02T16:41:08.000Z",
+          "wordCount": 893,
+          "title": "OnePlus now has one of the best Android update schedules"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1777873",
+          "author": "Tim De Chant",
+          "description": "Will they just throw more algorithms at the problem?",
+          "link": "https://arstechnica.com/?p=1777873",
+          "publishedOn": "2021-07-02T16:22:27.000Z",
+          "wordCount": 1434,
+          "title": "Facebook, Twitter pledge to fight abuse of women but leave lots of room for failure"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1777861",
+          "author": "Jonathan M. Gitlin",
+          "description": "Tesla says it has  done an outstanding job navigating supply challenges.",
+          "link": "https://arstechnica.com/?p=1777861",
+          "publishedOn": "2021-07-02T14:51:42.000Z",
+          "wordCount": 594,
+          "title": "Tesla has great quarter, delivers more than 200,000 EVs"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1777780",
+          "author": "Dan Goodin",
+          "description": "Deleting data from Echo Dots—and other IoT devices from Amazon and elsewhere—is hard.",
+          "link": "https://arstechnica.com/?p=1777780",
+          "publishedOn": "2021-07-02T12:55:52.000Z",
+          "wordCount": 2890,
+          "title": "Thinking about selling your Echo Dot—or any IoT device? Read this first"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1777573",
+          "author": "Jonathan M. Gitlin",
+          "description": "The US automaker is investing in closed-loop extraction from the Salton Sea.",
+          "link": "https://arstechnica.com/?p=1777573",
+          "publishedOn": "2021-07-02T12:00:22.000Z",
+          "wordCount": 680,
+          "title": "General Motors looks to California for its next lithium supply"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1776268",
+          "author": "Jeff Dunn",
+          "description": "If you want something different to play, allow us to highlight some deeper cuts.",
+          "link": "https://arstechnica.com/?p=1776268",
+          "publishedOn": "2021-07-02T11:30:05.000Z",
+          "wordCount": 4827,
+          "title": "30 under $25: A collection of good hidden gem games from Steam’s Summer Sale"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1777764",
+          "author": "Eric Berger",
+          "description": "\"I am not allowed to talk about that.\"",
+          "link": "https://arstechnica.com/?p=1777764",
+          "publishedOn": "2021-07-02T11:00:36.000Z",
+          "wordCount": 2244,
+          "title": "Rocket Report: Super Heavy rolls to launch site, Funk will get to fly"
+        },
+        {
           "id": "https://arstechnica.com/?p=1777776",
           "author": "Eric Berger",
           "description": "\"I truly believe that space belongs to all of us.\"",
@@ -2170,6 +2296,87 @@
       "feedUrl": "http://feeds.macrumors.com/MacRumors-Front",
       "siteUrl": "https://www.macrumors.com",
       "articles": [
+        {
+          "id": "https://www.macrumors.com/guide/ios-15-photos-app&post_date=1625267081/",
+          "author": "Juli Clover",
+          "description": "Apple made some major improvements to the Photos app in iOS 15, adding some long-awaited and requested features along with unique capabilities that enable you to do more with your images than ever. \r\n\r\n\r\n\r\n\r\n\r\nThere's a new Memories feature that lets you relive your favorite moments, metadata info can be viewed and edited, Visual Lookup lets you identify plants, landmarks, and more, and with Live Text, you can copy and paste the text from any image on your iPhone. This guide highlights all of the new features that are available in the ‌Photos‌ app. \r\n\r\n\r\n\r\nMemories\n\r\n\r\nThe Memories section of the ‌Photos‌ app has been overhauled in ‌iOS 15‌, making it easier than ever to resurface your favorite memories.\r\n\r\n\r\n\r\n\r\n\r\nThe Memories feature has a new look that includes animated cards with adapt…",
+          "link": "https://www.macrumors.com/guide/ios-15-photos-app/",
+          "publishedOn": "2021-07-02T20:04:41.000Z",
+          "wordCount": 3257,
+          "title": "Everything New in the iOS 15 Photos App: Metadata Editing, Memories Improvements, Live Text, Visual Lookup and More"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/07/02/macrumors-giveaway-flexispot-standing-desk/",
+          "author": "Juli Clover",
+          "description": "For this week's giveaway, we've teamed up with Flexispot to offer MacRumors readers a chance to win a Theodore Standing Desk, which is an ideal flexible workspace for Apple device users.\r\n\r\n\r\n\r\n\r\n\r\nFlexispot offers a whole range of home office furniture and accessories, but it is best known for its height adjustable standing desk options, which are available at a variety of price points.\r\n\r\n\r\n\r\n\r\n\r\nThe Theodore Standing Desk has a classic, elegant design but it is able to meet modern workspace needs with an adjustable height that ranges from 29.5 inches to 49.2 inches. There are controls on the front of the desk for quick adjustments to meet your needs throughout the day, and the motion is handled by a powerful motor built into the desktop.\r\n\r\n\r\n\r\n\r\n\r\nMade with a solid wood design and a wa…",
+          "link": "https://www.macrumors.com/2021/07/02/macrumors-giveaway-flexispot-standing-desk/",
+          "publishedOn": "2021-07-02T18:01:41.000Z",
+          "wordCount": 2383,
+          "title": "MacRumors Giveaway: Win an Adjustable Standing Desk From Flexispot"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/07/02/apple-privacy-excuses-limit-competition/",
+          "author": "Juli Clover",
+          "description": "In ongoing antitrust discussions about App Store competition, Apple has maintained that allowing users to install apps outside of the ‌App Store‌ would have dire privacy consequences, but European Union digital competition chief Margrethe Vestager said today that Apple must not use privacy excuses to limit competition.\r\n\r\n\r\n\r\n\r\n\r\nIn an interview with Reuters, Vestager said that privacy and security are of \"paramount importance,\" but she does not believe that customers would be sacrificing security when sideloading an app.\nThe important thing here is, of course, that it's not a shield against competition, because I think customers will not give up neither security nor privacy if they use another app store or if they sideload.\nVestager has been working on the Digital Markets Act in Europe, w…",
+          "link": "https://www.macrumors.com/2021/07/02/apple-privacy-excuses-limit-competition/",
+          "publishedOn": "2021-07-02T17:13:03.000Z",
+          "wordCount": 2588,
+          "title": "EU Competition Chief Tells Apple Not to Use Privacy as a Shield Against Competition"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/07/02/qualcomm-ceo-plans-to-compete-with-apple-silicon/",
+          "author": "Hartley Charlton",
+          "description": "Qualcomm Chief Executive Cristiano Amon believes that Qualcomm will provide laptop chips that can compete with Apple silicon by next year and has explained how the company views Apple's expected transition to its own custom modems.\r\n\r\n\r\n\r\n\r\n\r\nSpeaking to Reuters, Amon said that Qualcomm is capable of having the best chip on the market, thanks to a team of chip architects who previously worked for Apple but have since come to Qualcomm.\r\n\r\n\r\n\r\nEarlier this year, Qualcomm acquired the chip startup company Nuvia for $1.4 billion, which was founded by a number of Apple chip designers. Qualcomm will begin selling custom silicon Nuvia-based laptop chips in 2022, which are expected to boast impressive power consumption for extended battery life.\r\n\r\n\r\n\r\nInstead of using core designs licensed from A…",
+          "link": "https://www.macrumors.com/2021/07/02/qualcomm-ceo-plans-to-compete-with-apple-silicon/",
+          "publishedOn": "2021-07-02T15:40:56.000Z",
+          "wordCount": 2205,
+          "title": "Qualcomm CEO Outlines Plans to Compete With Apple Silicon, Handle Apple's Shift to In-House Modems"
+        },
+        {
+          "id": "https://www.macrumors.com/how-to/downgrade-from-ios-15-and-ipados-15-beta&post_date=1625232169/",
+          "author": "Tim Hardwick",
+          "description": "If you've installed iOS 15 or iPadOS 15 through Apple's developer program or the public beta now it's been released, you may decide you want to downgrade because of usability or stability issues. Keep reading to learn how it's done.\r\n\r\n\r\n\r\n\r\n\r\nApple usually only releases the public betas of ‌iOS and ‌iPadOS‌ once the developer versions are relatively stable. That said, Apple's beta versions of its major software updates can be notoriously buggy, especially the early releases.\r\n\r\n\r\n\r\nYou may find apps not working properly, poor battery life, device crashes, and features that don't do what they're supposed to. Fortunately, you can restore your iPhone or iPad to the previous version of iOS.\r\n\r\n\r\n\r\nIf you made an archived backup before you installed the beta, you can remove the ‌‌iOS 15‌ beta …",
+          "link": "https://www.macrumors.com/how-to/downgrade-from-ios-15-and-ipados-15-beta/",
+          "publishedOn": "2021-07-02T10:22:49.000Z",
+          "wordCount": 2503,
+          "title": "How to Downgrade From iOS 15 to iOS 14"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/07/02/amazon-apple-investigated-antitrust-spain/",
+          "author": "Tim Hardwick",
+          "description": "Apple and Amazon are facing antitrust disciplinary proceedings in Spain for possible restrictive competition practices around the sale of Apple products, it has emerged.\r\n\r\n\r\n\r\n\r\n\r\nIn a press release, the country's National Commission on Markets and Competition (CNMC) said it had initiated the proceedings against both companies for \"possible anti-competition practices in the sectors of Internet sales of electronic products and the provision of marketing services to third-party retailers through online platforms.\"\r\n\r\n\r\n\r\nThe independent consumer interest body said it had access to \"certain information\" from which it had found \"rational indications\" that Amazon and Apple are in breach of laws related to the defense of competition and the Treaty on the Functioning of the European Union. Specifically:\r\n\r\nThe possible unlawful conduct would consist of an agreement between both groups that would include possible restrictions on the Amazon website in Spain regarding:\r\n\r\n\r\n\r\n(i) The retail sale of APPLE products by third parties;\r\n\r\n(ii) Certain advertising of competing Apple products and certain campaigns directed at Apple customers by Amazon;\r\n\r\n(iii) Other commercial restrictions.\nThe CNMC announcement does not prejudge the final result of the investigation, which will occur over a maximum period of 18 months before a final resolution is made.\nTags: Amazon, Spain, antitrust\nThis article, \"Apple and Amazon Under Investigation in Spain for Possible Anti-Competitive Practices\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/07/02/amazon-apple-investigated-antitrust-spain/",
+          "publishedOn": "2021-07-02T09:27:56.000Z",
+          "wordCount": 2350,
+          "title": "Apple and Amazon Under Investigation in Spain for Possible Anti-Competitive Practices"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/07/02/twitter-design-concept-trusted-friends/",
+          "author": "Tim Hardwick",
+          "description": "Twitter is considering letting users post select tweets for \"Trusted Friends\" only. That's the name of a feature the social media platform is testing that would allow users to limit the audience for specific content to a smaller circle of people.\r\n\r\n\r\n\r\n\r\n\r\nBased on design concepts shared by the company (via TechCrunch), Trusted Friends could be a toggle that lets you indicate whether a tweet should be made public or be shown to just a handful of users. The idea is similar to Instagram's \"Close Friends\" feature, which lets users share personal Stories more privately. \r\n\r\n\r\n\r\nBringing the option to Twitter would allow users who have multiple Twitter accounts separating their personal and professional lives to tweet from a single account and have greater control of who sees what on their timeline. It could also mean some users no longer have to toggle between public and protected tweets.\r\n\r\n\r\n\r\nTwitter recently announced new ways for creators and influencers to deliver content to specific users who pay to access its \"Super Follow\" feature, and Trusted Friends feels like an experimental extension of the idea that would be available to all users. But it's just a concept for now, and there's no guarantee Twitter will ever take it live.\r\n\r\n\r\n\r\nOther concepts Twitter says it is looking into include \"Facets,\" which would give other users the ability to choose whether they wanted to follow all a user's tweets, or only those about the \"facet\" they're interested in, and an ability for users to list specific phrases that they don't want to see in replies. \r\n\r\n\r\n\r\nAs with Trusted Friends, neither of these features are currently in active development and Twitter is simply seeking feedback to gauge whether they're worth pursuing or not.\nTag: Twitter\nThis article, \"Twitter Considers Letting Users Tweet to 'Trusted Friends'\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/07/02/twitter-design-concept-trusted-friends/",
+          "publishedOn": "2021-07-02T08:59:09.000Z",
+          "wordCount": 2088,
+          "title": "Twitter Considers Letting Users Tweet to 'Trusted Friends'"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/07/02/apple-debut-3nm-chip-in-2022-ipad/",
+          "author": "Tim Hardwick",
+          "description": "Apple will launch an iPad next year featuring a processor based on chipmaking partner TSMC's next-generation 3-nanometer process, according to a new report today from Nikkei Asia.\r\n\r\n\r\n\r\n\nApple and Intel are testing their chip designs with TSMC's 3-nanometer production technology, according to several sources briefed on the matter, with commercial output of such chips expected to start in the second half of next year.\r\n\r\n\r\n\r\nApple's ‌iPad‌ will likely be the first devices powered by processors made using 3-nm technology, sources said. The next generation of iPhones, which are to roll out next year, are expected to make use of the intermediate 4-nm tech for scheduling reasons.\nAccording to TSMC, 3nm technology can increase processing performance by 10% to 15% compared to 5nm tech, while red…",
+          "link": "https://www.macrumors.com/2021/07/02/apple-debut-3nm-chip-in-2022-ipad/",
+          "publishedOn": "2021-07-02T07:26:02.000Z",
+          "wordCount": 2695,
+          "title": "Apple Likely to Debut Next-Gen 3nm Chip Technology in 2022 iPad Pro"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/07/01/apple-releases-safari-technology-preview-127/",
+          "author": "Juli Clover",
+          "description": "Apple today released a new update for Safari Technology Preview, the experimental browser Apple first introduced in March 2016. Apple designed the ‌Safari Technology Preview‌ to test features that may be introduced into future release versions of Safari.\r\n\r\n\r\n\r\n\r\n\r\n‌Safari Technology Preview‌ release 127 includes bug fixes and performance improvements for CSS, Scrolling, JavaScript, Media, WebRTC, WebAPI, Accessibility, and Rendering.\r\n\r\n\r\n\r\nThe current ‌Safari Technology Preview‌ release is built on the new Safari 15 update included in macOS Monterey, and as such, it includes several Safari 15 features. There's a new streamlined tab bar with support for Tab Groups to organize tabs, along with improved support for Safari Web Extensions.\r\n\r\n\r\n\r\nLive Text allows users to select and interact with text in images on the web, but the ‌macOS Monterey‌ beta and an M1 Mac is required. There's also Quick Notes support for adding links and Safari highlights to remember important information and ideas.\r\n\r\n\r\n\r\nOther updates include WebGL 2 and new HTML, CSS, and JavaScript features.\r\n\r\n\r\n\r\nThe new ‌Safari Technology Preview‌ update is available for both macOS Big Sur and ‌macOS Monterey‌, the newest version of the Mac operating system that's set to release this fall.\r\n\r\n\r\n\r\nThe ‌Safari Technology Preview‌ update is available through the Software Update mechanism in System Preferences to anyone who has downloaded the browser. Full release notes for the update are available on the Safari Technology Preview website.\r\n\r\n\r\n\r\nApple's aim with ‌Safari Technology Preview‌ is to gather feedback from developers and users on its browser development process. ‌Safari Technology Preview‌ can run side-by-side with the existing Safari browser and while designed for developers, it does not require a developer account to download.\nThis article, \"Apple Releases Safari Technology Preview 127 With Bug Fixes and Performance Improvements\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/07/01/apple-releases-safari-technology-preview-127/",
+          "publishedOn": "2021-07-02T01:47:38.000Z",
+          "wordCount": 2156,
+          "title": "Apple Releases Safari Technology Preview 127 With Bug Fixes and Performance Improvements"
+        },
         {
           "id": "https://www.macrumors.com/2021/07/01/apple-store-employees-work-from-home/",
           "author": "Juli Clover",
@@ -4545,6 +4752,24 @@
       "siteUrl": "https://daringfireball.net/",
       "articles": [
         {
+          "id": "https://daringfireball.net/2021/07/safari_15_public_betas_for_mac_and_ios",
+          "author": null,
+          "description": "One can only presume that Apple’s HI team thinks they’re reducing needless “clutter”, but what they’re doing is systematically removing the coherence between what apps look like and the functionality they offer.",
+          "link": "https://daringfireball.net/2021/07/safari_15_public_betas_for_mac_and_ios",
+          "publishedOn": "2021-07-02T19:09:39.000Z",
+          "wordCount": 1321,
+          "title": "★ Regarding the Safari 15 Public Betas for Mac and iOS"
+        },
+        {
+          "id": "https://sixcolors.com/post/2021/07/first-look-macos-monterey-public-beta/",
+          "author": null,
+          "description": "Jason Snell, writing at Six Colors:\nThe Mac is also getting a boost with older iOS features finally\nbeing brought to the other side, most notably Shortcuts, the iOS\nautomation tool that is the first sign of a renaissance of user\nautomation on macOS.\nThe good news is, for all the recent fears among Mac users that\nApple might be attempting to collapse Mac, iPhone, and iPad into a\nsingle amorphous product, macOS Monterey still feels unreservedly\nlike a Mac. Apple wants its platforms to share features, but it\nalso recognizes that each serves a different (albeit overlapping)\naudience.\nWorth pointing out again that Shortcuts for Mac is not a Catalyst app. In fact, there are no new Catalyst apps from Apple in MacOS 12. It’s seemed clear to me all along that Catalyst was a transitional framework a…",
+          "link": "https://sixcolors.com/post/2021/07/first-look-macos-monterey-public-beta/",
+          "publishedOn": "2021-07-02T00:56:01.000Z",
+          "wordCount": 5198,
+          "title": "Jason Snell on the MacOS 12 ‘Monterey’ Public Beta"
+        },
+        {
           "id": "https://warzel.substack.com/p/this-is-the-awful-voice-inside-my",
           "author": null,
           "description": "If you think I’m a jerk for my response to that leaked letter from a subset of Apple employees unhappy about the company’s new “three days per week on site, two days remote” policy, you might enjoy this piece from Charlie Warzel, on his new Galaxy Brain site, responding to it:\nThe voice says: You are free to choose your job. But once you’ve\ndone that, it’s time to fall in line. *It argues that you should\nbe extra grateful for what your company provides you — a salary,\npurpose, any auxiliary benefits — and not to think as much about\nwhat you provide to your company. After all, *you agreed to take\nthis job. You signed the contract. And, most importantly, you\nhave options. *If you don’t like it, leave. *\nThese are the words of a bully. This line of argument is designed\nto make those speaking …",
@@ -5200,42 +5425,6 @@
           "publishedOn": "2021-06-03T18:50:28.000Z",
           "wordCount": 4093,
           "title": "Using Fake Reviews to Find Dangerous Browser Extensions"
-        },
-        {
-          "id": "https://daringfireball.net/2021/06/secure_intent_on_apple_devices",
-          "author": null,
-          "description": "In the shift from home button Touch ID to Face ID on iPhones and iPads, Apple has recalibrated the balance between convenience and security to be a little more secure but a little less convenient.",
-          "link": "https://daringfireball.net/2021/06/secure_intent_on_apple_devices",
-          "publishedOn": "2021-06-02T23:05:37.000Z",
-          "wordCount": 1743,
-          "title": "★ ‘Secure Intent’ on Apple Devices"
-        },
-        {
-          "id": "https://www.joelonsoftware.com/2021/06/02/kinda-a-big-announcement/",
-          "author": null,
-          "description": "Stack Overflow co-founder Joel Spolsky:\nToday we’re pleased to announce that Stack Overflow is joining\nProsus. Prosus is an investment and holding company, which\nmeans that the most important part of this announcement is that\nStack Overflow will continue to operate independently, with the\nexact same team in place that has been operating it, according to\nthe exact same plan and the exact same business practices. Don’t\nexpect to see major changes or awkward “synergies”. The business\nof Stack Overflow will continue to focus on Reach and Relevance,\nand Stack Overflow for Teams. The entire company is staying in\nplace: we just have different owners now.\nThis is, in some ways, the best possible outcome. Stack Overflow\nstays independent. The company has plenty of cash on hand to\nexpand and deliver more features and fix the old broken ones.\nStack Overflow is far from perfect — what isn’t? — but the world would be a far worse place without it, so here’s to hoping that Prosus is a good steward.\n ★",
-          "link": "https://www.joelonsoftware.com/2021/06/02/kinda-a-big-announcement/",
-          "publishedOn": "2021-06-02T22:23:39.000Z",
-          "wordCount": 1629,
-          "title": "Stack Overflow Acquired by Prosus"
-        },
-        {
-          "id": "https://www.theverge.com/2021/6/2/22463666/huawei-matepad-pro-harmonyos-tablet-features-specs",
-          "author": null,
-          "description": "One feature they do differently from iPads which I like: the front-facing camera is on the long side, not the short side, so it works better when the tablet is attached to a keyboard.\nOtherwise, no shame whatsoever. It’s hard to see how they could make these look more like iPad’s hardware and software.\n ★",
-          "link": "https://www.theverge.com/2021/6/2/22463666/huawei-matepad-pro-harmonyos-tablet-features-specs",
-          "publishedOn": "2021-06-02T18:32:08.000Z",
-          "wordCount": 1223,
-          "title": "Fresh Off the Rip-Off Express: Huawei’s New MatePad Pro"
-        },
-        {
-          "id": "https://www.macworld.com/article/347866/wwdc-2021-a-mac-and-macos-wish-list.html",
-          "author": null,
-          "description": "Jason Snell, in his wishlist for Mac news at next week’s WWDC:\nOne feature that the Mac desperately needs from iPadOS is, believe\nit or not, Shortcuts. I’ve written elsewhere about this,\nbut essentially it’s easier for me to create automations for many\ntasks on iOS than it is on macOS — and it shouldn’t be that way.\nShortcuts fulfills the promise of Automator in ways that Automator\nnever did, and while it’s got a lot of room to grow, it’s clearly\nthe future of automation on Apple’s platforms. Add in actions that\ncan run AppleScript, Automator workflows, and shell scripts, and\nwe’ll really have something.\nI’ve gotten more into Shortcuts in the last few months, and I really hope this happens. I just wonder how Shortcuts on Mac could offer actions for things that aren’t possible on iOS, like Snell’s suggestion for being able to run AppleScript and shell scripts. I suppose they’d just generate an error on iOS, and you could use them in a cross-platform shortcut by conditionally testing whether the shortcut is running on MacOS — pretty much how it works now when you have a shortcut containing actions that require a third-party app to be installed.\n ★",
-          "link": "https://www.macworld.com/article/347866/wwdc-2021-a-mac-and-macos-wish-list.html",
-          "publishedOn": "2021-06-02T18:23:36.000Z",
-          "wordCount": 1465,
-          "title": "Shortcuts for Mac?"
         }
       ]
     },
@@ -5244,6 +5433,60 @@
       "feedUrl": "https://www.polygon.com/rss/pc/index.xml",
       "siteUrl": "https://www.polygon.com/pc",
       "articles": [
+        {
+          "id": "https://www.polygon.com/destiny-2-guide-walkthrough/2021/7/2/22561016/destiny-2-trials-of-osiris-rewards-july-2-6",
+          "author": null,
+          "description": "Image: Bungie\n    \n\n  \nPick up three weapons and an armor pieces\n Trials of Osiris is back in Destiny 2. Saint-14 is the new Trials vendor and announcer, and players can find him and his wares in the Tower Hangar every Friday at reset.\nEach week, the Trials of Osiris map changes, as do the rewards for winning a certain number of matches. The rewards are consistent across all players, although each player’s weapon roll will differ.\nHere are the guaranteed Trials of Osiris rewards this week:\nMap: The Dead Cliffs\n3 wins — The Messenger, Kinetic pulse rifle\n5 wins — Pyrrhic Ascent Grasps, Gauntlets, Gloves (Hunter, Titan, and Warlock gloves)\n7 wins — Shayura’s Wrath, Energy, submachine gun\nFlawless — Sola’s Scar (Adept), Kinetic pulse rifle — random Adept mod\nNote: As of Season of Arrivals, players can complete the End Game weekly bounty — which just needs Trials match completions (wins give more progress) — to earn the three-win reward.\nPlayers who manage to reach seven wins without a single loss can go to the Lighthouse social space — this is called a Flawless run. The Lighthouse offers additional rewards for players, some of which are unique, like a special emblem. Players who reach the Lighthouse also earn a special armor glow for any of their Trials of Osiris armor, which lasts for the remainder of the weekend.",
+          "link": "https://www.polygon.com/destiny-2-guide-walkthrough/2021/7/2/22561016/destiny-2-trials-of-osiris-rewards-july-2-6",
+          "publishedOn": "2021-07-02T18:34:28.000Z",
+          "wordCount": 703,
+          "title": "Destiny 2 Trials of Osiris rewards, July 2-6"
+        },
+        {
+          "id": "https://www.polygon.com/22560993/mortal-kombat-11-dlc-ends-netherrealm-next-game",
+          "author": null,
+          "description": "Image: Midway Games/Warner Bros. Interactive Entertainment\n    \n\n  \nAfter two-plus years of support, MK11 is complete\n NetherRealm Studios, the company behind the Mortal Kombat series, is moving on to a new game — and won’t be producing any more Mortal Kombat 11 content, the company announced Friday.\nThe studio is “now focusing on its next project” after supporting Mortal Kombat 11 for more than two years, it said in a tweet on the Mortal Kombat account. “DLC for the game, including characters, has come to an end,” NetherRealm said. \nNetherRealm is now focusing on its next project and after more than two years of supporting Mortal Kombat 11, DLC for the game, including characters, has come to an end.\n— Mortal Kombat 11 Ultimate (@MortalKombat) July 2, 2021\n\n\n\nMortal Kombat 11 debuted in April 2019 on Nintendo Switch, PlayStation 4, Windows PC, and Xbox One. Over time, NetherRealm expanded upon the game with multiple DLC packs that added content such as stages and characters. The November 2020 release of Mortal Kombat 11 Ultimate, which collected all the DLC into one package, boasted a total of 13 additional fighters — increasing the original roster by more than 50%. \nDiscontinuing DLC means that there won’t be any major changes coming to the game. Fighting games like Mortal Kombat 11 often rely on consistent updates to help improve the experience by balancing characters and adding new ones. It’s a huge part of keeping fans interested, and invested in the game. \nNetherRealm did not provide any hints as to what the company’s next project will be.",
+          "link": "https://www.polygon.com/22560993/mortal-kombat-11-dlc-ends-netherrealm-next-game",
+          "publishedOn": "2021-07-02T18:30:04.000Z",
+          "wordCount": 702,
+          "title": "Mortal Kombat 11 DLC is done as NetherRealm shifts to next project"
+        },
+        {
+          "id": "https://www.polygon.com/destiny-2-guide-walkthrough/2021/7/2/22561000/destiny-2-xur-location-items-july-2-6",
+          "author": null,
+          "description": "Image: Bungie\n    \n\n  \nHead to the Tower for some Exotics\n The weekly Exotic item merchant, Xur, hangs out in random locations around the world of Destiny. In Destiny 2, he can appear all over the map, as well as inside the Tower. This week, you can find Xur in the Tower, standing on the back stairs of the Hangar.\nImage: Bungie via Polygon\n  \nXur’s inventory this week consists of the following:\nThe Huckleberry, submachine gun: 29 Legendary Shards\nKnucklehead Radar, Hunter Helmet: 23 Legendary Shards\nChromatic Fire, Warlock Chest: 23 Legendary Shards\nAntaeus Wards, Titan boots: 23 Legendary Shards\nExotic Engram: 97 Legendary Shards (you can now purchase a second with an Exotic Cipher)\nExotic Cipher quest: free\n\n\nXur’s items drop at a similar power level as your character.\nThe Huckleberry\nTh…",
+          "link": "https://www.polygon.com/destiny-2-guide-walkthrough/2021/7/2/22561000/destiny-2-xur-location-items-july-2-6",
+          "publishedOn": "2021-07-02T17:30:20.000Z",
+          "wordCount": 1136,
+          "title": "Destiny 2 Xur location and items, July 2-6"
+        },
+        {
+          "id": "https://www.polygon.com/22559161/teamfight-tactics-tft-riot-reckoning-dawn-heroes-mid-set-shadow-items",
+          "author": null,
+          "description": "Image: Riot Games\n    \n\n  \nTFT Reckoning: Dawn of Heroes lets players choose a single, ultra-powerful Radiant item \n Shadow Items will disappear in Teamfight Tactics: Reckoning’s mid-set update, Dawn of Heroes. In lieu of the Shadow Items that players have been using for the past few months, Dawn of Heroes will introduce a feature called Radiant Items, Riot announced in a blog post on Friday.\nShadow Items were powerful tools that also came with major drawbacks. By powering up one member, you might weaken others nearby, or something similar. Radiant Items do not have these drawbacks, and only offer powerful boons for players and their units. But unlike Shadow Items, players will only get one Radiant Item each game. \nIn round 3-6 of Dawn of Heroes — which replaces the 3-2 Armory round, where…",
+          "link": "https://www.polygon.com/22559161/teamfight-tactics-tft-riot-reckoning-dawn-heroes-mid-set-shadow-items",
+          "publishedOn": "2021-07-02T15:40:00.000Z",
+          "wordCount": 843,
+          "title": "Teamfight Tactics’ new mid-set removes controversial Shadow Items"
+        },
+        {
+          "id": "https://www.polygon.com/22560644/riot-games-league-of-legends-new-music-lofi-chill-streamer-friendly-dmca",
+          "author": null,
+          "description": "Image: Riot Games\n    \n\n  \nVi from League of Legends stars in an animated video about relaxing\n Riot Games’ latest music project is an album of chill lo-fi beats for players to relax/game to. The League of Legends and Valorant developer announced and released the new project on Friday, along with a YouTube animated video that spans the entire album and fits right in to the lo-fi genre. \nThe album is called Sessions: Vi, named after the League of Legends champion that stars in the video and that the music is themed after. \nIn an interview with Polygon, Toa Dunn, head of Riot Music, explained the album and animation’s loose story. It starts out with music to help Vi decompress and relax as soon as she gets from from work. Then it transitions to music she can work to, while she’s doing a proj…",
+          "link": "https://www.polygon.com/22560644/riot-games-league-of-legends-new-music-lofi-chill-streamer-friendly-dmca",
+          "publishedOn": "2021-07-02T15:07:14.000Z",
+          "wordCount": 901,
+          "title": "League of Legends’ new music gives streamers lo-fi beats to game to"
+        },
+        {
+          "id": "https://www.polygon.com/22560686/doom-eternal-invasion-mode-canceled-horde-battlemode-update-id-software",
+          "author": null,
+          "description": "Image: id Software\n    \n\n  \nMore to come at QuakeCon\n Doom Eternal’s multiplayer Invasion Mode, which would have let players invade other players’ campaigns as demons, has been shelved, according to an update from id Software executive producer Marty Stratton. Instead, id is focusing its efforts on a new single-player Horde Mode for Doom Eternal and a “refresh” of Battlemode, the 2v1 multiplayer experience that pits two player-controlled demons against the Doomslayer.\nStratton said that remote work as a result of the pandemic slowed development of Invasion Mode. Other factors, including how already released updates for Doom Eternal resonated with players, influenced the decision to put Invasion Mode on the back burner.\nFrom Stratton’s development update, posted Friday on the Bethseda Softw…",
+          "link": "https://www.polygon.com/22560686/doom-eternal-invasion-mode-canceled-horde-battlemode-update-id-software",
+          "publishedOn": "2021-07-02T14:42:18.000Z",
+          "wordCount": 798,
+          "title": "id Software shelves Doom Eternal’s Invasion mode, making Horde mode instead"
+        },
         {
           "id": "https://www.polygon.com/22559909/ncaa-college-football-nil-rules-pay-players-ea-sports-video-game",
           "author": null,
@@ -6501,6 +6744,33 @@
       "siteUrl": "https://waxy.org",
       "articles": [
         {
+          "id": "https://waxy.org/?p=41881",
+          "author": "Andy Baio",
+          "description": "Sarah Miller pens a painful postscript to her 2019 article on Miami real estate and climate change #",
+          "link": "https://therealsarahmiller.substack.com/p/all-the-right-words-on-climate-have",
+          "publishedOn": "2021-07-02T19:25:39.000Z",
+          "wordCount": 2161,
+          "title": "All the right words on climate have already been said"
+        },
+        {
+          "id": "https://waxy.org/?p=41878",
+          "author": "Andy Baio",
+          "description": "internal code generation, identity theft, and funds laundered through crypto #",
+          "link": "https://www.bloomberg.com/features/2021-microsoft-xbox-gift-card-fraud/",
+          "publishedOn": "2021-07-02T17:45:31.000Z",
+          "wordCount": 93,
+          "title": "Bloomberg on a Microsoft contractor who stole $10 million in Xbox gift cards"
+        },
+        {
+          "id": "https://waxy.org/?p=41875",
+          "author": "Andy Baio",
+          "description": "adding phrases like \"Unreal Engine,\" \"Trending on Artstation,\" and \"award-winning\" can generate better results #",
+          "link": "https://aiweirdness.com/post/655607559221379072/the-art-of-asking-nicely",
+          "publishedOn": "2021-07-02T17:37:26.000Z",
+          "wordCount": 1153,
+          "title": "Janelle Shane on teasing higher-quality images out of neural nets"
+        },
+        {
           "id": "https://waxy.org/?p=41872",
           "author": "Andy Baio",
           "description": "Luka Grafera's incredibly detailed illustrated map, with giclée prints for sale #",
@@ -6904,15 +7174,6 @@
           "publishedOn": "2021-06-03T23:50:08.000Z",
           "wordCount": 5399,
           "title": "50 Years of Text Games on “Silverwolf”"
-        },
-        {
-          "id": "https://waxy.org/?p=41692",
-          "author": "Andy Baio",
-          "description": "part of their Masterpieces of Streaming feature, including the best of Vine and video essays #",
-          "link": "https://www.polygon.com/22417321/viral-videos-flash-youtube-all-time",
-          "publishedOn": "2021-06-03T02:51:51.000Z",
-          "wordCount": 2521,
-          "title": "Polygon’s list of “stupid but absolutely genius” internet videos"
         }
       ]
     },
@@ -6921,6 +7182,24 @@
       "feedUrl": "http://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/21/07/the-us-isnt-ready-for-another-pandemic",
+          "author": null,
+          "description": "Olga Khazan writing for The Atlantic:\nAfter an inept coronavirus response, will the United States do better when the next pandemic strikes? Experts generally agree that America learned from the past year, and that the next public-health crisis won’t be quite as bewildering. But America’s pandemic preparedness still has major gaps, some of which are too big for any one administration to fix. In recent weeks, I’ve called back many of the experts I interviewed over the past 18 months about masks, testing, contact tracing, quarantine, and more. I asked them, “Are we ready for another one?” The short answer is “Not quite.” The long answer is that being truly “ready” will be harder than anyone realizes.\n\n\nThe Trump administration mishandled the American response to Covid-19 so completely that it…",
+          "link": "https://kottke.org/21/07/the-us-isnt-ready-for-another-pandemic",
+          "publishedOn": "2021-07-02T16:12:37.000Z",
+          "wordCount": 364,
+          "title": "The US Isn’t Ready for Another Pandemic"
+        },
+        {
+          "id": "https://kottke.org/21/07/pig",
+          "author": null,
+          "description": "Hermit Nicolas Cage goes on a crusade to find the person who kidnapped his truffle-hunting pig? Yes, please. (This is going to be terrible, right? Or fantastic? No in-between I’m guessing. Would make an interesting triple feature with The Truffle Hunters .)\nTags: food   movies   Nicolas Cage   Pig   trailers   video",
+          "link": "https://kottke.org/21/07/pig",
+          "publishedOn": "2021-07-02T14:02:54.000Z",
+          "wordCount": 77,
+          "title": "Pig"
+        },
         {
           "id": "https://kottke.org/21/07/great-art-explained-van-goghs-starry-night",
           "author": null,
@@ -7622,42 +7901,6 @@
           "publishedOn": "2021-06-03T14:19:18.000Z",
           "wordCount": 124,
           "title": "Footsteps: How Movie Sounds Are Made"
-        },
-        {
-          "id": "https://kottke.org/21/06/the-typography-of-watches",
-          "author": null,
-          "description": "From Our Favourite Uses of Typography in Watches:\nGood typography should be almost unnoticeable. Blending seamlessly into the rest of the design, it should tell you everything you need to know, without you being aware of it. Despite the many restrictions that are applied to dial layout, the creativity that can be seen in typography across horology is quite staggering. To put it simply, typography is the art and technique of arranging type to make written language legible and appealing when displayed. As the dial is the main point of interaction with a watch, it is arguably one of its most important parts, and certainly one that can produce the most emotion. This is why typeface can play such a vital, yet subtle, role in how we experience and feel about a certain piece.\n\n\n(via the fox is black)\nTags: design   typography   watches",
-          "link": "https://kottke.org/21/06/the-typography-of-watches",
-          "publishedOn": "2021-06-02T18:35:58.000Z",
-          "wordCount": 179,
-          "title": "The Typography of Watches"
-        },
-        {
-          "id": "https://kottke.org/21/06/jumping-from-25000-feet-without-a-parachute-and-landing-safely",
-          "author": null,
-          "description": "WHAAAAAAATTT the hell did I just watch? In 2016, Luke Aikins became the first person to intentionally jump and land without the aid of a parachute or wingsuit — check out the video above to see how he does it. At one point, his heart rate is displayed on the screen and I’m certain that mine was in the same ballpark just before he landed. I recommend you also watch a video of the jump narrated by Aikins as he talks through what’s happening before, during, and after the jump.\nSee also Gary Connery’s 2012 jump — he fell 2400 feet from a helicopter and landed on a huge pile of cardboard boxes with the aid of a wingsuit, which slowed his vertical velocity to about 15 mph.\nFYI: The jump height of 25,000 feet seems impressive (and it’s probably trickier hitting the target from higher up) but in terms of speed, about 1500 feet is sufficient for a freefalling human in the spread-eagle position to reach their maximum (terminal) velocity of ~120 mph. Anything over 1500 feet, about half the height of El Capitan’s granite face, doesn’t add any additional speed. (via @mikeindustries)\nTags: Luke Aikins   skydiving   sports   video",
-          "link": "https://kottke.org/21/06/jumping-from-25000-feet-without-a-parachute-and-landing-safely",
-          "publishedOn": "2021-06-02T18:33:33.000Z",
-          "wordCount": 247,
-          "title": "Jumping from 25,000 Feet Without a Parachute and Landing Safely"
-        },
-        {
-          "id": "https://kottke.org/21/06/flat-packed-pastas-that-pop-open-when-cooked",
-          "author": null,
-          "description": "Inspired by space-saving flat-packed furniture, scientists at Carnegie Mellon University have developed a technique for making pasta shapes that start out flat when dry but “morph” into their final 3D shapes when cooked. The secret is stamping different groove patterns into the pasta dough.\nThe solution: something Wang, Yao, and their co-authors term “groove-based transient morphing.” They found that stamping flat pasta sheets with different groove patterns enabled them to control the final pasta shape after cooking. According to the authors, the grooves increase how long it takes to cook that part of the pasta. So those areas expand less than the smooth areas, giving rise to many different shapes.\nThe team found that the pasta reached its maximum bending angle after about 12 minutes and retained this angle for around 20 minutes before it began to bend back. The researchers were able to produce simple helical and cone shapes, as well as more complex saddles and twists (the latter achieved by introducing double-sided grooves).\n\n\nI am assuming those grooves would also aid in holding sauce better, a topic we’ve delved into recently. You can read the full research paper on the morphing pasta here. (via the prepared)\nTags: design   food   science",
-          "link": "https://kottke.org/21/06/flat-packed-pastas-that-pop-open-when-cooked",
-          "publishedOn": "2021-06-02T16:32:29.000Z",
-          "wordCount": 244,
-          "title": "Flat-Packed Pastas That Pop Open When Cooked"
-        },
-        {
-          "id": "https://kottke.org/21/06/the-winners-of-the-bigpicture-natural-world-photography-competition-for-2021",
-          "author": null,
-          "description": "The California Academy of Sciences has announced the winners (and finalists) of their BigPicture Natural World Photography Competition for 2021. I’ve included a few favorites above: barracuda by Yung-Sen Wu, leafcutter ants by Petr Bambousek, and lynx spiders by Lung-Tsai Wang. See all of the winners and finalists here. (via in focus)\nTags: best of   best of 2021   photography",
-          "link": "https://kottke.org/21/06/the-winners-of-the-bigpicture-natural-world-photography-competition-for-2021",
-          "publishedOn": "2021-06-02T14:02:09.000Z",
-          "wordCount": 109,
-          "title": "The Winners of the BigPicture Natural World Photography Competition for 2021"
         }
       ]
     },
@@ -7666,6 +7909,15 @@
       "feedUrl": "https://www.halfbakedharvest.com/feed/",
       "siteUrl": "https://www.halfbakedharvest.com",
       "articles": [
+        {
+          "id": "https://www.halfbakedharvest.com/?p=108765",
+          "author": "halfbakedharvest",
+          "description": "The 35 Most Popular Easy Summer Recipes.\nSharing the 35 Most Popular Easy Summer Recipes to help inspire you to cook, grill, and bake…all summer long! Happy Friday before the 4th of July everyone! We’ve reached that time of summer when things are busy and the temperatures are hot. That means lazy summer recipes that are full of flavor and color, but…\nREAD: The 35 Most Popular Easy Summer Recipes.",
+          "link": "https://www.halfbakedharvest.com/the-35-most-popular-easy-summer-recipes/",
+          "publishedOn": "2021-07-02T08:00:00.000Z",
+          "wordCount": 2875,
+          "title": "The 35 Most Popular Easy Summer Recipes."
+        },
         {
           "id": "https://www.halfbakedharvest.com/?p=108730",
           "author": "halfbakedharvest",
@@ -7945,6 +8197,159 @@
       "feedUrl": "https://bloody-disgusting.com/feed/",
       "siteUrl": "https://bloody-disgusting.com",
       "articles": [
+        {
+          "id": "https://bloody-disgusting.com/?p=3672506",
+          "author": "John Squires",
+          "description": "In many ways, Misha Green‘s HBO series “Lovecraft Country” was already a departure from Matt Ruff’s source material, adapting most of the storylines present in the book but offering a new perspective, new resonance, and a bold new approach to the novel. If there was to be a second season, well, Green and the team would be […]",
+          "link": "https://bloody-disgusting.com/tv/3672506/lovecraft-country-will-not-return-hbo-second-season/",
+          "publishedOn": "2021-07-02T22:16:29.000Z",
+          "wordCount": 1515,
+          "title": "“Lovecraft Country” Will Not Return to HBO for a Second Season"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3672494",
+          "author": "John Squires",
+          "description": "The End Is Only The Beginning. The Final Battle is here. The battle for Eternia continues on Netflix this July 23 with the premiere of Kevin Smith and Mattel Television’s “Masters of the Universe: Revelation,” a brand new animated series that will serve as a direct continuation to the animated series from the 1980s. Check out the brand new story trailer […]",
+          "link": "https://bloody-disgusting.com/tv/3672494/masters-universe-revelation-final-battle-save-eternia-begins-new-story-trailer-video/",
+          "publishedOn": "2021-07-02T22:05:20.000Z",
+          "wordCount": 1536,
+          "title": "“Masters of the Universe: Revelation”: The Final Battle to Save Eternia Begins in New Story Trailer! [Video]"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3672490",
+          "author": "John Squires",
+          "description": "Announced this week, Spooky Pinball is getting set to unleash a pinball machine based on John Carpenter’s Halloween, and the first art for the game has been revealed today. Designed by Jason Edmiston, check out the back glass artwork above! Edmiston writes on Facebook, “I am very proud to help roll out the project I’ve […]",
+          "link": "https://bloody-disgusting.com/toys/3672490/original-halloween-getting-official-pinball-machine-first-time-image/",
+          "publishedOn": "2021-07-02T20:25:39.000Z",
+          "wordCount": 1201,
+          "title": "The Original ‘Halloween’ is Getting an Official Pinball Machine for the Very First Time! [Image]"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3671716",
+          "author": "Luiz H. C.",
+          "description": "Film criticism is meant to help audiences navigate the ever-growing sea of new releases, but there’s an undeniable divide between many professional critics and the general public. The horror genre has an especially troubled history with conflicting opinions, with certain films only being considered “classics” decades after loyal fans insisted that negative reviews were mistaken. […]",
+          "link": "https://bloody-disgusting.com/longform/3671716/6-critically-panned-horror-movies-2000s-still-worth-watch/",
+          "publishedOn": "2021-07-02T19:51:56.000Z",
+          "wordCount": 2879,
+          "title": "6 Critically Panned Horror Movies from the 2000s That Are Still Worth a Watch"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3672474",
+          "author": "John Squires",
+          "description": "Three releases for September 2021 were announced by Severin Films today, including Giallo movie The Fourth Victim (1971) and Christian slasher A Day of Judgment (1981). In addition, John Russo‘s Midnight will be released on the same day, September 28. Severin explains, “A decade after co-writing Night of the Living Dead, writer/director John Russo gathered […]",
+          "link": "https://bloody-disgusting.com/home-video/3672474/1980-video-nasty-midnight-featuring-tom-savini-gore-effects-getting-uncut-blu-ray-severin/",
+          "publishedOn": "2021-07-02T19:35:56.000Z",
+          "wordCount": 1023,
+          "title": "1982’s Video Nasty ‘Midnight’ Featuring Tom Savini Gore Effects Getting Uncut Blu-ray from Severin"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3672388",
+          "author": "Mike Wilson",
+          "description": "Devolver Digital and developer Romino Games’ dark multiplayer title Blightbound will finally be heading out of Early Access on July 27th for PlayStation 4, Xbox One, and PC via Steam. The devs have released a new trailer to announce the release date, accordingly (thanks, Gematsu). In Blightbound, three players must battle their way through a […]",
+          "link": "https://bloody-disgusting.com/video-games/3672388/trailer-dark-multiplayer-dungeon-crawler-blightbound-arrives-july-27th-for-consoles-pc/",
+          "publishedOn": "2021-07-02T19:30:05.000Z",
+          "wordCount": 920,
+          "title": "[Trailer] Dark Multiplayer Dungeon Crawler ‘Blightbound’ Arrives July 27th For Consoles, PC"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3672459",
+          "author": "Brian Keiper",
+          "description": "Alfred Hitchcock’s Psycho was a knife slash to cinematic history. It became the point of demarcation that changed how movies were made, exhibited, and viewed. From then on, movies were designated as before Psycho and after Psycho. So naturally, any attempts to make sequels to such a profoundly influential film would be met with trepidation […]",
+          "link": "https://bloody-disgusting.com/editorials/3672459/mothers-off-rocker-psycho-iii-ripe-reappraisal-35/",
+          "publishedOn": "2021-07-02T18:28:58.000Z",
+          "wordCount": 3782,
+          "title": "Mother’s Off Her Rocker Again: ‘Psycho III’ is Ripe for Reappraisal at 35"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3672443",
+          "author": "John Squires",
+          "description": "It wasn’t until 2015 that the Goosebumps franchise exploded onto the big screen, but as you might imagine, Hollywood had been trying to figure out a way to bring R.L. Stine‘s iconic characters and stories to life for quite a long while prior to that. Tim Burton was at one point attached to direct an […]",
+          "link": "https://bloody-disgusting.com/movie/3672443/fresh-details-unearthed-goosebumps-movie-george-romero-wrote-1990s/",
+          "publishedOn": "2021-07-02T18:08:15.000Z",
+          "wordCount": 2209,
+          "title": "Fresh Details Unearthed for the ‘Goosebumps’ Movie George A. Romero Wrote in the 1990s"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3670980",
+          "author": "Luiz H. C.",
+          "description": "Poking fun at famous horror authors and their recurring tropes has always been popular, with everything from The Simpsons to Supernatural parodying the narrative quirks of writers like Stephen King and even H.P. Lovecraft. Of course, there’s a huge difference between taking gratuitous jabs at a whole genre and actually crafting a loving parody of […]",
+          "link": "https://bloody-disgusting.com/editorials/3670980/editorial-celebrating-80s-horror-tropes-garth-marenghis-darkplace/",
+          "publishedOn": "2021-07-02T17:34:59.000Z",
+          "wordCount": 3799,
+          "title": "Celebrating ’80s Horror Tropes With ‘Garth Marenghi’s Darkplace’"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3672380",
+          "author": "Mike Wilson",
+          "description": "Another throwback FPS is on the way in DIRIGO GAMES’ Kingdom of the Dead, which has you battling Death’s armies in a “hand-drawn horror world” set in 1867 America. Describing its graphical style as “pen and ink drawn”, Kingdom of the Dead has a simple setup: you play as Agent Chamberlain, professor turned Army General, […]",
+          "link": "https://bloody-disgusting.com/video-games/3672380/trailer-throwback-fps-kingdom-of-the-dead-has-you-battling-deaths-armies-in-a-hand-drawn-style/",
+          "publishedOn": "2021-07-02T17:11:23.000Z",
+          "wordCount": 924,
+          "title": "[Trailer] Throwback FPS ‘Kingdom of the Dead’ Has You Battling Death’s Armies in a Hand-Drawn Style"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3672433",
+          "author": "John Squires",
+          "description": "We’re proud to have Puppet Master super-fan Nat Brehmer as a member of the Bloody Disgusting family, and we’re even prouder to let you know today that Nat has written a book covering the entire history of the Puppet Master franchise, now up for pre-order! Puppet Master Complete: A Franchise History is “a comprehensive history […]",
+          "link": "https://bloody-disgusting.com/books/3672433/puppet-master-franchise-history-book-bd-contributor-nat-brehmer-now-pre-order/",
+          "publishedOn": "2021-07-02T16:14:42.000Z",
+          "wordCount": 1937,
+          "title": "‘Puppet Master’ Franchise History Book from BD Contributor Nat Brehmer Now Up for Pre-Order!"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3672196",
+          "author": "Mike Wilson",
+          "description": "Fancy a game that uses throwback PS1-styled graphics that relies heavily on atmosphere and has you trapped in a mansion? No, it’s not Resident Evil, it’s Vertical Reach’s upcoming title The Tartarus Key. Taking inspiration from classic horror games in its look and feel, the game bills itself as a psychological thriller where you play […]",
+          "link": "https://bloody-disgusting.com/video-games/3672196/newly-announced-psychological-horror-title-the-tartarus-key-wears-its-inspirations-on-its-sleeve/",
+          "publishedOn": "2021-07-02T15:35:00.000Z",
+          "wordCount": 927,
+          "title": "Newly-Announced Psychological Horror Title ‘The Tartarus Key’ Wears Its Inspirations on Its Sleeve"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3672420",
+          "author": "John Squires",
+          "description": "MGM is bringing back The Addams Family for an upcoming sequel to 2019’s animated film, which is scheduled to be released on the road to this year’s Halloween. Today, a series of brand new character posters have been released, kicking off the summer in style. Ghoulish style, of course. The gang is back, and they’re unhappy […]",
+          "link": "https://bloody-disgusting.com/movie/3672420/addams-family-2-lovable-gang-unhappy-see-brand-new-character-posters/",
+          "publishedOn": "2021-07-02T15:11:51.000Z",
+          "wordCount": 2032,
+          "title": "‘The Addams Family 2’: The Lovable Gang is Unhappy to See You Again in Brand New Character Posters"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3672414",
+          "author": "John Squires",
+          "description": "John Ajvide Lindqvist’s novel became the incredible Swedish movie Let the Right One In back in 2008, which spawned the American remake Let Me In just a couple years later. The vampire tale is now headed to the small screen, as we recently learned that Showtime has ordered up a pilot episode of a potential series with Demián Bichir (The Nun) attached to […]",
+          "link": "https://bloody-disgusting.com/tv/3672414/let-right-one-latest-casting-news-showtimes-pilot-reveals-second-vampire-child/",
+          "publishedOn": "2021-07-02T14:32:50.000Z",
+          "wordCount": 1346,
+          "title": "“Let the Right One In”: Latest Casting News for Showtime’s Pilot Reveals a Second Vampire Child"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3672262",
+          "author": "Michael Roffman",
+          "description": "Horror is no stranger at theme parks: The Magic Kingdom hosts the greatest ride of all time in The Haunted Mansion. Disney’s Hollywood Studios enters The Twilight Zone through The Tower of Terror. Universal Studios brings all your favorite movie maniacs to life each year with Halloween Horror Nights. And right behind that annual soiree […]",
+          "link": "https://bloody-disgusting.com/podcasts/3672262/stephen-king-theme-park-tycoon/",
+          "publishedOn": "2021-07-02T14:08:34.000Z",
+          "wordCount": 1290,
+          "title": "Let’s Build the Stephen King Theme Park of Your Wildest Nightmares! [The Losers’ Club Podcast]"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3672356",
+          "author": "Paul Lê",
+          "description": "Horrors Elsewhere is a recurring column that spotlights a variety of movies from all around the globe, particularly those not from the United States. Fears may not always be universal, but one thing is for sure — a scream is understood, always and everywhere. Woodlands and mountainous terrains are unsafe places to be in Norwegian […]",
+          "link": "https://bloody-disgusting.com/editorials/3672356/villmark-duology-delivers-norwegian-eco-dread-hospital-terror-horrors-elsewhere/",
+          "publishedOn": "2021-07-02T13:37:06.000Z",
+          "wordCount": 3720,
+          "title": "The ‘Villmark’ Duology Delivers Norwegian Eco-Dread and Hospital Terror [Horrors Elsewhere]"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3672373",
+          "author": "Mike Wilson",
+          "description": "Techland has released the second “Dying 2 Know” development video for Dying Light 2: Stay Human, as well as a brand-new gameplay trailer that “shines a UV light” on the various foes you’ll be facing in the city. As for the latest “Dying 2 Know” episode, Techland dives into the new gameplay footage and several […]",
+          "link": "https://bloody-disgusting.com/video-games/3672373/video-techland-talks-monsters-in-latest-dying-2-know-episode-new-gameplay-trailer/",
+          "publishedOn": "2021-07-02T12:00:11.000Z",
+          "wordCount": 945,
+          "title": "[Video] Techland Talks Monsters in Latest “Dying 2 Know” Episode, New Gameplay Trailer"
+        },
         {
           "id": "https://bloody-disgusting.com/?p=3672349",
           "author": "Brad Miska",
@@ -12082,6 +12487,24 @@
       "siteUrl": "https://www.broadstreethockey.com/",
       "articles": [
         {
+          "id": "https://www.broadstreethockey.com/2021/7/2/22560069/nhl-philadelphia-flyers-bsh-2021-community-draft-board-no-19-corson-ceulemans",
+          "author": null,
+          "description": "Photo by Tom Pennington/Getty Images\n    \n\n  \nMore defense!\n We knew this going in. One of the difficulties in evaluating some of this year’s draft prospects was going to come in the fact that many of them have played very little (and some not at all), and this is the case we’re running into with our next player. \nCorson Ceulemans played just eight games with the Brooks Bandits before the AJHL shut down, and his season ended. That season was limited to those eight games, plus a six game run for Canada at the U18s, but brief as it may have been, it was still a very solid season for Ceulemans. Let’s get into it! \nBSH 2021 Community Draft Board, No. 19: Corson Ceulemans\n2020-21 Season:\nTeam: Brooks Bandits (AJHL)\nStats: 4 G, 7 A in 8 GP\nPre-Draft Rankings\nNo. 14 (NA skaters) by NHL Central Sc…",
+          "link": "https://www.broadstreethockey.com/2021/7/2/22560069/nhl-philadelphia-flyers-bsh-2021-community-draft-board-no-19-corson-ceulemans",
+          "publishedOn": "2021-07-02T16:30:00.000Z",
+          "wordCount": 1640,
+          "title": "BSH 2021 Community Draft Board, No. 19: Corson Ceulemans"
+        },
+        {
+          "id": "https://www.broadstreethockey.com/2021/7/2/22559751/friday-morning-fly-by-hello-long-weekend",
+          "author": null,
+          "description": "Photo by Len Redkoles/NHLI via Getty Images\n    \n\n  \nToday’s open discussion thread, complete with your daily dose of Flyers news and notes…  \n *Happy long weekend Friday, kids! Hopefully the (local) rain doesn’t spoil it for you. Anyhoo, Bill Meltzer decided to take stock of the current Flyers’ roster. See what’s up. [Flyers]\n*So that’s what we’ve got. Charlie wants you to buckle up for a whole different team at the end of this month. Or else. [The Athletic]\n*The Seth Jones discussion continues, ad nauseum. [NBC Sports Philly]\n*But what’s that? The sound of a new defenseman entering the rumor ring?! [BSH]\n*For the past few weeks the Flyers organization has been working to bring hockey to a whole new group of kids and that’s pretty neat. [Inquirer]\n*Community Draft Board: we’ve reached the mushy middle. Still some gems to be found, though! Potentially! [BSH]\n*Phillies fans apparently make fun of the Mets every year on July 1. Bobby Bonilla Day. Well they should probably make fun of the Flyers, too. [NBC Sports Philly]\n*The Nashville Predators made a trade yesterday. Perhaps the first of many? [On The Forecheck]\n*The Coyotes made the rare decision to hire a coach from outside of the NHL yesterday. [ProHockeyTalk]\n*And finally, just in time for the long weekend, a new BSH Radio! It’s a good one. Long one, too. Perfect for a drive down the shore. [BSH]",
+          "link": "https://www.broadstreethockey.com/2021/7/2/22559751/friday-morning-fly-by-hello-long-weekend",
+          "publishedOn": "2021-07-02T10:00:00.000Z",
+          "wordCount": 637,
+          "title": "Friday Morning Fly By: Hello, long weekend"
+        },
+        {
           "id": "https://www.broadstreethockey.com/2021/7/1/22559754/philadelphia-flyers-nhl-trade-rumors-free-agency-adam-larsson-edmonton-oilers",
           "author": null,
           "description": "Photo by Darcy Finley/NHLI via Getty Images\n    \n\n  \nPhiladelphia does need a right-handed defenseman.\n It is probably the worst kept secret in the NHL that the Philadelphia Flyers are looking to add a defenseman before next season. After the untimely retirement of Matt Niskanen and no real replacement, the Flyers went through a spiraling series of unfortunate events that left no real defenseman capable of holding a top-pairing role.\nWith an unstable blue line — that might get even worse once the Seattle Kraken snatches someone away through the expansion draft — GM Chuck Fletcher is keeping his eye on any player that can make a pokecheck and preferably holds his stick on his right side. Most recently rumored to be calling Columbus, hollering for Seth Jones in Philadelphia, they might be ma…",
@@ -12664,6 +13087,20 @@
       "feedUrl": "https://indyweek.com/api/rss/content.rss",
       "siteUrl": "https://indyweek.com/api/rss/content.rss",
       "articles": [
+        {
+          "id": "https://indyweek.com/news/ninth-street-journal/meet-the-scooter-riding-man-and-dog-duo-bringing-joy-to-the-streets-of-durham/",
+          "author": "Nicole Kagan",
+          "description": "The friendship of David Cunningham and a collie named Miss Betty White began in the dark days of the pandemic. Today, they find their joy on the streets of Durham.",
+          "link": "https://indyweek.com/news/ninth-street-journal/meet-the-scooter-riding-man-and-dog-duo-bringing-joy-to-the-streets-of-durham/",
+          "publishedOn": "2021-07-02T15:16:59.000Z",
+          "wordCount": 1451,
+          "title": "Meet the Scooter-Riding Man and Dog Duo Bringing Joy to the Streets of Durham",
+          "enclosure": {
+            "url": "https://indyweek.com/downloads/82517/download/IMG_8168.JPG?cb=c1d8b6addeb8887f7b5910a977da11c9",
+            "type": "image/jpeg",
+            "length": "1351526"
+          }
+        },
         {
           "id": "https://indyweek.com/news/northcarolina/three-things-to-do-in-the-triangle-72-74/",
           "author": "Leigh Tauss",
@@ -14352,6 +14789,26 @@
       "siteUrl": "https://daily.bandcamp.com",
       "articles": [
         {
+          "id": "141388",
+          "author": "Bandcamp Daily Staff",
+          "description": "Looking back at the second quarter of 2021.\nRead full story on the Bandcamp Daily.",
+          "link": "https://daily.bandcamp.com/best-of-2021/the-best-albums-of-spring-2021",
+          "publishedOn": "2021-07-02T14:06:01.000Z",
+          "wordCount": null,
+          "title": "The Best Albums of Spring 2021",
+          "itunes": {}
+        },
+        {
+          "id": "141286",
+          "author": "Shy Thompson",
+          "description": "An important document of Mauritanian music, meticulously crafted to paint an accurate picture of the region.\nRead full story on the Bandcamp Daily.",
+          "link": "https://daily.bandcamp.com/album-of-the-day/various-artists-wallahi-le-zein-review",
+          "publishedOn": "2021-07-02T14:00:43.000Z",
+          "wordCount": null,
+          "title": "Various Artists, “Wallahi Le Zein!”",
+          "itunes": {}
+        },
+        {
           "id": "141270",
           "author": "Katie Kurtz",
           "description": "Elbow’s “New York Morning” captures a New York that was on the wane by 1999, a year that seems mythological now.\nRead full story on the Bandcamp Daily.",
@@ -15250,46 +15707,6 @@
           "wordCount": null,
           "title": "Children of Zeus, “Balance”",
           "itunes": {}
-        },
-        {
-          "id": "140156",
-          "author": "Robert Newsome",
-          "description": "With stops in Middle Earth and the Middle Ages along the way.\nRead full story on the Bandcamp Daily.",
-          "link": "https://daily.bandcamp.com/bandcamp-navigator/bandcamp-navigator-may-2021-from-californian-death-metal-to-indonesian-garage-rock",
-          "publishedOn": "2021-06-02T18:00:09.000Z",
-          "wordCount": null,
-          "title": "Bandcamp Navigator, May 2021: From Californian Death Metal to Indonesian Garage Rock",
-          "itunes": {}
-        },
-        {
-          "id": "140196",
-          "author": "Phillip Mlynar",
-          "description": "This month's best rap albums.\nRead full story on the Bandcamp Daily.",
-          "link": "https://daily.bandcamp.com/best-hip-hop/the-best-hip-hop-on-bandcamp-may-2021",
-          "publishedOn": "2021-06-02T13:45:59.000Z",
-          "wordCount": null,
-          "title": "The Best Hip-Hop on Bandcamp: May 2021",
-          "itunes": {}
-        },
-        {
-          "id": "140158",
-          "author": "Joe Muggs",
-          "description": "Our guide to the month's crucial electronic LPs\nRead full story on the Bandcamp Daily.",
-          "link": "https://daily.bandcamp.com/best-electronic/the-best-electronic-music-on-bandcamp-may-2021",
-          "publishedOn": "2021-06-02T13:45:54.000Z",
-          "wordCount": null,
-          "title": "The Best Electronic Music on Bandcamp: May 2021",
-          "itunes": {}
-        },
-        {
-          "id": "140313",
-          "author": "Miles Bowe",
-          "description": "The Pittsburgh producer channels the specific sounds, sensations, and spirit of her hometown's underground music scene into thumping techno.\nRead full story on the Bandcamp Daily.",
-          "link": "https://daily.bandcamp.com/album-of-the-day/w00dy-headbanging-in-the-club-review",
-          "publishedOn": "2021-06-02T13:45:38.000Z",
-          "wordCount": null,
-          "title": "W00DY, “Headbanging In The Club”",
-          "itunes": {}
         }
       ]
     },
@@ -15298,6 +15715,15 @@
       "feedUrl": "https://www.cjr.org/rss",
       "siteUrl": "https://www.cjr.org",
       "articles": [
+        {
+          "id": "https://www.cjr.org/the_media_today/donald_rumsfeld_media_obituaries_iraq.php",
+          "author": null,
+          "description": "On Tuesday, Donald Rumsfeld—who, as defense secretary under George W. Bush, was a driving force behind the wars in Afghanistan and Iraq—died. Major outlets wheeled out pre-written obituaries. The AP’s, by Robert Burns, bordered on hagiography. Its headline initially declared Rumsfeld “a cunning leader undermined by Iraq war”; that language was later changed to “cunning […]",
+          "link": "https://www.cjr.org/the_media_today/donald_rumsfeld_media_obituaries_iraq.php",
+          "publishedOn": "2021-07-03T00:52:29.050Z",
+          "wordCount": 2402,
+          "title": "Donald Rumsfeld’s press, then and now"
+        },
         {
           "id": "https://www.cjr.org/analysis/americans-mistrust-news-study.php",
           "author": null,
@@ -15838,21 +16264,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4a31eeb6-af30-41f9-b477-776f840970c9_2160x2160.png",
-            "length": "0",
-            "type": "image/jpeg"
-          }
-        },
-        {
-          "id": "https://www.platformer.news/p/trump-deplatforms-himself",
-          "author": "Casey Newton",
-          "description": "What a failed blog tells us about the power of Twitter",
-          "link": "https://www.platformer.news/p/trump-deplatforms-himself",
-          "publishedOn": "2021-06-03T00:00:58.000Z",
-          "wordCount": null,
-          "title": "Trump deplatforms himself",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F78380d0e-9c58-4566-8db9-251e41386687_5184x3456.jpeg",
             "length": "0",
             "type": "image/jpeg"
           }
@@ -16511,6 +16922,15 @@
       "siteUrl": "https://yourlastrites.com",
       "articles": [
         {
+          "id": "https://yourlastrites.com/?p=36815",
+          "author": "Ryan Tysinger",
+          "description": "What’s in a name? I don’t recall precisely when I first heard Darkthrone’s name – unfortunately I was a pitiful excuse for a metal fan at four years old when Soulside Journey was released. I didn’t even pick up on the True Norwegian Black Metal era, even after I was exposed to all sorts of new ...",
+          "link": "https://yourlastrites.com/2021/07/02/darkthrone-eternal-hails-review/",
+          "publishedOn": "2021-07-02T10:00:00.000Z",
+          "wordCount": 1991,
+          "title": "Darkthrone – Eternal Hails…… Review……."
+        },
+        {
           "id": "https://yourlastrites.com/?p=36820",
           "author": "Andrew Edmunds",
           "description": "Tech-death is a monster with many forms. Sometimes the monster takes the form of a juggernaut, come to bludgeon you to death with brute strength, its fists the size of asteroids attached to arms with the power of artillery, relentlessly hammering, hammering, hammering. Sometimes the monster takes the form of a carnivore, talons and teeth ...",
@@ -16662,15 +17082,6 @@
           "publishedOn": "2021-06-04T10:00:28.000Z",
           "wordCount": 2268,
           "title": "Pharaoh – The Powers That Be Review"
-        },
-        {
-          "id": "https://yourlastrites.com/?p=36446",
-          "author": "Chris C",
-          "description": "Bloodbound have quietly amassed a good but not great discography. So while Creatures of the Dark Realm is the band’s ninth full-length album, experience speaks less to quality than to commitment to craft. That isn’t to say that the Swedes haven’t earned some amount of credentials so much as they haven’t yet knocked one out ...",
-          "link": "https://yourlastrites.com/2021/06/03/bloodbound-creatures-of-the-dark-realm-review/",
-          "publishedOn": "2021-06-03T10:00:59.000Z",
-          "wordCount": 1075,
-          "title": "Bloodbound – Creatures Of The Dark Realm Review"
         }
       ]
     },
@@ -16679,6 +17090,24 @@
       "feedUrl": "https://www.teethofthedivine.com/feed/",
       "siteUrl": "https://www.teethofthedivine.com",
       "articles": [
+        {
+          "id": "https://www.teethofthedivine.com/?p=55677",
+          "author": "Frank Rini",
+          "description": "Finland’s Sadistik Forest flew under my radar until their third full-length album, Morbid Majesties, came out in 2018.  Their intense combination of death metal mixed with some blackened thrash metal had me thinking of early Skeletonwitch.  I went and discovered their prior 2 excellent albums, however Morbid Majesties is still my favorite release from them.  […]",
+          "link": "https://www.teethofthedivine.com/reviews/sadistik-forest-obscure-old-remains-ep/",
+          "publishedOn": "2021-07-02T11:48:03.000Z",
+          "wordCount": 851,
+          "title": "Sadistik Forest – Obscure Old Remains EP"
+        },
+        {
+          "id": "https://www.teethofthedivine.com/?p=55886",
+          "author": "Steve K",
+          "description": "I’m gonna go out on a real limb here and guess that you, dear reader, are probably no stranger to Horror films. You might even call yourself a fan of horror. Heck, I’m gonna double down here, and bet you might even have an affinity for shitty, low-budget horror flicks with the aesthetic appeal of […]",
+          "link": "https://www.teethofthedivine.com/reviews/video-nasty-video-nasty-ep/",
+          "publishedOn": "2021-07-02T11:14:54.000Z",
+          "wordCount": 737,
+          "title": "Video Nasty – Video Nasty EP"
+        },
         {
           "id": "https://www.teethofthedivine.com/?p=55904",
           "author": "Kristofor Allred",
@@ -16876,15 +17305,6 @@
           "publishedOn": "2021-06-04T11:11:52.000Z",
           "wordCount": 927,
           "title": "Traumatomy – Extirpation Paradigms"
-        },
-        {
-          "id": "https://www.teethofthedivine.com/?p=55382",
-          "author": "Erik T",
-          "description": "I have to admit I’m a little bored of brutal death metal. Especially the stuff Comatose puts out on the regular basis; gurgle, squeal, rape, cunt, gore, blast etc. I  mean I don’t dislike it, there is a time and a place for it, but the last album they released that remotely stuck with me […]",
-          "link": "https://www.teethofthedivine.com/reviews/in-asymmetry-ashes-of-dead-worlds/",
-          "publishedOn": "2021-06-03T11:08:44.000Z",
-          "wordCount": 548,
-          "title": "In Asymmetry – Ashes Of Dead Worlds"
         }
       ]
     },
@@ -16963,6 +17383,42 @@
       "feedUrl": "https://goodguysgogrind.com/feed/",
       "siteUrl": "https://goodguysgogrind.com",
       "articles": [
+        {
+          "id": "http://goodguysgogrind.com/?p=28817",
+          "author": "goodguysgogrind",
+          "description": "The long-awaited album of Brazilian legends Rot is out! You can get CD or tape at www.larvae.pt",
+          "link": "https://goodguysgogrind.com/2021/07/02/larvae-records-presents/",
+          "publishedOn": "2021-07-02T15:00:21.000Z",
+          "wordCount": 266,
+          "title": "Larvae Records presents!"
+        },
+        {
+          "id": "http://goodguysgogrind.com/?p=28813",
+          "author": "goodguysgogrind",
+          "description": "Wise Grinds Records just released a tape version of the debut album of Cloacal Protuberance!",
+          "link": "https://goodguysgogrind.com/2021/07/02/news-from-cloacal-protuberance/",
+          "publishedOn": "2021-07-02T14:58:01.000Z",
+          "wordCount": 271,
+          "title": "News from Cloacal Protuberance!"
+        },
+        {
+          "id": "http://goodguysgogrind.com/?p=28809",
+          "author": "goodguysgogrind",
+          "description": "Out in few days at Mortville Noise rec!",
+          "link": "https://goodguysgogrind.com/2021/07/02/discography-of-legendary-wadge/",
+          "publishedOn": "2021-07-02T14:55:09.000Z",
+          "wordCount": 264,
+          "title": "Discography of legendary Wadge!"
+        },
+        {
+          "id": "http://goodguysgogrind.com/?p=28803",
+          "author": "goodguysgogrind",
+          "description": "4-way split with Reeking Cross, Beggin For Oxys, Fed Ash & God’s America will be out later this year!",
+          "link": "https://goodguysgogrind.com/2021/07/02/super-noise-attack/",
+          "publishedOn": "2021-07-02T14:51:08.000Z",
+          "wordCount": 276,
+          "title": "Super noise attack!"
+        },
         {
           "id": "http://goodguysgogrind.com/?p=28797",
           "author": "goodguysgogrind",
