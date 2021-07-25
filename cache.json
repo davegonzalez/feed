@@ -12,6 +12,60 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1782046",
+          "author": "Jennifer Ouellette",
+          "description": "Director M. Night Shyamalan's latest film was inspired by a French graphic novel.",
+          "link": "https://arstechnica.com/?p=1782046",
+          "publishedOn": "2021-07-24T19:45:34.000Z",
+          "wordCount": 1743,
+          "title": "Review: Old is a mostly solid film undermined by jarring twist ending"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1782739",
+          "author": "Ars Staff",
+          "description": "Dealmaster has deals on Mass Effect, Halo, The Last of Us, Returnal, and more.",
+          "link": "https://arstechnica.com/?p=1782739",
+          "publishedOn": "2021-07-24T15:11:57.000Z",
+          "wordCount": 1955,
+          "title": "The best deals from PlayStation’s and Xbox’s latest summer game sales"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1782537",
+          "author": "Ars Contributors",
+          "description": "A comprehensive analysis shows that warmer temperatures aren't the only threat.",
+          "link": "https://arstechnica.com/?p=1782537",
+          "publishedOn": "2021-07-24T13:00:47.000Z",
+          "wordCount": 1330,
+          "title": "Nuclear power’s reliability is dropping as extreme weather increases"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1781460",
+          "author": "Corey Gaskin",
+          "description": "New remotes bring sensible upgrades, but only if you're tied to these streamers.",
+          "link": "https://arstechnica.com/?p=1781460",
+          "publishedOn": "2021-07-24T11:45:50.000Z",
+          "wordCount": 2429,
+          "title": "Apple and Roku have newly upgraded streaming remotes—are they worth buying?"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1782695",
+          "author": "WIRED",
+          "description": "The Games could provide a place for variants to spread and return home with athletes.",
+          "link": "https://arstechnica.com/?p=1782695",
+          "publishedOn": "2021-07-24T10:36:13.000Z",
+          "wordCount": 3115,
+          "title": "The Tokyo Olympics could be a COVID-19 “super evolutionary event”"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1782592",
+          "author": "WIRED",
+          "description": "Amnesty International sheds alarming light on an NSO Group surveillance tool.",
+          "link": "https://arstechnica.com/?p=1782592",
+          "publishedOn": "2021-07-24T09:30:23.000Z",
+          "wordCount": 1868,
+          "title": "An explosive spyware report shows limits of iOS, Android security"
+        },
+        {
           "id": "https://arstechnica.com/?p=1782594",
           "author": "Jennifer Ouellette",
           "description": "Also debuting at ComicCon@home: The first teaser for animated series Star Trek: Prodigy.",
@@ -2755,105 +2809,6 @@
           "publishedOn": "2021-06-25T13:10:24.000Z",
           "wordCount": 864,
           "title": "Competition watchdog to probe Google and Amazon over fake reviews"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1776079",
-          "author": "Eric Berger",
-          "description": "\"We saw something we didn’t understand and didn’t expect to happen.\"",
-          "link": "https://arstechnica.com/?p=1776079",
-          "publishedOn": "2021-06-25T11:00:53.000Z",
-          "wordCount": 1614,
-          "title": "Rocket Report: China to copy SpaceX’s Super Heavy? Vulcan slips to 2022"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1775882",
-          "author": "Ron Amadeo",
-          "description": "Google entices multimillion-dollar media apps with a 15 percent Play Store fee.",
-          "link": "https://arstechnica.com/?p=1775882",
-          "publishedOn": "2021-06-25T10:45:51.000Z",
-          "wordCount": 886,
-          "title": "Google to Android devs: Support more form factors, get a higher sales cut"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1776140",
-          "author": "Beth Mole",
-          "description": "Experts stress the need for everyone to get vaccinated as the Delta variant spreads.",
-          "link": "https://arstechnica.com/?p=1776140",
-          "publishedOn": "2021-06-24T22:18:44.000Z",
-          "wordCount": 2176,
-          "title": "Here’s all the data on myocarditis cases linked to COVID-19 vaccines"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1776180",
-          "author": "Dan Goodin",
-          "description": "Storage-device maker advises customers to unplug My Book Lives from the Internet ASAP.",
-          "link": "https://arstechnica.com/?p=1776180",
-          "publishedOn": "2021-06-24T22:10:47.000Z",
-          "wordCount": 1049,
-          "title": "“I’m totally screwed.” WD My Book Live users wake up to find their data deleted"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1776089",
-          "author": "John Timmer",
-          "description": "Newly described bones have a mix of Neanderthal and older features.",
-          "link": "https://arstechnica.com/?p=1776089",
-          "publishedOn": "2021-06-24T21:17:34.000Z",
-          "wordCount": 1133,
-          "title": "The human family tree keeps getting more complicated"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1776055",
-          "author": "Jon Brodkin",
-          "description": "Judiciary Committee takes on Big Tech, but full House and Senate votes remain.",
-          "link": "https://arstechnica.com/?p=1776055",
-          "publishedOn": "2021-06-24T20:40:37.000Z",
-          "wordCount": 1829,
-          "title": "House committee approves bill that could break up Amazon, Apple, and Google"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1776057",
-          "author": "Dan Goodin",
-          "description": "Authentication bypass attacks allow hackers to change breach network security.",
-          "link": "https://arstechnica.com/?p=1776057",
-          "publishedOn": "2021-06-24T20:05:35.000Z",
-          "wordCount": 967,
-          "title": "Hackers are using unknown user accounts to target Zyxel firewalls and VPNs"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1775951",
-          "author": "Ron Amadeo",
-          "description": "With regulators, privacy advocates, and major websites condemning FLoC, Google relents.",
-          "link": "https://arstechnica.com/?p=1775951",
-          "publishedOn": "2021-06-24T19:48:09.000Z",
-          "wordCount": 905,
-          "title": "Google delays FLoC rollout until 2023"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1775968",
-          "author": "Sam Machkovech",
-          "description": "Here's what you'll need to get some (but not all) of Series X's jumps on a Win11 PC.",
-          "link": "https://arstechnica.com/?p=1775968",
-          "publishedOn": "2021-06-24T19:05:25.000Z",
-          "wordCount": 1144,
-          "title": "DirectStorage on Windows 11: Next-gen gaming performance, with PC requirements"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1770375",
-          "author": "Jennifer Ouellette",
-          "description": "Surprise Netflix hit is based on character created by French novelist Maurice LeBlanc.",
-          "link": "https://arstechnica.com/?p=1770375",
-          "publishedOn": "2021-06-24T18:31:47.000Z",
-          "wordCount": 1566,
-          "title": "Review: Omar Sy shines brighter than ever as gentleman thief in Lupin Part 2"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1775943",
-          "author": "Jim Salter",
-          "description": "Windows 11 should be a free upgrade for most licensed Windows 10 users.",
-          "link": "https://arstechnica.com/?p=1775943",
-          "publishedOn": "2021-06-24T18:07:02.000Z",
-          "wordCount": 2030,
-          "title": "Windows 11 is much more than a new theme slapped onto Windows 10"
         }
       ]
     },
@@ -2862,6 +2817,15 @@
       "feedUrl": "http://feeds.macrumors.com/MacRumors-Front",
       "siteUrl": "https://www.macrumors.com",
       "articles": [
+        {
+          "id": "https://www.macrumors.com/2021/07/24/top-stories-iphone-13-always-on/",
+          "author": "MacRumors Staff",
+          "description": "Apple's new MagSafe Battery Pack is now available, and we went hands-on this week for some early impressions of the new accessory to get more battery life out of Apple's iPhone 12 lineup.\r\n\r\n\r\n\r\n\nSubscribe to the MacRumors YouTube channel for more videos.\n\r\n\r\nThis week also saw a number of rumors about the upcoming redesigned MacBook Pro models, the iPhone 13 lineup, the next-generation iPad mini, a new iPhone SE, and the third-generation AirPods. Read on below and check out our video above for details of these stories and more!\r\n\r\n\r\n\r\nHands-On With Apple's MagSafe Battery Pack\n\r\n\r\nApple recently released a new MagSafe Battery Pack that magnetically attaches to the back of the iPhone 12 mini, iPhone 12, iPhone 12 Pro, and iPhone 12 Pro Max, providing additional hours of battery life on the…",
+          "link": "https://www.macrumors.com/2021/07/24/top-stories-iphone-13-always-on/",
+          "publishedOn": "2021-07-24T13:00:00.000Z",
+          "wordCount": 2804,
+          "title": "Top Stories: Hands-On With MagSafe Battery Pack, iPhone 13 Always-On Display?"
+        },
         {
           "id": "https://www.macrumors.com/guide/ios-15-maps&post_date=1627086455/",
           "author": "Juli Clover",
@@ -5858,159 +5822,6 @@
           "publishedOn": "2021-06-25T13:41:37.000Z",
           "wordCount": 2043,
           "title": "Deals: Get $49 Off Apple's New M1 iMacs, Starting at $1,249.99 for 7-Core 256GB"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/06/25/google-fi-vpn-rolling-out-iphone/",
-          "author": "Tim Hardwick",
-          "description": "Google has announced its is rolling out Google Fi's built-in VPN service to iPhone subscribers, giving iOS users another way to ensure that their connection is secure and private on a cellular or Wi-Fi network.\r\n\r\n\r\n\r\n\nStarting today, we're expanding our built-in VPN to ‌iPhone‌®. 🔐\nWith the Fi VPN, you get a private online connection and more protection from hackers included on all plans. Learn more → https://t.co/TABM9FSYFB pic.twitter.com/WVfTlcpTRO\n— Google Fi (@googlefi) June 24, 2021\n \n\r\n\r\nThe rollout is a little later than expected, having previously been touted for release in the spring, and Google has said in a tweet that not all ‌iPhone‌ on Google Fi users will have immediate access to the VPN feature. However, the company says it should be widely available \"over the coming weeks.\"\r\n\r\n\r\n\r\nUsing the VPN, users can stream, browse, and download over an encrypted, private connection, which is especially important for unsecured public Wi-Fi. As well as encrypting all traffic between a computer and the internet, VPNs also prevent websites from tracking a user's location by masking their IP address.\r\n\r\n\r\n\r\nGoogle Fi's VPN rollout comes ahead of a new upcoming online privacy feature from Apple called Private Relay. Exclusive to paying iCloud+ subscribers, Private Relay is not being advertised as a VPN by Apple nor is it a like-for-like replacement for one, but it does encrypt Safari browser traffic and uses multiple relay \"hops\" or proxies to securely route that data and keep it private.\nTags: Google, Google Fi\nThis article, \"Google Fi VPN Starts Rolling Out to iPhone Users\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/06/25/google-fi-vpn-rolling-out-iphone/",
-          "publishedOn": "2021-06-25T10:07:09.000Z",
-          "wordCount": 1978,
-          "title": "Google Fi VPN Starts Rolling Out to iPhone Users"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/06/25/ios-ipados-15-apps-request-for-more-ram/",
-          "author": "Sami Fathi",
-          "description": "Apple is taking a major stride that will allow developers to improve the performance of their apps on iPhones and iPads, by giving apps the ability to access more of a device's memory or RAM starting later this fall.\r\n\r\n\r\n\r\n\r\n\r\nCurrently, apps are limited to the amount of RAM they can use, regardless of the amount available on the device. For example, despite the highest-end M1 iPad Pro featuring 16GB of RAM, on iPadOS 14, apps are limited to only use 5GB. 16GB of RAM is the highest amount of RAM ever offered in an iPhone or iPad, and the 5GB limitation means that apps aren't able to utilize even half of what the iPad Pro has to offer.\r\n\r\n\r\n\r\nIn the second betas of iOS and iPadOS 15, released to developers yesterday, Apple is introducing a new entitlement that developers may request that w…",
-          "link": "https://www.macrumors.com/2021/06/25/ios-ipados-15-apps-request-for-more-ram/",
-          "publishedOn": "2021-06-25T09:58:02.000Z",
-          "wordCount": 2303,
-          "title": "Latest iOS and iPadOS 15 Betas Allow Apps to Request Access to More RAM"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/06/25/wd-my-book-live-unplug-malicious-attack/",
-          "author": "Tim Hardwick",
-          "description": "Western Digital is advising owners of its My Book Live storage drives to disconnect them from the internet until further notice, following reports from around the world that some devices have been compromised and wiped clean by malicious software.\r\n\r\n\r\n\r\n\r\n\r\nThe WD My Book Live is the company's network-attached storage device with the book-style design that can stand upright on a desk. The drive is typically connected to computers via USB and connects to a local network via ethernet. Meanwhile, the WD My Book Live app lets users access their stored files remotely through Western Digital's cloud servers. \r\n\r\n\r\n\r\nAs reported by BleepingComputer, My Book Live and Live Duo device owners on Thursday began flooding Western Digital's support forums with reports that all of their files had been my…",
-          "link": "https://www.macrumors.com/2021/06/25/wd-my-book-live-unplug-malicious-attack/",
-          "publishedOn": "2021-06-25T09:04:19.000Z",
-          "wordCount": 2362,
-          "title": "Western Digital Asks 'My Book Live' Device Owners to Unplug After Reports of Remotely Wiped Drives"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/06/25/desktop-instagram-posting-in-the-works/",
-          "author": "Tim Hardwick",
-          "description": "Facebook has confirmed rumors that it is testing the ability for Instagram users to post to the picture-based social media platform using a web browser on a desktop computer.\r\n\r\n\r\n\r\n\r\n\r\nWith its focus on sharing photos taken with a smartphone camera, Facebook-owned Instagram has long been a mobile-centric social network that lacks many of its basic features in its web browser incarnation, including the ability to post.\r\n\r\n\r\n\r\nIn May, the first leaked images of web-based Instagram post creation tools surfaced, showing the ability to natively drag and drop photos and videos from a desktop computer for upload, as well as options to crop the content, apply filters, and compose accompanying text for publishing to feeds.\r\n\r\n\r\n\r\nNo official comment was forthcoming that could shed light on what appeared to be early internal testing of the feature. However, following another series of images shared courtesy of social media consultant Matt Navarra, Facebook has now publicly confirmed via Bloomberg that the feature is indeed in the works.\r\n\r\n\r\n\r\n\nMore screenshots of creating + publishing posts via https://t.co/3QaHTLlqBE pic.twitter.com/G5mptOhN06\n— Matt Navarra (@MattNavarra) June 24, 2021\n \n\"We know that many people access Instagram from their computer,\" said Facebook spokeswoman Christine Pai. \"To improve that experience, we're now testing the ability to create a Feed post on Instagram with their desktop browser.\"\nThere's still no word on an official Instagram app built specifically for iPad, but presumably a browser-based way of posting would offer an alternative option for tablet users.\nTag: Instagram\nThis article, \"Desktop Instagram Posting Currently Being Tested, Confirms Facebook\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/06/25/desktop-instagram-posting-in-the-works/",
-          "publishedOn": "2021-06-25T07:40:24.000Z",
-          "wordCount": 2174,
-          "title": "Desktop Instagram Posting Currently Being Tested, Confirms Facebook"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/06/24/ios-15-beta-2-whats-new/",
-          "author": "Joe Rossignol",
-          "description": "Apple seeded the second betas of iOS 15 and iPadOS 15 to developers today for testing, and in addition to SharePlay being enabled in FaceTime, there are some other smaller changes and details that we've gathered up below.\r\n\r\n\r\n\r\n\r\n\r\nFirst and foremost, Apple has fixed a long list of bugs in the second betas, as outlined in the release notes. For example, Apple has resolved an issue that caused iCloud Private Relay to function unexpectedly and more. The release notes also indicate the second beta of iPadOS 15 is not available for the 9.7-inch iPad Pro (WiFi + Cellular) released in 2015, although Apple did not provide a reason why.\r\n\r\n\r\n\r\nThere's a new Apple Maps icon visible in the second betas, with the Interstate 280 shield removed from the bottom-right corner.\r\n\r\n\r\n\r\n\nApple Maps has a ne…",
-          "link": "https://www.macrumors.com/2021/06/24/ios-15-beta-2-whats-new/",
-          "publishedOn": "2021-06-24T23:19:09.000Z",
-          "wordCount": 2260,
-          "title": "iOS 15 Beta 2 Tidbits: Redesigned Apple Maps Icon, Memoji Outfits, and More"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/06/24/ios-15-beta-2-enables-shareplay/",
-          "author": "Joe Rossignol",
-          "description": "Apple today seeded the second betas of iOS 15 and iPadOS 15 to developers for testing, and one notable change is that SharePlay has now been enabled in FaceTime, allowing for two users on the latest beta to share their screens to view apps together and more.\r\n\r\n\r\n\r\n\r\n\r\nSharePlay allows users to share experiences while connecting with friends and family on FaceTime, such as watching an Apple TV+ show in sync. SharePlay is functional in the Apple TV and Apple Music apps as of the second beta of iOS 15.\r\n\r\n\r\n\r\n\r\n\r\nAccording to Jordi Bruin, the developer of a new Navi app that will bring subtitles and translation to FaceTime calls, Apple has also started accepting apps that use the GroupActivities framework through App Store Connect, meaning third-party apps offering SharePlay integration will likely be available in beta through TestFlight soon.\r\n\r\n\r\n\r\n\nNavi TestFlight incoming. It seems that SharePlay apps can now be submitted. If you’re working on anything cool let me know! pic.twitter.com/j2gd6v4xcZ\n— Jordi Bruin (@jordibruin) June 24, 2021\n \nAs a developer beta, iOS 15 is officially only available to those enrolled in the Apple Developer Program, which costs $99 per year. A free public beta will be available in July, and the software update will be released in the fall.\nRelated Roundups: iOS 15, iPadOS 15\nTags: FaceTime, SharePlay\nRelated Forum: iOS 15\nThis article, \"SharePlay Enabled in Second Beta of iOS 15, Third-Party Apps Supporting the Feature Coming Soon via TestFlight\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/06/24/ios-15-beta-2-enables-shareplay/",
-          "publishedOn": "2021-06-24T21:51:02.000Z",
-          "wordCount": 2011,
-          "title": "SharePlay Enabled in Second Beta of iOS 15, Third-Party Apps Supporting the Feature Coming Soon via TestFlight"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/06/24/ios-15-beta-2/",
-          "author": "Juli Clover",
-          "description": "Apple today seeded the second betas of iOS and iPadOS 15 to developers for testing purposes, with the updates coming two weeks after Apple unveiled the new software and released the first betas.\r\n\r\n\r\n\r\n\r\n\r\nRegistered developers can download the profile for the first iOS and iPadOS betas from the Apple Developer Center, and once the profile is installed, beta updates will be available over the air. It's best to install iOS 15 and ‌iPadOS 15‌ on a secondary device because this is early release software that could have issues.\r\n\r\n\r\n\r\nApple has resolved a long list of bugs in the second betas of ‌iOS 15‌ and ‌iPadOS 15‌, according to the release notes. Apple says the second beta of ‌iPadOS 15‌ isn't available for the 9.7-inch iPad Pro (WiFi + Cellular) for unspecified reasons.\r\n\r\n\r\n\r\n‌iOS 15‌ …",
-          "link": "https://www.macrumors.com/2021/06/24/ios-15-beta-2/",
-          "publishedOn": "2021-06-24T20:36:46.000Z",
-          "wordCount": 2310,
-          "title": "Apple Seeds Second Betas of iOS and iPadOS 15 to Developers"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/06/24/watchos-8-beta-2/",
-          "author": "Juli Clover",
-          "description": "Apple today seeded the second beta of the upcoming watchOS 8 update to developers for testing purposes, with the second beta coming a little over two weeks after Apple first revealed ‌watchOS 8‌ at the Worldwide Developers Conference.\r\n\r\n\r\n\r\n\r\n\r\nTo install ‌‌watchOS 8‌‌, developers will need to download the configuration profile from the Apple Developer Center. Once installed, ‌‌watchOS 8‌‌ can be downloaded through the dedicated Apple Watch app on the iPhone by going to General > Software update.\r\n\r\n\r\n\r\nTo update to new software, an Apple Watch needs to have 50 percent battery life, it must be placed on the charger, and it needs to be in range of the ‌‌iPhone‌‌. It's not recommended to install ‌‌watchOS 8‌‌ on a main Apple Watch as the software may be unstable at this early date.\r\n\r\n\r\n\r\n‌…",
-          "link": "https://www.macrumors.com/2021/06/24/watchos-8-beta-2/",
-          "publishedOn": "2021-06-24T20:35:00.000Z",
-          "wordCount": 1949,
-          "title": "Apple Seeds Second Beta of watchOS 8 to Developers"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/06/24/tvos-15-beta-2/",
-          "author": "Juli Clover",
-          "description": "Apple today seeded the second beta of the upcoming tvOS 15 update to developers for testing purposes, with the new beta coming a little over two weeks after Apple released the first beta.\r\n\r\n\r\n\r\n\r\n\r\nDevelopers can download the new tvOS 15 beta by downloading a profile onto the ‌Apple TV‌ using Xcode.\r\n\r\n\r\n\r\nApple shared little about tvOS 15 during its keynote event, but there are some new features that are coming to the operating system. SharePlay, a FaceTime feature that lets multiple users watch TV shows or movies together, will integrate with tvOS, and there's a new \"For All of You\" recommendation engine that suggests shows everyone might enjoy.\r\n\r\n\r\n\r\nA Shared With You section also displays movies and shows that were shared with you through the Messages app so you remember to check them out. When paired with AirPods Pro or AirPods Max, the ‌Apple TV‌ supports Spatial audio for a theater-like surround sound experience, and there's a new feature for automatically connecting your AirPods through Smart ‌AirPods‌ routing.\r\n\r\n\r\n\r\nTwo HomePod mini speakers can be paired with the ‌Apple TV‌ 4K for stereo sound, and if you have HomeKit cameras, you can view multiple cameras at the same time on the ‌Apple TV‌.\r\n\r\n\r\n\r\ntvOS 15 is limited to developers at the current time, but Apple will provide a public beta of the software to public beta testers starting in July.\nRelated Roundup: Apple TV\nBuyer's Guide: Apple TV (Buy Now)\nRelated Forum: Apple TV and Home Theater\nThis article, \"Apple Seeds Second Beta of tvOS 15 to Developers\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/06/24/tvos-15-beta-2/",
-          "publishedOn": "2021-06-24T20:34:00.000Z",
-          "wordCount": 1895,
-          "title": "Apple Seeds Second Beta of tvOS 15 to Developers"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/06/24/tim-cook-apple-tower-theatre/",
-          "author": "Joe Rossignol",
-          "description": "Apple today celebrated the grand opening of its new retail store at the historic Tower Theatre in Downtown Los Angeles, and Apple's CEO Tim Cook and retail chief Deirdre O'Brien were both in attendance for the occasion.\r\n\r\n\r\n\r\n\r\n\r\nOther notable individuals in attendance included YouTubers such as Justine Ezarik (iJustine), who shared the photos above, and Brian Tong.\r\n\r\n\r\n\r\nAs usual, Cook posed for photos with attendees and celebrated alongside retail employees as the first customers entered the store.\r\n\r\n\r\n\r\n\nTim Cook makes an appearance at Apple's new store opening in Los Angeles — take a look: pic.twitter.com/DwuEUPZGFO\n— CNBC (@CNBC) June 24, 2021\n \n\r\n\r\nApple Tower Theatre is one of Apple's most significant restoration projects to date. Apple said it collaborated with leading preservationists, restoration artists, and the City of Los Angeles to thoughtfully preserve and restore the theater, which was designed in 1927 by renowned motion-picture theater architect S. Charles Lee.\r\n\r\n\r\n\r\nApple Tower Theatre will be open from 10 a.m. to 8 p.m. from Monday to Saturday, and from 11 a.m. to 7 p.m. on Sunday.\nRelated Roundup: Apple Stores\nRelated Forum: Mac Basics, Help and Buying Advice\nThis article, \"Tim Cook Attends Grand Opening of Apple Store in Downtown Los Angeles\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/06/24/tim-cook-apple-tower-theatre/",
-          "publishedOn": "2021-06-24T19:56:58.000Z",
-          "wordCount": 1866,
-          "title": "Tim Cook Attends Grand Opening of Apple Store in Downtown Los Angeles"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/06/24/microsoft-ceo-would-welcome-imessage-on-windows/",
-          "author": "Sami Fathi",
-          "description": "Following his company's reveal of Windows 11, Microsoft CEO Satya Nadella sat down with The Wall Street Journal's Joanna Stern to discuss the next generation of Windows and the possibility of Apple bringing some of its services, such as iMessage, to Windows. \r\n\r\n\r\n\r\n\r\n\r\nOne major theme of Windows 11 is its openness to third-party app marketplaces and Microsoft's end goal of making the platform a center of creativity outside the bounds of its own Microsoft App Store. Windows 11 will allow users to run Android apps, but the integration with Windows and iPhone is lacking. In that regard, Nadella says Microsoft would \"love to make sure that it works better,\" referencing the iPhone and Windows. \r\n\r\n\r\n\r\nThe CEO goes on to say that, like other companies, Apple is welcome to doing anything it wants on Windows, including bringing iMessage to the platform. iMessage has been a hallmark of Apple's devices, and despite the Cupertino tech giant partially opening FaceTime to Android and Windows later this year, iMessage remains an Apple product exclusive. \r\n\r\n\r\n\r\nAs part of the legal battle between Epic Games and Apple, court filings including internal emails between high-ranking Apple executives revealed that at one point in time, Apple had considered bringing iMessage to Android. \r\n\r\n\r\n\r\nAccording to the emails, the executives felt that bringing iMessage to a competing platform \"would simply serve to remove [an] obstacle to iPhone families giving their kids Android phones.\" While not explicitly stating Windows, Apple bringing iMessage to its largest computer competitor could be a business disadvantage. \nTags: iMessage, Windows\nThis article, \"Microsoft CEO Would 'Welcome' Apple to Bring iMessage to Windows\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/06/24/microsoft-ceo-would-welcome-imessage-on-windows/",
-          "publishedOn": "2021-06-24T17:03:34.000Z",
-          "wordCount": 2118,
-          "title": "Microsoft CEO Would 'Welcome' Apple to Bring iMessage to Windows"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/06/24/windows-11-will-run-android-apps/",
-          "author": "Sami Fathi",
-          "description": "Microsoft today held an event where it unveiled Windows 11, the next generation of Windows with a new design, new versatility capabilities, gaming improvements, and more. One notable announcement was that, starting with Windows 11, PCs will be able to run Android apps. \r\n\r\n\r\n\r\n\r\n\r\nLogically, Microsoft would partner with the Google Play Store to offer Android apps on its platforms. However, the company is taking a different route, partnering with Amazon to open Windows 11 to Android apps. As reported by The Verge, users will search for an Android app offered through the Amazon app marketplace directly within the newly redesigned Microsoft App Store. \r\n\r\n\r\n\r\n\r\n\r\nAndroid apps will run on the platform using Intel's \"bridge technology.\" Like traditional Windows apps, Android apps can be added to the new centered Windows taskbar, pinned, and snapped to different multitasking modes. Specific details remain unknown, such as hardware requirements and developers' need to make their Android apps runnable on Windows 11. \r\n\r\n\r\n\r\nMicrosoft's announcement draws comparisons to Apple's announcement with macOS Big Sur last year and its transition to Apple silicon. Thanks to Apple silicon and the common architecture shared among Mac, iPhone, iPad, and Apple Watch, macOS can now run ‌iPhone‌ apps. \r\n\r\n\r\n\r\nDespite Apple's best intentions, the experience of running iOS apps on Apple silicon Macs has been rough due to Mac's input being fully trackpad and keyboard-based, compared to the direct touch experience the apps were initially designed for. Apple has attempted to solve the issue by introducing touch alternatives, which turn the Mac trackpad into a \"virtual touch screen.\" \nTag: Windows\nThis article, \"Windows 11 Will Run Android Apps From Amazon Appstore\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/06/24/windows-11-will-run-android-apps/",
-          "publishedOn": "2021-06-24T16:21:56.000Z",
-          "wordCount": 2054,
-          "title": "Windows 11 Will Run Android Apps From Amazon Appstore"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/06/24/apple-shares-coda-trailer-and-first-french-series/",
-          "author": "Hartley Charlton",
-          "description": "Apple today shared a trailer for its original film \"CODA\" and greenlit its first-ever French-language original series, titled \"Liaison.\"\r\n\r\n\r\n\r\n\n\r\n\r\nCODA is a critically acclaimed Apple TV+ original film that tells the story of a 17-year-old girl named Ruby, played by Emilia Jones, who is the sole hearing member of a deaf family, nicknamed \"CODA,\" or \"child of deaf adults.\"\nGifted with a voice that her parents can't hear, seventeen-year-old Ruby, is the sole hearing member of a deaf family — a CODA, Child of Deaf Adults. Her life revolves around acting as interpreter for her parents and working on the family's struggling fishing boat every day before school with her father and older brother. But when Ruby joins her high school's choir club, she discovers a gift for singing and finds hersel…",
-          "link": "https://www.macrumors.com/2021/06/24/apple-shares-coda-trailer-and-first-french-series/",
-          "publishedOn": "2021-06-24T15:30:17.000Z",
-          "wordCount": 2146,
-          "title": "Apple Shares Trailer for 'CODA' and Greenlights First French-Language Series"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/06/24/apple-watch-prototype-may-show-smart-band-contacts/",
-          "author": "Hartley Charlton",
-          "description": "Apple may have tested \"Smart Bands\" for the Apple Watch, according to a new image of a prototype device.\r\n\r\n\r\n\r\n\r\n\r\nThe image, shared by developer and prototype collector Giulio Zompetti, shows two metal contacts inside an Apple Watch Series 3 prototype's band slot, either side of the diagnostic port. Zompetti postulated that the \"two unusual pads are exposed to the band,\" and may be a kind of iPad-like \"Smart Connector,\" much like those from various iPad models, used to accommodate a \"Smart Band.\"\r\n\r\n\r\n\r\nApple has filed a large number of patents around smart Apple Watch bands, indicating that it is something that the company has actively considered. Some patents showed how features such as biometric authentication, self-tightening, and LED progress indicators could be integrated into a band, while others explained a modular approach with batteries, displays, cameras, blood pressure sensors, and more.\r\n\r\n\r\n\r\nThe Apple Watch's hidden diagnostic port was once speculated to facilitate Smart Bands. At the time, the diagnostic connector, which is purportedly based on the design of the Lightning connector, was said to be capable of supporting future accessories.\r\n\r\n\r\n\r\nThird-party accessory makers were able to develop an external battery band that could charge the Apple Watch through the diagnostic port, but changes to the Apple Watch's software prevented the strap from ever coming to market. However, other smart bands not reliant on the diagnostic port have become available in recent years.\r\n\r\n\r\n\r\nIn the past, Zompetti has shared images of prototype versions of the original Apple Watch, first-generation iPad, third-generation iPod touch, and iPhone 12 Pro.\nRelated Roundup: Apple Watch Series 6\nBuyer's Guide: Apple Watch (Caution)\nRelated Forum: Apple Watch\nThis article, \"Apple Watch Series 3 Prototype May Show Contacts for Potential 'Smart Bands'\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/06/24/apple-watch-prototype-may-show-smart-band-contacts/",
-          "publishedOn": "2021-06-24T14:41:00.000Z",
-          "wordCount": 2066,
-          "title": "Apple Watch Series 3 Prototype May Show Contacts for Potential 'Smart Bands'"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/06/24/apple-fitness-plus-new-time-to-walk-episodes/",
-          "author": "Joe Rossignol",
-          "description": "Apple today announced it will be releasing new \"Time to Walk\" episodes for Apple Fitness+ subscribers starting June 28.\r\n\r\n\r\n\r\n\r\n\r\n\"Time to Walk\" launched in January and features audio stories from influential people that Apple Watch users can listen to with AirPods or other wireless headphones while walking. The episodes are automatically downloaded to the Apple Watch with an Apple Fitness+ subscription, and users can start an episode directly from the Workout app.\r\n\r\n\r\n\r\nStarting June 28, users can listen to an episode from \"Jane the Virgin\" star Gina Rodriguez, who talks about learning resilience from her dad and how she built confidence in everything from her body image to feeling part of a community.\r\n\r\n\r\n\r\nAdditional episodes coming next week will feature guests such as Olympic gold …",
-          "link": "https://www.macrumors.com/2021/06/24/apple-fitness-plus-new-time-to-walk-episodes/",
-          "publishedOn": "2021-06-24T14:31:08.000Z",
-          "wordCount": 2134,
-          "title": "Apple Fitness+ Getting New 'Time to Walk' Episodes and More Next Week"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/06/24/apple-stores-wont-see-major-shift/",
-          "author": "Joe Rossignol",
-          "description": "Apple's retail chief Deirdre O'Brien recently spoke with CNBC's Josh Lipton about the future of Apple Stores amid a transition to a post-pandemic world.\r\n\r\n\r\n\r\n\r\n\r\nAs noted by 9to5Mac's Michael Steeber, June 15 marked the first day that all Apple Store locations were open around the world, as public health restrictions begin to ease in many countries. O'Brien confirmed that all Apple Store locations are now open, adding that more people are getting out and about as life returns to a more familiar state.\r\n\r\n\r\n\r\nO'Brien does not anticipate a \"major shift\" in operations moving forward, but Apple does continue to offer customers one-on-one shopping sessions with a Specialist as well as Genius Bar reservations at many locations. The retail chief expects Apple Stores to remain a \"hub of activity\" with free \"Today at Apple\" creative sessions and more.\r\n\r\n\r\n\r\nApple has over 500 stores around the world, including a new Tower Theatre location in Downtown Los Angeles that opens today.\r\n\r\nRelated Roundup: Apple Stores\nRelated Forum: Mac Basics, Help and Buying Advice\nThis article, \"Apple Stores Won't See 'Major Shift' in Operations After Reopening Worldwide\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/06/24/apple-stores-wont-see-major-shift/",
-          "publishedOn": "2021-06-24T14:02:56.000Z",
-          "wordCount": 2532,
-          "title": "Apple Stores Won't See 'Major Shift' in Operations After Reopening Worldwide"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/06/24/deals-airpods-max-new-record/",
-          "author": "Mitchel Broussard",
-          "description": "AirPods Max have received an even steeper discount on Amazon today, dropping the headphones down to $489.00, down from $549.00 in select colors. Sky Blue and Space Gray are available at this price, and Pink are available for just a bit more at $490.30.\r\n\r\n\r\n\r\nNote: MacRumors is an affiliate partner with Adorama. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.\r\n\r\n\r\n\r\nThis sale beats the previous low price by about $10, and it's now the best deal available online for Apple's AirPods Max. The headphones are shipped by Amazon and are in stock today, so anyone with Prime shipping can get them within the next few days with free shipping.\r\n\r\n\r\n\r\n\n$60 OFF\nAirPods Max for $489.00\n\n\r\n\r\n\r\n\r\nWe track sales for every model of the AirPods in our Best AirPods Deals guide, so be sure to bookmark that page while you shop around for the wireless headphones.\nRelated Roundups: Apple Deals, AirPods Max\nBuyer's Guide: AirPods Max (Buy Now)\nRelated Forum: AirPods\nThis article, \"Deals: AirPods Max Hit New Record Low Price of $489 on Amazon ($60 Off)\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/06/24/deals-airpods-max-new-record/",
-          "publishedOn": "2021-06-24T13:05:30.000Z",
-          "wordCount": 1911,
-          "title": "Deals: AirPods Max Hit New Record Low Price of $489 on Amazon ($60 Off)"
         }
       ]
     },
@@ -6019,6 +5830,15 @@
       "feedUrl": "https://daringfireball.net/feeds/main",
       "siteUrl": "https://daringfireball.net/",
       "articles": [
+        {
+          "id": "https://www.theverge.com/2021/7/23/22589398/facebook-cloud-gaming-web-app-launch-apple",
+          "author": null,
+          "description": "Alex Heath, reporting for The Verge:\nStarting Friday, Facebook is bringing its nascent cloud gaming service to iPhones and iPads through a web app people will be able to add to their homescreens like a native app. The site will let you play simple web games like Solitaire and match-threes and stream more graphically intensive titles like racing games. […]\n“We’ve come to the same conclusion as others: web apps are the only option for streaming cloud games on iOS at the moment,” Facebook’s vice president of gaming, Vivek Sharma, told The Verge in a statement. “As many have pointed out, Apple’s policy to ‘allow’ cloud games on the App Store doesn’t allow for much at all. Apple’s requirement for each cloud game to have its own page, go through review, and appear in search listings defeats the purpose of cloud gaming. These roadblocks mean players are prevented from discovering new games, playing cross-device, and accessing high-quality games instantly in native iOS apps — even for those who aren’t using the latest and most expensive devices.”\nThere’s a lot to roll your eyes at in this brief statement, but the big one is the last clause, implying that Apple’s stance on cloud gaming has anything at all to do with pushing people to buy the “latest and most expensive devices”. Say what you want about Apple’s App Store policies, they go to great lengths to keep older devices relevant for as long as possible — including with their own library of Apple Arcade games.\nWill be interesting to see if these web app games are actually good, and if so, actually become popular.\n ★",
+          "link": "https://www.theverge.com/2021/7/23/22589398/facebook-cloud-gaming-web-app-launch-apple",
+          "publishedOn": "2021-07-24T16:51:06.000Z",
+          "wordCount": 958,
+          "title": "Facebook Brings Cloud Games to iOS via Web App"
+        },
         {
           "id": "https://www.ippawards.com/",
           "author": null,
@@ -6522,42 +6342,6 @@
           "publishedOn": "2021-06-27T15:25:09.000Z",
           "wordCount": 159,
           "title": "The Talk Show: ‘The NOC List’"
-        },
-        {
-          "id": "https://spreadprivacy.com/duckduckgrowing/",
-          "author": null,
-          "description": "I missed this state-of-the-company update from DuckDuckGo last week:\nDuckDuckGrowth over the last 12 months: 50M+ app downloads, 55%\nsearch traffic increase, #2 search engine on mobile in the U.S.,\nCanada, Australia, the Netherlands & more.\n\n\nIn the coming weeks, we’re adding new free privacy protections\nin beta including a cross-platform email privacy solution & app\ntracker blocking on Android devices.\n\n\nLater this year, we’ll release a beta of the first-ever\nDuckDuckGo desktop app, which can be used as a primary browser.\n\n\nDuckDuckGo has been profitable since 2014 with revenues now\n$100M+/yr. In late 2020, we completed a $100M+ mainly secondary\ninvestment from new & existing investors.\n\n\n\n\n#2 search engine on mobile in the U.S. is huge — that would put them ahead of Bing, which comes from a slightly larger company than DuckDuckGo. It also puts them ahead of Yahoo, which was at one time a very well-known company. (I swear that’s true.)\n ★",
-          "link": "https://spreadprivacy.com/duckduckgrowing/",
-          "publishedOn": "2021-06-24T23:10:32.000Z",
-          "wordCount": 1065,
-          "title": "DuckDuckGo Continues to Grow"
-        },
-        {
-          "id": "https://ntdotdev.wordpress.com/2021/02/06/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-10/",
-          "author": null,
-          "description": "I’m sure all of this is finally getting cleaned up and modernized in Windows 11.\n ★",
-          "link": "https://ntdotdev.wordpress.com/2021/02/06/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-10/",
-          "publishedOn": "2021-06-24T22:59:16.000Z",
-          "wordCount": 1769,
-          "title": "NTDEV: ‘How Many Layers of UI Inconsistencies Are in Windows 10?’"
-        },
-        {
-          "id": "https://blogs.windows.com/windowsexperience/2021/06/24/introducing-windows-11/",
-          "author": null,
-          "description": "Panos Panay, on Microsoft’s Windows Experience Blog:\nWindows has always existed to be a stage for the world’s\ninnovation. It’s been the backbone of global businesses and where\nscrappy startups became household names. The web was born and grew\nup on Windows. It’s the place where many of us wrote our first\nemail, played our first PC game and wrote our first line of code.\nWindows is the place people go to create, to connect, to learn and\nto achieve — a platform over a billion people today rely on.\nSome cool-looking stuff, but the devil, as always, is in the details, not the demos. The window tiling features — “Snap Groups” and “Snap Layouts” — in particular look pretty clever. Also, Microsoft is doing something very interesting with app icons — they’re using different shapes for each of them, rather than forcing them all into the exact same roundsquare shape. That’s an idea Apple should copy.\nBut if you’ll allow me to be persnickety, I’m pretty sure the web wasn’t born on Windows.\n ★",
-          "link": "https://blogs.windows.com/windowsexperience/2021/06/24/introducing-windows-11/",
-          "publishedOn": "2021-06-24T22:50:09.000Z",
-          "wordCount": 2557,
-          "title": "Microsoft Introduces Windows 11"
-        },
-        {
-          "id": "https://twitter.com/antumbral/status/1407861007209222151",
-          "author": null,
-          "description": "Katelyn Gadd:\nThis chart is a work of art. I hope multiple people got paid well to make it and I hope they get hit by a bus.\nThe longer you look at it the more things you find wrong with it.\nThis chart is a violent crime.\nUpdate: Andy Baio’s FTFY.\n ★",
-          "link": "https://twitter.com/antumbral/status/1407861007209222151",
-          "publishedOn": "2021-06-24T19:21:24.000Z",
-          "wordCount": 196,
-          "title": "CNN Has a Strong Contender for the Worst Chart You’ll Ever See"
         }
       ]
     },
@@ -6566,6 +6350,15 @@
       "feedUrl": "https://www.polygon.com/rss/pc/index.xml",
       "siteUrl": "https://www.polygon.com/pc",
       "articles": [
+        {
+          "id": "https://www.polygon.com/22580009/sekiro-shadows-die-twice-difficulty-corrupt-save-fromsoft",
+          "author": null,
+          "description": "Illustration: James Bareham/Polygon | Source images: FromSoftware/Activision\n    \n\n\n  \nI got gud\n I don’t consider myself a gamer — I’m just someone who quite likes playing video games. Apart from a Game Boy in the 1990s, the first console I owned was a Nintendo Switch that I bought in early 2018 to play The Legend of Zelda: Breath of the Wild. I finally got around to buying a PlayStation 4 in the latter part of the same year. So it’s no surprise that when I first announced to a few experienced gamer friends and colleagues that I was going to play Sekiro: Shadows Die Twice, most of them suggested I try another game first, or maybe not bother playing it at all. \nFor those who have never played it, 2019’s Sekiro is the downhill skiing of video games: it looks fairly easy and straightforward …",
+          "link": "https://www.polygon.com/22580009/sekiro-shadows-die-twice-difficulty-corrupt-save-fromsoft",
+          "publishedOn": "2021-07-24T14:00:00.000Z",
+          "wordCount": 3206,
+          "title": "It took me two years and 300 hours to beat Sekiro"
+        },
         {
           "id": "https://www.polygon.com/22590634/football-manager-womens-teams-pro-soccer-announcement-release-dates-pc",
           "author": null,
@@ -7825,60 +7618,6 @@
           "publishedOn": "2021-06-25T13:30:00.000Z",
           "wordCount": 1141,
           "title": "Axolotls are the real star of the latest Minecraft update"
-        },
-        {
-          "id": "https://www.polygon.com/22549460/sonic-mania-free-epic-games-store-offer-july-1",
-          "author": null,
-          "description": "Image: Sega\n    \n\n  \nGotta go fast (and get it before July 1)\n Sonic Mania is currently free on the Epic Games Store, and will be available for fans to snag until July 1. The promotion is tied-in with Sonic’s 30th anniversary, which is a pretty impressive run.\nSonic Mania is unique in that it’s a fan-made project that was published by Sega, and the game was well-received. Sonic Mania goes back to the style of the original Genesis platformers without just being a rehash; the game added new mechanics and some impressive level design the original formula. \nIt’s a bit of a golden era for Sonic fans. The film Sonic the Hedgehog 2 is currently in development, and it looks like it’s more focused on Sonic and his world than the real world city of Green Hills. On July 23, the Prague Philarmonic Orchestra performed a symphony concert that included the full range of the Sonic’s series’ jams. Sonic Mania helped usher in a new era for the cool blue hedgehog, so it’s nice to see more people getting a chance to check it out.",
-          "link": "https://www.polygon.com/22549460/sonic-mania-free-epic-games-store-offer-july-1",
-          "publishedOn": "2021-06-24T22:00:11.000Z",
-          "wordCount": 703,
-          "title": "Celebrate Sonic’s birthday with a free copy of Sonic Mania from Epic"
-        },
-        {
-          "id": "https://www.polygon.com/22548688/destiny-2-date-mine-spoiler-controversy-emblem-spicy-ramen",
-          "author": null,
-          "description": "Image: Bungie\n    \n\n  \nA mysterious emblem sale started a major debate over the weekend\n Last weekend, Destiny fans erupted in an argument over data-mining and spoilers. What started as the sale of a mysterious emblem quickly turned into players turning on some of the community’s most valuable members: data miners.\nImages of a mysterious new emblem called “A Classy Order” started circling around Twitter over the weekend. Destiny community manager Dylan “dmg04” Gafner publicly reached out to “Tryhard ‘Trials Player’ Tristan,” a user sporting the new emblem, to ask how they acquired it. Minutes later, Gafner tweeted a warning to players that started the weekend’s debate.\n“Don’t buy the Spicy Ramen Coupon emblem,” Gafner said about the A Classy Order emblem. “It’s meant to be a free gift on B…",
-          "link": "https://www.polygon.com/22548688/destiny-2-date-mine-spoiler-controversy-emblem-spicy-ramen",
-          "publishedOn": "2021-06-24T21:41:47.000Z",
-          "wordCount": 1735,
-          "title": "Destiny players and Bungie are currently at war over spoiler culture"
-        },
-        {
-          "id": "https://www.polygon.com/22549052/the-sims-sessions-music-festival-performances-simlish-performers",
-          "author": null,
-          "description": "Image: Maxis/Electronic Arts\n    \n\n  \nAnd yes, the songs are all in Simlish\n The Sims 4 players will get a new stage to explore this summer, with an in-game musical event called Sims Sessions. Sims Sessions will run from June 26 through July 7, and includes artists like Bebe Rexha, Glass Animals lead singer Dave Bayley, and singer and songwriter Joy Oladokun.\nThe Sims franchise has a long history of collaborating with artists to bring their music into the game. Notably, every song has to be changed, because in the Sims everyone speaks Simlish — even the celebrity cameos. While songs are often used for promotional purposes, Sims Sessions will have them be integrated into the game world.\nPlayers can dress their Sims up, head down to the concert, and pick up exclusive digital merchandise from the performers. Once the show is done, they can take to the stage themselves to play some sick tunes. Or, if you’re not interested in that much attention, Sims can sneak off to WooHoo in the tents.\nThere’s even a tie-in TikTok challenge called #SimlishSessions, where players can sing the single Sabotage in Simlish. It’s a good time to learn the difference between “yabahorne” and “yim bala.”\nThe Sims 4 will be on sale leading up to Sims Sessions from June 24-29. Players don’t need any expansions in order to visit the Sims Sessions event in-game.",
-          "link": "https://www.polygon.com/22549052/the-sims-sessions-music-festival-performances-simlish-performers",
-          "publishedOn": "2021-06-24T18:38:37.000Z",
-          "wordCount": 750,
-          "title": "The Sims 4 is getting in-game music festivals with good vibes"
-        },
-        {
-          "id": "https://www.polygon.com/22548489/ultimate-rivals-the-court-apple-arcade-release-dates-steam-consoles-controller-support",
-          "author": null,
-          "description": "Image: Bit Fry Game Studios\n    \n\n  \nApple Arcade’s sports ensemble lets Megan Rapinoe dunk on Wayne Gretzky\n Ben Freidlin knows what folks are looking at first when they see a screenshot of Ultimate Rivals: The Court. It’s usually the licensing. The celebrities. They’re gazing at Alex Morgan from the U.S. Women’s National Team, soaring high over Hall-of-Famer Wayne Gretzky. Neither one plays basketball, but she’s about to jam one in the Great One’s face.\nFreidlin, chief executive of Bit Fry Game Studios, doesn’t deny that inking 60 all-stars from five sports to a licensing deal for a mobile video game is a hell of a head-turner. (The late David Stern, the former NBA commissioner and an investor in Bit Fry, told Sports Business Journal that anyone who could pull together that many leagues …",
-          "link": "https://www.polygon.com/22548489/ultimate-rivals-the-court-apple-arcade-release-dates-steam-consoles-controller-support",
-          "publishedOn": "2021-06-24T17:38:34.000Z",
-          "wordCount": 1891,
-          "title": "What if NBA Jam were a fighting game? It’d be Ultimate Rivals"
-        },
-        {
-          "id": "https://www.polygon.com/22548822/windows-11-xbox-game-pass-pc-auto-hdr-directstorage",
-          "author": null,
-          "description": "Image: Microsoft\n    \n\n  \nPC gaming features also include auto HDR, DirectStorage API\n Windows 11, the next version of Microsoft’s operating system, will offer a number of features targeted toward PC gamers, led by Xbox Game Pass directly within Windows’ new Xbox app, Microsoft announced Thursday during its Windows 11 reveal event.\nPresenting Windows 11 as “the best Windows ever for gaming,” Sarah Bond, Xbox corporate vice president for game creator experience and ecosystem, appeared on Microsoft’s livestream to announce that Xbox Game Pass will be “built right into Windows 11.” Microsoft has been testing this functionality for many months with a redesigned Xbox app for Windows 10, but clips of the Windows 11 version that Bond showed seemed to indicate a deeper integration.\nThe Xbox app wi…",
-          "link": "https://www.polygon.com/22548822/windows-11-xbox-game-pass-pc-auto-hdr-directstorage",
-          "publishedOn": "2021-06-24T16:32:05.000Z",
-          "wordCount": 1245,
-          "title": "Xbox Game Pass built into Windows 11"
-        },
-        {
-          "id": "https://www.polygon.com/22548800/demon-slayer-video-game-release-date-hinokami-chronicles-sega-cyberconnect2",
-          "author": null,
-          "description": "Image: CyberConnect2/Sega\n    \n\n  \nDemon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles arrives in October\n The Demon Slayer video game, Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles, is coming to North America and Europe this October, thanks to publisher Sega. Developed by CyberConnect2, the video game based on the popular Demon Slayer anime will be released on PlayStation 4, PlayStation 5, Windows PC (via Steam), Xbox One, and Xbox Series X.\nCyberConnect2 is best known for its work on anime-inspired fare like Dragon Ball Z: Kakarot and the Naruto: Ultimate Ninja and .hack games. The studio’s take on Demon Slayer looks on par with its brand of cel-shaded arena-based fighting and interactive storytelling. The Hinokami Chronicles will retell the Tanjiro Kamado, Unwavering Resolve Arc and Mugen Train Arc from Demon Slayer: Kimetsu no Yaiba.\nDemon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles will feature voice work from the original English- and Japanese-language cast. Here’s the game’s official description:\nIt is the Taisho Period in Japan. Tanjiro, a kindhearted boy who sells charcoal for a living, finds his family slaughtered by a demon. To make matters worse, his younger sister Nezuko, the sole survivor, has been transformed into a demon herself. Though devastated by this grim reality, Tanjiro resolves to become a “demon slayer” so that he can turn his sister back into a human and kill the demon that massacred his family.\n\nDemon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles will arrive Oct. 15.",
-          "link": "https://www.polygon.com/22548800/demon-slayer-video-game-release-date-hinokami-chronicles-sega-cyberconnect2",
-          "publishedOn": "2021-06-24T16:20:00.000Z",
-          "wordCount": 767,
-          "title": "The Demon Slayer video game heads West, thanks to Sega"
         }
       ]
     },
@@ -7956,6 +7695,15 @@
       "feedUrl": "https://waxy.org/feed/",
       "siteUrl": "https://waxy.org",
       "articles": [
+        {
+          "id": "https://waxy.org/?p=42065",
+          "author": "Andy Baio",
+          "description": "not just politicization and anti-vaccine sentiment, but slow FDA approval and confused CDC guidance #",
+          "link": "https://www.nytimes.com/2021/07/24/opinion/coronavius-vaccine-masks.html",
+          "publishedOn": "2021-07-24T20:10:59.000Z",
+          "wordCount": 2296,
+          "title": "Zeynep Tufekci on the U.S. dysfunction hindering response to the delta variant"
+        },
         {
           "id": "https://waxy.org/?p=42060",
           "author": "Andy Baio",
@@ -8495,51 +8243,6 @@
           "publishedOn": "2021-06-25T20:16:36.000Z",
           "wordCount": null,
           "title": "Shmorby’s Guide To The Internet!"
-        },
-        {
-          "id": "https://waxy.org/?p=41823",
-          "author": "Andy Baio",
-          "description": "for 13 years, her father's controlled her life, including work, finances, and even forced birth control #",
-          "link": "https://www.nytimes.com/2021/06/22/arts/music/britney-spears-conservatorship.html",
-          "publishedOn": "2021-06-24T18:40:39.000Z",
-          "wordCount": 3437,
-          "title": "Court records show Britney Spears quietly to end her conservatorship for years"
-        },
-        {
-          "id": "https://waxy.org/?p=41818",
-          "author": "Andy Baio",
-          "description": "when you're done watching that, go find the Baby Geniuses fight scene on YouTube #",
-          "link": "https://www.youtube.com/watch?v=YIp9bEV2-GI",
-          "publishedOn": "2021-06-24T18:36:53.000Z",
-          "wordCount": null,
-          "title": "Paul Rudd shows a clip on Conan, one last time"
-        },
-        {
-          "id": "https://waxy.org/?p=41815",
-          "author": "Andy Baio",
-          "description": "after 25 years, Apple Daily shuttered after 500 police raided its HQ, froze its assets, and arrested its founder and directors #",
-          "link": "https://www.theatlantic.com/international/archive/2021/06/hong-kong-apple-daily/619278/",
-          "publishedOn": "2021-06-24T18:26:15.000Z",
-          "wordCount": 1953,
-          "title": "A Eulogy for the Free Press in Hong Kong"
-        },
-        {
-          "id": "https://waxy.org/?p=41811",
-          "author": "Andy Baio",
-          "description": "popular industrial channels aren't factory workers documenting their labor, but largely cheap marketing for their employers #",
-          "link": "https://restofworld.org/2021/the-chinese-content-farms-behind-factory-tiktok/",
-          "publishedOn": "2021-06-24T18:14:15.000Z",
-          "wordCount": 1964,
-          "title": "The Chinese content farms behind Factory TikTok"
-        },
-        {
-          "id": "https://waxy.org/?p=41807",
-          "author": "Andy Baio",
-          "description": "accounts designed to help working Americans save for retirement are being abused as tax loopholes for the ultra-rich #",
-          "link": "https://www.propublica.org/article/lord-of-the-roths-how-tech-mogul-peter-thiel-turned-a-retirement-account-for-the-middle-class-into-a-5-billion-dollar-tax-free-piggy-bank",
-          "publishedOn": "2021-06-24T17:25:36.000Z",
-          "wordCount": 7080,
-          "title": "How Peter Thiel turned a Roth IRA into a $5 billion tax-free piggy bank"
         }
       ]
     },
@@ -9186,42 +8889,6 @@
           "publishedOn": "2021-06-25T15:51:03.000Z",
           "wordCount": 48,
           "title": "This Photo of Buster Keaton"
-        },
-        {
-          "id": "https://kottke.org/21/06/a-rembrandt-masterpiece-uncropped-by-ai",
-          "author": null,
-          "description": "In 1715, a significant chunk of Rembrandt’s masterpiece The Night Watch, including a 2-foot-wide swath from the left side of the painting, was lopped off in order to fit the painting in a smaller space. (WTF?!) Using a contemporary copy of the full scene painted by Gerrit Lundens and an AI program for getting the colors and angles right, the Rijksmuseum has “restored” The Night Watch, augmenting the painting with digital printouts of the missing bits. The uncropped Rembrandt is shown above and here is Lundens’s version:\n\nI’m not an expert on art, but the 1715 crop and the shift of the principal characters from right-of-center to the center appears to have radically altered the whole feel of the painting.\nWith the addition especially on the left and the bottom, an empty space is created in the painting where they march towards. When the painting was cut [the lieutenants] were in the centre, but Rembrandt intended them to be off-centre marching towards that empty space, and that is the genius that Rembrandt understands: you create movement, a dynamic of the troops marching towards the left of the painting.\n\n\n(via @john_overholt)\nTags: art   artificial intelligence   Gerrit Lundens   Rembrandt",
-          "link": "https://kottke.org/21/06/a-rembrandt-masterpiece-uncropped-by-ai",
-          "publishedOn": "2021-06-24T20:48:26.000Z",
-          "wordCount": 236,
-          "title": "A Rembrandt Masterpiece Uncropped by AI"
-        },
-        {
-          "id": "https://kottke.org/21/06/see-1540-paintings-by-claude-monet-in-two-hours",
-          "author": null,
-          "description": "In just over two hours, this video presents 1540 paintings by impressionist master Claude Monet, a significant portion of his lifetime output. This is a really intriguing way to look at art. It’s not in-person and you don’t get a lot of time with each piece, but the video is HD, you can pause or slow the playback speed, and by seeing a lot of work over a short span of time, you can get a real sense of the stylistic choices and variations across Monet’s oeuvre — a view of the forest rather than the trees. (via open culture)\nTags: art   Claude Monet   video",
-          "link": "https://kottke.org/21/06/see-1540-paintings-by-claude-monet-in-two-hours",
-          "publishedOn": "2021-06-24T18:44:23.000Z",
-          "wordCount": 151,
-          "title": "See 1540 Paintings by Claude Monet in Two Hours"
-        },
-        {
-          "id": "https://kottke.org/21/06/bold-colorful-minimalistic-portraits",
-          "author": null,
-          "description": "Check out these striking portraits by Brazilian artist Luciano Cian from his Magna and Kuhle projects. Find more on his website, Behance, and Instagram. (via colossal)\nTags: art   Luciano Cian",
-          "link": "https://kottke.org/21/06/bold-colorful-minimalistic-portraits",
-          "publishedOn": "2021-06-24T16:15:41.000Z",
-          "wordCount": 69,
-          "title": "Bold & Colorful Minimalistic Portraits"
-        },
-        {
-          "id": "https://kottke.org/21/06/new-usps-stamps-celebrate-the-sun",
-          "author": null,
-          "description": "The US Postal Service has released a set of Sun Science stamps that use images from NASA’s Solar Dynamics Observatory to illustrate different solar phenomena like plasma blasts, sunspots, and solar flares.\nPrinted with a foil treatment that adds a glimmer to the stamps, the images on these stamps come from NASA’s Solar Dynamics Observatory, a spacecraft launched in February 2010 to keep a constant watch on the sun from geosynchronous orbit above Earth. The striking colors in these images do not represent the actual colors of the sun as perceived by human eyesight. Instead, each image is colorized by NASA according to different wavelengths that reveal or highlight specific features of the sun’s activity.\nOne of the stamps highlights sunspots, two feature images of coronal holes, two show coronal loops, two depict plasma blasts, one is a view of an active sun that emphasizes its magnetic fields, and two show different views of a solar flare.\n\n\nNASA has more on the science behind the images on the stamps and the whole set of stamps are available for purchase online.\nSee also A Decade of the Sun.\nTags: astronomy   design   NASA   science   stamps   Sun   USPS",
-          "link": "https://kottke.org/21/06/new-usps-stamps-celebrate-the-sun",
-          "publishedOn": "2021-06-24T14:08:10.000Z",
-          "wordCount": 231,
-          "title": "New USPS Stamps Celebrate the Sun"
         }
       ]
     },
@@ -9445,15 +9112,6 @@
           "publishedOn": "2021-06-27T08:00:00.000Z",
           "wordCount": 4392,
           "title": "Nine Favorite Things."
-        },
-        {
-          "id": "https://www.halfbakedharvest.com/?p=108486",
-          "author": "halfbakedharvest",
-          "description": "Homemade Double the Fudge Buster Bars.\nThese Homemade Double the Fudge Buster Bars are the fun summer dessert we all need stashed away in our freezers. These bars have an easy homemade chocolate fudge sauce layer, roasted peanuts, vanilla ice cream, and smashed chocolate cookie crumbs. Each bar is finished off with a dip into a homemade “magic shell.” Just like…\nREAD: Homemade Double the Fudge Buster Bars.",
-          "link": "https://www.halfbakedharvest.com/buster-bars/",
-          "publishedOn": "2021-06-25T08:00:00.000Z",
-          "wordCount": 2193,
-          "title": "Homemade Double the Fudge Buster Bars."
         }
       ]
     },
@@ -9517,6 +9175,78 @@
       "feedUrl": "https://bloody-disgusting.com/feed/",
       "siteUrl": "https://bloody-disgusting.com",
       "articles": [
+        {
+          "id": "https://bloody-disgusting.com/?p=3675439",
+          "author": "Meagan Navarro",
+          "description": "Shudder is expanding upon their critically acclaimed 2019 documentary Horror Noire: A History of Black Horror with an original anthology series that will showcase stories of Black horror from Black directors and screenwriters. The upcoming series released a conceptual teaser, below, during its Comic-Con@Home panel along with a premiere date of October 14. “Horror Noire” […]",
+          "link": "https://bloody-disgusting.com/tv/3675439/new-shudder-original-anthology-series-horror-noire-coming-october-teaser/",
+          "publishedOn": "2021-07-24T23:35:30.000Z",
+          "wordCount": 1411,
+          "title": "New Shudder Original Anthology Series “Horror Noire” Coming This October [Teaser]"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3675394",
+          "author": "John Squires",
+          "description": "It’s not Comic-Con without “The Walking Dead,” which will be ending with an expanded two-year eleventh season that will span 24 episodes, bringing the long-running AMC series to an end sometime in 2022. Out of Comic-Con@Home tonight, we’ve got a new trailer. The Comic-Con trailer is packed with 3-minutes of footage from the new season, […]",
+          "link": "https://bloody-disgusting.com/tv/3675394/walking-dead-season-11-comic-conhome-trailer-previews-3-minutes-shows-final-season/",
+          "publishedOn": "2021-07-24T22:50:55.000Z",
+          "wordCount": 1445,
+          "title": "“The Walking Dead” Season 11: Comic-Con@Home Trailer Previews 3 Minutes of the Show’s FINAL Season"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3675383",
+          "author": "John Squires",
+          "description": "AMC’s spinoff “The Walking Dead: World Beyond” was only ever going to be a two-season limited series, and that second and final season is on the way for Halloween this year. Announced during the virtual Comic-Con@Home today, “World Beyond” will premiere its second season on October 3 at 10pm ET/9c on AMC, with new episodes […]",
+          "link": "https://bloody-disgusting.com/tv/3675383/walking-dead-world-beyond-second-final-season-premieres-october-clip/",
+          "publishedOn": "2021-07-24T21:45:15.000Z",
+          "wordCount": 1134,
+          "title": "“The Walking Dead: World Beyond”: The Second and Final Season Premieres in October [Clip]"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3675377",
+          "author": "John Squires",
+          "description": "AMC’s spinoff series “Fear the Walking Dead” will be back for its seventh season just in time for Halloween, and two clips were debuted out of the virtual Comic-Con@Home today. Season 7 premieres Sunday, October 17 at 9pm ET/8c on AMC, with new episodes premiering early on AMC+ all season, followed by a new episode […]",
+          "link": "https://bloody-disgusting.com/tv/3675377/fear-walking-dead-morgan-back-six-minutes-first-look-footage-season-7/",
+          "publishedOn": "2021-07-24T20:55:34.000Z",
+          "wordCount": 1050,
+          "title": "“Fear the Walking Dead”: Morgan is Back in Six-Minutes of First-Look Footage from Season 7"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3675518",
+          "author": "Brad Miska",
+          "description": "Kurt Russell‘s one-eyed badass Snake Plissken is one of the most iconic characters in film history. He saved the President of the United States in John Carpenter‘s thrilling sci-fi actioneer Escape from New York (1981) and then the POTUS’s daughter in the 1996 sequel Escape from L.A. The dystopian anti-hero is a fan favorite that’s been […]",
+          "link": "https://bloody-disgusting.com/movie/3675518/john-carpenter-says-snake-plissken-deserves-third-maybe-even-fourth-story/",
+          "publishedOn": "2021-07-24T14:37:25.000Z",
+          "wordCount": 1194,
+          "title": "John Carpenter Says Snake Plissken Deserves “a Third or Maybe Even Fourth Story”"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3675513",
+          "author": "Brad Miska",
+          "description": "Timo Tjahjanto is soon to be a legend. It’s a little frustrating that this Indonesian-based filmmaker has yet to break in Hollywood, but it’s comforting to know that he’s set to get behind the camera for the remake of Train to Busan for James Wan’s Atomic Monster and New Line Cinema. He also revealed on […]",
+          "link": "https://bloody-disgusting.com/movie/3675513/timo-tjahjanto-teaming-sinister-doctor-strange-filmmakers-top-secret-project/",
+          "publishedOn": "2021-07-24T14:00:25.000Z",
+          "wordCount": 1191,
+          "title": "Timo Tjahjanto Teaming With ‘Sinister’ and ‘Doctor Strange’ Filmmakers on Top Secret Project!"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3675506",
+          "author": "Brad Miska",
+          "description": "Bloody Disgusting was represented on two panels at this year’s Comic-Con@Home, which runs through this Sunday, July 25. AMC Networks has quite an extensive lineup of panels, including “The Walking Dead”, “Fear the Walking Dead”, “The Walking Dead: World Beyond”, and “Creepshow”. They also highlighted the Shudder Original, V/H/S/94, the latest entry in our anthology […]",
+          "link": "https://bloody-disgusting.com/movie/3675506/watch-full-v-h-s-94-panel-sneak-peek-first-footage-video/",
+          "publishedOn": "2021-07-24T13:43:03.000Z",
+          "wordCount": 1224,
+          "title": "Watch the Full ‘V/H/S/94’ Panel With a Sneak Peek at the Very First Footage! [Video]"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3675404",
+          "author": "Meagan Navarro",
+          "description": "“Slasher: Flesh & Blood,” the eight-episode fourth season of the horror anthology series that kicked off back in 2016, is coming exclusively to Shudder on August 12. Ahead of its release, Shudder brought a first look at “Slasher: Flesh & Blood” to its Comic-Con@Home panel. Competition gets killer in the teaser, found below. “Slasher: Flesh […]",
+          "link": "https://bloody-disgusting.com/tv/3675404/shudders-slasher-flesh-blood-panel-debuts-trailer-official-art-comic-conhome/",
+          "publishedOn": "2021-07-24T01:35:04.000Z",
+          "wordCount": 1128,
+          "title": "Shudder’s “Slasher: Flesh & Blood”: Trailer for Season 4 Introduces David Cronenberg and a New Killer! [Video]"
+        },
         {
           "id": "https://bloody-disgusting.com/?p=3675502",
           "author": "Brad Miska",
@@ -14097,258 +13827,6 @@
           "publishedOn": "2021-06-25T13:37:32.000Z",
           "wordCount": 956,
           "title": "Paradox Interactive’s ‘Shadowrun Trilogy’ Available For Free on GOG For 72 Hours"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3671222",
-          "author": "John Squires",
-          "description": "Less than a year after “Supernatural” came to an end, we’ve learned via Deadline tonight that The CW is already bringing the Winchester family back with a planned prequel series. The project is simply titled “The Winchesters,” and Deadline reports that it will center on Sam and Dean’s parents, John and Mary Winchester. Jensen Ackles […]",
-          "link": "https://bloody-disgusting.com/tv/3671222/winchesters-cw-developing-supernatural-prequel-series-jensen-ackles-narrating/",
-          "publishedOn": "2021-06-25T03:01:55.000Z",
-          "wordCount": 975,
-          "title": "“The Winchesters”: The CW Developing a “Supernatural” Prequel Series With Jensen Ackles Narrating"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3671204",
-          "author": "Brad Miska",
-          "description": "Michael Myers is slashing his way back to theaters this fall in the highly anticipated Halloween Kills, the sequel to David Gordon Green‘s own take on Halloween that reconned all sequels and continues the story of Jamie Lee Curtis‘ Laurie Strode some 40 years later. The Forever Purge opens in theaters next week and with it […]",
-          "link": "https://bloody-disgusting.com/movie/3671204/halloween-kills-michael-myers-slays-firefighters-ultra-violent-full-trailer-video/",
-          "publishedOn": "2021-06-25T01:29:41.000Z",
-          "wordCount": 3279,
-          "title": "‘Halloween Kills’: Michael Myers Slays Firefighters in Ultra Violent Full Trailer! [Video]"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3671187",
-          "author": "John Squires",
-          "description": "“Who has my pig?” NEON will be releasing Michael Sarnoski‘s Nicolas Cage revenge-drama Pig in theaters on July 16, and today a series of posters put the spotlight on the three main characters. Nicolas Cage, Alex Wolff (Hereditary), and Brandy the Pig, to be specific. Meet the gang below and check out the trailer here. “A truffle hunter […]",
-          "link": "https://bloody-disgusting.com/movie/3671187/character-posters-neons-pig-spotlight-nicolas-cage-alex-wolff-brandy-pig/",
-          "publishedOn": "2021-06-24T20:08:54.000Z",
-          "wordCount": 2485,
-          "title": "Character Posters for NEON’s ‘Pig’ Spotlight Nicolas Cage, Alex Wolff and Brandy the Pig"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3671108",
-          "author": "Markus Amalthea Magnuson",
-          "description": "On June 25, many Swedes gather for one of the year’s most beloved holiday celebrations: Midsummer’s Eve. It’s one of few with relatively little religious content, even though it originates from the 4th-century celebration of John the Baptist’s birth. Like many folk traditions, Midsummer is about the passing of the seasons. It falls near the […]",
-          "link": "https://bloody-disgusting.com/editorials/3671108/much-midsommar-like-real-swedish-midsummer-celebration/",
-          "publishedOn": "2021-06-24T20:00:43.000Z",
-          "wordCount": 4363,
-          "title": "How Much is ‘Midsommar’ Like a Real Swedish Midsummer Celebration?"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3671180",
-          "author": "John Squires",
-          "description": "Anne Rice was recently shopping around a massive television and film package for both The Vampire Chronicles and The Lives of the Mayfair Witches, you may recall, with AMC Networks acquiring the package last year and therefore landing the rights to all novels in both series’. Today brings an update, as an “Interview With the Vampire” series […]",
-          "link": "https://bloody-disgusting.com/tv/3671180/anne-rices-interview-vampire-series-coming-amc-2022/",
-          "publishedOn": "2021-06-24T19:46:12.000Z",
-          "wordCount": 1089,
-          "title": "Anne Rice’s “Interview With the Vampire” Series Coming to AMC in 2022!"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3671171",
-          "author": "John Squires",
-          "description": "To recap, an ongoing legal battle between Sean Cunningham, director of the original Friday the 13th, and Victor Miller, writer of the film, has put a temporary hold on the Friday the 13th franchise altogether, and Friday the 13th: The Game became one of the victims of those legal issues back in 2018. Essentially, any additional content was […]",
-          "link": "https://bloody-disgusting.com/video-games/3671171/friday-13th-game-co-creator-reveals-additional-content-never-got-make/",
-          "publishedOn": "2021-06-24T19:15:18.000Z",
-          "wordCount": 5441,
-          "title": "‘Friday the 13th: The Game’: Co-Creator Reveals More Additional Content They Never Got to Make"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3671160",
-          "author": "Brian Keiper",
-          "description": "In Bride of Frankenstein, Dr. Pretorius, played by the inimitable Ernest Thesiger, raises his glass and proposes a toast to Colin Clive’s Henry Frankenstein—“to a new world of Gods and Monsters.” I invite you to join me in exploring this world, focusing on horror films from the dawn of the Universal Monster movies in 1931 to the […]",
-          "link": "https://bloody-disgusting.com/editorials/3671160/theyre-already-perpetual-relevance-invasion-body-snatchers-gods-monsters/",
-          "publishedOn": "2021-06-24T19:04:16.000Z",
-          "wordCount": 4327,
-          "title": "They’re Here Already: The Perpetual Relevance of ‘Invasion of the Body Snatchers’ [Gods and Monsters]"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3671157",
-          "author": "John Squires",
-          "description": "A horror competition series is on the way from Blumhouse Television and ITV America, with Deadline announcing today that “Escape the Maze” is the working title of the project. The report explains, “The series will follow individual competitors who have been locked inside a dark and mind-scrambling labyrinth, designed by maze architect, Adrian Fisher and […]",
-          "link": "https://bloody-disgusting.com/tv/3671157/blumhouse-television-developing-horror-competition-series-escape-maze/",
-          "publishedOn": "2021-06-24T18:39:11.000Z",
-          "wordCount": 1070,
-          "title": "Blumhouse Television Developing Horror Competition Series “Escape the Maze”"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3670996",
-          "author": "Andrew King",
-          "description": "Her Story and Telling Lies are effective, thrilling stories told using video footage of real actors. Still, developer Sam Barlow chafes at the idea that his two previous games are interactive movies. “I, as a movie fan, was like, ‘They’re not really movies.’ Movies are about editing, and cuts, and montage, and this very specific […]",
-          "link": "https://bloody-disgusting.com/video-games/3670996/interview-sam-barlow/",
-          "publishedOn": "2021-06-24T18:17:37.000Z",
-          "wordCount": 6580,
-          "title": "[Interview] Sam Barlow Talks Movie Mystery Game ‘Immortality’, ‘Inland Empire’ Inspiration, and the Spiritual Successor to His ‘Silent Hill’ Game"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3671149",
-          "author": "John Squires",
-          "description": "“This is the most terrifying film I’ve ever made.” Up next from Eli Roth is a horror movie of a different kind, a documentary for the streaming service discovery+ that aims to expose the true horror happening in our oceans every day. The press release explains, “discovery+, the definitive non-fiction, real-life subscription streaming service, announced today […]",
-          "link": "https://bloody-disgusting.com/movie/3671149/fin-eli-roth-made-documentary-sharks-swimming-discovery-trailer/",
-          "publishedOn": "2021-06-24T18:11:07.000Z",
-          "wordCount": 1229,
-          "title": "‘FIN’: Eli Roth Made a Documentary About Sharks and It’s Swimming to Discovery+ [Trailer]"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3671141",
-          "author": "John Squires",
-          "description": "More werewolf horror is on the way, with Black Mandala announcing today that they’ve picked up director Mark Andrew Hamer‘s The Hunting. They’ve also unleashed the trailer. In the film, “When a mysterious animal attack leaves a mutilated body in the forest, a conservative small town detective must enlist the help of an eager wildlife specialist to uncover the dark […]",
-          "link": "https://bloody-disgusting.com/movie/3671141/werewolf-tearing-people-apart-hunting-later-year-trailer/",
-          "publishedOn": "2021-06-24T17:57:19.000Z",
-          "wordCount": 932,
-          "title": "A Werewolf is Tearing People Apart in ‘The Hunting’ Later This Year [Trailer]"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3671132",
-          "author": "John Squires",
-          "description": "This summer has been dubbed the “American Horror Summer” by FX, with “American Horror Stories” premiering in July and “American Horror Story: Double Feature” in August. For starters, the first *two* episodes of “American Horror Stories” will premiere July 15, exclusively on FX on Hulu, with “American Horror Story” Season 10 premiering August 25. Season 10 […]",
-          "link": "https://bloody-disgusting.com/tv/3671132/first-official-poster-american-horror-story-double-feature-teases-alien-invasion/",
-          "publishedOn": "2021-06-24T17:12:51.000Z",
-          "wordCount": 1135,
-          "title": "First Official Poster for “American Horror Story: Double Feature” Teases an Alien Invasion!"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3671025",
-          "author": "Mike Wilson",
-          "description": "Stunlock Studios has dropped another developer update for their upcoming vampire survival game V Rising, revealing new concept art and vampire design details with the game’s art director, Johan Wahlbäck. Not only that, but the update has given the devs a chance to answer some of the questions fans have had regarding the game’s atmosphere. […]",
-          "link": "https://bloody-disgusting.com/video-games/3671025/latest-dev-update-for-upcoming-vampire-survival-game-v-rising-explores-art-direction-and-design/",
-          "publishedOn": "2021-06-24T17:09:31.000Z",
-          "wordCount": 1444,
-          "title": "Latest Dev Update For Upcoming Vampire Survival Game ‘V Rising’ Explores Art Direction And Design"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3671126",
-          "author": "John Squires",
-          "description": "If you were feeling sad about this past Friday night’s somber sendoff from Joe Bob and Darcy, have no fear, because Shudder has reminded us today that the drive-in will never die. “The Last Drive-In With Joe Bob Briggs” will be back for a fourth season sometime next year *plus* additional specials to be announced […]",
-          "link": "https://bloody-disgusting.com/tv/3671126/last-drive-joe-bob-briggs-will-return-shudder-fourth-season/",
-          "publishedOn": "2021-06-24T17:03:28.000Z",
-          "wordCount": 1230,
-          "title": "“The Last Drive-In With Joe Bob Briggs” Will Return to Shudder for a Fourth Season!"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3671098",
-          "author": "John Squires",
-          "description": "If you haven’t been able to track down one of the complete collection sets, you’ll be happy to hear that some of the best Tremors sequels are getting their own Blu-rays this summer. Universal Studios will be releasing Tremors 2: Aftershocks (1996), Tremors 3: Back to Perfection (2001), and Tremors 4: The Legend Begins (2004) […]",
-          "link": "https://bloody-disgusting.com/home-video/3671098/tremors-2-aftershocks-tremors-3-tremors-4-getting-new-solo-blu-ray-releases-summer/",
-          "publishedOn": "2021-06-24T16:17:20.000Z",
-          "wordCount": 1199,
-          "title": "‘Tremors 2: Aftershocks’, ‘Tremors 3’ and ‘Tremors 4’ Getting New Solo Blu-ray Releases This Summer"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3669479",
-          "author": "Meagan Navarro",
-          "description": "Few subgenres evoke revulsion and cringe-inducing terror quite like body horror. Becoming a stranger in your own body as it mutates or transforms in grotesque ways is inherently terrifying. But, as horror masters David Lynch and David Cronenberg have established repeatedly, body horror often serves as a metaphor for the human condition beyond flesh and […]",
-          "link": "https://bloody-disgusting.com/sponsored/3669479/beware-new-flesh-gaia-return-body-horror/",
-          "publishedOn": "2021-06-24T16:00:48.000Z",
-          "wordCount": 1977,
-          "title": "Beware the New Flesh: ‘Gaia’ and the Return of Body Horror!"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3671014",
-          "author": "Mike Wilson",
-          "description": "Techland has teased an upcoming second episode of Dying Light 2‘s “Dying 2 Know” series, which will premiere on July 1 at 3PM ET on the developer’s Twitch channel. The teaser promises that the video will be dropping more info on just what’s waiting for you after dark when you venture out for supplies. As […]",
-          "link": "https://bloody-disgusting.com/video-games/3671014/techland-teases-more-dying-light-2-info-in-upcoming-dying-2-know-video-next-thursday/",
-          "publishedOn": "2021-06-24T15:56:28.000Z",
-          "wordCount": 1345,
-          "title": "Techland Teases More ‘Dying Light 2’ Info in Upcoming “Dying 2 Know” Video Next Thursday"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3671084",
-          "author": "John Squires",
-          "description": "Directed by Leigh Janiak (Honeymoon) and based upon the groundbreaking teen horror Fear Street books by R.L. Stine, Netflix’s Fear Street Trilogy has officially been rated “R,” with the first two movies in this summer’s spooky trilogy event rated by the MPA last week. This week, the rating for Fear Street Part 3: 1666 is in. And yes, it’s […]",
-          "link": "https://bloody-disgusting.com/movie/3671084/netflixs-fear-street-part-3-1666-gets-r-rating-strong-violence-gore/",
-          "publishedOn": "2021-06-24T15:52:31.000Z",
-          "wordCount": 1293,
-          "title": "Netflix’s ‘Fear Street Part 3: 1666’ Gets Its Own “R” Rating for “Strong Violence and Gore”"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3671074",
-          "author": "John Squires",
-          "description": "French filmmaker Julia Ducournau (Raw) is back this year with new movie Titane, and in the wake of this week’s teaser trailer we’ve been provided with some official poster art today. Titane refers to “A metal highly resistant to heat and corrosion, with high tensile strength alloys, often used in medical prostheses due to its pronounced biocompatibility.” […]",
-          "link": "https://bloody-disgusting.com/movie/3671074/titane-official-poster-raw-director-julia-ducournaus-new-movie-deepens-mystery/",
-          "publishedOn": "2021-06-24T15:32:55.000Z",
-          "wordCount": 931,
-          "title": "‘Titane’: Official Poster for ‘Raw’ Director Julia Ducournau’s New Movie Deepens the Mystery"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3671064",
-          "author": "John Squires",
-          "description": "Lionsgate’s Vestron Video Collector’s Series is back, with the label officially announcing this week that 1989’s Sundown: The Vampire in Retreat is the next to get a Blu-ray release. Directed by Anthony Hickox (Waxwork, Hellraiser III), the film stars Bruce Campbell and David Carradine, with Maxwell Caulfield, Morgan Brittany, Jim Metzler and John Ireland. “Reclusive vampires […]",
-          "link": "https://bloody-disgusting.com/home-video/3671064/bruce-campbell-david-carradine-starring-sundown-vampire-retreat-getting-vestron-blu-ray/",
-          "publishedOn": "2021-06-24T15:13:51.000Z",
-          "wordCount": 1200,
-          "title": "Bruce Campbell and David Carradine-Starring ‘Sundown: The Vampire in Retreat’ Getting Vestron Blu-ray"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3671050",
-          "author": "Brad Miska",
-          "description": "South Korean sales agency Finecut has picked up international rights to horror mystery Guimoon, a working title which translates as Ghost Door, Bloody Disgusting learned ahead of Cannes. Taking place in a secluded community center rumored to be cursed after a mysterious mass murder in 1990, the film follows a renowned paranormal investigator who lost […]",
-          "link": "https://bloody-disgusting.com/movie/3671050/finecut-enters-ghost-door-guimoon-another-dimension-screenx-8k-4dx/",
-          "publishedOn": "2021-06-24T14:51:04.000Z",
-          "wordCount": 1026,
-          "title": "Finecut Enters a ‘Ghost Door’ (‘Guimoon’) to Another Dimension in ScreenX and 8K 4DX"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3671037",
-          "author": "John Squires",
-          "description": "Being billed as a “horror love-story,” Luca Guadagnino‘s (Suspiria) next movie is titled Bones & All, with Timothée Chalamet and Taylor Russell (Escape Room) in the two starring roles. A first-look image of Chalamet and Russell has been shared this morning, along with some plot details that flesh out the storyline. Deadline notes that the film […]",
-          "link": "https://bloody-disgusting.com/movie/3671037/bones-first-look-timothee-chalamet-cannibal-love-story-suspiria-director-luca-guadagnino/",
-          "publishedOn": "2021-06-24T14:43:39.000Z",
-          "wordCount": 1001,
-          "title": "‘Bones & All’: First Look at Timothée Chalamet in Cannibal Love Story from ‘Suspiria’ Director Luca Guadagnino"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3671013",
-          "author": "Brad Miska",
-          "description": "Filmax has had its share of great horror films in the past ([REC], Sleep Tight, Darkness, Muse, Summer Camp, The Darkness, The Machinist) and continues to bring the goods by acquiring the psychological thriller Visitor, about a woman in the middle of a marital crisis who is stalked by an unknown entity on return to […]",
-          "link": "https://bloody-disgusting.com/movie/3671013/filmax-adds-psychological-thriller-visitor-cannes-slate-image/",
-          "publishedOn": "2021-06-24T14:22:34.000Z",
-          "wordCount": 1083,
-          "title": "Filmax Adds Psychological Thriller ‘Visitor’ to Cannes Slate [Image]"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3670993",
-          "author": "Mike Wilson",
-          "description": "While this bit of news probably isn’t going to lead to Sony finally giving Bloodborne fans what they want (at least, not for now), it does show that fans are still very much interested in From Software’s PS4 title, even on PC. According to PlayStation Blog, Bloodborne is the most-played PS Now game for the […]",
-          "link": "https://bloody-disgusting.com/video-games/3670993/bloodborne-tops-list-of-pc-streamed-games-on-ps-now-service/",
-          "publishedOn": "2021-06-24T14:21:07.000Z",
-          "wordCount": 1401,
-          "title": "‘Bloodborne’ Tops List of PC Streamed Games on PS Now Service"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3670964",
-          "author": "Lauren Shand",
-          "description": "We are beyond to thrilled to announce Bleeders DIEgest, the newest addition to The Bloody Disgusting Podcast Network – joining the lineup alongside Creepy, Knight Light, SCP Archives, The Bloody Disgusting Podcast, Margaret’s Garden, The Loser’s Club, Halloweenies, Horror Queers and The Boo Crew. Bleeders DIEgest is an experience from where nightmares are born. Each […]",
-          "link": "https://bloody-disgusting.com/podcasts/3670964/bloody-disgusting-podcast-network-launches-original-scripted-horror-anthology-bleeders-diegest/",
-          "publishedOn": "2021-06-24T14:16:16.000Z",
-          "wordCount": 1581,
-          "title": "Bloody Disgusting Podcast Network Launches Original Scripted Horror Anthology ‘Bleeders DIEgest’!"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3671017",
-          "author": "John Squires",
-          "description": "French filmmaking duo Julien Maury and Alexandre Bustillo, best known for their ultra-violent Inside, as well as Livid and Leatherface, are next diving into aquatic horror with The Deep House, in which a couple of divers discover a haunting in the depths of a lake. Yes, we’re talking about an aquatic horror haunted house movie, a mix that has us very, very excited. […]",
-          "link": "https://bloody-disgusting.com/movie/3671017/underwater-haunted-house-movie-deep-house-acquired-blumhouse-epix-premiere/",
-          "publishedOn": "2021-06-24T14:06:38.000Z",
-          "wordCount": 996,
-          "title": "Underwater Haunted House Movie ‘The Deep House’ Acquired by Blumhouse for EPIX Premiere"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3671010",
-          "author": "Brad Miska",
-          "description": "ScreenDaily shares today a first look at Golden Globe Award winner Jonathan Rhys Meyers (“The Tudors,” “Dracula”) in The Good Neighbor, a new Cannes thriller directed by Stephan Rick (The Dark Side of the Moon, The Super), from a script by Rick and Ross Partridge (“Room 104”). Luke Kleintank (Midway, “The Man in the High Castle”) also stars in […]",
-          "link": "https://bloody-disgusting.com/movie/3671010/heres-look-jonathan-rhys-meyers-good-neighbor-remake-german-thriller-unter-nachbarn/",
-          "publishedOn": "2021-06-24T13:54:30.000Z",
-          "wordCount": 979,
-          "title": "Here’s a Look at Jonathan Rhys Meyers in ‘The Good Neighbor’, a Remake of German Thriller ‘Unter Nachbarn’"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3670997",
-          "author": "Jason Jenkins",
-          "description": "phantom limb /ˈfan(t)əm’lim/ n. an often painful sensation of the presence of a limb that has been amputated. Welcome to Phantom Limbs, a recurring feature which will take a look at intended yet unproduced horror sequels and remakes – extensions to genre films we love, appendages to horror franchises that we adore – that were sadly […]",
-          "link": "https://bloody-disgusting.com/exclusives/3670997/candyman-iv-tony-todd-revisits-winter-set-sequel-never-made-phantom-limbs/",
-          "publishedOn": "2021-06-24T13:29:00.000Z",
-          "wordCount": 3408,
-          "title": "‘Candyman IV’: Tony Todd Revisits the Winter-Set Sequel That Was Never Made [Phantom Limbs]"
         }
       ]
     },
@@ -14363,6 +13841,69 @@
       "feedUrl": "https://www.broadstreethockey.com/rss/current.xml",
       "siteUrl": "https://www.broadstreethockey.com/",
       "articles": [
+        {
+          "id": "https://www.broadstreethockey.com/2021/7/24/22592219/2021-nhl-draft-philadelphia-flyers-select-owen-mclaughlin-206th-overall",
+          "author": null,
+          "description": "Photo by Len Redkoles/NHLI via Getty Images\n    \n\n  \nA center, at long last.\n That’s all, folks! The Flyers have made their final* selection of the 2021 Entry Draft and picked up center Owen McLaughlin. \n*unless they very quickly make another trade and add a second seventh round pick at the last minute to make me look liar. \nMcLaughlin spent the bulk of his season playing at the U18 AAA level with Mount St. Charles Academy, where he put up a decidedly not too shabby 16 goals and 38 assists in 33 games played. \nHe also had a brief run playing with the US NTDP at the end of the season, with four and seven games in that USHL/USDP split. He didn’t pick up any points in that span, but getting that opportunity in the first place is no small accomplishment. And between that and McLaughlin’s scoring numbers at the high school level, there’s a whole lot that’s interesting about his profile. And coming in the seventh round, it’s a really nice low risk pick with the potential for a high reward. \nWe also cannot resist mentioning that he’s pretty close to a Philly local, hailing from Spring City, PA. \nPer Flyers AGM Brent Flahr, McLaughlin will be going to Sioux City of the USHL next season, but once he moves on to the NCAA level, he’s committed to play at Penn State, and should be a nice addition to their program there.",
+          "link": "https://www.broadstreethockey.com/2021/7/24/22592219/2021-nhl-draft-philadelphia-flyers-select-owen-mclaughlin-206th-overall",
+          "publishedOn": "2021-07-24T21:58:35.000Z",
+          "wordCount": 660,
+          "title": "2021 NHL Draft: Flyers select Owen McLaughlin 206th overall"
+        },
+        {
+          "id": "https://www.broadstreethockey.com/2021/7/24/22592165/2021-nhl-draft-philadelphia-flyers-select-ethan-samson-174th-overall",
+          "author": null,
+          "description": "Photo by Marissa Baecker/Getty Images\n    \n\n  \nMore and more defensemen!\n Another pick, another defenseman. The Flyers are on a roll here, and they’ve picked up a third defenseman in a row with their sixth round, 174th overall pick in Ethan Samson. \nA product of the Prince George Cougars of the WHL, Samson is a right shot defenseman with decent size (6’1”, 194 pounds). While the Flyers’ first two pickups of the day on defense brought a bit more of a dynamic offensive game, Samson falls more into the mold of a defensive-defenseman. He was able to get a bit of power play time this season on top of his even strength and penalty kill responsibilities, and was still able to bring a bit of scoring to the table, with 12 points in his 22 games played. So there is a bit of offensive upside there, but it’s really Samson’s defensive game that stands out. \nHe has a good motor and brings a nice bit of physicality. He anticipates plays well and brings a good defensive awareness, and we see that working well both in the defensive zone and at the blue line, as he works on breaking up entries. But he also still skates and passes well, so there is still a good bit of dynamic skill to his game, it’s not as though he’s just a one trick defensive pony, if you will. \nAnd the pipeline fills out further at defense!",
+          "link": "https://www.broadstreethockey.com/2021/7/24/22592165/2021-nhl-draft-philadelphia-flyers-select-ethan-samson-174th-overall",
+          "publishedOn": "2021-07-24T21:06:40.000Z",
+          "wordCount": 660,
+          "title": "2021 NHL Draft: Flyers select Ethan Samson 174th overall"
+        },
+        {
+          "id": "https://www.broadstreethockey.com/2021/7/24/22592060/2021-nhl-draft-philadelphia-flyers-select-ty-murchison-158th-overall",
+          "author": null,
+          "description": "Photo by Carlee Calfee/NHLI via Getty Images\n    \n\n  \nAnother defenseman from California, you say?\n How are we holding up, Flyers fans? The draft is still happening, the picks are rolling in, and the Flyers have picked up another defenseman!\nWith their 158th overall pick, the Flyers have selected Ty Murchison from the US National Team Development Program. Murchison put up modest scoring numbers in his draft year, with three goals and two assists in 23 games played (USHL) and seven goals and eight assists in 48 games played (USDP). He brings good size (6’2”, 192 pounds), but could still stand to get a little stronger. And while there’s still some polishing that needs to go into his game, all told, there’s a lot to like. He’s a smooth skater, and strong passer, and can transition the puck well. He brings a quick shot that he can get through traffic well, and that’s made him particularly effective on the power play. His defensive game needs some polishing, but his instincts are generally good, and he’s able to make use of good stick work to break up plays. The fundamentals are good. \nAnd we have two fun facts!\nTy Murchison, just picked up by the Flyers is a converted inline player. Headed to Arizona State next season. Told us at the U18s that Aidan Hreschuk, picked by Carolina in the third round, was one of the players who helped him convert to ice.\n— Chris Peters (@chrismpeters) July 24, 2021\n\n\n\nHe also joins the likes of Cam York and Jack St. Ivany in the group of Flyers defense prospects from California, which is pretty neat!\nMurchison will kick off his collegiate career with an Arizona State University program that just seems to be on the rise.",
+          "link": "https://www.broadstreethockey.com/2021/7/24/22592060/2021-nhl-draft-philadelphia-flyers-select-ty-murchison-158th-overall",
+          "publishedOn": "2021-07-24T20:49:25.000Z",
+          "wordCount": 711,
+          "title": "2021 NHL Draft: Flyers select Ty Murchison 158th overall"
+        },
+        {
+          "id": "https://www.broadstreethockey.com/2021/7/24/22591967/2021-nhl-draft-philadelphia-flyers-select-brian-zanetti-110th-overall",
+          "author": null,
+          "description": "Photo by Brian Born/NHLI via Getty Images\n    \n\n  \nAnd now a defenseman!\n The draft keeps on rolling, and the Flyers have just made their third pick. In the fourth round, with the 110th overall pick, the Flyers have selected defenseman Brian Zanetti.\nRound 4️⃣, Pick 1️⃣1️⃣0️⃣\nWe have selected defenseman Brian Zanetti! pic.twitter.com/XiuSxekKoK\n— Philadelphia Flyers (@NHLFlyers) July 24, 2021\n\n\n\nZanetti, a 6’2” left shot defenseman, spent this season playing with Lugano of the Swiss U20 league, and he was able to put up nine goals and 20 assists in 41 games played. He also captained Switzerland’s U18 team in this year’s tournament, where he also picked up two points in in eight games. \nA smooth skater and clean passer, Zanetti is a nice addition to the Flyers’ group of mobile, strong puck moving defensemen that they’re building up in the pipeline. Zanetti was supposed to play in Peterborough of the OHL this season, but with their season never getting rolling, he opted to stay in Switzerland. He did confirm to the media this afternoon that he plans to come over to play in Peterborough next season, though. \nAnother fine pickup for the Flyers.",
+          "link": "https://www.broadstreethockey.com/2021/7/24/22591967/2021-nhl-draft-philadelphia-flyers-select-brian-zanetti-110th-overall",
+          "publishedOn": "2021-07-24T19:19:21.000Z",
+          "wordCount": 610,
+          "title": "2021 NHL Draft: Flyers select Brian Zanetti 110th overall"
+        },
+        {
+          "id": "https://www.broadstreethockey.com/2021/7/24/22591865/2021-nhl-draft-philadelphia-flyers-select-aleksei-kolosov-78th-overall",
+          "author": null,
+          "description": "Photo by Carlee Calfee/NHLI via Getty Images\n    \n\n  \nAnother goalie enters the mix\n With their third round pick of the 2021 Draft, the Flyers have selected Belarusian goaltender Aleksei Kolosov. \nAdded quick instincts and high-skill to our goaltending prospect pool with Alexei Kolosov (@khl_eng). \nDraft Blog: https://t.co/4KyV6d6U8f https://t.co/qhqzNkMHLs pic.twitter.com/8SlcMQ47h1\n— Philadelphia Flyers (@NHLFlyers) July 24, 2021\n\n\n\nKolosov, who was passed over in last year’s draft, spent much of this season with Dinamo Minsk of the KHL. While his usage there was a bit limited, he posted solid results as a teenager playing in a professional league. He only played in nine games, but he posted a .911 save percentage in those games. \nThough not the biggest player in terms of what we normally see in goaltenders (Kolosov is listed at 6’1” and 187 pounds), his skillset is undeniably an intriguing one. Kolosov brings very good quickness, and also generally good positioning on top of that. He’s economic in his movements, angles well, and flexes quite solid rebound control. There’s a definite calmness to his play, both in his ability to maintain control of his movements when he does have to move quickly, but also in how he rarely seems to get rattled when the game may not be going his way. \nCertainly there’s still a good bit of work that needs to be done to clean up and develop his game, but the Flyers seem willing to give him the time to develop, and are hoping to add a nice bit of organizational depth and further bolster their goaltender prospect pipeline.",
+          "link": "https://www.broadstreethockey.com/2021/7/24/22591865/2021-nhl-draft-philadelphia-flyers-select-aleksei-kolosov-78th-overall",
+          "publishedOn": "2021-07-24T18:11:45.000Z",
+          "wordCount": 678,
+          "title": "2021 NHL Draft: Flyers select Aleksei Kolosov 78th overall"
+        },
+        {
+          "id": "https://www.broadstreethockey.com/2021/7/24/22591777/nhl-philadelphia-flyers-trade-jakub-voracek-to-columbus-for-cam-atkinson",
+          "author": null,
+          "description": "Photo by Len Redkoles/NHLI via Getty Images\n    \n\n  \nTrades abound!\n The Flyers’ busy summer continues, and as we’re just settling into day 2 of the draft, the Flyers dropped another trade on us, and it’s a big one. \nThe Flyers have announced that they’ve traded Jake Voracek to the Columbis Blue Jackets in exchange for Cam Atkinson. *Bob McKenzie voice* the trade is one for one. \nAtkinson is coming off of a respectable (if not a little down) season, which saw him post 15 goals and 19 assists, for 34 points in 56 games on a struggling Blue Jackets team. \nCam Atkinson (traded to Philadelphia) is a good 5v5 play-driver, a little underwhelming on the power-play, finishing not great. pic.twitter.com/nRD6TV6J6a\n— Micah Blake McCurdy (@IneffectiveMath) July 24, 2021\n\n\n\nThere are a few different areas of interesting trade-offs that come with this trade. The Flyers lose a bit of the scoring game that they had with Voracek, but they gain a stronger play driver. Atkinson and Voracek are the same age, and while Atkinson is signed for four more years (one more than Voracek), his cap hit is just $5.875 million, so the Flyers do free up $2.375 million in cap space. \nAnd, of course, we’d be remiss if we didn’t also mention in the locker room implications of this move. There has been talk for a while about the mix with this Flyers team, in the locker room, not being right somehow, and the core being in need of a shake-up. And, well, moving out one of the team’s longest tenured players certainly achieves just that. \nWhat’s more, Atkinson was part of the leadership group in Columbus, and while it may not be fair to assume that he’ll immediately step into a similar role in Philadelphia, he remains a new voice with that leadership experience, and that hardly seems like a bad thing. \nIt’s been a busy offseason, to be sure, and next season’s new look Flyers are continuing to evolve.",
+          "link": "https://www.broadstreethockey.com/2021/7/24/22591777/nhl-philadelphia-flyers-trade-jakub-voracek-to-columbus-for-cam-atkinson",
+          "publishedOn": "2021-07-24T16:32:31.000Z",
+          "wordCount": 751,
+          "title": "Flyers trade Jakub Voracek to Columbus in exchange for Cam Atkinson"
+        },
+        {
+          "id": "https://www.broadstreethockey.com/2021/7/24/22591829/2021-nhl-draft-samu-tuomaala-philadelphia-flyers-mock-rankings",
+          "author": null,
+          "description": "Photo by Carlee Calfee/NHLI via Getty Images\n    \n\n  \nWith their first pick of the 2021 NHL Draft, Philadelphia got a high-scoring Finnish forward\n With the 46th pick of the 2021 NHL Draft, the Philadelphia Flyers selected Samu Tuomaala, a right winger playing for Kärpät in the Finnish Liiga.\nWith the 46th pick in the 2021 #NHLDraft, we have selected forward Samu Tuomaala! pic.twitter.com/EbkNiAmRmt\n— Philadelphia Flyers (@NHLFlyers) July 24, 2021\n\n\n\nDue to the acquisition of Rasmus Ristolainen — no matter how you feel about it — the Flyers took the night off on Friday and are making their first pick in the second round. In Tuomaala they got a fairly flashy player that was ranked anywhere from the top-20 to the middle of the second round by several scouting services.\n\nHe spent most of the season in the U20 junior league but got a total of five games playing in the top Finnish division, among men — so at least he has that experience and will most likely stay up there for longer next season.\nAs we inch closer to the 2021 NHL Draft, I would just like to bless everybody's timeline with a video of Samu Tuomaala chuckin cross-ice sauce at the u18 Worlds pic.twitter.com/EBoLTyeQQt\n— Spoked Z (@SpokedZ) July 16, 2021\n\n\n\nFor their first pick, it’s certainly a high-ceiling of a pick that could potentially pan out as a solid middle-six winger that can contribute on the powerplay. Given the fact that the Flyers have really tried to nail down those offensive players, selecting either Bobby Brink or Tyson Foerster with their top picks in recent years, in Tuomaala they got a similar projection of a player.\nHe skates fast and shoots the puck a lot. That’s the simple notion of his game.",
+          "link": "https://www.broadstreethockey.com/2021/7/24/22591829/2021-nhl-draft-samu-tuomaala-philadelphia-flyers-mock-rankings",
+          "publishedOn": "2021-07-24T16:19:17.000Z",
+          "wordCount": 727,
+          "title": "2021 NHL Draft: Flyers select Samu Tuomaala at 46th overall"
+        },
         {
           "id": "https://www.broadstreethockey.com/2021/7/23/22591094/nhl-draft-2021-round-1-open-thread-picks-discussion-philadelphia-flyers-chuck-fletcher-why",
           "author": null,
@@ -15019,51 +14560,6 @@
           "publishedOn": "2021-06-25T13:30:00.000Z",
           "wordCount": 453,
           "title": "BSH Radio #311: The Hak-ken rising"
-        },
-        {
-          "id": "https://www.broadstreethockey.com/2021/6/25/22549580/friday-morning-fly-by-kraken-up",
-          "author": null,
-          "description": "Photo by Len Redkoles/NHLI via Getty Images\n    \n\n  \nToday’s open discussion thread, complete with your daily dose of Flyers news and notes…  \n *The newly-formed NHL franchise in Seattle took a look around the league, at the group of 35 or so men deemed qualified to be an NHL head coach, and said, “It’s Dave Hakstol. Dave Hakstol will lead us.” What a time to be alive. [BSH]\n*Dave was in Toronto this season, so here’s what the folks covering them had to say about it. [Pension Plan Puppets]\n*Speaking of the Kraken, we’re going to start looking at the players that are most likely to be chosen in the draft, starting with the most obvious choice. [BSH]\n*Anyway, the Flyers. The Jack Eichel buzz continues for now. [NBC Sports Philly]\n*Shayne Gostisbehere had a good season. A genuinely good season. What does that mean for his future with the Flyers? [The Athletic]\n*Let’s take a look at this defensemen-on-the-market situation. There are a lot of options Chuck can go with, which is good. [Inquirer]\n*The Flyers will also need a backup goaltender, probably. Some options there as well. [On The Forecheck]\n*Next up on our draft board is a kid called Chaz. How could you possibly go wrong with a kid named Chaz? [BSH]\n*Rumours abound, friends! And they will for the foreseeable. [Sportsnet]\n*And finally, we evaluate players in a bad way. All of us. We just do. [BSH]",
-          "link": "https://www.broadstreethockey.com/2021/6/25/22549580/friday-morning-fly-by-kraken-up",
-          "publishedOn": "2021-06-25T10:00:00.000Z",
-          "wordCount": 659,
-          "title": "Friday Morning Fly By: Kraken up"
-        },
-        {
-          "id": "https://www.broadstreethockey.com/2021/6/24/22548579/nhl-scouting-dougie-hamilton-free-agency-philadelphia-flyers",
-          "author": null,
-          "description": "Photo by Bruce Bennett/Getty Images\n    \n\n  \nIt’s all about looks.\n I am going to made it really clear, before anything else is said, that I am not a professional scout, or even someone that evaluates hockey players on a serious level. I wouldn’t take my opinion of a player and run with it, making it the concrete fact or something to base your opinion on. Even still, there’s a clear problem with how people and those people that are in power to make organizational decisions, evaluate and judge hockey players on the ice.\nEveryone has experienced this before. Whether you’re at school or at your mind-numbingly desolate desk job, there are moments where your superior comes around and you panic. Your heart starts racing because you simply do not have anything to do. Maybe you have already finish…",
-          "link": "https://www.broadstreethockey.com/2021/6/24/22548579/nhl-scouting-dougie-hamilton-free-agency-philadelphia-flyers",
-          "publishedOn": "2021-06-24T17:45:00.000Z",
-          "wordCount": 1851,
-          "title": "There’s a problem in how we judge NHL players"
-        },
-        {
-          "id": "https://www.broadstreethockey.com/2021/6/24/22548903/seattle-kraken-name-dave-hakstol-first-ever-head-coach-in-franchise-history",
-          "author": null,
-          "description": "Photo by Len Redkoles/NHLI via Getty Images\n    \n\n  \nThe Kraken found their guy, apparently!\n Former Flyers head coach Dave Hakstol is getting a second chance as an NHL team’s bench boss, and it’s with the Seattle Kraken.\nSEATTLE, WE GOT OUR GUY!\nDave Hakstol (@hakstol2), has been named the the first-ever head coach in #SeaKraken history!\nGet to know our new bench boss → https://t.co/uiBhw09CfE pic.twitter.com/fe9p7Hry64\n— Seattle Kraken (@SeattleKraken) June 24, 2021\n\n\n\nThere were several names being thrown around as potential candidates to become Seattle’s first-ever head coach — Rick Tocchet, Bruce Boudreau and Tony Granato among them. But Hakstol earning the head coaching gig was not something many saw coming, especially due to his lack of success as head coach of the Flyers and, more …",
-          "link": "https://www.broadstreethockey.com/2021/6/24/22548903/seattle-kraken-name-dave-hakstol-first-ever-head-coach-in-franchise-history",
-          "publishedOn": "2021-06-24T17:12:37.000Z",
-          "wordCount": 1009,
-          "title": "Seattle Kraken name Dave Hakstol first-ever head coach in franchise history"
-        },
-        {
-          "id": "https://www.broadstreethockey.com/2021/6/24/22547125/philadelphia-flyers-nhl-draft-2021-chaz-lucius",
-          "author": null,
-          "description": "Getty Images\n    \n\n  \nThe ultra-offensive forward is next on our board.\n Chaz Lucius can potentially be a mid-first round steal. The electric forward missed a significant amount of time due to multiple injuries — whether it was recovering from surgery or getting sick before the Under-18 Worlds — but when he was healthy, he put on a clinic on how to score heaps and piles and heaps of goals.\nA mid-sized center that just gets to the front of his opponent’s net and makes their goaltender have a miserable time, he is able to get his shots off in that dangerous area and just simply produces from that spot on the ice. Every team needs to have a pigeon and Lucius can potentially be one of the best at the top level at shoveling pucks into the back of the net.\nHe’s a unique player and one that will …",
-          "link": "https://www.broadstreethockey.com/2021/6/24/22547125/philadelphia-flyers-nhl-draft-2021-chaz-lucius",
-          "publishedOn": "2021-06-24T14:30:00.000Z",
-          "wordCount": 1783,
-          "title": "BSH 2021 Community Draft Board, No. 13: Chaz Lucius"
-        },
-        {
-          "id": "https://www.broadstreethockey.com/2021/6/24/22545757/seattle-kraken-philadelphia-flyers-james-van-riemsdyk-expansion-draft-selection-2021-analysis",
-          "author": null,
-          "description": "Photo by Bruce Bennett/Getty Images\n    \n\n  \nCould the Flyers lose one of their most productive forwards from 2021 in the expansion draft?\n As the Flyers prepare for the offseason to get busy, they are now officially less than a month away from the summer’s first major off-ice event: the Seattle Kraken’s Expansion Draft. Set to take place on July 21, the NHL’s 32nd team will select its initial roster like Vegas did four years earlier.\nFor an initial read on the rules for Seattle’s draft, and how the Flyers should be prepared to handle it, you can read this from March of last year. Shockingly little has changed in terms of the Flyers’ expansion outlook since then, other than the fact that Scott Laughton’s contract extension makes him a likely protected piece for the Flyers and as such takes…",
-          "link": "https://www.broadstreethockey.com/2021/6/24/22545757/seattle-kraken-philadelphia-flyers-james-van-riemsdyk-expansion-draft-selection-2021-analysis",
-          "publishedOn": "2021-06-24T13:30:00.000Z",
-          "wordCount": 1940,
-          "title": "Aspiring Krakens: James van Riemsdyk"
         }
       ]
     },
@@ -15072,6 +14568,34 @@
       "feedUrl": "https://indyweek.com/api/rss/content.rss",
       "siteUrl": "https://indyweek.com/api/rss/content.rss",
       "articles": [
+        {
+          "id": "https://indyweek.com/news/ninth-street-journal/smarty-pints-fullsteam-to-celebrate-its-500th-trivia-night/",
+          "author": "Grace Abels",
+          "description": "With categories like \"Famous Elves\" and \"Things that Spin,\" the Durham brewery has tested the city's greatest minds every week.",
+          "link": "https://indyweek.com/news/ninth-street-journal/smarty-pints-fullsteam-to-celebrate-its-500th-trivia-night/",
+          "publishedOn": "2021-07-24T16:19:20.000Z",
+          "wordCount": 1404,
+          "title": "Smarty Pints: Fullsteam Brewery to Celebrate Its 500th Trivia Night",
+          "enclosure": {
+            "url": "https://indyweek.com/downloads/82629/download/Arturo%20fullsteam.JPG?cb=6f559f669acce503e578013f93b8522d",
+            "type": "image/jpeg",
+            "length": "2263210"
+          }
+        },
+        {
+          "id": "https://indyweek.com/news/northcarolina/sunday-fun-day-three-things-to-do-in-the-triangle-sunday-72521/",
+          "author": "Leigh Tauss",
+          "description": "Attend a Bhangra dance class, play some board games, or see a historical horror show.",
+          "link": "https://indyweek.com/news/northcarolina/sunday-fun-day-three-things-to-do-in-the-triangle-sunday-72521/",
+          "publishedOn": "2021-07-24T15:52:19.000Z",
+          "wordCount": 715,
+          "title": "Sunday Fun Day! Three Things to Do in the Triangle Sunday.",
+          "enclosure": {
+            "url": "https://indyweek.com/downloads/82628/download/sade.jpeg?cb=ce44d5be655bbcda0e64d5f4918e820b",
+            "type": "image/jpeg",
+            "length": "56857"
+          }
+        },
         {
           "id": "https://indyweek.com/music/features/2021-hopscotch-lineup-announced/",
           "author": "Jordan Lawrence",
@@ -16583,34 +16107,6 @@
             "type": "image/jpeg",
             "length": "515921"
           }
-        },
-        {
-          "id": "https://indyweek.com/news/northcarolina/sunday-fun-day-three-things-to-do-in-the-triangle-627/",
-          "author": "Leigh Tauss",
-          "description": "Bluegrass, bluegrass, and more bluegrass.",
-          "link": "https://indyweek.com/news/northcarolina/sunday-fun-day-three-things-to-do-in-the-triangle-627/",
-          "publishedOn": "2021-06-24T20:45:18.000Z",
-          "wordCount": 798,
-          "title": "Sunday Fun Day! Three Things to Do in the Triangle.",
-          "enclosure": {
-            "url": "https://indyweek.com/downloads/82484/download/bluegrasss.jpeg?cb=96567e4c9737e68100d02184a7b4c3e5",
-            "type": "image/jpeg",
-            "length": "58949"
-          }
-        },
-        {
-          "id": "https://indyweek.com/news/northcarolina/three-things-to-do-this-saturday-626/",
-          "author": "Leigh Tauss",
-          "description": "Looking to spice things up? See a drag show or learn to cook Cajun-style.",
-          "link": "https://indyweek.com/news/northcarolina/three-things-to-do-this-saturday-626/",
-          "publishedOn": "2021-06-24T20:32:27.000Z",
-          "wordCount": 682,
-          "title": "Three Things to Do in the Triangle Saturday",
-          "enclosure": {
-            "url": "https://indyweek.com/downloads/82483/download/drag%20live.jpeg?cb=179daa05e9592fdbde566771fbe6a2c8",
-            "type": "image/jpeg",
-            "length": "65820"
-          }
         }
       ]
     },
@@ -17408,56 +16904,6 @@
           "wordCount": null,
           "title": "SPELLLING, “The Turning Wheel”",
           "itunes": {}
-        },
-        {
-          "id": "141076",
-          "author": "Marcus J. Moore",
-          "description": "For Taja Cheek, aka L'Rain, “Fatigue” is a therapeutic release meant to aid her own healing; that listeners can understand it is a plus.\nRead full story on the Bandcamp Daily.",
-          "link": "https://daily.bandcamp.com/features/lrain-fatigue-interview",
-          "publishedOn": "2021-06-24T17:48:44.000Z",
-          "wordCount": null,
-          "title": "L’Rain’s “Fatigue” Captures the Everyday Nuances of Black Life",
-          "itunes": {}
-        },
-        {
-          "id": "141076",
-          "author": "Eliana Rodgers",
-          "description": "For Taja Cheek, aka L'Rain, “Fatigue” is a therapeutic release meant to aid her own healing; that listeners can understand it is a plus.\nRead full story on the Bandcamp Daily.",
-          "link": "https://daily.bandcamp.com/features/lrain-fatigue-interview",
-          "publishedOn": "2021-06-24T17:48:44.000Z",
-          "wordCount": null,
-          "title": "L’Rain’s “Fatigue” Captures the Everyday Nuances of Black Life",
-          "itunes": {}
-        },
-        {
-          "id": "140918",
-          "author": "Eli Schoop",
-          "description": "There’s a true love for electronic sound on the final release from Tom Platt, aka EVACOM.\nRead full story on the Bandcamp Daily.",
-          "link": "https://daily.bandcamp.com/hidden-gems/evacom-fragments-of-a-hologram-rose",
-          "publishedOn": "2021-06-24T13:42:56.000Z",
-          "wordCount": null,
-          "title": "EVACOM’s Final Transmission",
-          "itunes": {}
-        },
-        {
-          "id": "140895",
-          "author": "Andrew Parks",
-          "description": "From bubbling techno to arty, Bowie-esque pop, Dear’s albums stand apart. \nRead full story on the Bandcamp Daily.",
-          "link": "https://daily.bandcamp.com/lists/matthew-dear-discography-list",
-          "publishedOn": "2021-06-24T13:42:13.000Z",
-          "wordCount": null,
-          "title": "Matthew Dear Reflects on His Avant-Pop Discography",
-          "itunes": {}
-        },
-        {
-          "id": "141111",
-          "author": "Chaka V. Grier",
-          "description": "The Montréal-based R&B singer's album tackles the highs and lows of love.\nRead full story on the Bandcamp Daily.",
-          "link": "https://daily.bandcamp.com/album-of-the-day/janette-king-what-we-lost-review",
-          "publishedOn": "2021-06-24T13:41:48.000Z",
-          "wordCount": null,
-          "title": "Janette King, “What We Lost”",
-          "itunes": {}
         }
       ]
     },
@@ -17780,15 +17226,6 @@
           "publishedOn": "2021-06-26T00:51:38.322Z",
           "wordCount": 3643,
           "title": "What I Learned from the Nonprofit News Revolution"
-        },
-        {
-          "id": "https://www.cjr.org/the_media_today/britney_spears_conservatorship_media.php",
-          "author": null,
-          "description": "#FreeBritney. That hashtag—once derided, in many quarters, as a conspiratorial fan obsession—lit up both social and traditional media again this week, as the pop star Britney Spears prepared to testify in a court hearing about her conservatorship, a legal arrangement that, since 2008, has given guardians led by Spears’s father control over key aspects of […]",
-          "link": "https://www.cjr.org/the_media_today/britney_spears_conservatorship_media.php",
-          "publishedOn": "2021-06-25T00:58:04.623Z",
-          "wordCount": 2725,
-          "title": "Britney Spears fills a hole in her narrative"
         }
       ]
     },
@@ -17973,21 +17410,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Faf3ca7d7-3ee1-4a36-9a83-edee9484d5b9_700x350.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          }
-        },
-        {
-          "id": "https://www.platformer.news/p/microsoft-comes-for-the-creators",
-          "author": "Casey Newton",
-          "description": "Is it pro-competitive — or monopoly maintenance? PLUS: The House bills pass committee",
-          "link": "https://www.platformer.news/p/microsoft-comes-for-the-creators",
-          "publishedOn": "2021-06-25T00:00:54.000Z",
-          "wordCount": null,
-          "title": "Microsoft comes for the creators",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8e020b61-c28f-4507-84a7-e480205f3bfa_1000x750.jpeg",
             "length": "0",
             "type": "image/jpeg"
           }
@@ -18466,60 +17888,6 @@
           "publishedOn": "2021-06-29T07:00:00.000Z",
           "wordCount": 571,
           "title": "NSFW! DEATH, PISS, WOUNDS, SEX & ROACHES…"
-        },
-        {
-          "id": "https://cvltnation.com/?p=282194",
-          "author": "Sean Reveron",
-          "description": "WTF—something about this new CHAIN CULT video “We’re Not Alone” gives me chills and brings tears to my eyes. Being a child of DIY culture, I know the sacrifices we all make to keep this community alive globally. It’s such a beautiful thing to know that the spirit of community travels all around the world! […]\nThe post WTF! Watch this CHAIN CULT DIY Post Punk Anthem! first appeared on CVLT Nation.",
-          "link": "https://cvltnation.com/wtf-watch-this-chain-cult-diy-post-punk-anthem/",
-          "publishedOn": "2021-06-25T12:00:00.000Z",
-          "wordCount": 617,
-          "title": "WTF! Watch this CHAIN CULT DIY Post Punk Anthem!"
-        },
-        {
-          "id": "https://cvltnation.com/?p=282237",
-          "author": "Meghan",
-          "description": "You know when post-punk is done so right that every note falls into perfect place? So that it starts to bleed into your veins, and pump through you with a beat indistinguishable from your own heart? That’s what I’m getting from the gorgeous new ROPES OF NIGHT record I’m listening to. It’s coming at the […]\nThe post Fall on the Frozen Post-Punk Ground of ROPES OF NIGHT “Another Closing Door” first appeared on CVLT Nation.",
-          "link": "https://cvltnation.com/fall-on-the-frozen-post-punk-ground-of-ropes-of-night-another-closing-door/",
-          "publishedOn": "2021-06-25T11:00:00.000Z",
-          "wordCount": 813,
-          "title": "Fall on the Frozen Post-Punk Ground of ROPES OF NIGHT “Another Closing Door”"
-        },
-        {
-          "id": "https://cvltnation.com/?p=282213",
-          "author": "Meghan",
-          "description": "So much dark truth is being exposed every day it’s overwhelming. It can be really difficult to find oxygen in a society that feels like it’s sinking deeper into the mire of its own karma every day. At the same time, we need energy and inspiration to keep moving and haul ourselves out of the […]\nThe post Float away on the dreamy Art Pop of JOHNNY DYNAMITE & THE BLOODSUCKERS “Bats In The Woods” first appeared on CVLT Nation.",
-          "link": "https://cvltnation.com/float-away-on-the-dreamy-art-pop-of-johnny-dynamite-the-bloodsuckers-bats-in-the-woods/",
-          "publishedOn": "2021-06-25T10:00:00.000Z",
-          "wordCount": 714,
-          "title": "Float away on the dreamy Art Pop of JOHNNY DYNAMITE & THE BLOODSUCKERS “Bats In The Woods”"
-        },
-        {
-          "id": "https://cvltnation.com/?p=282206",
-          "author": "Sean Reveron",
-          "description": "The slow-moving dark beauty of Depleted’s Nick Cave and the Bad Seeds cover of “The Mercy Seat” is suffocating bliss! This band reworks this hymn into their own Death Doom hymn of despair. While listening to this song, I can’t help but think about the unholy treatment that Indigenous People and African People have endured at […]\nThe post Experience DEPLETED’s Death DOOM cover of Nick Cave and the Bad Seeds “The Mercy Seat” first appeared on CVLT Nation.",
-          "link": "https://cvltnation.com/experience-depleteds-death-doom-cover-of-nick-cave-and-the-bad-seeds-the-mercy-seat/",
-          "publishedOn": "2021-06-25T09:00:18.000Z",
-          "wordCount": 534,
-          "title": "Experience DEPLETED’s Death DOOM cover of Nick Cave and the Bad Seeds “The Mercy Seat”"
-        },
-        {
-          "id": "https://cvltnation.com/?p=282214",
-          "author": "Sean Reveron",
-          "description": "Teddie Taylor’s IG and Website. How old were you when you first picked up a camera?  I took photos on and off throughout my childhood. The first camera that was *mine* was a Polaroid One from my mom during the early 2000s and it’s still the main Polaroid I use. I took very bad pre-teen […]\nThe post Through the Lens of Isolation: Teddie Taylor first appeared on CVLT Nation.",
-          "link": "https://cvltnation.com/through-the-lens-of-isolation-teddie-taylor/",
-          "publishedOn": "2021-06-25T08:00:27.000Z",
-          "wordCount": 1573,
-          "title": "Through the Lens of Isolation: Teddie Taylor"
-        },
-        {
-          "id": "https://www.cvltnation.com/?p=249581",
-          "author": "Sean Reveron",
-          "description": "I can’t front – I have a fascination with serial killers. That being said, these interviews creep me the fuck out because they give an insight into these depraved minds!\nThe post Watch 4 Extremely Disturbing Interviews With Serial Killers first appeared on CVLT Nation.",
-          "link": "https://cvltnation.com/watch-4-extremely-disturbing-interviews-serial-killers/",
-          "publishedOn": "2021-06-25T07:00:36.000Z",
-          "wordCount": 495,
-          "title": "Watch 4 Extremely Disturbing Interviews With Serial Killers"
         }
       ]
     },
@@ -18714,15 +18082,6 @@
           "publishedOn": "2021-06-28T12:00:43.000Z",
           "wordCount": 935,
           "title": "Vandor – On A Moonlit Night Review"
-        },
-        {
-          "id": "https://yourlastrites.com/?p=36726",
-          "author": "Captain",
-          "description": "+++ +++ +++ +++ +++ +++ +++ +++ +++ +++ +++ +++ +++ +++ +++ +++ +++ ~END~",
-          "link": "https://yourlastrites.com/2021/06/25/wobbly-metal-comics-gods-of-war-and-homemade-weaponry/",
-          "publishedOn": "2021-06-25T10:00:05.000Z",
-          "wordCount": 430,
-          "title": "Wobbly Metal Comics – Gods Of War And Homemade Weaponry"
         }
       ]
     },
@@ -18946,15 +18305,6 @@
           "publishedOn": "2021-06-28T11:25:47.000Z",
           "wordCount": 433,
           "title": "Rapture – Malevolent Demise Incarnation"
-        },
-        {
-          "id": "https://www.teethofthedivine.com/?p=55803",
-          "author": "Kristofor Allred",
-          "description": "Maybe it’s just me. I mean I was listening to a lot of old German thrash, the usual culprits, Sodom, Kreator, and Destruction, at the time of my reviewing Aggravator‘s new EP, Unseen Repulsions, but I’ll be damned if I don’t hear a marked increase of Teutonic influence in Aggravator‘s sound of late. When I […]",
-          "link": "https://www.teethofthedivine.com/reviews/aggravator-unseen-repulsions-ep/",
-          "publishedOn": "2021-06-25T11:46:40.000Z",
-          "wordCount": 854,
-          "title": "Aggravator – Unseen Repulsions EP"
         }
       ]
     },
