@@ -12,6 +12,15 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1785587",
+          "author": "Jim Salter",
+          "description": "The mobile app encrypts your photos before uploading them to the cloud.",
+          "link": "https://arstechnica.com/?p=1785587",
+          "publishedOn": "2021-08-08T21:49:38.000Z",
+          "wordCount": 1782,
+          "title": "Stingle is a privacy-focused, open source photo backup application"
+        },
+        {
           "id": "https://arstechnica.com/?p=1784974",
           "author": "Jennifer Ouellette",
           "description": "The humor is dark, the body count is high, and the finale is just plain bonkers",
@@ -2683,114 +2692,6 @@
           "publishedOn": "2021-07-10T13:30:07.000Z",
           "wordCount": 1454,
           "title": "When science breaks bad: A rogues’ gallery of history’s worst scientists"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1779027",
-          "author": "Financial Times",
-          "description": "Startups and venture capitalists are joining concrete makers against a hard problem.",
-          "link": "https://arstechnica.com/?p=1779027",
-          "publishedOn": "2021-07-10T11:30:02.000Z",
-          "wordCount": 1612,
-          "title": "Quest for “green” cement draws big name investors to $300B industry"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1779281",
-          "author": "Dan Goodin",
-          "description": "Data allegedly sold individually or through weekly or monthly subscriptions.",
-          "link": "https://arstechnica.com/?p=1779281",
-          "publishedOn": "2021-07-09T22:30:14.000Z",
-          "wordCount": 950,
-          "title": "Feds indict “The Bull” for allegedly selling insider stock info on the dark web"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1779166",
-          "author": "Kyle Orland",
-          "description": "Capture cards, input hardware, and machine learning get around system-level lockdowns.",
-          "link": "https://arstechnica.com/?p=1779166",
-          "publishedOn": "2021-07-09T22:00:31.000Z",
-          "wordCount": 1879,
-          "title": "Cheat-maker brags of computer-vision auto-aim that works on “any game”"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1779162",
-          "author": "Jim Salter",
-          "description": "The shuttered news aggregator offered stories mainly from right-leaning sources.",
-          "link": "https://arstechnica.com/?p=1779162",
-          "publishedOn": "2021-07-09T21:35:08.000Z",
-          "wordCount": 914,
-          "title": "Rupert Murdoch’s answer to Google News is dead after only 18 months"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1779192",
-          "author": "Jonathan M. Gitlin",
-          "description": "We check in with one of our favorite series ahead of this weekend's races.",
-          "link": "https://arstechnica.com/?p=1779192",
-          "publishedOn": "2021-07-09T21:15:05.000Z",
-          "wordCount": 1920,
-          "title": "NYC ePrix: It’s time for Formula E’s annual visit to America"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1779078",
-          "author": "Ron Amadeo",
-          "description": "FBI honeypot phones are now public—and showing up on the secondary market.",
-          "link": "https://arstechnica.com/?p=1779078",
-          "publishedOn": "2021-07-09T20:53:40.000Z",
-          "wordCount": 1499,
-          "title": "The FBI’s honeypot Pixel 4a gets detailed in new report"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1779127",
-          "author": "Eric Berger",
-          "description": "\"New Shepard was designed to fly above the Kármán line.\"",
-          "link": "https://arstechnica.com/?p=1779127",
-          "publishedOn": "2021-07-09T19:04:44.000Z",
-          "wordCount": 1036,
-          "title": "How to watch Branson’s flight, which Jeff Bezos is still hopping mad about"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1779126",
-          "author": "Sam Machkovech",
-          "description": "Leapfrogs past April 2021's previous world record auction for boxed SMB1 by 24 percent.",
-          "link": "https://arstechnica.com/?p=1779126",
-          "publishedOn": "2021-07-09T18:58:32.000Z",
-          "wordCount": 934,
-          "title": "World record for most expensive video game auction is now $870,000"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1779046",
-          "author": "Doug Johnson",
-          "description": "Researchers discuss the methods NIST can use to find the cause of a tragedy.",
-          "link": "https://arstechnica.com/?p=1779046",
-          "publishedOn": "2021-07-09T18:34:05.000Z",
-          "wordCount": 1862,
-          "title": "With little remaining of Champlain Towers, how will we find answers?"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1779085",
-          "author": "Jon Brodkin",
-          "description": "Biden wants FCC to lower prices and protect consumers, but he must break 2-2 deadlock.",
-          "link": "https://arstechnica.com/?p=1779085",
-          "publishedOn": "2021-07-09T17:01:56.000Z",
-          "wordCount": 1734,
-          "title": "Biden urges FCC to undo Pai’s legacy—but it can’t until he picks a third Democrat"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1779094",
-          "author": "Beth Mole",
-          "description": "FDA now says drug should only go to those with mild disease—the only patients tested.",
-          "link": "https://arstechnica.com/?p=1779094",
-          "publishedOn": "2021-07-09T16:42:45.000Z",
-          "wordCount": 1240,
-          "title": "Amid criticism, FDA narrows use of $56K Alzheimer’s drug, calls for probe [Updated]"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1779087",
-          "author": "Tim De Chant",
-          "description": "Sweeping order tries to counter rising corporate consolidation.",
-          "link": "https://arstechnica.com/?p=1779087",
-          "publishedOn": "2021-07-09T16:22:12.000Z",
-          "wordCount": 1446,
-          "title": "“Bad mergers” and noncompete clauses targeted in Biden executive order"
         }
       ]
     },
@@ -2799,6 +2700,15 @@
       "feedUrl": "http://feeds.macrumors.com/MacRumors-Front",
       "siteUrl": "https://www.macrumors.com",
       "articles": [
+        {
+          "id": "https://www.macrumors.com/2021/08/08/apple-engineers-pessimistic-apple-tv-strategy/",
+          "author": "Tim Hardwick",
+          "description": "Apple's living room hardware strategy remains poorly defined and lacks a coherent vision, with engineers allegedly pessimistic about the product line, according to a new report.\r\n\r\n\r\n\r\n\r\n\r\nThis year the Apple TV got an iterative update with a redesigned Siri Remote, while the HomePod was discontinued. Apple is now said to be developing a combined HomePod-Apple TV device with a built-in screen and FaceTime camera.\r\n\r\n\r\n\r\nIn his latest \"Power On\" newsletter, however, Bloomberg journalist Mark Gurman says that Apple engineers have personally expressed concerns to him about the direction of Apple's living room hardware strategy.\r\n\r\n\r\n\r\nDespite the obvious benefits of an ‌Apple TV‌ for users invested in Apple's ecosystem, Gurman opines that the set-top box is largely failing in a market dominat…",
+          "link": "https://www.macrumors.com/2021/08/08/apple-engineers-pessimistic-apple-tv-strategy/",
+          "publishedOn": "2021-08-08T20:07:47.000Z",
+          "wordCount": 2702,
+          "title": "Apple Engineers Reportedly Pessimistic About Apple's Living Room Hardware Strategy"
+        },
         {
           "id": "https://www.macrumors.com/2021/08/07/top-stories-magic-keyboard-touch-id/",
           "author": "MacRumors Staff",
@@ -5966,132 +5876,6 @@
           "publishedOn": "2021-07-10T13:00:00.000Z",
           "wordCount": 2712,
           "title": "Top Stories: iPhone 13 and 14, iPad Pro, and MacBook Pro Rumors"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/09/apple-in-the-dark-ad/",
-          "author": "Juli Clover",
-          "description": "Apple today shared a new \"In the Dark\" ad focusing on the Night mode feature that's available in the iPhone 12, 12 mini, 12 Pro, and 12 Pro Max.\r\n\r\n\r\n\r\n\n\r\n\r\nThe spot focuses on night mode selfies, showing a man taking photos of himself in various low lighting situations. \"Now you can take amazing selfies in the dark,\" reads the tagline of video, which also uses the song \"In The Dark\" by YG.\r\n\r\n\r\n\r\nNight mode was first introduced with the iPhone 11, but it was previously limited to the rear-facing camera. With the launch of the ‌iPhone 12‌ lineup, Apple expanded Night mode to the front-facing camera and added a feature for taking Portrait mode shots in the dark.\r\n\r\n\r\n\r\n \t\nHow to Take Night Mode Selfies on iPhone 12\n\r\n\r\n\r\n\r\nApple earlier today shared another new ad spot titled \"Haystack,\" which focuses on locating a lost iPhone using the Apple Watch.\nThis article, \"Apple's New 'In the Dark' iPhone 12 Pro Ad Highlights Night Mode\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/07/09/apple-in-the-dark-ad/",
-          "publishedOn": "2021-07-09T21:41:55.000Z",
-          "wordCount": 1931,
-          "title": "Apple's New 'In the Dark' iPhone 12 Pro Ad Highlights Night Mode"
-        },
-        {
-          "id": "https://www.macrumors.com/guide/ios-15-messages&post_date=1625874762/",
-          "author": "Juli Clover",
-          "description": "Apple's FaceTime app was the main focus for many of the iOS 15 updates that were introduced, but the Messages app wasn't entirely forgotten. Apple introduced a new Shared with You feature and streamlined several interface elements to make the Messages experience more pleasant.\r\n\r\n\r\n\r\n\r\n\r\nThis guide outlines all of the new features that Apple added to the Messages app in ‌iOS 15‌ and iPadOS 15.\r\n\r\n\r\n\r\nShared with You\n\r\n\r\nThe main new feature in the ‌iOS 15‌ Messages app is Shared with You, which aggregates content that people share with you in Messages into the proper apps. So if someone sends a photo, it shows up in a Shared with You section in the Photos app.\r\n\r\n\r\n\r\n\r\n\r\nThis isn't strictly a Messages addition because it's actually other apps that have this new section, but it does make Me…",
-          "link": "https://www.macrumors.com/guide/ios-15-messages/",
-          "publishedOn": "2021-07-09T20:52:42.000Z",
-          "wordCount": 2934,
-          "title": "Everything New in the iOS 15 Messages App: Shared With You, Photo Collages, Memoji Updates and More"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/09/macrumors-giveaway-throwboy-apple-plush-pillow/",
-          "author": "Juli Clover",
-          "description": "For this week's giveaway, we've teamed up with Throwboy to offer MacRumors readers a chance to win one of Throwboy's plush pillows, all of which are modeled after classic Apple products and icons and are perfect for Apple fans.\r\n\r\n\r\n\r\n\r\n\r\nThrowboy's pillows are plush, squeezable versions of Apple products like the first iPhone, Classic Macintosh, iMac G3, first iPod, Finder Icon, Spinning Wheel, and more. Pillows are priced at $30 to $40, and the main Iconic collection features designs modeled after five of the most iconic Apple products to date.\r\n\r\n\r\n\r\n\r\n\r\nEach Throwboy pillow features intricate embroidery to match the detailing on the Apple product it's modeled after. The 1998 Pillow, for example, looks just like an ‌iMac‌ G3 with bright Bondi Blue fabric and embroidered details that inc…",
-          "link": "https://www.macrumors.com/2021/07/09/macrumors-giveaway-throwboy-apple-plush-pillow/",
-          "publishedOn": "2021-07-09T18:06:59.000Z",
-          "wordCount": 2329,
-          "title": "MacRumors Giveaway: Win an Apple-Themed Plush Pillow From Throwboy"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/09/apple-music-weekly-launch/",
-          "author": "Juli Clover",
-          "description": "Apple today introduced a new Apple Music feature called This Week on Apple Music, which is designed to provide a break down of the five biggest things happening across ‌Apple Music‌ each week.\r\n\r\n\r\n\r\n\r\n\r\nApple says that it will provide highlighted stories with album suggestions, playlists, videos, radio episodes, interviews, and more.\r\n\r\n\r\n\r\nToday's recommendations include the BTS: Butter Dance Party playlist, an interview with Jennifer Lopez, a short film, and several radio episodes.\r\n\r\n\r\n\r\n\nIntroducing #ThisWeekOnAppleMusic.\nEvery Friday, get a break down of the five biggest things happening across ‌Apple Music‌, and dive deeper into the highlighted stories with albums, playlists, videos, radio episodes, and more.\nCatch up now: https://t.co/z2TOOcdLmO pic.twitter.com/FuL4yujNhH\n— ‌Apple Music‌ (@AppleMusic) July 9, 2021\n \n\r\n\r\nThis Week on Apple Music content can be accessed using the ‌Apple Music‌ app on iPhone, iPad, Mac, and Apple TV.\nTag: Apple Music\nThis article, \"Apple Debuts 'This Week on Apple Music' With Weekly Highlights\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/07/09/apple-music-weekly-launch/",
-          "publishedOn": "2021-07-09T17:44:27.000Z",
-          "wordCount": 1956,
-          "title": "Apple Debuts 'This Week on Apple Music' With Weekly Highlights"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/09/aapl-july-2021-all-time-high/",
-          "author": "Joe Rossignol",
-          "description": "Apple's stock closed at an all-time high price of $144.57 on Wednesday and continues to extend its gains this week, reaching a new intraday high above $145 in trading today. Apple shares have risen around 17% since the start of June.\r\n\r\n\r\n\r\n\r\n\r\nThe stock market gains come ahead of Apple's third quarter earnings results, which will be reported on July 27. Apple unveiled several new products during the quarter, including the AirTag and new models of the iPad Pro, iMac, and Apple TV in April, and previewed major new software updates like iOS 15 and macOS Monterey at WWDC in June.\r\n\r\n\r\n\r\nApple's market cap is approaching a staggering $2.5 trillion, making it the world's most valuable tech company. Microsoft joined Apple in the $2 trillion valuation club for the first time last month, with gains extending to several major tech stocks.\r\n\r\n\r\n\r\nAccording to Yahoo Finance, analysts on average expect Apple to set a new third quarter revenue record of $72.9 billion, up around 22% from $59.7 billion in the year-ago quarter. Apple's CFO Luca Maestri cautioned that supply constraints could have a revenue impact of $3 billion to $4 billion in the third quarter, with industry-wide chip shortages affecting supply of iPads and Macs, which could impact the results.\nTag: AAPL\nThis article, \"Apple's Stock Reached New All-Time Highs This Week\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/07/09/aapl-july-2021-all-time-high/",
-          "publishedOn": "2021-07-09T17:21:48.000Z",
-          "wordCount": 2138,
-          "title": "Apple's Stock Reached New All-Time Highs This Week"
-        },
-        {
-          "id": "https://www.macrumors.com/review/nanoleaf-wood-style-elements-hexagons&post_date=1625860266/",
-          "author": "Juli Clover",
-          "description": "Nanoleaf in June unveiled its new Elements Wood Look Hexagons, which are a departure from all of the prior light panels that Nanoleaf has designed. The Nanoleaf Elements feature a textured wood-like material that can be lit up with cool or warm white light, and when off, they appear to be simple wood panels, offering a more natural look than the white plastic of prior versions.\r\n\r\n\r\n\r\n\r\n\r\nThe Nanoleaf Elements panels are not real wood and are still made from a plastic material, but there is a wood-like veneer. When not lit up, the Nanoleaf Elements look reasonably enough like wood from a distance, and it's definitely a different aesthetic than the plain plastic of other Nanoleaf light panels.\r\n\r\n\r\n\r\n\r\n\r\nWhenever I do a Nanoleaf review there are always comments about what the white plastic …",
-          "link": "https://www.macrumors.com/review/nanoleaf-wood-style-elements-hexagons/",
-          "publishedOn": "2021-07-09T16:51:06.000Z",
-          "wordCount": 3411,
-          "title": "Review: Nanoleaf's Wood-Style Hexagons Add Attractive Accent Lighting to Any Room"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/09/ios-14-7-wifi-bug-name-fix/",
-          "author": "Sami Fathi",
-          "description": "The latest beta for iOS and iPadOS 14.7, released to developers this week, patches a bug that disabled an iPhone's ability to connect to Wi-Fi if a user connected to a specific Wi-Fi network with the name \"%p%s%s%s%s%n.\"\r\n\r\n\r\n\r\n\r\n\r\nIn his latest video rounding up the latest changes in the beta, YouTuber Zollotech found that the update has silently patched the bug that caused an iPhone to become unable to connect to Wi-Fi networks. \r\n\r\n\r\n\r\nThe bug was discovered on Twitter last month and consisted of an ‌iPhone‌ connecting to a Wi-Fi SSID with the name \"%p%s%s%s%s%n.\" According to user reports, doing so would \"permanently disable\" an ‌iPhone‌'s Wi-Fi functionality, making the bug rather dangerous. \r\n\r\n\r\n\r\nWhile some have claimed the bug \"permanently\" disabled their ‌iPhone‌'s Wi-Fi, other users found that resetting their network settings after connecting to the network restored Wi-Fi for the ‌iPhone‌. \r\n\r\n\r\n\r\nApple has been testing iOS and iPadOS 14.7 with developers and public beta testers for the past few weeks. Apple can be expected to publicly release the update soon, given the crucial bug fix that it provides to ‌iPhone‌ user.\r\n\r\n\r\n\r\nLast month, Apple previewed iOS 15, the next major update to iOS destined for a public launch this fall. The upcoming update to iOS 14 will likely be the last major update to the operating system ahead of ‌iOS 15‌'s fall release. \nThis article, \"Latest iOS 14.7 Beta Patches Bug That Disables iPhone's Ability to Connect to Wi-Fi\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/07/09/ios-14-7-wifi-bug-name-fix/",
-          "publishedOn": "2021-07-09T16:32:17.000Z",
-          "wordCount": 2052,
-          "title": "Latest iOS 14.7 Beta Patches Bug That Disables iPhone's Ability to Connect to Wi-Fi"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/09/apple-nfl-sunday-ticket-talks/",
-          "author": "Juli Clover",
-          "description": "Apple is interested in streaming rights for the National Football League's \"Sunday Ticket\" package, reports The Information. Apple has had discussions with NFL executives, but the NFL is also speaking with TV networks and other tech firms as well.\r\n\r\n\r\n\r\n\r\n\r\nSunday Ticket streaming content currently airs on DirecTV, but it is up for auction and should Apple acquire the rights, out-of-market fans will be able to watch non-prime time games from all 32 NFL teams on Apple TV+.\r\n\r\n\r\n\r\nDirecTV pays somewhere around $1.5 billion to broadcast the Sunday Ticket games, but its deal with the NFL expires in 2022, paving the way for other networks to bid on the package. The NFL is looking to get more money when establishing a new deal.\r\n\r\n\r\n\r\nESPN parent company Disney is said to be interested in acquiring the rights for the ESPN streaming service, and according to The Information, Apple is not seen as a serious contender for the rights because it has been reluctant to invest money in entertainment programming.\r\n\r\n\r\n\r\nThat said, Apple has an ongoing relationship with the National Football League, and in 2020, hired James DeLorenzo to run a sports division for ‌Apple TV+‌. DeLorenzo previously negotiated Amazon's deal with the NFL to stream live games.\r\n\r\n\r\n\r\nApple previously held talks with the Pac-12 conference about live streaming college sports, but nothing ever came of those talks and there continues to be little sports-related content on ‌Apple TV+‌.\r\n\r\n\r\n\r\nAcquiring the rights to the NFL's Sunday Ticket package would draw a wider audience to ‌Apple TV+‌, appealing to those who live away from their favorite football teams.\nTags: NFL, Apple TV Shows, Apple TV Plus\nThis article, \"Apple in Talks With NFL for Sunday Ticket Streaming\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/07/09/apple-nfl-sunday-ticket-talks/",
-          "publishedOn": "2021-07-09T16:18:26.000Z",
-          "wordCount": 2250,
-          "title": "Apple in Talks With NFL for Sunday Ticket Streaming"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/09/ted-lasso-leads-hca-award-nominations/",
-          "author": "Hartley Charlton",
-          "description": "Apple TV+ shows have been nominated across the Hollywood Critics Association's first annual TV awards, with \"Ted Lasso\" leading nominations with eight selections.\r\n\r\n\r\n\r\n\r\n\r\nThe Hollywood Critics Association has published its nominations for its first annual TV awards, as highlighted by Deadline.\r\n\r\n\r\n\r\n‌Apple TV+‌'s Ted Lasso has received eight nominations, which is more than any other show. Overall, ‌Apple TV+‌ titles have received 15 nominations across various categories. Netflix was the leading streaming service, with a total of 28 nominations across multiple categories.\r\n\r\n\r\n\r\nTed Lasso has been nominated for Best Streaming Comedy Series, Best Actor for Jason Sudeikis, dual nominations in Best Supporting Actress for Juno Temple and Hannah Waddingham, and four nominations in Best Suppo…",
-          "link": "https://www.macrumors.com/2021/07/09/ted-lasso-leads-hca-award-nominations/",
-          "publishedOn": "2021-07-09T14:59:00.000Z",
-          "wordCount": 2205,
-          "title": "Apple TV+'s 'Ted Lasso' Leads HCA Streaming Award Nominations"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/09/apple-gift-card-canada-australia/",
-          "author": "Joe Rossignol",
-          "description": "In July 2020, Apple introduced a new all-in-one gift card in the United States that combines its previously separate Apple Store and iTunes gift cards into one, and the combined gift card is now available in Canada and Australia as well.\r\n\r\n\r\n\r\n\r\n\r\nThe new Apple Gift Card can be applied towards \"everything Apple,\" including purchases of Apple products and accessories, App Store apps, iTunes Store content like TV shows and movies, services like Apple Music and Apple Arcade, iCloud+ plans, and more. The gift card is available on Apple's website in digital and physical versions, with the physical card sent by mail including a collectible Apple logo sticker available in five designs.\r\n\r\n\r\n\r\nThe gift card's availability in Canada was alerted to us by MacRumors reader Basic Apple Guy, while 9to5Mac noticed Australia was added too. Apple is no longer selling separate Apple Store and iTunes gift cards in these countries following the transition.\r\n\r\n\r\n\r\nApple Store and iTunes gift cards remain available in many other countries for now.\nThis article, \"Apple's All-in-One Gift Card Now Available in Canada and Australia\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/07/09/apple-gift-card-canada-australia/",
-          "publishedOn": "2021-07-09T14:49:41.000Z",
-          "wordCount": 1994,
-          "title": "Apple's All-in-One Gift Card Now Available in Canada and Australia"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/09/apple-sales-tax-hoildays/",
-          "author": "Sami Fathi",
-          "description": "For the next several weeks, Apple is offering customers in a select number of U.S. states the opportunity to purchase a wide range of its products without a sales tax.\r\n\r\n\r\n\r\n\r\n\r\nEvery year, select states offer businesses and consumers the incentive of having no sales tax as a way to help boost sales and are usually aimed at helping families lower the cost of back to school shopping. The dates for each state differ, and the selection of states this year is relatively small. Only purchases made during a state's specific holiday are free of state sales tax.\r\n\r\n\r\n\r\nThe policy around each state also varies. Alabama, for example, which is holding its sales-free tax holiday between July 16 and 18, requires that the total sales price of all items must remain under $750. Apple products, including Macs, iPad, and the iPod touch, are eligible, alongside accessories such as keyboard, mice, the Apple Pencil, and more. \r\n\r\n\r\n\r\nMissouri, which is running its holiday between August 6 and 8, has a higher limit of $1500 and the addition of more accessories, including printers, routers, RAM upgrades, the Apple TV, and more. South Carolina, sharing a holiday with Missouri, has no limit and includes tax-free purchases of earbuds, headphones, and flash drives, however only for students. Virginia consists of a limit of only $60 for cell phone chargers and batteries.\r\n\r\n\r\n\r\nMore information on Apple's sales tax holiday, participating states and products, can be found on Apple's website. \nTag: Apple Store\nThis article, \"Apple Participating in Sales Tax Holiday for Select U.S. States\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/07/09/apple-sales-tax-hoildays/",
-          "publishedOn": "2021-07-09T14:31:31.000Z",
-          "wordCount": 2121,
-          "title": "Apple Participating in Sales Tax Holiday for Select U.S. States"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/09/deals-40mm-apple-watch-6/",
-          "author": "Mitchel Broussard",
-          "description": "B&H Photo is offering a solid deal on the Apple Watch Series 6 to end the week. You can get the 40mm GPS Series 6 device in Product(RED) for $319.00 on B&H Photo, down from $399.00.\r\n\r\n\r\n\r\nNote: MacRumors is an affiliate partner with these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.\r\n\r\n\r\n\r\nOnly the Product(RED) color is being discounted for this model, and at the time of writing only B&H Photo is offering the sale, although Amazon says that it will have more stock soon. This isn't the best price we've ever tracked, but it is the best currently available online and one of the more consistent deal prices we've seen for this model.\r\n\r\n\r\n\r\n\n$80 OFF\nApple Watch S6 (40mm GPS) for $319.00\n\n\r\n\r\n\r\n\r\nAmazon also has the 44mm GPS ‌Apple Watch Series 6‌ at a discount, but it isn't currently in stock. You can get this model in Product(RED) for $349.00, down from $429.00, and if you place your order now you'll lock in this price when stock returns soon on Amazon.\r\n\r\n\r\n\r\nBe sure to visit our full Deals Roundup to shop for even more Apple-related products and accessories.\nRelated Roundup: Apple Watch Series 6\nBuyer's Guide: Apple Watch (Caution)\nRelated Forum: Apple Watch\nThis article, \"Deals: Get the 40mm GPS Apple Watch Series 6 for $319 on B&H Photo ($80 Off)\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/07/09/deals-40mm-apple-watch-6/",
-          "publishedOn": "2021-07-09T14:05:16.000Z",
-          "wordCount": 1868,
-          "title": "Deals: Get the 40mm GPS Apple Watch Series 6 for $319 on B&H Photo ($80 Off)"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/09/apple-haystack-iphone-12-ad/",
-          "author": "Joe Rossignol",
-          "description": "Apple today shared a new ad called \"Haystack\" in which a rancher uses his Apple Watch to find his iPhone 12 in a haystack. The ad plays on the \"needle in a haystack\" idiom and is set to the song \"Searching (For Someone Like You)\" by country singer Kitty Wells.\r\n\r\n\r\n\r\n\n\r\n\r\nIn the one-minute ad, a rancher drives down a rural street surrounded by bales of hay. He then backs up his truck off the street, walks with his dog to a large haystack, and taps on a button in the Apple Watch's Control Center to ping his iPhone, which results in the iPhone playing a sound to help pinpoint its location if misplaced nearby.\r\n\r\n\r\n\r\n\"An iPhone that's lost is easily found,\" says Apple. \"Relax, it's iPhone + Apple Watch.\" \r\n\r\n\r\n\r\nTo use this feature on the Apple Watch, swipe up to open Control Center and tap the Ping iPhone button, which will make the device chime. You can also touch and hold the Ping iPhone button to make the iPhone flash as well.\r\n\r\n\r\n\r\nOf course, if your iPhone isn't in range of your Apple Watch, you can track its location using the Find My app on another Apple device or iCloud.com.\nTag: Apple ads\nThis article, \"Rancher Uses Apple Watch to Find iPhone 12 in a Haystack in Apple's Latest Ad\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/07/09/apple-haystack-iphone-12-ad/",
-          "publishedOn": "2021-07-09T13:56:57.000Z",
-          "wordCount": 2228,
-          "title": "Rancher Uses Apple Watch to Find iPhone 12 in a Haystack in Apple's Latest Ad"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/09/altos-odyssey-the-lost-city-apple-arcade-trailer/",
-          "author": "Joe Rossignol",
-          "description": "Toronto-based game developer Snowman today announced that \"Alto's Odyssey: The Lost City\" will be launching on Apple Arcade on Friday, July 16, as one of several new classic games being added to the subscription-based service.\r\n\r\n\r\n\r\n\r\n\r\nFirst released in 2018, Alto's Odyssey is an award-winning endless sandboarding game with beautiful procedurally generated graphics, dynamic lighting and weather conditions, and original music. In the Apple Arcade edition of the game, players will embark on a sandboarding journey to find a new biome called The Lost City and unearth the secrets hidden within, with the classic Alto's Odyssey experience preserved.\r\n\r\n\r\n\r\nAt the heart of Alto's Odyssey and its 2015 predecessor, Alto's Adventure, is physics-based movement with a one-touch trick system.\r\n\r\n\r\n\r\n\n\r\n\r\nA long list of classic games were added to Apple Arcade in April, including \"Fruit Ninja\" and \"Monument Valley,\" and more classics are coming soon, including \"Angry Birds Reloaded\" and \"Doodle God Universe.\" Priced at $4.99 per month, Apple Arcade provides access to a catalog of nearly 200 games without ads or in-app purchases across the iPhone, iPad, Mac, and Apple TV, with additional titles added periodically.\nTag: Apple Arcade\nThis article, \"'Alto's Odyssey: The Lost City' Launches on Apple Arcade on July 16\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/07/09/altos-odyssey-the-lost-city-apple-arcade-trailer/",
-          "publishedOn": "2021-07-09T13:00:00.000Z",
-          "wordCount": 2108,
-          "title": "'Alto's Odyssey: The Lost City' Launches on Apple Arcade on July 16"
         }
       ]
     },
@@ -6738,51 +6522,6 @@
           "publishedOn": "2021-07-12T21:17:13.000Z",
           "wordCount": 924,
           "title": "The Countries Where iCloud Private Relay Will Not Be Available"
-        },
-        {
-          "id": "https://www.thewrap.com/news-corp-knewz-shuttering/",
-          "author": null,
-          "description": "The Wrap:\nNews Corp shuttered its the aggregation site Knewz on Friday, just\n18 months after its launch. Users who navigated to the site\nfound an announcement declaring, “Knewz is no more.”\nYours truly, back when Knewz launched:\nIt’s like the design brief was “Coked-up Drudge Report”.\n ★",
-          "link": "https://www.thewrap.com/news-corp-knewz-shuttering/",
-          "publishedOn": "2021-07-09T19:55:37.000Z",
-          "wordCount": 571,
-          "title": "News Corp Shutters Knewz Aggregator After 18 Months"
-        },
-        {
-          "id": "https://decider.com/2021/07/06/richard-donner-death-movies-superman/",
-          "author": null,
-          "description": "Nice piece by Glenn Kenny on Richard Donner, who died earlier this week at age 91. Donner is one of those directors with a string of “Oh, he directed that?” movies. I think Kenny nails it: Donner made movies people wanted to see. That’s something.\n ★",
-          "link": "https://decider.com/2021/07/06/richard-donner-death-movies-superman/",
-          "publishedOn": "2021-07-09T19:44:12.000Z",
-          "wordCount": 3107,
-          "title": "Richard Donner: The People’s Choice"
-        },
-        {
-          "id": "https://www.tomsguide.com/news/toms-guide-hero-awards-2021",
-          "author": null,
-          "description": "Tom’s Guide:\nAfter creating the A Series for the iPhone and scaling it up for\nthe iPad, Apple’s team of engineers set its sights on the Mac, but\nthe M1 chip couldn’t just match what Intel had to offer. It had to\nhandily beat it.\n“If somebody else could build a chip that was actually going to\ndeliver better performance inside that enclosure, what’s the\npoint? Why would we switch?” said Tim Milet, vice president of\nplatform architecture at Apple. “And so for my chip architects,\nthat was the target.” […]\nThe most striking thing about the M1 is its battery life. For\nexample, the MacBook Pro lasted an astounding 16 hours and 25\nminutes in our web-surfing test. The previous Intel model lasted\n10:21. That’s a huge difference, and this increase caused more\nthan one double take within Apple.\n“When we saw that first system and then you sat there and played\nwith it for a few hours and the battery didn’t move, we thought\n‘Oh man, that’s a bug, the battery indicator is broken,’” said Bob\nBorchers, VP of worldwide product marketing for Apple. “And then\nTim’s laughing in the background, ‘Nope, that’s the way it’s\nsupposed to be’ and it was pretty phenomenal.”\n ★",
-          "link": "https://www.tomsguide.com/news/toms-guide-hero-awards-2021",
-          "publishedOn": "2021-07-09T19:40:57.000Z",
-          "wordCount": 3533,
-          "title": "Tom’s Guide Awards 2021: The M1 Chip"
-        },
-        {
-          "id": "https://9to5mac.com/2021/07/08/apple-tv-9-11-documentary/",
-          "author": null,
-          "description": "Benjamin Mayo, reporting for 9to5Mac:\nApple TV+ today announced a new documentary special airing later\nthis year. The show is entitled 9/11: Inside the President’s War\nRoom and will explore the 2001 terrorist attack from the\nperspective of the immediate response of the people in charge. The\nspecial will be narrated by Jeff Daniels and include testimony\nfrom ex-President George Bush, Dick Cheney, and more. In a notable\nmove for the streaming service, the special will premiere\nsimultaneously on Apple TV+ and on the publicly-funded broadcast\nchannel BBC One.\nAs you might expect, the special will air in September in\ncommemoration of the 20th anniversary of 9/11. In the UK, the\nspecial will first be broadcast on BBC One and appear on Apple TV+\nlater. In all other regions, it will debut on Apple TV+\nexclusively.\nThey’ve moved beyond Carpool Karaoke, that’s for sure.\n ★",
-          "link": "https://9to5mac.com/2021/07/08/apple-tv-9-11-documentary/",
-          "publishedOn": "2021-07-09T19:25:55.000Z",
-          "wordCount": 779,
-          "title": "‘Inside the President’s War Room’ — 9/11 Documentary Co-Produced by Apple and BBC One"
-        },
-        {
-          "id": "https://www.theinformation.com/articles/apple-in-early-talks-with-nfl-on-sunday-ticket-games",
-          "author": null,
-          "description": "Sahil Patel, reporting for The Information:\nThe iPhone maker is one of a number of companies, including TV\nnetworks and other tech firms, that have had discussions with NFL\nexecutives lately about the package of games, including at this\nweek’s Allen & Co. conference in Sun Valley for tech and media\nexecutives. The rights cover a package known as Sunday Ticket,\nwhich now airs on DirecTV. They are separate from a slew of\nlicensing deals recently completed between the NFL, most major\nbroadcast TV networks and Amazon. ESPN’s parent Disney is among\nthose likely to be interested in Sunday Ticket.\nSunday Ticket is no small thing. It’s not like the deal Amazon has had for a few years where they have the streaming rights for a small handful of Thursday night games. Sunday Ticket packages include all games — it’s a super premium tier for big fans and sports bars that want to show every game.\nI feel like TV+ is following an interesting trajectory: slowly and steadily building into a unique premium TV service. Some sort of major foray into live sports seems like a good next step.\n ★",
-          "link": "https://www.theinformation.com/articles/apple-in-early-talks-with-nfl-on-sunday-ticket-games",
-          "publishedOn": "2021-07-09T19:20:26.000Z",
-          "wordCount": 893,
-          "title": "The Information: Apple in Early Talks With NFL for ‘Sunday Ticket’ Streaming Rights"
         }
       ]
     },
@@ -8005,78 +7744,6 @@
           "publishedOn": "2021-07-10T14:00:00.000Z",
           "wordCount": 836,
           "title": "Stardew Valley mod fixes one of its biggest annoyances"
-        },
-        {
-          "id": "https://www.polygon.com/22567357/dead-space-2-setpiece-design-halo-jump-analysis",
-          "author": null,
-          "description": "Image: Visceral Games\n    \n\n\n  \nVisceral Games’ horror game manages the perfect balance of stress and spectacle\n Dead Space 2 was released ten years ago. In the time since, we’ve seen the size and ambition of in-game setpieces balloon. Games like God of War place huge importance on their cinematic camera techniques. The recently released Resident Evil 8 has some of the most technically complex scenes ever put in a horror game. \nAnd yet. Even a decade removed from Dead Space 2, I still think it pulls off tense action sequences better than most modern games. Through a combination of clearly communicated motivations, well-considered pacing, and staggering aesthetic design, Dead Space 2’s setpieces continue to stand tall with the best of the medium. \n\n\n\nThis essay on Dead Space 2 was written a…",
-          "link": "https://www.polygon.com/22567357/dead-space-2-setpiece-design-halo-jump-analysis",
-          "publishedOn": "2021-07-09T19:55:00.000Z",
-          "wordCount": 1410,
-          "title": "Dead Space 2’s setpieces remain unmatched"
-        },
-        {
-          "id": "https://www.polygon.com/22570538/witcher-3-complete-edition-next-gen-upgrade-netflix-tv-gear-armor",
-          "author": null,
-          "description": "Image: CD Projekt Red\n    \n\n  \nThe game’s ultimate form got announced at WitcherCon\n Geralt of Rivia’s third video game adventure will get some new gear inspired by Netflix's The Witcher series.\nAt the first WitcherCon, streamed remotely via YouTube, CD Projekt Red reminded fans that it’s working on a next-gen update for The Witcher 3, which comes with the Complete Edition subtitle. The upgrade is set for PlayStation 5, Xbox Series X, and Windows PC. Fans who already own The Witcher 3 will get the Complete Edition upgrade for free.\nThe Complete Edition also comes with “free DLC” to make the game’s Geralt a bit more reminiscent of actor Henry Cavill. A developer from CD Projekt Red suggested that fans could pick up new armor modeled after Cavill’s Netflix series getup. But Netflix-inspired armor won’t be the only additions to the game taken from the show, and the studio promised to reveal more details at a later date.\nCD Projekt Red did not reveal a timeline for The Witcher 3: Complete Edition upgrade. The studio’s other game, Cyberpunk 2077, is also set for a next-gen upgrade later this year.",
-          "link": "https://www.polygon.com/22570538/witcher-3-complete-edition-next-gen-upgrade-netflix-tv-gear-armor",
-          "publishedOn": "2021-07-09T19:26:08.000Z",
-          "wordCount": 694,
-          "title": "The Witcher 3 Complete Edition is a next-gen update with gear from the Netflix series"
-        },
-        {
-          "id": "https://www.polygon.com/22570379/genshin-impact-mihoyo-inazuma-baal-update-the-immovable-god-and-eternal-euthymia",
-          "author": null,
-          "description": "Image: miHoYo/YouTube\n    \n\n  \nThe highly anticipated region is finally here \n MiHoYo released a new trailer for the latest update of its free-to-play open world adventure, Genshin Impact, on Friday. The new look shows off the long-awaited Inazuma region in an expansion the studio is calling The Immovable God and the Eternal Euthymia. The 2.0 version will debut an entirely new region to explore, three new characters, and cross-save functionality between platforms. The update is scheduled to unroll on July 21. \nIt’s truly a massive update that fans have been eagerly awaiting. Beyond content, it’s bringing a significant new feature: cross-saves across PlayStation 5, PlayStation 4, PC, Android, and iOS. Fans will finally be able to switch between mobile and console. \nThe newly released five-m…",
-          "link": "https://www.polygon.com/22570379/genshin-impact-mihoyo-inazuma-baal-update-the-immovable-god-and-eternal-euthymia",
-          "publishedOn": "2021-07-09T19:05:00.000Z",
-          "wordCount": 980,
-          "title": "Genshin Impact’s enormous Inazuma update gets a release date and trailer"
-        },
-        {
-          "id": "https://www.polygon.com/destiny-2-guide-walkthrough/2021/7/9/22570349/destiny-2-trials-osiris-rewards-july-9-13",
-          "author": null,
-          "description": "Image: Bungie\n    \n\n  \nPick up two weapons and two armor pieces\n Trials of Osiris is back in Destiny 2. Saint-14 is the new Trials vendor and announcer, and players can find him and his wares in the Tower Hangar every Friday at reset.\nEach week, the Trials of Osiris map changes, as do the rewards for winning a certain number of matches. The rewards are consistent across all players, although each player’s weapon roll will differ.\nHere are the guaranteed Trials of Osiris rewards this week:\nMap: Javelin-4\n3 wins —  Pyrrhic Ascent Vest, Plate, Vestment (Hunter, Titan, and Warlock chest)\n5 wins — Eye of Sol, Kinetic sniper rifle\n7 wins — Pyrrhic Ascent Cloak, Mark, Bond (Hunter, Titan, and Warlock class item)\nFlawless — Shayura’s Wrath (Adept), Void submachine gun — random Adept mod\nNote: As of Season of Arrivals, players can complete the End Game weekly bounty — which just needs Trials match completions (wins give more progress) — to earn the three-win reward.\nPlayers who manage to reach seven wins without a single loss can go to the Lighthouse social space — this is called a Flawless run. The Lighthouse offers additional rewards for players, some of which are unique, like a special emblem. Players who reach the Lighthouse also earn a special armor glow for any of their Trials of Osiris armor, which lasts for the remainder of the weekend.",
-          "link": "https://www.polygon.com/destiny-2-guide-walkthrough/2021/7/9/22570349/destiny-2-trials-osiris-rewards-july-9-13",
-          "publishedOn": "2021-07-09T18:14:45.000Z",
-          "wordCount": 752,
-          "title": "Destiny 2 Trials of Osiris rewards, July 9-13"
-        },
-        {
-          "id": "https://www.polygon.com/destiny-2-guide-walkthrough/2021/7/9/22570348/destiny-2-xur-location-items-july-9-13",
-          "author": null,
-          "description": "Image: Bungie\n    \n\n  \nHead to Nessus for some Exotics\n The weekly Exotic item merchant, Xur, hangs out in random locations around the world of Destiny. In Destiny 2, he can appear all over the map, as well as inside the Tower. This week, you can find Xur on Nessus, standing on a big tree in the Watcher’s Grave.\nImage: Bungie via Polygon\n  \nXur’s inventory this week consists of the following:\nFighting Lion, Void Special grenade launcher: 29 Legendary Shards\nThe Sixth Coyote, Hunter chest: 23 Legendary Shards\nArmamentarium, Titan chest: 23 Legendary Shards\nWings of Sacred Dawn, Warlock chest: 23 Legendary Shards\nExotic Engram: 97 Legendary Shards (you can now purchase a second with an Exotic Cipher)\nExotic Cipher quest: free\n\n\nXur’s items drop at a similar power level as your character.\nFig…",
-          "link": "https://www.polygon.com/destiny-2-guide-walkthrough/2021/7/9/22570348/destiny-2-xur-location-items-july-9-13",
-          "publishedOn": "2021-07-09T17:21:34.000Z",
-          "wordCount": 1157,
-          "title": "Destiny 2 Xur location and items, July 9-13"
-        },
-        {
-          "id": "https://www.polygon.com/22568610/monster-hunter-stories-2-wings-ruin-killing-monsties-guilty-conscience",
-          "author": null,
-          "description": "Image: Capcom via Polygon\n    \n\n\n  \nWho is the real monster here?\n I love Monster Hunter, but I try not to think about it too hard. \nMonster Hunter is a series that asks me to kill big beasts with sharp fangs and occasionally cuddly tummies. More often than not, they’re existing peacefully in their own ecosystem before I waltz in with my giant horn of doom to turn them into hats, pants, and an entire ensemble for my cat. I cannot pluck a single feather and save the monster. It’s a kill-or-be-killed series, and I’ve collected a lot of pelts over the years. \nWith Monster Hunter Stories 2: Wings of Ruin, a follow-up to the 2016 turn-based RPG, I was looking forward to a more symbiotic relationship with the monsters. As a Rider, I get to work alongside a companion monster that I raise from bir…",
-          "link": "https://www.polygon.com/22568610/monster-hunter-stories-2-wings-ruin-killing-monsties-guilty-conscience",
-          "publishedOn": "2021-07-09T15:00:00.000Z",
-          "wordCount": 1265,
-          "title": "Monster Hunter Stories 2 makes me feel even more uncomfortable about killing monsters"
-        },
-        {
-          "id": "https://www.polygon.com/22569982/how-to-watch-witchercon-schedule-netflix-cd-projekt-red",
-          "author": null,
-          "description": "Image: Netflix\n    \n\n  \nThe convention will include two separate streams throughout Saturday\n Netflix and CD Projekt Red have teamed up for the first WitcherCon, a streaming event dedicated entirely to the series, video games, board games, card games, and universe of The Witcher. WitcherCon will be held on Friday, July 9 and will be completely virtual, with every panel available to stream for free.\nThe event will feature two streams, with the first starting at 1 p.m. ET and the second starting at 9 p.m. ET. Both streams will include similar panels with unique content, according to Netflix and CD Projekt Red. \nThe event will feature appearances from members of the cast and crew of Netflix’s main Witcher series and spinoff, as well as several game developers from CD Projekt Red. WitcherCon w…",
-          "link": "https://www.polygon.com/22569982/how-to-watch-witchercon-schedule-netflix-cd-projekt-red",
-          "publishedOn": "2021-07-09T14:54:13.000Z",
-          "wordCount": 1040,
-          "title": "How to watch WitcherCon, from Netflix and CD Projekt Red"
-        },
-        {
-          "id": "https://www.polygon.com/22569924/sword-and-sworcery-superbrothers-jett-the-far-shore-pine-sceneted",
-          "author": null,
-          "description": "Image: Superbrothers/Pine Scented\n    \n\n  \nIt’s a muted take on an exploration game \n The co-creator of Sword & Sworcery, Superbrothers, released new details on their sci-fi game, Jett: The Far Shore for Sony’s State of Play on Thursday. Superbrothers is creating the game in partnership with Pine Scented. A PlayStation blog on the game has an extended trailer as well as plenty of new gameplay details. \nThe game looks like a more introspective take on sci-fi exploration. You play as Mei, a researcher who is part of a group of aviator scientists who embark on an interstellar trip and arrive on an ocean planet. “We aspired to create a video game to express our own feelings of awe when we look up at the starry sky,” the trailer says. \nThe new look showed a deeper dive into gameplay. In Jett, you’ll be flying a lot; you’ll pilot your spaceship in third person and weave your way through trees and obstacles. As you explore, you’ll be able to leave your ship and explore the land on foot as well, in first-person view. \nThe trailer explains that the game doesn’t rely on combat or resource extraction. You’ll have the opportunity to respect the indigenous wildlife of the planet. Overall, it looks like like a much more peaceful, less violent take on an exploration game — which is a genre that has historically pushed players to harvest as much as possible from the land. \nJett: The Far Shore was originally announced in June 2020. Since then, the studio has said that the game would be delayed to 2021. It is still slated to release in 2021 for the PlayStation 5, PlayStation 4, and on PC via the Epic Games Store.",
-          "link": "https://www.polygon.com/22569924/sword-and-sworcery-superbrothers-jett-the-far-shore-pine-sceneted",
-          "publishedOn": "2021-07-09T14:10:00.000Z",
-          "wordCount": 775,
-          "title": "Sword & Sworcery co-creator’s next game looks like an ultra-chill No Man’s Sky"
         }
       ]
     },
@@ -9391,42 +9058,6 @@
           "publishedOn": "2021-07-13T13:33:07.000Z",
           "wordCount": 172,
           "title": "Thom Yorke’s 2021 Remix of Creep"
-        },
-        {
-          "id": "https://kottke.org/quick-links",
-          "author": null,
-          "description": "Here’s a good rule of thumb for how and when to pepper a dish you’re cooking, taken from recipes for steak au poivre: you want pepper to be toasted, not burned [lifehacker.com]\nThe White House has a new executive order it says will encourage competition in the US economy, including right to repair, broadband markets, drugs and medical equipment, agriculture, consumer banking, and more [whitehouse.gov]\nCuttlefish don’t live a long time like corvids or have highly social lives like chimpanzees. They don’t even perform magic tricks squeezing into caves or holes like octopi. But they’re smart. How do they do it? [nytimes.com]\nA 20th anniversary oral history of the Reese Witherspoon star vehicle / unexpected cult classic Legally Blonde [nytimes.com]\nNintendo and Tag Heuer appear to be teaming up to make a Mario-themed wristwatch [theverge.com]\n---\nNote: Quick Links are pushed to this RSS feed twice a day. For more immediate service, check out the front page of kottke.org, the Quick Links archive, or the @kottke Twitter feed.",
-          "link": "https://kottke.org/quick-links",
-          "publishedOn": "2021-07-09T21:52:01.000Z",
-          "wordCount": 1356,
-          "title": "Five Quick Links for Friday Afternoon"
-        },
-        {
-          "id": "https://kottke.org/21/07/the-history-and-future-of-electric-car-design",
-          "author": null,
-          "description": "Car and Driver has a good article that both assesses the brief history of electric car design and looks at where things might be headed going forward, as designers break free of some early conceptions about what a car (or what a specifically electric car) needed to look like. Some highlights:\n Many early EV ventures used existing platforms and arranged electric powertrains to fit where gas engines and transmissions had previously resided. Even Tesla’s first attempt was a revamped Lotus Elise without its 1.8-liter inline-four. Working on a nondedicated, or “nonnative,” electric platform limited designers’ options for positioning the battery and motor. Automakers often stacked batteries under the rear seat—which is why early EVs sometimes offered less legroom or cargo space than their gas co…",
-          "link": "https://kottke.org/21/07/the-history-and-future-of-electric-car-design",
-          "publishedOn": "2021-07-09T20:20:00.000Z",
-          "wordCount": 419,
-          "title": "The History and Future of Electric Car Design"
-        },
-        {
-          "id": "https://kottke.org/21/07/just-how-badly-do-you-want-that-replacement-atari-console-part",
-          "author": null,
-          "description": "Vice has a sometimes less-than-flattering profile of Best Electronics’ Bradley Koda, a persnickety entrepreneur who has an unrivaled catalog of old-school Atari console parts and a reputation for shutting out buyers who get impatient with doing things his way:\nAmong Atari fans, Best is almost as famous for ignoring and blacklisting badly behaved customers as it is for selling Atari parts. A first attempt to buy from Best Electronics is a sink-or-swim proposition: learn the rules, or accept your fate…\nKoda is a monopolist, of a sort, but he’s no Jeff Bezos. Best Electronics has no virtual shopping cart, or any other Amazon-esque conveniences. The store’s website looks the same as it has since the early 2000s: it’s a lengthy, multicoloured text scroll, as if Jack Kerouac quit the novel-writing business (but not the benzedrine) and started typing about Atari… \n \n\nAnyone who can’t figure out this system risks being deemed a time-waster. In emails to customers, Koda often laments his busy schedule, and he seems to take distractions personally. He would rather lose a sale than suffer someone who hasn’t learned the rules.\n \n\nBest has been in business more than 25 years. Its equipment is mostly unused Atari originals, not salvaged parts. The company’s catalog was printed more than 20 years ago (and is available only in print); corrections (including changes in price) are only available online. His customers both love him and fear him. \nIn short, it’s a throwback to old-school nerd retail, the kind lampooned by The Simpsons’ Comic Book Guy. What, did you think finding first-rate replacement parts for your forty-year old video game machine would be like buying AA batteries? \nTags: Atari   online   video games",
-          "link": "https://kottke.org/21/07/just-how-badly-do-you-want-that-replacement-atari-console-part",
-          "publishedOn": "2021-07-09T20:00:00.000Z",
-          "wordCount": 329,
-          "title": "Just How Badly Do You Want That Replacement Atari Console Part?"
-        },
-        {
-          "id": "https://kottke.org/21/07/on-zaila-avant-garde-the-new-national-spelling-bee-champ",
-          "author": null,
-          "description": "Along with a liveblog of the last few rounds of this year’s Scripps National Spelling Bee, The New York Times has an excellent profile of its champion, 14 year-old Zaila Avant-garde from New Orleans, Louisiana. (One fun fact: Zaila’s last name is an homage by her father to John Coltrane.)\n Zaila, who just finished eighth grade in her hometown, Harvey, La., showed a prowess for spelling at 10, when her father, who had been watching finals of the Scripps National Spelling Bee on ESPN, asked her how to spell the winning word: marocain.\nZaila spelled it perfectly. Then he asked her to spell the winning words going back to 1999. She spelled nearly all of them correctly and was able to tell him the books where she had seen them.\n“He was a bit surprised by that,” Zaila said in an interview before…",
-          "link": "https://kottke.org/21/07/on-zaila-avant-garde-the-new-national-spelling-bee-champ",
-          "publishedOn": "2021-07-09T17:30:00.000Z",
-          "wordCount": 399,
-          "title": "On Zaila Avant-garde, the New National Spelling Bee Champ"
         }
       ]
     },
@@ -9435,6 +9066,15 @@
       "feedUrl": "https://www.halfbakedharvest.com/feed/",
       "siteUrl": "https://www.halfbakedharvest.com",
       "articles": [
+        {
+          "id": "https://www.halfbakedharvest.com/?p=109884",
+          "author": "halfbakedharvest",
+          "description": "Nine Favorite Things.\nNine Favorite Things. We’re now one week into August…I hope everyone is enjoying these last weeks of summer! It feels like people are off traveling or camping more than ever, and especially this month! Everyone seems to be working hard at soaking up this last full month of lazy summer days! Since we traveled a…\nREAD: Nine Favorite Things.",
+          "link": "https://www.halfbakedharvest.com/nine-favorite-things-205/",
+          "publishedOn": "2021-08-08T08:00:00.000Z",
+          "wordCount": 4362,
+          "title": "Nine Favorite Things."
+        },
         {
           "id": "https://www.halfbakedharvest.com/?p=109864",
           "author": "halfbakedharvest",
@@ -9704,6 +9344,33 @@
       "feedUrl": "https://bloody-disgusting.com/feed/",
       "siteUrl": "https://bloody-disgusting.com",
       "articles": [
+        {
+          "id": "https://bloody-disgusting.com/?p=3677339",
+          "author": "Joe Lipsett",
+          "description": "A new Richard Bates Jr project is always a cause for celebration because it’s guaranteed to a) make you squirm or b) make you laugh (often despite yourself). With King Knight, the writer/director, known for his caustic comedies and macabre horrors, delivers a bemusing property that broadly satirizes the New Age self-improvement movement, albeit with […]",
+          "link": "https://bloody-disgusting.com/reviews/3677339/fantasia-review-king-knight-silly-heartfelt-ode-true/",
+          "publishedOn": "2021-08-08T23:00:26.000Z",
+          "wordCount": 1660,
+          "title": "[Fantasia Review] ‘King Knight’ Is a Silly, Heartfelt Ode to Being True to Yourself"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3677344",
+          "author": "Mike Wilson",
+          "description": "With The Medium arriving next month for PlayStation 5 users, and the fact that the game will be taking advantage of the PS5’s DualSense, Bloober Team thought it best to drop a trailer explaining just what users can expect from the enhancement. Over on PlayStation Blog, Bloober Team producer Szymon Erdmanski explains that The Medium […]",
+          "link": "https://bloody-disgusting.com/video-games/3677344/watch-new-trailer-gives-overview-of-ps5-enhancements-for-the-medium/",
+          "publishedOn": "2021-08-08T14:35:00.000Z",
+          "wordCount": 1724,
+          "title": "[Watch] New Trailer Gives Overview of PS5 Enhancements For ‘The Medium’"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3677349",
+          "author": "Brad Miska",
+          "description": "“I’m feelin’ a little woozy here!” One of the best theater experiences of my life was the surprise of Wes Craven’s slasher, Scream, which slayed audiences over Christmas break way back in 1996. It was such a great time that we ended up seeing it multiple times over the holidays, many of which resulted in […]",
+          "link": "https://bloody-disgusting.com/movie/3677349/relive-magic-seeing-wes-cravens-scream-theaters-october-11th/",
+          "publishedOn": "2021-08-08T14:00:26.000Z",
+          "wordCount": 1611,
+          "title": "Relive the Magic of Seeing Wes Craven’s ‘Scream’ in Theaters on October 11th!"
+        },
         {
           "id": "https://bloody-disgusting.com/?p=3676883",
           "author": "Neil Bolt",
@@ -13807,195 +13474,6 @@
           "publishedOn": "2021-07-11T14:44:59.000Z",
           "wordCount": 1041,
           "title": "‘The Witcher 3: Wild Hunt Complete Edition’ Receiving DLC Inspired by The Netflix Series"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3673460",
-          "author": "John Squires",
-          "description": "A new installment in the Pet Sematary franchise is in the works for Paramount+, with Jeff Buhler, who wrote the 2019 adaptation, writing. It looks like the project is indeed a prequel, as originally announced, and THR brings us some more casting news today. Natalie Alyn Lind (“Big Sky,” “Tell Me a Story”), Jack Mulhern (“Mare of Easttown”), Forrest […]",
-          "link": "https://bloody-disgusting.com/movie/3673460/upcoming-pet-sematary-prequel-paramount-casts-natalie-alyn-lind-several/",
-          "publishedOn": "2021-07-09T21:17:26.000Z",
-          "wordCount": 2177,
-          "title": "Upcoming ‘Pet Sematary’ Prequel for Paramount+ Casts Natalie Alyn Lind and Several More"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3673453",
-          "author": "John Squires",
-          "description": "Created by James Tynion IV and Werther Dell’Edera, the Boom! Studios comic Something is Killing the Children is planning a trip to the small screen, with Mike Flanagan on board! THR reports tonight that Flanagan and “The Haunting of Hill House”/Doctor Sleep partner Trevor Macy are co-writing and executive producing a pilot for a potential […]",
-          "link": "https://bloody-disgusting.com/tv/3673453/mike-flanagan-co-writing-series-adaptation-comic-book-something-killing-children/",
-          "publishedOn": "2021-07-09T21:08:26.000Z",
-          "wordCount": 2283,
-          "title": "Mike Flanagan Co-Writing a Series Adaptation of Comic Book ‘Something is Killing the Children’!"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3673435",
-          "author": "Daniel Kurland",
-          "description": "‘Wellington Paranormal’ is the horror comedy that genre fans have been waiting for and it’s far more than a silly ‘What We Do in the Shadows’ spin-off. Television has become a haven for cutting edge horror content and there are greater risks being taken with programs that gleefully deconstruct the genre or combine it together […]",
-          "link": "https://bloody-disgusting.com/reviews/3673435/review-wellington-paranormal-exceptional-spinoff-often-surpasses-shadows/",
-          "publishedOn": "2021-07-09T19:54:02.000Z",
-          "wordCount": 2693,
-          "title": "[Review] “Wellington Paranormal” is an Exceptional Spinoff That Often Surpasses “What We Do in the Shadows”"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3673439",
-          "author": "John Squires",
-          "description": "“Try getting a reservation at Dorsia now, you stupid bastard.” Horror themed, metalcore band Ice Nine Kills is back with “Hip To Be Scared,” a brand new music video that pays bloody tribute to Mary Harron’s American Psycho, which just turned 20. Frontman Spencer Charnas, a big time horror fan and guest star on Bloody Disgusting’s […]",
-          "link": "https://bloody-disgusting.com/music/3673439/ice-nine-kills-pay-tribute-american-psycho-hip-scared-music-video/",
-          "publishedOn": "2021-07-09T19:40:48.000Z",
-          "wordCount": 1239,
-          "title": "Ice Nine Kills Pay Tribute to ‘American Psycho’ With “Hip To Be Scared” Music Video"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3673325",
-          "author": "Mike Wilson",
-          "description": "Modus Games has announced that their upcoming psychological horror game In Sound Mind has been pushed back from its original August 3rd release date. In order to “give players the most memorable experience possible”, the game will now release on September 28 for PC, PlayStation 5, and the Xbox Series, with the Nintendo Switch version […]",
-          "link": "https://bloody-disgusting.com/video-games/3673325/psychological-horror-title-in-sound-mind-launching-september-28-new-music-video-released/",
-          "publishedOn": "2021-07-09T19:06:21.000Z",
-          "wordCount": 916,
-          "title": "[Video] Psychological Horror Title ‘In Sound Mind’ Launching September 28; New Music Video Released"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3673034",
-          "author": "Luiz H. C.",
-          "description": "As the world becomes increasingly desensitized to extreme media, it’s easy to imagine unsimulated death as the disturbing final frontier of both horror and pornography. While there has never been a confirmed case of murder-on-tape being intentionally distributed for commercial purposes, the idea of snuff films has captured the imagination of writers and filmmakers for […]",
-          "link": "https://bloody-disgusting.com/editorials/3673034/looking-back-8mm-horror-masterpiece-almost/",
-          "publishedOn": "2021-07-09T19:00:29.000Z",
-          "wordCount": 2953,
-          "title": "Looking Back on ‘8MM’ – The Horror Masterpiece That Almost Was"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3673426",
-          "author": "John Squires",
-          "description": "Face your demons. In addition to the upcoming second season of “The Witcher” and spinoff series “The Witcher: Blood Origin,” we’re also getting an animated film titled The Witcher: Nightmare of the Wolf. Nightmare of the Wolf premieres August 23, 2021 worldwide on Netflix. The movie “explores a powerful new threat facing the Continent.” “The […]",
-          "link": "https://bloody-disgusting.com/movie/3673426/animated-horror-movie-witcher-nightmare-wolf-coming-netflix-august-trailer/",
-          "publishedOn": "2021-07-09T18:58:38.000Z",
-          "wordCount": 1014,
-          "title": "Animated Horror Movie ‘The Witcher: Nightmare of the Wolf’ Coming to Netflix in August [Trailer]"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3673423",
-          "author": "John Squires",
-          "description": "Trace Adkins, Thora Birch, Peter Facinelli, Anne Heche, Will Peltz, Davi Santos, Amy Smart, Sofia Vassilieva and Paz Vega lead the cast of 13 Minutes, a new thriller on the way for Halloween. Quiver Distribution announced today that it has acquired the film, written and directed by Lindsay Gossling, from a story developed by Gossling […]",
-          "link": "https://bloody-disgusting.com/movie/3673423/13-minutes-tornado-thriller-starring-thora-birch-peter-facinelli-anne-heche-releasing-october/",
-          "publishedOn": "2021-07-09T18:46:12.000Z",
-          "wordCount": 1205,
-          "title": "’13 Minutes’: Tornado Thriller Starring Thora Birch, Peter Facinelli & Anne Heche Releasing in October"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3673416",
-          "author": "John Squires",
-          "description": "Whether he’s writing, directing, creating, or waxing poetic as a fan, Mick Garris is truly “one of us” in the best possible way, and he’s also an undeniable Master of Horror. Fittingly, that’s the title of a biography covering Garris’s life and career that’s on the way! ATB Publishing just announced today that Master of […]",
-          "link": "https://bloody-disgusting.com/books/3673416/master-horror-official-mick-garris-biography-releasing-summer/",
-          "publishedOn": "2021-07-09T18:33:44.000Z",
-          "wordCount": 1292,
-          "title": "‘Master of Horror’: Official Mick Garris Biography Releasing This Summer"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3673391",
-          "author": "Brad Miska",
-          "description": "Universal will be releasing Old in theaters on July 23, 2021, a brand new original thriller from M. Night Shyamalan that looks to speed up the horrors of aging. You can preview the film with the below image gallery today, which includes stills and behind the scenes shots. Here’s the official plot synopsis… “This summer, Shyamalan unveils a […]",
-          "link": "https://bloody-disgusting.com/movie/3673391/m-night-shyamalan-old-photo-gallery/",
-          "publishedOn": "2021-07-09T18:13:02.000Z",
-          "wordCount": 1547,
-          "title": "‘Old’: Image Gallery Invites You on a Vacation into M. Night Shyamalan’s Latest Nightmare"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3673319",
-          "author": "Mike Wilson",
-          "description": "Techland and Dynamite Entertainment have unveiled the first issue for the upcoming Dying Light 2: Stay Human prequel comic series, which is available now for download until July 15. After which, you’ll have to wait for the printed version at a later date. Announced during the second episode of Dying 2 Know, Banshee: I Am The […]",
-          "link": "https://bloody-disgusting.com/video-games/3673319/trailer-prequel-comic-for-dying-light-2-stay-human-available-now-digitally-until-july-15/",
-          "publishedOn": "2021-07-09T17:56:21.000Z",
-          "wordCount": 1034,
-          "title": "[Trailer] Prequel Comic For ‘Dying Light 2: Stay Human’ Available Digitally Until July 15; Printed Version Coming Soon"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3673366",
-          "author": "Meagan Navarro",
-          "description": "Blood Red Sky sets up expectations of an intense thriller with horror gimmickry thrown in for good measure between its title and the logline. Terrorists attempting to hijack a transatlantic overnight flight find resistance in the form of a vampire. It’s the type of plot that screams action-horror spectacle, yet this high-altitude thriller defies expectations from […]",
-          "link": "https://bloody-disgusting.com/reviews/3673366/review-netflixs-blood-red-sky-soars-intense-high-altitude-vampire-tale/",
-          "publishedOn": "2021-07-09T17:51:41.000Z",
-          "wordCount": 1412,
-          "title": "[Review] Netflix’s ‘Blood Red Sky’ Soars with Intense, High-Altitude Vampire Tale"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3673379",
-          "author": "John Squires",
-          "description": "Announced during today’s #WitcherCon, we’ve learned that the second season of “The Witcher” is coming to Netflix in time for the holidays, the new episodes arriving December 17! While you wait, find two first-look images and a fresh piece of promo art below. UPDATED with Season 2 teaser trailer! Based on the best-selling fantasy series […]",
-          "link": "https://bloody-disgusting.com/tv/3673379/witcher-season-2-gets-december-premiere-date-fresh-promo-art/",
-          "publishedOn": "2021-07-09T17:37:20.000Z",
-          "wordCount": 1173,
-          "title": "“The Witcher” Season 2 Gets December Premiere Date, Along With Teaser Trailer and Poster!"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3673374",
-          "author": "John Squires",
-          "description": "Up next from Elijah Wood‘s production company SpectreVision (Mandy) is No Man of God, wherein Wood plays the FBI agent who Ted Bundy confessed his serial murders to. Bundy is played by Emmy winner Luke Kirby in the film, which will be released in theaters, on demand and digital by RLJE Films on August 27, 2021. Find the trailer […]",
-          "link": "https://bloody-disgusting.com/movie/3673374/ted-bundy-confesses-everything-based-true-events-movie-no-man-god-trailer/",
-          "publishedOn": "2021-07-09T17:21:18.000Z",
-          "wordCount": 1095,
-          "title": "Ted Bundy Confesses Everything in Based-on-True-Events Movie ‘No Man of God’ [Trailer]"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3673226",
-          "author": "Meagan Navarro",
-          "description": "Paying homage to popular classics can be a tricky thing. It’s a delicate balance between appreciation and appropriation, and testing the boundaries without crossing them takes restraint. With a title like A Classic Horror Story and a logline that nods to formative horror movies, you expect a more pronounced degree of homage in store. But A Classic Horror […]",
-          "link": "https://bloody-disgusting.com/reviews/3673226/review-netflix-a-classic-horror-story-loses-borrowed-plot-tropes/",
-          "publishedOn": "2021-07-09T17:17:36.000Z",
-          "wordCount": 1510,
-          "title": "[Review] Netflix’s ‘A Classic Horror Story’ Loses Itself in Borrowed Plot and Tropes"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3673355",
-          "author": "John Squires",
-          "description": "“The Walking Dead” will be ending with an expanded two-year eleventh season that will span 24 episodes, bringing the long-running AMC series to an end sometime in 2022. The Final Season will begin on August 22, 2021, and this week AMC has shared a batch of brand new first-look images along with a series of short teasers […]",
-          "link": "https://bloody-disgusting.com/tv/3673355/walking-dead-gear-final-season-new-teaser-videos-images/",
-          "publishedOn": "2021-07-09T16:15:52.000Z",
-          "wordCount": 1370,
-          "title": "“The Walking Dead”: Gear Up for the FINAL Season With New Teaser Videos and Images"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3673314",
-          "author": "Mike Wilson",
-          "description": "As scheduled, Bethesda and developer Arkane Lyon unveiled the 9-minute gameplay walkthrough footage for Deathloop at yesterday’s State of Play. The footage goes through the varying playstyles you’ll employ during your loops, as well as demonstrating your abilities (in this case, the Karnesis ability). In Deathloop, two rival assassins are trapped in a mysterious timeloop […]",
-          "link": "https://bloody-disgusting.com/video-games/3673314/video-new-gameplay-walkthrough-of-deathloop-demonstrates-different-playstyles/",
-          "publishedOn": "2021-07-09T15:40:03.000Z",
-          "wordCount": 898,
-          "title": "[Video] New Gameplay Walkthrough of ‘Deathloop’ Demonstrates Different Playstyles"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3673284",
-          "author": "Paul Lê",
-          "description": "Horrors Elsewhere is a recurring column that spotlights a variety of movies from all around the globe, particularly those not from the United States. Fears may not be universal, but one thing is for sure — a scream is understood, always and everywhere. Children’s birthdays hardly ever go as planned, but as one character states […]",
-          "link": "https://bloody-disgusting.com/editorials/3673284/clown-act-gory-irish-slasher-stitches-die-horrors-elsewhere/",
-          "publishedOn": "2021-07-09T15:38:41.000Z",
-          "wordCount": 2954,
-          "title": "The Clown Act in Gory Irish Slasher ‘Stitches’ Is to Die For [Horrors Elsewhere]"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3673341",
-          "author": "John Squires",
-          "description": "It may sound like a SYFY Original concept but upcoming French horror movie The Swarm looks to have a far more serious execution, as teased in Netflix‘s official trailer this morning. The Swarm takes a bite out of Netflix on August 6. Preview director Just Philippot‘s film below. In The Swarm, “Virginie lives on a farm […]",
-          "link": "https://bloody-disgusting.com/movie/3673341/trailer-netflix-unleashes-bloodsucking-locusts-french-horror-movie-swarm/",
-          "publishedOn": "2021-07-09T14:18:29.000Z",
-          "wordCount": 1005,
-          "title": "[Trailer] Netflix Unleashes Bloodsucking Locusts in French Horror Movie ‘The Swarm’"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3673320",
-          "author": "Michael Roffman",
-          "description": "In case you missed it, The Losers’ Club were mysteriously given a decaying, coffee-stained teleplay for the lost Season 3 premiere of Hulu’s Castle Rock. Rather than keep it to themselves, your humble hosts brought the script to life in the best way they know how: By turning it into a podcast with no affiliation whatsoever to […]",
-          "link": "https://bloody-disgusting.com/podcasts/3673320/castle-rock-season-3-act-2-losers-club/",
-          "publishedOn": "2021-07-09T13:35:22.000Z",
-          "wordCount": 1299,
-          "title": "“Castle Rock”: Unofficial Season 3 Audio Drama Turns Up the Heat in Act II [The Losers’ Club Podcast]"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3673331",
-          "author": "John Squires",
-          "description": "You likely already own it on VHS, DVD, and Blu-ray, but we’re happy to report that you’re going to have to buy John Carpenter‘s The Thing one more time, this time on 4K Ultra HD! The 1982 masterpiece will be released on 4K Ultra HD disc September 7, 2021. Special Features include… DISC 1: The […]",
-          "link": "https://bloody-disgusting.com/home-video/3673331/john-carpenters-thing-brings-glorious-practical-effects-4k-ultra-hd-september/",
-          "publishedOn": "2021-07-09T13:26:55.000Z",
-          "wordCount": 1274,
-          "title": "John Carpenter’s ‘The Thing’ Brings Glorious Practical Effects to 4K Ultra HD in September!"
         }
       ]
     },
@@ -14738,15 +14216,6 @@
           "publishedOn": "2021-07-10T13:00:00.000Z",
           "wordCount": 1076,
           "title": "Jakub Voracek might be gone this summer"
-        },
-        {
-          "id": "https://www.broadstreethockey.com/2021/7/9/22570043/nhl-philadelphia-flyers-bsh-2021-community-draft-board-no-23-zachary-lheureux",
-          "author": null,
-          "description": "Photo by Minas Panagiotakis/Getty Images\n    \n\n  \nBack to Halifax. \n If you’ve been watching the Flyers’ prospects playing in the CHL closely, this may be a name that sounds familiar. L’Heureux spent this season with Halifax of the QMJHL, where he was teammates with the Flyers’ own Eliot Desnoyers. And while Desnoyers was putting up his own torrid scoring pace, L’Heureux was right behind him, coming in second on the team in scoring (and tied for eighth in goals scored in the whole of the QMJHL). There was a lot to like about his season, his own impacts on that team turning a lot of heads. \nBSH 2021 Community Draft Board, No. 23: Zachary L’Heureux\n2020-21 Season:\nTeam: Halifax Mooseheads (QMJHL)\nStats: 19 G, 20 A in 33 GP\nPre-Draft Rankings\nNo. 30 by NHL Central Scouting (NA Skaters)\nNo. 19…",
-          "link": "https://www.broadstreethockey.com/2021/7/9/22570043/nhl-philadelphia-flyers-bsh-2021-community-draft-board-no-23-zachary-lheureux",
-          "publishedOn": "2021-07-09T16:30:00.000Z",
-          "wordCount": 1593,
-          "title": "BSH 2021 Community Draft Board, No. 23: Zachary L’Heureux"
         }
       ]
     },
@@ -14755,6 +14224,20 @@
       "feedUrl": "https://indyweek.com/api/rss/content.rss",
       "siteUrl": "https://indyweek.com/api/rss/content.rss",
       "articles": [
+        {
+          "id": "https://indyweek.com/news/longform/sunday-reading-environmental-racism-in-black-communities/",
+          "author": "Thomasi McDonald",
+          "description": "This noxious history came to mind while reading Scalawag's “A Lifetime of Damage on a Creosote Plume in Houston’s Fifth Ward.\"",
+          "link": "https://indyweek.com/news/longform/sunday-reading-environmental-racism-in-black-communities/",
+          "publishedOn": "2021-08-08T10:00:00.000Z",
+          "wordCount": 1078,
+          "title": "Sunday Reading: Environmental Racism in Black Communities",
+          "enclosure": {
+            "url": "https://indyweek.com/downloads/82689/download/photograph-of-cribs-loaded-with-posts-coming-out-of-the-creosote-pressure-oven-7da544.jpg?cb=c989b7d7fe05fe16bc11e36e79024257",
+            "type": "image/jpeg",
+            "length": "121153"
+          }
+        },
         {
           "id": "https://indyweek.com/news/three-things-to-do-this-weekend-in-the-triangle-080711/",
           "author": "Leigh Tauss",
@@ -16280,34 +15763,6 @@
             "type": "image/jpeg",
             "length": "46458"
           }
-        },
-        {
-          "id": "https://indyweek.com/news/northcarolina/vaccinated-students-teachers-can-shed-masks/",
-          "author": "Greg Childress",
-          "description": "The CDC’s announcement comes as North Carolina’s year-round students and teachers return to classrooms for in-person instruction.",
-          "link": "https://indyweek.com/news/northcarolina/vaccinated-students-teachers-can-shed-masks/",
-          "publishedOn": "2021-07-09T19:10:43.000Z",
-          "wordCount": 928,
-          "title": "Vaccinated Students, Teachers Can Shed Masks, Says New Federal Guidance",
-          "enclosure": {
-            "url": "https://indyweek.com/downloads/82544/download/School-reopen-Adobe-Stock.jpeg?cb=0971a87374a836818ec6a36409b13b09",
-            "type": "image/jpeg",
-            "length": "48595"
-          }
-        },
-        {
-          "id": "https://indyweek.com/news/northcarolina/six-things-to-do-this-weekend-in-the-triangle-711/",
-          "author": "Rebecca Schneid",
-          "description": "Three-on-three basketball, a food truck rodeo, and open mic night at the Visual Art Exchange.",
-          "link": "https://indyweek.com/news/northcarolina/six-things-to-do-this-weekend-in-the-triangle-711/",
-          "publishedOn": "2021-07-09T18:25:17.000Z",
-          "wordCount": 903,
-          "title": "Six Things to Do This Weekend in the Triangle",
-          "enclosure": {
-            "url": "https://indyweek.com/downloads/82543/download/Screen%20Shot%202021-07-09%20at%202.17.13%20PM.png?cb=d4326e3e3f945c12b93fbb8f238389ce",
-            "type": "image/png",
-            "length": "895372"
-          }
         }
       ]
     },
@@ -17145,46 +16600,6 @@
           "wordCount": null,
           "title": "Charlotte Day Wilson, “Alpha”",
           "itunes": {}
-        },
-        {
-          "id": "141500",
-          "author": "Arielle Gordon",
-          "description": "As some parts of the world attempt to establish a \"new normal,\" this month's selections reflect myriad attitudes towards human interactions.\nRead full story on the Bandcamp Daily.",
-          "link": "https://daily.bandcamp.com/best-ambient/the-best-ambient-music-on-bandcamp-june-2021",
-          "publishedOn": "2021-07-09T17:57:35.000Z",
-          "wordCount": null,
-          "title": "The Best Ambient Music on Bandcamp: June 2021",
-          "itunes": {}
-        },
-        {
-          "id": "141579",
-          "author": "Blake Gillespie",
-          "description": "“Load Bearing Crow’s Feet” explores the toll the music industry takes on the individual.\nRead full story on the Bandcamp Daily.",
-          "link": "https://daily.bandcamp.com/features/premrock-load-bearing-crows-feet-interview",
-          "publishedOn": "2021-07-09T17:56:29.000Z",
-          "wordCount": null,
-          "title": "On His New LP, Rapper PremRock Grapples With Getting Older",
-          "itunes": {}
-        },
-        {
-          "id": "141585",
-          "author": "Shy Thompson",
-          "description": "Enji's sophomore album blends her love of the jazz canon with a native singing style from Mongolia.\nRead full story on the Bandcamp Daily.",
-          "link": "https://daily.bandcamp.com/features/enji-ursgal-interview",
-          "publishedOn": "2021-07-09T13:57:42.000Z",
-          "wordCount": null,
-          "title": "Enji’s Mongolian Jazz Valentine",
-          "itunes": {}
-        },
-        {
-          "id": "141667",
-          "author": "Eli Schoop",
-          "description": "Deep Aztec may be a new voice, but his debut feels like a veteran accomplishment. \nRead full story on the Bandcamp Daily.",
-          "link": "https://daily.bandcamp.com/album-of-the-day/deep-aztec-healing-frequencies-review",
-          "publishedOn": "2021-07-09T13:55:34.000Z",
-          "wordCount": null,
-          "title": "Deep Aztec, “Healing Frequencies”",
-          "itunes": {}
         }
       ]
     },
@@ -17489,24 +16904,6 @@
           "publishedOn": "2021-07-13T00:56:02.416Z",
           "wordCount": 2608,
           "title": "Richard Branson, the press, and the space in between"
-        },
-        {
-          "id": "https://www.cjr.org/the_media_today/haiti_media_assassination_moise.php",
-          "author": null,
-          "description": "Ten days ago, gunmen in Haiti shot and killed a reporter named Diego Charles. He had just gotten a ride home from Marie Antoinette Duclaire, a political activist and former journalistic colleague of his; shooters killed her, too. Charles and Duclaire were both thirty-three, and among more than twenty people murdered in Port-au-Prince, the capital, […]",
-          "link": "https://www.cjr.org/the_media_today/haiti_media_assassination_moise.php",
-          "publishedOn": "2021-07-10T00:53:37.408Z",
-          "wordCount": 2580,
-          "title": "New violence and familiar stories in Haiti"
-        },
-        {
-          "id": "https://www.cjr.org/business_of_news/la-startup-multiplied-donations.php",
-          "author": null,
-          "description": "Knock LA—a digital startup that launched in 2017 to bring an alternative voice to Los Angeles news coverage—saw donations increase almost forty-fold over the past year. As they look to the future, three Knock LA volunteers who have all served rotations as managing editors talked with CJR about working collectively, a volunteer-based model, and building […]",
-          "link": "https://www.cjr.org/business_of_news/la-startup-multiplied-donations.php",
-          "publishedOn": "2021-07-10T00:53:37.396Z",
-          "wordCount": 2608,
-          "title": "How a volunteer-based LA startup multiplied donations forty-fold"
         }
       ]
     },
@@ -17751,21 +17148,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8c56f035-e627-4211-8770-1c3b0f99c0dc_1024x716.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          }
-        },
-        {
-          "id": "https://www.platformer.news/p/a-few-more-words-about-the-simo-situation",
-          "author": "Casey Newton",
-          "description": "Correcting an error",
-          "link": "https://www.platformer.news/p/a-few-more-words-about-the-simo-situation",
-          "publishedOn": "2021-07-09T18:05:28.000Z",
-          "wordCount": null,
-          "title": "A few more words about the Simo situation",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FE5v2RJUUcAIbOYT.jpg",
             "length": "0",
             "type": "image/jpeg"
           }
@@ -18983,87 +18365,6 @@
           "publishedOn": "2021-07-15T12:30:22.000Z",
           "wordCount": 255,
           "title": "ANF – II 7″"
-        },
-        {
-          "id": "http://goodguysgogrind.com/?p=28896",
-          "author": "goodguysgogrind",
-          "description": "I`m holding in my hands a brand new split with two interesting bands. Yes, Pharmacist is well known now but Egggore is not (so it will be nice to show you these guys). Both bands are very different and that makes this CD even better. From one side we have groovy goregrind, from the other old death grind. Also I want you to look closely at this cover art. This sick stuff was created by gore master Pierre (Blue Holocaust/BrainDead zine). Super pathological and crazy-looking work that fits this split for all 100%! Let’s start with the Czech band Egggore. …",
-          "link": "https://goodguysgogrind.com/2021/07/10/egggore-pharmacist/",
-          "publishedOn": "2021-07-10T10:29:49.000Z",
-          "wordCount": 549,
-          "title": "Egggore / Pharmacist"
-        },
-        {
-          "id": "http://goodguysgogrind.com/?p=28892",
-          "author": "goodguysgogrind",
-          "description": "Limited Green Galaxy variant and Test Press/Mini-Comic Package of Power Toke -Slabs Of Pain! Pre-order starts now get a copy HERE!",
-          "link": "https://goodguysgogrind.com/2021/07/09/news-from-wise-grinds-records-3/",
-          "publishedOn": "2021-07-09T17:42:45.000Z",
-          "wordCount": 262,
-          "title": "News from Wise Grinds Records!"
-        },
-        {
-          "id": "http://goodguysgogrind.com/?p=28888",
-          "author": "goodguysgogrind",
-          "description": "The Polish death/grind squad is back with brand new tunes! CD will be released by Left Hand Patches Releases",
-          "link": "https://goodguysgogrind.com/2021/07/09/putrid-evil-putrid-evil/",
-          "publishedOn": "2021-07-09T17:14:57.000Z",
-          "wordCount": 268,
-          "title": "Putrid Evil – Putrid Evil!"
-        },
-        {
-          "id": "http://goodguysgogrind.com/?p=28884",
-          "author": "goodguysgogrind",
-          "description": "Out soon on Noisetalgia records & Kaz records!",
-          "link": "https://goodguysgogrind.com/2021/07/09/split-tape-energumeno-sedem-minut-strachu/",
-          "publishedOn": "2021-07-09T14:16:16.000Z",
-          "wordCount": 255,
-          "title": "Split tape Energumeno/Sedem Minut Strachu!"
-        },
-        {
-          "id": "http://goodguysgogrind.com/?p=28879",
-          "author": "goodguysgogrind",
-          "description": "Czech fast n violence band Skiplife just printed a new merch! You can listen to their music buy something and support them at their Bandcamp page.",
-          "link": "https://goodguysgogrind.com/2021/07/09/a-new-long-sleeves-from-skiplife/",
-          "publishedOn": "2021-07-09T14:11:21.000Z",
-          "wordCount": 271,
-          "title": "A new long-sleeves from Skiplife!"
-        },
-        {
-          "id": "http://goodguysgogrind.com/?p=28875",
-          "author": "goodguysgogrind",
-          "description": "official event page/tickets/info",
-          "link": "https://goodguysgogrind.com/2021/07/09/chimpyfest-2021-2/",
-          "publishedOn": "2021-07-09T14:06:55.000Z",
-          "wordCount": 251,
-          "title": "Chimpyfest 2021!"
-        },
-        {
-          "id": "http://goodguysgogrind.com/?p=28870",
-          "author": "goodguysgogrind",
-          "description": "Meat 5000 Records presents a new release with 4 great gore bands! You can listen to a few songs and pre-order this CD at meat5000records.bandcamp.com",
-          "link": "https://goodguysgogrind.com/2021/07/09/way-split-with-dxhxnx-zombie-pulmonary-fibrosis-ischemic-necrosis/",
-          "publishedOn": "2021-07-09T14:02:27.000Z",
-          "wordCount": 286,
-          "title": "4-way split with DxHxNx / Zombie / Pulmonary Fibrosis / Ischemic Necrosis!"
-        },
-        {
-          "id": "http://goodguysgogrind.com/?p=28864",
-          "author": "goodguysgogrind",
-          "description": "Finally a new nasty tunes from US noisemakers! You can listen to the whole split HERE! Tapes will be ready soon!",
-          "link": "https://goodguysgogrind.com/2021/07/09/split-reeking-cross-honey-spreader/",
-          "publishedOn": "2021-07-09T13:59:47.000Z",
-          "wordCount": 279,
-          "title": "Split Reeking Cross / Honey Spreader!"
-        },
-        {
-          "id": "http://goodguysgogrind.com/?p=28857",
-          "author": "goodguysgogrind",
-          "description": "Unrested is a new grind band from Spain. But this not a usual newcomers, this squad consists of musicians from Convulsions, Denak, and Tu Carne. So as you can see these guys know how to make us happy, ha! The cover art of this LP is based on an old movie “Clockwork Orange” (at least the main character), the image looks unprofessional, and I find this moment very cool. This band has a very strong DIY spirit in design and music, which I really like. Like the other grindcore bands from Spain Unrested is very emotional. But also guys blast …",
-          "link": "https://goodguysgogrind.com/2021/07/09/unrested-dosis-de-realidad/",
-          "publishedOn": "2021-07-09T13:39:20.000Z",
-          "wordCount": 495,
-          "title": "Unrested – Dosis De Realidad"
         }
       ]
     }
