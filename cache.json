@@ -12,6 +12,132 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1788016",
+          "author": "Beth Mole",
+          "description": "Seven states have hit new peaks for COVID hospitalizations.",
+          "link": "https://arstechnica.com/?p=1788016",
+          "publishedOn": "2021-08-17T23:10:17.000Z",
+          "wordCount": 913,
+          "title": "Pandemic of unvaccinated continues to rage as states set new COVID records"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1787854",
+          "author": "Jennifer Ouellette",
+          "description": "Team combined two mass spectrometry techniques to analyze samples in 10 minutes.",
+          "link": "https://arstechnica.com/?p=1787854",
+          "publishedOn": "2021-08-17T22:30:48.000Z",
+          "wordCount": 1422,
+          "title": "German chemists identified over 7,700 different chemical formulas in beers"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1787787",
+          "author": "Samuel Axon",
+          "description": "It's certainly not on par with 1Password, but it's a welcome addition anyway.",
+          "link": "https://arstechnica.com/?p=1787787",
+          "publishedOn": "2021-08-17T21:35:10.000Z",
+          "wordCount": 865,
+          "title": "Updated app from Apple brings iCloud Passwords to Windows"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1787881",
+          "author": "Jon Brodkin",
+          "description": "Apple falsely claimed that FlickType broke \"full access\" rule, developer says.",
+          "link": "https://arstechnica.com/?p=1787881",
+          "publishedOn": "2021-08-17T20:29:56.000Z",
+          "wordCount": 1648,
+          "title": "iPhone keyboard for blind to shut down as maker cites Apple “abuse” of developers"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1787885",
+          "author": "Matt Paprocki",
+          "description": "Easily play Windows 3.1 CD games in a Windows 10 environment.",
+          "link": "https://arstechnica.com/?p=1787885",
+          "publishedOn": "2021-08-17T20:06:50.000Z",
+          "wordCount": 754,
+          "title": "It’s now possible to play early ‘90s CD-ROM games via ScummVM"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1787864",
+          "author": "John Timmer",
+          "description": "The presence of tipping points adds to uncertainty, risk, and actual costs.",
+          "link": "https://arstechnica.com/?p=1787864",
+          "publishedOn": "2021-08-17T19:46:09.000Z",
+          "wordCount": 1451,
+          "title": "Climate tipping points add to the cost of carbon emissions"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1787876",
+          "author": "Financial Times",
+          "description": "It's meant to act as emergency hotline for civilians to report violence and looting.",
+          "link": "https://arstechnica.com/?p=1787876",
+          "publishedOn": "2021-08-17T19:07:55.000Z",
+          "wordCount": 1051,
+          "title": "WhatsApp shuts down Taliban helpline in Kabul"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1787729",
+          "author": "Ron Amadeo",
+          "description": "The Pixel 5a will be a good phone—if you're in the two countries that can get it.",
+          "link": "https://arstechnica.com/?p=1787729",
+          "publishedOn": "2021-08-17T17:31:20.000Z",
+          "wordCount": 1062,
+          "title": "The Google Pixel 5a is $449, adds a bigger screen and water resistance"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1787728",
+          "author": "Andrew Cunningham",
+          "description": "Newegg bundled bad Gigabyte GP-P850GM and GP-P750GM PSUs with hard-to-buy GPUs.",
+          "link": "https://arstechnica.com/?p=1787728",
+          "publishedOn": "2021-08-17T17:17:54.000Z",
+          "wordCount": 1074,
+          "title": "Exploding power supplies are now the worst thing about the Newegg Shuffle"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1787711",
+          "author": "Eric Berger",
+          "description": "Kitty Hawk a century ago. Mars today. Where 100 years from now?",
+          "link": "https://arstechnica.com/?p=1787711",
+          "publishedOn": "2021-08-17T17:08:52.000Z",
+          "wordCount": 815,
+          "title": "After a dozen flights, NASA’s chopper has yet to come a cropper"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1787792",
+          "author": "Tim De Chant",
+          "description": "This year's likely La Niña expected to extend drought, spurring further cuts.",
+          "link": "https://arstechnica.com/?p=1787792",
+          "publishedOn": "2021-08-17T17:04:46.000Z",
+          "wordCount": 1076,
+          "title": "Colorado River drops to record low levels, slashing Arizona’s water supply"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1787480",
+          "author": "Ron Amadeo",
+          "description": "Humanoid robot learns parkour, takes some gnarly slams, and gets repaired.",
+          "link": "https://arstechnica.com/?p=1787480",
+          "publishedOn": "2021-08-17T16:40:56.000Z",
+          "wordCount": 1570,
+          "title": "Boston Dynamics shares an incredible behind-the-scenes look at robot-building"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1787755",
+          "author": "Jonathan M. Gitlin",
+          "description": "The series of 9 animated shorts starts streaming on Disney+ on September 22.",
+          "link": "https://arstechnica.com/?p=1787755",
+          "publishedOn": "2021-08-17T15:38:35.000Z",
+          "wordCount": 810,
+          "title": "Anime studios and an all-star cast combine for Star Wars: Visions"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1787685",
+          "author": "Dan Goodin",
+          "description": "Data reportedly includes SSNs, driver's license numbers, and more for 100 million people.",
+          "link": "https://arstechnica.com/?p=1787685",
+          "publishedOn": "2021-08-17T01:15:11.000Z",
+          "wordCount": 754,
+          "title": "T-Mobile has been hacked yet again—but still doesn’t know what was taken"
+        },
+        {
           "id": "https://arstechnica.com/?p=1787625",
           "author": "Beth Mole",
           "description": "With delta raging, officials may make decisions on boosters in the coming weeks.",
@@ -2710,42 +2836,6 @@
           "publishedOn": "2021-07-19T16:00:52.000Z",
           "wordCount": 1039,
           "title": "Biden blasts social media after Facebook stonewalls admin over vaccine misinformation"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1781283",
-          "author": "Eric Berger",
-          "description": "Blue Origin plans to fly two more customer flights in 2021.",
-          "link": "https://arstechnica.com/?p=1781283",
-          "publishedOn": "2021-07-19T12:40:19.000Z",
-          "wordCount": 897,
-          "title": "Blue Origin set for historic first human flight of its New Shepard system"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1781125",
-          "author": "John Timmer",
-          "description": "Once computationally impossible, AIs now translate protein sequence to structure.",
-          "link": "https://arstechnica.com/?p=1781125",
-          "publishedOn": "2021-07-18T13:45:29.000Z",
-          "wordCount": 1574,
-          "title": "Google details its protein-folding software, academics offer an alternative"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1781163",
-          "author": "WIRED",
-          "description": "Researchers used infrared photos and third-party hardware to best facial-recognition tech.",
-          "link": "https://arstechnica.com/?p=1781163",
-          "publishedOn": "2021-07-18T13:30:01.000Z",
-          "wordCount": 1223,
-          "title": "Hackers got past Windows Hello by tricking a webcam"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1780880",
-          "author": "Kyle Orland",
-          "description": "Old-school collectors meet \"new money\" as sealed prices inflate 10x in two years.",
-          "link": "https://arstechnica.com/?p=1780880",
-          "publishedOn": "2021-07-18T13:00:49.000Z",
-          "wordCount": 1338,
-          "title": "Collectors are as confused as you are about that $1.56M Super Mario 64 sale"
         }
       ]
     },
@@ -2754,6 +2844,186 @@
       "feedUrl": "http://feeds.macrumors.com/MacRumors-Front",
       "siteUrl": "https://www.macrumors.com",
       "articles": [
+        {
+          "id": "https://www.macrumors.com/2021/08/17/apple-seeds-watchos-8-beta-6-to-developers/",
+          "author": "Juli Clover",
+          "description": "Apple today seeded the sixth beta of the upcoming watchOS 8 update to developers for testing purposes, with the update coming one week after Apple released the fifth watchOS 8 beta.\r\n\r\n\r\n\r\n\r\n\r\nTo install ‌‌watchOS 8‌‌, developers will need to download the configuration profile from the Apple Developer Center. Once installed, ‌‌watchOS 8‌‌ can be downloaded through the dedicated Apple Watch app on the iPhone by going to General > Software update.\r\n\r\n\r\n\r\nTo update to new software, an Apple Watch needs to have 50 percent battery life, it must be placed on the charger, and it needs to be in range of the ‌‌iPhone‌‌. It's not recommended to install ‌‌watchOS 8‌‌ on a main Apple Watch as the software may be unstable at this early date.\r\n\r\n\r\n\r\n‌watchOS 8‌ has several new features that are extensio…",
+          "link": "https://www.macrumors.com/2021/08/17/apple-seeds-watchos-8-beta-6-to-developers/",
+          "publishedOn": "2021-08-17T21:40:18.000Z",
+          "wordCount": 2093,
+          "title": "Apple Seeds Sixth Beta of watchOS 8 to Developers"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/08/17/everything-new-in-ios-15-beta-6/",
+          "author": "Juli Clover",
+          "description": "Apple released the sixth beta of iOS 15 just a week after the fifth beta, but the new update brings some of the most significant tweaks that we've seen to ‌iOS 15‌ during the beta testing period.\r\n\r\n\r\n\r\n\r\n\r\nSafari Redesign\n\r\n\r\nApple in ‌iOS 15‌ beta 6 has added a toggle to move the Safari address bar to the top of the interface, which returns Safari to an iOS 14-like design and mitigates all of the Safari changes introduced in earlier betas.\r\n\r\n\r\n\r\n\r\n\r\nThose who prefer the bottom bar can still opt to have that toggled on with the Tab Bar view, but Apple has also changed the look and the url bar at the bottom has been merged with a dedicated control panel that does away with trying to merge all page management options into a single address bar view.\r\n\r\n\r\n\r\n\r\n\r\nSafari design options let you …",
+          "link": "https://www.macrumors.com/2021/08/17/everything-new-in-ios-15-beta-6/",
+          "publishedOn": "2021-08-17T21:12:35.000Z",
+          "wordCount": 2483,
+          "title": "Everything New in iOS 15 Beta 6: SharePlay Disabled, Safari Redesigned and More"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/08/17/google-5g-low-cost-pixel-5a-smartphone/",
+          "author": "Juli Clover",
+          "description": "Google today announced the launch of the low-cost 5G Pixel 5a, a follow up to the Pixel 4a that debuted last year. At its $449 price point, the Pixel 5a most closely competes with the $399 iPhone SE, which is $50 cheaper, though it has a similar feature set to Apple's $699 iPhone 12 mini thanks to the inclusion of 5G.\r\n\r\n\r\n\r\n\r\n\r\nApple is rumored to be working on a new version of the ‌iPhone SE‌ that will also include 5G, with the device set to launch in 2022. The updated ‌iPhone SE‌ will be positioned as Apple's cheapest 5G iPhone, and based on the $449 price point of the Pixel 5a, it could be priced similarly to keep it competitive with lower-cost Android devices.\r\n\r\n\r\n\r\nIn addition to 5G mmWave and sub-6GHz connectivity, the Pixel 5a brings a bigger 6.3-inch hole punch display that offers more available screen space than the prior Pixel 4a, so it may still have an edge over Apple's upcoming 2022 ‌iPhone SE‌. The new ‌iPhone SE‌ is rumored to feature a design that's \"roughly the same\" as the current ‌iPhone SE‌, which is modeled after the iPhone 8.\r\n\r\n\r\n\r\nOther Pixel 5a features include IP67 water resistance, a dual camera setup with wide and ultra wide lenses, a 4,620mAh battery, 6GB RAM, and a Qualcomm Snapdragon 765G chip.\r\n\r\n\r\n\r\nGoogle is selling the Pixel 5a with an 18W adapter that supports fast charging, but Google is taking a page from Apple's playbook. The Pixel 5a will be the last Pixel phone that will include a charger, according to The Verge. Google says that because most people already have a charging brick, its future phones, including the upcoming Pixel 6, will not ship with one.\r\n\r\n\r\n\r\nApple stopped providing a 5W charger with ‌iPhone‌ models in 2020 and in most countries, iPhones no longer come with a charger.\nTags: Google, Google Pixel\nThis article, \"Google Announces Low-Cost 5G Pixel 5a Smartphone, Plans to Nix Chargers in Box Going Forward\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/08/17/google-5g-low-cost-pixel-5a-smartphone/",
+          "publishedOn": "2021-08-17T20:10:18.000Z",
+          "wordCount": 2424,
+          "title": "Google Announces Low-Cost 5G Pixel 5a Smartphone, Plans to Nix Chargers in Box Going Forward"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/08/17/apple-releases-siri-remote-firmware-update/",
+          "author": "Juli Clover",
+          "description": "Apple today released a new firmware update for the Siri Remote designed for the new Apple TV 4K and ‌Apple TV‌ HD models. The new firmware has an internal version number of 9M6772, while the prior firmware version was 9M6336. Note that this is not the firmware version that you see in the ‌Apple TV‌ Remote settings. \r\n\r\n\r\n\r\n\r\n\r\nThere's no word on what's new with the ‌Apple TV‌ remote update, but it likely addresses minor bugs and performance issues. \r\n\r\n\r\n\r\nApple has not detailed how to install a firmware update for the ‌Siri‌ Remote, but it's likely similar to AirPods, delivered silently and over the air while the ‌Apple TV‌ is asleep. Firmware updates are installed in the background and it may take some time for the ‌Siri‌ Remote update to be downloaded and installed. \nRelated Roundup: Apple TV\nTag: Siri Remote\nBuyer's Guide: Apple TV (Buy Now)\nRelated Forum: Apple TV and Home Theater\nThis article, \"Apple Releases Updated Firmware for New Siri Remote\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/08/17/apple-releases-siri-remote-firmware-update/",
+          "publishedOn": "2021-08-17T19:34:09.000Z",
+          "wordCount": 2158,
+          "title": "Apple Releases Updated Firmware for New Siri Remote"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/08/17/tweetbot-6-widgets-multiple-ipad-windows-update/",
+          "author": "Juli Clover",
+          "description": "Tweetbot 6 designed for the iPhone and the iPad today received a major update, with Tapbots introducing several significant new features that are designed to make the app experience better than ever.\r\n\r\n\r\n\r\n\r\n\r\nThere's now a Tweetbot 6 widget that can be added to the Today View or the Home Screen, and it shows the Twitter timeline. A single tweet can be shown in the smallest widget view, but there are also larger options that show more tweets at a glance.\r\n\r\n\r\n\r\nWhen using the Tweetbot 6 update on iOS devices, there's now support for Handoff, so you can resume what you were doing on one device on another device using the built-in Handoff feature. Handoff does not yet work on the Mac, but support will be added later.\r\n\r\n\r\n\r\nTweetbot 6 now supports Shortcuts so Tweetbot actions can be used in the shortcuts created on iOS devices, plus on the ‌iPad‌, multiple Tweetbot windows are now supported for multitasking purposes. There are also additional app icons to choose from.\r\n\r\n\r\n\r\nTweetbot 6 can be downloaded from the App Store for free, but a subscription costs $5.99 per year or $0.99 per month. [Direct Link]\nTag: Tweetbot\nThis article, \"Tweetbot 6 Gains Support for Timeline Widgets, Multiple Windows on iPad, Shortcuts, Handoff and More\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/08/17/tweetbot-6-widgets-multiple-ipad-windows-update/",
+          "publishedOn": "2021-08-17T19:15:45.000Z",
+          "wordCount": 2129,
+          "title": "Tweetbot 6 Gains Support for Timeline Widgets, Multiple Windows on iPad, Shortcuts, Handoff and More"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/08/17/apple-renews-carpool-karaoke-for-fifth-season/",
+          "author": "Juli Clover",
+          "description": "Apple has renewed \"Carpool Karaoke: The Series\" for a fifth season, and with the renewal, the TV show will be migrating from Apple Music to Apple TV+. \"Carpool Karaoke\" could be watched through the ‌Apple Music‌ app or the Apple TV app, but it has not previously been a part of ‌Apple TV+‌ and limited to ‌Apple TV+‌ subscribers.\r\n\r\n\r\n\r\n\r\n\r\nBased on the \"Carpool Karaoke\" segment of the \"The Late Late Show With James Corden,\" Apple's version of \"Carpool Karaoke\" has been available since 2017.\r\n\r\n\r\n\r\nFilming on \"Carpool Karaoke\" has been on hiatus due to the ongoing pandemic, according to Deadline, but efforts are underway to begin production once again.\r\n\r\n\r\n\r\n\"Carpool Karaoke: The Series\" brings various actors, athletes, and musicians together to chat and sing popular songs with one another. The fourth season of the show featured pairings like Maya Rudolph and Haim, Keegan-Michael Key and Rob Gronkowski, and the \"Shark Tank\" sharks.\r\n\r\n\r\n\r\nThere's no word yet on which celebrities will be featured in the fifth season of the show.\nTags: Apple TV Shows, Apple TV Plus\nThis article, \"Apple Renews 'Carpool Karaoke: The Series' for a Fifth Season, Migrates It to Apple TV+\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/08/17/apple-renews-carpool-karaoke-for-fifth-season/",
+          "publishedOn": "2021-08-17T18:49:05.000Z",
+          "wordCount": 1978,
+          "title": "Apple Renews 'Carpool Karaoke: The Series' for a Fifth Season, Migrates It to Apple TV+"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/08/17/apple-watch-national-parks-activity-challenge-2/",
+          "author": "Juli Clover",
+          "description": "Apple's next Apple Watch Activity Challenge is set to take place on Saturday, August 28th, in celebration of national parks worldwide.\r\n\r\n\r\n\r\n\r\n\r\nApple will ask Apple Watch owners to complete a hike, walk, run, or wheelchair workout of a mile to earn a special National Parks award.\nLet's take a day to appreciate the beauty of national parks all over the world. On August 28, earn this award by recording a hike, walk, run, or wheelchair workout of a mile (1.6K) or more with any app that adds workouts to Health.\nAs with all Activity Challenges, the award will be accompanied by animated stickers that can be used in the Messages app.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nApple always celebrates national parks in August, and last year introduced an Apple Pay donation program and highlighted Apple TV+ content, Apple Music songs, podcasts, books, and more all focused on national parks.\nTag: Activity Challenge\nThis article, \"Apple Launching National Parks Activity Challenge on August 28\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/08/17/apple-watch-national-parks-activity-challenge-2/",
+          "publishedOn": "2021-08-17T18:29:46.000Z",
+          "wordCount": 2090,
+          "title": "Apple Launching National Parks Activity Challenge on August 28"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/08/17/apple-safari-design-changes-ios-15-beta-6/",
+          "author": "Juli Clover",
+          "description": "Apple in iOS 15 introduced a new Safari experience that moves the URL bar and tab interface to the bottom of the iPhone, a decision that has been controversial with ‌iPhone‌ users.\r\n\r\n\r\n\r\n\nSafari options in ‌iOS 15‌ beta 6\n\r\n\r\nThroughout the beta testing period, Apple has been tweaking the design of the Safari browser on the ‌iPhone‌ and in beta 6, there are further refinements. The bottom tab bar has been redesigned to appear below page content, and Apple has also added a toggle to show the address bar at the top of the ‌iPhone‌ rather than the bottom.\r\n\r\n\r\n\r\n\nThe original design in ‌iOS 15‌ beta 5\n\r\n\r\nThe addition of a toggle to show the address bar at the top of the Safari interface returns Safari to a more iOS 14-like experience, walking back many of the ‌iOS 15‌ changes.\r\n\r\n\r\n\r\n\r\n\r\nWith the bottom view option toggled on, Safari offers a dedicated toolbar with buttons at the bottom of the interface, which is also an improvement over the prior floating design.\r\n\r\n\r\n\r\nApple has also introduced new setting options to remove the website tinting and to enable a Tab Bar while in landscape mode. There was previously a \"Show Color in Tab Bar\" accessibility setting, which appears to be the same as the new \"Allow Website Tinting\" toggle.  \r\n\r\n\r\n\r\nApple previously added similar toggles in iPadOS 15 and macOS Monterey to offer either a separate tab bar (which was the original default when the betas launched) or a merged tab bar, which is more similar to the previous design.\nRelated Roundups: iOS 15, iPadOS 15\nRelated Forum: iOS 15\nThis article, \"Apple Reverses iOS 15 Safari Changes With New Toggle for Top Address Bar\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/08/17/apple-safari-design-changes-ios-15-beta-6/",
+          "publishedOn": "2021-08-17T17:36:32.000Z",
+          "wordCount": 2183,
+          "title": "Apple Reverses iOS 15 Safari Changes With New Toggle for Top Address Bar"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/08/17/apple-delays-shareplay-facetime-launch/",
+          "author": "Juli Clover",
+          "description": "In the beta notes for the sixth updates to iOS 15, iPadOS 15, and tvOS 15, Apple says that the FaceTime SharePlay feature has been disabled for future beta releases and will not be available to use when the updates initially launch this fall. \r\n\r\n\r\n\r\n\r\n\r\nApple will instead make SharePlay available in an update to ‌iOS 15‌, ‌iPadOS 15‌, tvOS 15, and macOS Monterey that's coming later this year. \r\n\r\n\r\n\r\nWith SharePlay being removed temporarily, Apple is offering an alternative tool for developers to test SharePlay development features, and a SharePlay profile is available for developers to download. \nSharePlay has been disabled for use in iOS and iPadOS 15 developer beta 6 and will be disabled for use in its initial release this fall. SharePlay will be enabled for use again in future developer beta releases and will launch to the public in software updates later this fall. To continue your development, we have provided a SharePlay Development Profile which will enable successful creation and reception of GroupSessions via the Group Activities API.\nWith SharePlay, ‌FaceTime‌ users can share their screens with one another, watch movies and TV shows in sync together, listen to music and contribute to a group playlist, and more. \nRelated Roundups: iOS 15, iPadOS 15\nRelated Forum: iOS 15\nThis article, \"FaceTime SharePlay Feature Won't Be Available When iOS 15 Launches\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/08/17/apple-delays-shareplay-facetime-launch/",
+          "publishedOn": "2021-08-17T17:21:00.000Z",
+          "wordCount": 2099,
+          "title": "FaceTime SharePlay Feature Won't Be Available When iOS 15 Launches"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/08/17/apple-seeds-ios-15-beta-6-to-developers/",
+          "author": "Juli Clover",
+          "description": "Apple today seeded the sixth betas of iOS and iPadOS 15 to developers for testing purposes, with the updates coming one week after Apple released the fifth betas.\r\n\r\n\r\n\r\n\r\n\r\nRegistered developers can download the profile for the iOS and iPadOS betas from the Apple Developer Center, and once the profile is installed, beta updates will be available over the air.\r\n\r\n\r\n\r\niOS 15 is a major update that introduces a slew of new features focused on cutting down on distractions and spending more time with friends and family.\r\n\r\n\r\n\r\nFaceTime has a revamped interface with new SharePlay features for listening to music, watching videos, and sharing your screen with your friends and family members, and in Messages, if something like a url, photo, news article, or song is shared with you, you can see the…",
+          "link": "https://www.macrumors.com/2021/08/17/apple-seeds-ios-15-beta-6-to-developers/",
+          "publishedOn": "2021-08-17T17:05:07.000Z",
+          "wordCount": 2415,
+          "title": "Apple Seeds Sixth Betas of iOS and iPadOS 15 to Developers"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/08/17/temple-run-apple-arcade/",
+          "author": "Juli Clover",
+          "description": "Apple today announced that a new version of Temple Run is coming to Apple Arcade in the near future, and based on the game's description, it will merge classic endless runner gameplay with match 3 puzzles.\r\n\r\n\r\n\r\n\r\n\r\nPlayers will be tasked with assisting adventurer, archeologist, and Temple Runner Scarlett Fox, solving puzzles to overcome obstacles. Players will create powerful match 3 combos and use special pieces to become the Temple Champion, sending out runners to chase treasure before the demon monkey catches up to them. New match 3 levels will be added on a regular basis.\nPlay TEMPLE RUN as never before! Beat match 3 puzzles to uncover the mysteries of the ancient temple realm. Create powerful combos and use special pieces to become a Temple Champion!\nThere is no word on when Temple Run: Puzzle Adventure will be launching, but Apple says that it's coming soon.\r\n\r\n\r\n\r\n\r\n\r\nThe Temple Run endless runner series from Imangi Studios first launched in 2011 and it was super popular with the original game being downloaded more than two billion times. This updated version puts a new spin on the classic gameplay.\r\n\r\n\r\n\r\n\nComing Soon to Apple Arcade:\nTemple Run: Puzzle Adventure\nThere's a demon monkey on the loose! Play @TempleRun like never before as you conquer match-3 puzzles in search of Golden Idol treasures. Just don't let the 🐒 catch you! 🙈\n⏰ Set a reminder: https://t.co/BolMOllIvZ pic.twitter.com/tD80IyotiJ\n— Apple Arcade (@AppleArcade) August 17, 2021\n \n\r\n\r\nApple this Friday will launch Tetris Beat on ‌Apple Arcade‌. Tetris Beat lets players rotate and drop Tetriminos to the beat, with the game featuring exclusive music from Alison Wonderland, GARZA, Hannah Diamond, Octo Octa, Dauwd, CINTHIE, and more.\nTag: Apple Arcade\nThis article, \"'Temple Run: Puzzle Adventure' Coming to Apple Arcade\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/08/17/temple-run-apple-arcade/",
+          "publishedOn": "2021-08-17T16:59:18.000Z",
+          "wordCount": 2014,
+          "title": "'Temple Run: Puzzle Adventure' Coming to Apple Arcade"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/08/17/apple-seeds-tvos-15-beta-6-to-developers/",
+          "author": "Juli Clover",
+          "description": "Apple today seeded the sixth beta of the upcoming tvOS 15 update to developers for testing purposes, with the new beta coming one week released the fifth beta.\r\n\r\n\r\n\r\n\r\n\r\nDevelopers can download the new tvOS 15 beta by downloading a profile onto the ‌Apple TV‌ using Xcode.\r\n\r\n\r\n\r\nApple shared little about tvOS 15 when it was unveiled, but there are some new features that are coming to the operating system. SharePlay, a FaceTime feature that lets multiple users watch TV shows or movies together, will integrate with tvOS, and there's a new \"For All of You\" recommendation engine that suggests shows everyone might enjoy.\r\n\r\n\r\n\r\nA Shared With You section also displays movies and shows that were shared with you through the Messages app so you remember to check them out. When paired with AirPods Pro or AirPods Max, the ‌Apple TV‌ supports Spatial audio for a theater-like surround sound experience, and there's a new feature for automatically connecting your AirPods through Smart ‌AirPods‌ routing.\r\n\r\n\r\n\r\nHey Siri commands can be used to launch Apple TV+ shows, and two HomePod mini speakers can be paired with the ‌Apple TV‌ 4K for stereo sound. If you have HomeKit cameras, you can also now view multiple cameras at the same time on the ‌Apple TV‌.\nRelated Roundup: Apple TV\nBuyer's Guide: Apple TV (Buy Now)\nRelated Forum: Apple TV and Home Theater\nThis article, \"Apple Seeds Sixth Beta of tvOS 15 to Developers\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/08/17/apple-seeds-tvos-15-beta-6-to-developers/",
+          "publishedOn": "2021-08-17T16:59:00.000Z",
+          "wordCount": 2514,
+          "title": "Apple Seeds Sixth Beta of tvOS 15 to Developers"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/08/17/today-at-apple-in-person-classes-canceled/",
+          "author": "Juli Clover",
+          "description": "Just yesterday, Apple told its retail staff in the United States and Europe that it would start bringing back some in-person Today at Apple classes starting on August 30, but now Apple has reversed course.\r\n\r\n\r\n\r\n\r\n\r\nIn-person Today at Apple sessions will no longer be resuming at this time, with Apple putting in-person classes off because of the ongoing rise of the Delta variant across the United States and other countries.\r\n\r\n\r\n\r\nApple yesterday was taking reservations for in-person classes at some store locations, but as of now, all of those in-person reservations are gone and Apple is only offering virtual sessions.\r\n\r\n\r\n\r\nApple retail stores have been open since earlier this year and there are no plans to close stores again, but Apple recently reinstated a mask mandate that requires cu…",
+          "link": "https://www.macrumors.com/2021/08/17/today-at-apple-in-person-classes-canceled/",
+          "publishedOn": "2021-08-17T16:48:20.000Z",
+          "wordCount": 2365,
+          "title": "Apple Decides Not to Bring Back In-Person 'Today at Apple' Classes on August 30"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/08/17/apple-refurbished-m1-imac-uk/",
+          "author": "Juli Clover",
+          "description": "Refurbished 24-inch M1 iMac models are now available from Apple's refurbished store in the UK, just a few months after the machines first launched in April.\r\n\r\n\r\n\r\n\r\n\r\nRight now, Apple has one 24-inch iMac available in a pink color, which was first spotted by 9to5Mac. The machine features an 8-core CPU, 7-core GPU, and 256GB SSD and it is priced at £1,059, a £190.00 savings over the standard £1,249 price.\r\n\r\n\r\n\r\nRefurbished stock varies based on what people have sent in for repair and replacement, and additional ‌M1‌ ‌iMac‌ models will be available in the future. Those looking for a specific build or a specific color will need to keep an eye on the store to wait for their preferred version to pop up.\r\n\r\n\r\n\r\nAll of Apple's refurbished Macs are sold with the same one-year warranty that's offered with a new Mac, plus they come with all manuals and accessories, including a USB-C power adapter and cable. Apple's refurbished devices are subjected to a rigorous testing, repair, repackaging and cleaning process to make them identical to new devices.\r\n\r\n\r\n\r\nCategories for refurbished 24-inch iMacs have also shown up in the United States, so we can expect to see the refurbished ‌iMac‌ models available in other countries in the near future.\nRelated Roundup: iMac\nBuyer's Guide: iMac (Buy Now)\nRelated Forum: iMac\nThis article, \"Apple Starts Selling Refurbished 24-Inch M1 iMacs in the UK\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/08/17/apple-refurbished-m1-imac-uk/",
+          "publishedOn": "2021-08-17T16:39:30.000Z",
+          "wordCount": 2267,
+          "title": "Apple Starts Selling Refurbished 24-Inch M1 iMacs in the UK"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/08/17/apple-develops-apple-watch-hydration-sensor/",
+          "author": "Hartley Charlton",
+          "description": "Apple has developed a first-of-its-kind hydration sensor designed for the Apple Watch, a company patent filing has revealed.\r\n\r\n\r\n\r\n\r\n\r\nThe patent, first spotted by Patently Apple, is titled \"Hydration measurement with a watch\" and was granted by the U.S. Patent and Trademark Office.\r\n\r\n\r\n\r\n\"Traditional techniques for tracking hydration are generally invasive, expensive, or unreliable,\" according to Apple. This refers to existing ways of determining hydration such as single-use tests of fluid samples.\r\n\r\n\r\n\r\nApple's hydration sensor takes the form of non-invasive electrodes that are placed against the skin, which it describes as a \"reliable and elegant\" solution. The sensor works by measuring the electrical properties of the Apple Watch wearer's sweat. The patent explains:\nThe electrical p…",
+          "link": "https://www.macrumors.com/2021/08/17/apple-develops-apple-watch-hydration-sensor/",
+          "publishedOn": "2021-08-17T15:45:49.000Z",
+          "wordCount": 2200,
+          "title": "Apple Develops Innovative Hydration Sensor for the Apple Watch"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/08/17/apple-card-to-lose-magnetic-stripe-by-2029/",
+          "author": "Hartley Charlton",
+          "description": "Mastercard last week announced that its cards will no longer be issued with the magnetic stripe by 2029, which will presumably include Apple Card.\r\n\r\n\r\n\r\n\r\n\r\nThe magnetic stripe was an early 1960s technology that allowed card information to be encoded onto magnetic tape that is laminated to the back of a card, paving the way for electronic payment terminals and chip cards. Now, Mastercard is set to be the first payments network to phase out the magnetic stripe.\r\n\r\n\r\n\r\nStarting in 2024, Mastercard credit and debit cards will not be required to feature a magnetic stripe in most markets, including Europe. Banks in the United States will no longer be required to issue cards with a magnetic stripe in 2027. Mastercard expects that the magnetic stripe will disappear in Europe most quickly, where …",
+          "link": "https://www.macrumors.com/2021/08/17/apple-card-to-lose-magnetic-stripe-by-2029/",
+          "publishedOn": "2021-08-17T14:16:27.000Z",
+          "wordCount": 2194,
+          "title": "Apple Card to Lose Magnetic Stripe By 2029"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/08/17/apple-watch-with-titanium-entirely-unavailable/",
+          "author": "Sami Fathi",
+          "description": "The Apple Watch Edition with titanium for the Series 6 is currently entirely unavailable for purchase on Apple's online store, following some models being unavailable for delivery or pick-up earlier this month.\r\n\r\n\r\n\r\n\r\n\r\nOn August 1, select models of the Series 6 Edition with titanium were unavailable for delivery and/or pick-up. Now, all titanium models are unavailable for delivery or pick-up and can't even be added to Apple's online store bag.\r\n\r\n\r\n\r\nThe unavailability comes just weeks ahead of when we expect Apple to announce the Apple Watch Series 7 with a new design. Bloomberg's Mark Gurman has speculated that the spotty lack of availability for the Apple Watch Edition earlier this month could entail Apple deciding to discontinue the higher-end lineup with the Series 7.\r\n\r\n\r\n\r\nWe've contacted Apple for comment and will let MacRumors' readers know if we hear back. \nRelated Roundup: Apple Watch Series 6\nBuyer's Guide: Apple Watch (Don't Buy)\nRelated Forum: Apple Watch\nThis article, \"Titanium Apple Watch Series 6 Models Now Entirely Unavailable\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/08/17/apple-watch-with-titanium-entirely-unavailable/",
+          "publishedOn": "2021-08-17T14:04:48.000Z",
+          "wordCount": 2054,
+          "title": "Titanium Apple Watch Series 6 Models Now Entirely Unavailable"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/08/17/deals-low-macbook-pro/",
+          "author": "Mitchel Broussard",
+          "description": "Amazon this week has the M1 MacBook Pro on sale in both 256GB and 512GB configurations, including a return to record low prices for both models. Prices start at $1,099.99 for the 256GB MacBook Pro, down from $1,299.00. You'll see the discount after an automatic coupon worth $49.01 is applied at the checkout screen on Amazon.\r\n\r\n\r\n\r\nNote: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.\r\n\r\n\r\n\r\nThis price is a match of the previous all-time low price on the 256GB M1 MacBook Pro. This model of Apple's notebook line includes the same aluminum body with large Force Touch trackpad as previous generations, speakers at the side of the keyboard, and a 13.3-inch display with slim black bezels. Both colors are on sale and available to ship out today.\r\n\r\n\r\n\r\n\n$199 OFF\n256GB M1 MacBook Pro for $1,099.99\n\n\r\n\r\n\r\n\r\nSecondly, Amazon has the 512GB MacBook Pro for $1,299.99, down from $1,499.00. This sale price is available in both Silver and Space Gray, and it's sold directly from Amazon.\r\n\r\n\r\n\r\n\n$199 OFF\n512GB M1 MacBook Pro for $1,299.99\n\n\r\n\r\n\r\n\r\nYou can find even more discounts on other MacBooks by visiting our Best Deals guide for MacBook Pro and MacBook Air. In this guide we track the steepest discounts for the newest MacBook models every week, so be sure to bookmark it and check back often if you're shopping for a new Apple notebook.\nRelated Roundups: Apple Deals, MacBook Pro 13\"\nBuyer's Guide: 13\" MacBook Pro (Don't Buy)\nRelated Forum: MacBook Pro\nThis article, \"Deals: All-Time Low Prices Return to Apple's M1 MacBook Pro, Starting at $1,099.99 for 256GB\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/08/17/deals-low-macbook-pro/",
+          "publishedOn": "2021-08-17T13:34:38.000Z",
+          "wordCount": 2218,
+          "title": "Deals: All-Time Low Prices Return to Apple's M1 MacBook Pro, Starting at $1,099.99 for 256GB"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/08/17/adobe-photoshop-ipad-desktop-features/",
+          "author": "Juli Clover",
+          "description": "Adobe today announced several new updates for its Photoshop apps available for the Mac and the iPad. Photoshop for ‌iPad‌ is gaining Healing Brush and Magic Wand features, bringing it in line with Photoshop for the desktop.\r\n\r\n\r\n\r\n\r\n\r\nPhotoshop for ‌iPad‌ was first introduced in 2019, and at launch, the tablet version of the software was lacking several features that were available in the Mac version of Photoshop. Adobe at launch said that new capabilities would be added to Photoshop for ‌iPad‌ over time, and since then, new features have been introduced on a regular basis.\r\n\r\n\r\n\r\nWith the Healing Brush, ‌iPad‌ users will be able to correct imperfections, with the tool matching texture, lighting, transparency, and other details. The Magic Wand tool is available for selecting irregularly sh…",
+          "link": "https://www.macrumors.com/2021/08/17/adobe-photoshop-ipad-desktop-features/",
+          "publishedOn": "2021-08-17T13:00:00.000Z",
+          "wordCount": 2379,
+          "title": "Adobe Announces New Features for Photoshop on Desktop and iPad"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/08/17/apple-watch-series7-cad-larger-display/",
+          "author": "Sami Fathi",
+          "description": "The upcoming Apple Watch Series 7 will feature flat edges, a larger display thanks to smaller bezels, and a more prominent speaker, according to new CAD renders, allegedly obtained from industry sources, shared today by 91mobiles.\r\n\r\n\r\n\r\n\r\n\r\nThe renders reveal an updated Apple Watch design that takes inspiration from the flat-edges of the iPhone 12, iPad Pro, iPad Air, and the upcoming 14 and 16-inch MacBook Pros. From the renders, we can see that the rear of the Apple Watch will consist of the same configuration of health sensors as the current Series 6.\r\n\r\n\r\n\r\nThe renders reveal no significant design changes to the Digital Crown or side button; however, they show two speakers that extend the entire side of the Apple Watch compared to the current adjacent speaker design. According to dime…",
+          "link": "https://www.macrumors.com/2021/08/17/apple-watch-series7-cad-larger-display/",
+          "publishedOn": "2021-08-17T12:34:37.000Z",
+          "wordCount": 2408,
+          "title": "Alleged Apple Watch Series 7 CAD Renders Reveal New Design With Flat Edges and Larger Display"
+        },
         {
           "id": "https://www.macrumors.com/2021/08/16/in-person-today-at-apple-classes-resume/",
           "author": "Juli Clover",
@@ -5939,42 +6209,6 @@
           "publishedOn": "2021-07-19T13:16:10.000Z",
           "wordCount": 2033,
           "title": "Deals: Get AirPods Pro for $189.99 ($59 Off) and Regular AirPods for $119.99 ($39 Off) in Newest Sales"
-        },
-        {
-          "id": "https://www.macrumors.com/review/anker-powerwave-go-3-in-1-stand&post_date=1626706800/",
-          "author": "Eric Slivka",
-          "description": "Back at CES, Anker announced the PowerWave Go 3-in-1 Stand, a docking station for iPhone, Apple Watch, and AirPods that also includes a removable power bank to charge your devices on the go, and after a few months to finalize the product, it's launching today.\r\n\r\n\r\n\r\n\r\n\r\nI've had a few days to try out the PowerWave Go, and I can say that it's a clever gadget that comes in handy for those steeped in the Apple ecosystem. I've been using Belkin's MagSafe 3-in-1 charger at my bedside for the past few months, so swapping it out for the PowerWave Go made for a convenient comparison.\r\n\r\n\r\n\r\nThe PowerWave Go is made largely of gray plastic, but it looks nice and feels solid. The front of the main body is dominated by a depression which houses a slot for the rechargeable power bank that doubles as …",
-          "link": "https://www.macrumors.com/review/anker-powerwave-go-3-in-1-stand/",
-          "publishedOn": "2021-07-19T12:00:00.000Z",
-          "wordCount": 2966,
-          "title": "Review: Anker's PowerWave Go 3-in-1 Stand Charges Your Apple Devices at Home and on the Go"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/19/apple-tv-originals-three-daytime-emmys/",
-          "author": "Tim Hardwick",
-          "description": "Apple TV+ original animated shows were named three times in the Daytime Emmy Award winners for children's programming announced over the weekend. \r\n\r\n\r\n\r\n\r\n\r\nAccording to Variety, original ‌Apple TV+‌ film \"Here We Are: Notes for Living on Planet Earth\" won its nomination for \"Outstanding Special Class Daytime Animated Program.\" For her work on the film, animator Anne Moth also received an award for \"Outstanding Individual Achievement in Animation.\"\r\n\r\n\r\n\r\nMeanwhile, Apple Original \"Stillwater\" won an Emmy for \"Outstanding Editing for a Preschool Animated Program,\" and had nominations in several other categories. \"Helpsters\" was also named in multiple categories but was ultimately unable to bag an award.\r\n\r\n\r\n\r\nDaytime Emmy ceremonies were aired on Saturday and Sunday, and streamed via the web and the Emmy app, where they remain available to watch. The winners of the 73rd Annual Primetime Emmy Award winners will be announced on September 19, 2021, when ‌Apple TV+‌ comedy \"Ted Lasso\" will hope to bring home more awards after receiving nominations in several categories including \"Best Comedy.\"\nTags: Apple TV Shows, Apple TV Plus\nThis article, \"Apple TV+ Animated Shows Bag Three Daytime Emmys\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/07/19/apple-tv-originals-three-daytime-emmys/",
-          "publishedOn": "2021-07-19T08:45:30.000Z",
-          "wordCount": 1823,
-          "title": "Apple TV+ Animated Shows Bag Three Daytime Emmys"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/18/iphone-13-always-on-display/",
-          "author": "Sami Fathi",
-          "description": "Following a successful supercycle launch of the iPhone 12 last year, Apple aims to make another \"big splash\" with its upcoming 2021 iPhones, which can be expected to feature larger batteries, smaller notches, improved performance, and more advanced displays that may sport an always-on mode. \r\n\r\n\r\n\r\n\r\n\r\nIn the latest publication of his weekly Power On newsletter, Bloomberg journalist Mark Gurman outlines what customers can expect from this year's iPhone. According to Gurman, in line with previously leaked battery capacities, the new iPhones will feature larger batteries that may be used to power displays with a 120Hz refresh rate and possibly an Apple Watch-inspired always-on mode.\r\n\r\n\r\n\r\nWith recent Apple Watch models, the display can remain on at a lower brightness and variable refresh ra…",
-          "link": "https://www.macrumors.com/2021/07/18/iphone-13-always-on-display/",
-          "publishedOn": "2021-07-18T15:26:37.000Z",
-          "wordCount": 2229,
-          "title": "iPhone 13 May Feature Apple Watch-Inspired Always-On Display"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/18/redesigned-macbook-pros-fall-launch/",
-          "author": "Sami Fathi",
-          "description": "Apple can be expected to release its redesigned 14-inch and 16-inch MacBook Pros sometime between September and November, as part of another packed fall season for new product launches, according to Bloomberg journalist Mark Gurman.\r\n\r\n\r\n\r\n\r\n\r\nIn the latest edition of his Power On newsletter, Gurman says that the new MacBook Pros will go into production in the third quarter and can be expected to be announced by Apple \"between September and November at the latest.\" Apple last year announced an updated MacBook Air, MacBook Pro, and Mac mini powered by the M1 in November. \r\n\r\n\r\n\r\nGurman notes that Apple had originally planned to release the new MacBook Pros earlier this year, but continued complications around mini-LED production delayed their launch. \r\n\r\n\r\n\r\nThe new MacBook Pros are expected to be high in demand thanks to several significant features and changes. On top of a new design featuring flat-edges and more ports, Apple plans to include mini-LED displays in the new laptops, the same one used in the high-end 12.9-inch iPad Pro announced this past April. Faster Apple silicon chips will also power the new MacBook Pros. Learn more about everything we know about the upcoming MacBook Pros with our guide. \nRelated Roundups: MacBook Pro 13\", MacBook Pro 16\"\nTag: Bloomberg\nBuyer's Guide: 13\" MacBook Pro (Don't Buy), 16\" MacBook Pro (Don't Buy)\nRelated Forum: MacBook Pro\nThis article, \"Gurman: Redesigned MacBook Pros to Launch Between September and November\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/07/18/redesigned-macbook-pros-fall-launch/",
-          "publishedOn": "2021-07-18T14:39:54.000Z",
-          "wordCount": 2157,
-          "title": "Gurman: Redesigned MacBook Pros to Launch Between September and November"
         }
       ]
     },
@@ -5983,6 +6217,24 @@
       "feedUrl": "https://daringfireball.net/feeds/main",
       "siteUrl": "https://daringfireball.net/",
       "articles": [
+        {
+          "id": "https://get.mux.com/3iQ1KLK",
+          "author": null,
+          "description": "Mux Video is an API to powerful video streaming (like Stripe for Video), built by the founders of Zencoder and creators of Video.js, and a team of ex-YouTube and Twitch engineers. Take any video file or live stream and make it play beautifully at scale on any device, powered by magical-feeling features like automatic thumbnails, animated gifs, and data-driven encoding decisions. Spend your time building what people want, not drudging through ffmpeg documentation.\n ★",
+          "link": "https://get.mux.com/3iQ1KLK",
+          "publishedOn": "2021-08-17T17:22:38.000Z",
+          "wordCount": 537,
+          "title": "[Sponsor] Mux Video"
+        },
+        {
+          "id": "https://www.vice.com/en/article/y3d4dw/t-mobile-confirms-it-was-hacked",
+          "author": null,
+          "description": "Joseph Cox, reporting for Motherboard:\n“We have determined that unauthorized access to some T-Mobile data\noccurred, however we have not yet determined that there is any\npersonal customer data involved,” T-Mobile wrote in its new\nannouncement. “This investigation will take some time but we are\nworking with the highest degree of urgency. Until we have\ncompleted this assessment we cannot confirm the reported number of\nrecords affected or the validity of statements made by others,”\nthe announcement added.\nThe seller told Motherboard that 100 million people had their data\ncompromised in the breach. In the forum post, they were offering\ndata on 30 million people for 6 bitcoin, or around $270,000.\nSee also: Brian Krebs and BleepingComputer.\n ★",
+          "link": "https://www.vice.com/en/article/y3d4dw/t-mobile-confirms-it-was-hacked",
+          "publishedOn": "2021-08-17T16:51:11.000Z",
+          "wordCount": 492,
+          "title": "T-Mobile Customer Database Stolen"
+        },
         {
           "id": "https://blockclubchicago.org/2021/08/13/all-cps-teachers-and-staff-must-be-vaccinated-by-oct-15-or-stay-home-chicago-public-schools-announces/",
           "author": null,
@@ -6692,6 +6944,78 @@
       "feedUrl": "https://www.polygon.com/rss/pc/index.xml",
       "siteUrl": "https://www.polygon.com/pc",
       "articles": [
+        {
+          "id": "https://www.polygon.com/features/22628973/eve-online-world-war-bee-2-imperium-wins-papi-loses",
+          "author": null,
+          "description": "Image: Razorien/CCP Games\n    \n\n\n  \nThe Imperium still stands, and man are they pissed\n Eve Online’s latest player-led war has come to an end, not with a bang but with a cavernous whimper. Those on the offense have turned tail, and the defenders are putting everything they have into running them down.\nThe massive coalition known as PAPI campaigned for 55 weeks in a quest to destroy The Imperium, led by Alex “The Mittani” Gianturco, before losing the will to fight. Along the way, Eve Online developer CCP Games told Polygon, combatants destroyed more than $3 million worth of in-game ships and virtual infrastructure in the conflict dubbed World War Bee 2.\n“This is as real as real talk gets,” said Brave Collective’s Dunk Dinkle in a live address to his fleets, in what amounted to PAPI’s conces…",
+          "link": "https://www.polygon.com/features/22628973/eve-online-world-war-bee-2-imperium-wins-papi-loses",
+          "publishedOn": "2021-08-17T20:37:45.000Z",
+          "wordCount": 1061,
+          "title": "Eve Online’s yearlong war ends with an epic retreat"
+        },
+        {
+          "id": "https://www.polygon.com/22626954/snake-classic-3d-puzzle-dungeon-game-development",
+          "author": null,
+          "description": "A wooly take on the classic Snake game\n Don’t let this adorable snake fool you: Instead of snatching apple cores, it gobbles up entire people. Temple of Snek by Aetheric Games takes the classic Snake game and turns it into a dungeon with puzzles.\nWe have this and more in Cool WIP, Polygon’s weekly roundup of eye-catching clips and screenshots of works in progress. Each week, the Polygon staff scours the internet for the most interesting games still under construction, to give you a sampler of the coolest up-and-coming projects.\nThis week we have a game designed to look like Cartoon Network shows in the ’90s, a Star Fox-like racer, a dark mecha game, and a game where you explore the world as a cat along with all your cat friends. Read on for this week’s Cool WIP. \nAn upgrade from playing Sn…",
+          "link": "https://www.polygon.com/22626954/snake-classic-3d-puzzle-dungeon-game-development",
+          "publishedOn": "2021-08-17T19:57:54.000Z",
+          "wordCount": 1193,
+          "title": "There’s nothing cuddly about this Woolly World version of Snake"
+        },
+        {
+          "id": "https://www.polygon.com/22629322/skyrim-elder-scrolls-5-hey-youre-awake-bug",
+          "author": null,
+          "description": "Image: Bethesda Game Studios/Bethesda Softworks\n    \n\n  \nA bug that caused a bug\n “Hey, you’re finally awake ...” and now being catapulted to the moon thanks to a very strong bee.\nFormer Bethesda developer Nate Purkeypile posted a Twitter thread on Tuesday describing a notorious bug — an actual bug, at least in-game — that caused major problems during The Elder Scrolls 5: Skyrim’s development. Purkeypile described the introductory scene in Skyrim where the player wakes up in the back of a cart with other prisoners. It’s where the famous “You’re finally wake” meme originated — but it’s also remembered by the developer for a catastrophic collision. \nSo, I have a story about the Skyrim Intro and how hard game development is.\nThat intro is famous now, but back then, it was just that one thing …",
+          "link": "https://www.polygon.com/22629322/skyrim-elder-scrolls-5-hey-youre-awake-bug",
+          "publishedOn": "2021-08-17T19:27:01.000Z",
+          "wordCount": 841,
+          "title": "Skyrim cart guy’s major nemesis? A bee"
+        },
+        {
+          "id": "https://www.polygon.com/reviews/22629138/axiom-verge-2-review-metroidvania-nintendo-switch-ps4-pc-epic-games-store",
+          "author": null,
+          "description": "Axiom Verge 2’s protagonst gazes up at a remnant of an older world\n    \n\n\n  \nA meticulously paced disciple of Metroid\n Axiom Verge 2 is a Metroidvania game for people who hate the term “Metroidvania.” Thomas Happ Games’ second outing has a purist’s view of the genre built by Metroid that feels like a refreshing change of pace in a sea of imitators. More importantly, while its meticulously paced exploration and upgrade loops are a little too close to its inspiration at times, it’s the way Axiom Verge 2 digs into the isolation at the heart of the Metroid series that makes it stand out.\nAxiom Verge 2 strands you on the cold, mysterious world of Kiengir and cuts right to the chase. You don’t know what’s going on or what anyone else is doing here, but you’re bent on going back to Earth. So you …",
+          "link": "https://www.polygon.com/reviews/22629138/axiom-verge-2-review-metroidvania-nintendo-switch-ps4-pc-epic-games-store",
+          "publishedOn": "2021-08-17T18:30:00.000Z",
+          "wordCount": 1343,
+          "title": "Axiom Verge 2 is obsessed, and cursed, with nostalgia"
+        },
+        {
+          "id": "https://www.polygon.com/22629210/cyberpunk-2077-patch-notes-13-release-date-playstation-xbox-pc-stadia",
+          "author": null,
+          "description": "Image: CD Projekt Red\n    \n\n  \nNo release date was given, but it is expected to arrive soon\n Cyberpunk 2077’s next big patch, labeled 1.3, is on the way. On Tuesday, developer CD Projekt Red released a complete set of patch notes detailing fixes for 85 quests and gigs, plus improvements and balance changes throughout the game. The developer said the free update is headed to consoles, PC, and Stadia soon but declined to provide a release date.\nIn addition to the quality of life changes detailed on Monday, the 1.3 patch appears to be a substantial one. CD Projekt is also including a few of what it is calling “free DLCs.” They will take the form of additional cosmetic items for the player character, quest options, phone texts, and animations. Several of those DLCs were teased during a Twitch livestream, and a complete list will be included in the Main Menu under “Additional Content” heading.\nSenior level designer Miles Tost was on hand during today’s Twitch stream to speak to the complexity of the issues that his colleagues are dealing with. He likened this and other patches to “open heart surgery.”\n\n\nCyberpunk 2077 launched in a sorry state in December, with many bugs and quality issues across every platform on which it was released. Though it quickly recouped its development costs, it was a source of embarrassment for the company’s leadership, which chose to accept the blame and apologize to fans and investors. The game was even delisted from the PlayStation Store shortly after launch, only to return in June of this year. It has yet to release for current generation consoles, including the PlayStation 5 and the Xbox Series X, where it is only playable in compatibility mode.\n\n\nCyberpunk 2077’s most recent major patch, version 1.23, went live in June. You can read the full 1.3 patch notes at the game’s official website.",
+          "link": "https://www.polygon.com/22629210/cyberpunk-2077-patch-notes-13-release-date-playstation-xbox-pc-stadia",
+          "publishedOn": "2021-08-17T18:27:32.000Z",
+          "wordCount": 803,
+          "title": "Cyberpunk 2077 patch 1.3 will include DLC and fixes for nearly 100 quests"
+        },
+        {
+          "id": "https://www.polygon.com/22628784/super-slam-dunk-touchdown-xbox-one-release-date",
+          "author": null,
+          "description": "How is a basketball player going to run around on that ice? Just go with it, man ... | Image: Tipping Goat\n    \n\n  \nEat your heart out, Garo Yepremian\n Super Slam Dunk Touchdown, Rick Felice’s empty-the-garage mashup of sporting goods and athletes, at last launches on Xbox One on Aug. 27. This version, teased as far back as GDC 2017, brings along a new Season Mode that supports local cooperative play with up to three players.\n“Now you and your friends can create a team, build a fan base, win trophies, and discover secrets, multiple endings, and 100 achievements along the way,” Felice said. An update for the Windows PC version is coming soon; it will support cloud saves, remote play, and the 100 new achievements, too.\nSuper Slam Dunk Touchdown began life in 2009, but first gained public not…",
+          "link": "https://www.polygon.com/22628784/super-slam-dunk-touchdown-xbox-one-release-date",
+          "publishedOn": "2021-08-17T15:17:42.000Z",
+          "wordCount": 956,
+          "title": "Zany 8-bit sports mashup Super Slam Dunk Touchdown launching on Xbox One"
+        },
+        {
+          "id": "https://www.polygon.com/fortnite/22628692/fortnite-impostors-limited-time-mode-among-us-agents-wild-week-update",
+          "author": null,
+          "description": "Image: Epic Games\n    \n\n  \nThis is Epic Games’ second crack at a hidden role mode\n Fortnite has another new Among Us-style mode and this time its a lot closer to its inspiration. Epic revealed the new mode on Tuesday, as part of Fortnite’s latest patch.\nThe new limited time mode is called Impostors, and it features 10 players — eight Agents and two Impostors — in each match. All 10 players are aboard The Bridge on the island (also like Among Us). The Agents are trying to complete tasks that will help them arrive at their destination safely; Impostors try to eliminate the Agents without having their identity discovered. Whenever things seem a little too suspicious, or when player’s body is found, all the remaining players convene to discuss who the Impostor might be. \nWhile this might sound…",
+          "link": "https://www.polygon.com/fortnite/22628692/fortnite-impostors-limited-time-mode-among-us-agents-wild-week-update",
+          "publishedOn": "2021-08-17T14:54:57.000Z",
+          "wordCount": 878,
+          "title": "Fortnite’s new Impostors mode sounds suspiciously like Among Us"
+        },
+        {
+          "id": "https://www.polygon.com/22628606/xbox-game-pass-august-2021-new-games",
+          "author": null,
+          "description": "Image: Double Fine Productions/Xbox Game Studios\n    \n\n  \nMicrosoft confirms August’s remaining Xbox and PC games\n Xbox Game Pass subscribers will get a fresh batch of diverse Xbox and PC games through the end of August, including Double Fine’s long-awaited sequel to Psychonauts, the remake of classic puzzle adventure Myst, and the new star-studded time loop thriller Twelve Minutes.\nA quartet of titles joins Xbox Game Pass today, including Sega and Amplitude Studios’ strategy game Humankind, which is available through Xbox Game Pass for PC on launch day. A trio of EA Play games come to Xbox Cloud Gaming starting Tuesday also: Need for Speed Heat, Star Wars Battlefront 2, and Star Wars Jedi: Fallen Order.\nHere’s what else Xbox Game Pass subscribers can expect over the next two weeks:\nRecompile (Cloud, Console, and PC) – Aug. 19\nTrain Sim World 2 (Cloud, Console, and PC) – Aug. 19\nTwelve Minutes (Cloud, Console, and PC) – Aug. 19\nPsychonauts 2 (Cloud, Console, and PC) – Aug. 25\nMyst (Cloud, Console, and PC) – Aug. 26\nThose games join recently added Game Pass titles including Hades, Skate 3, Art of Rally, Dodgeball Academia, Katamari Damacy Reroll, Lumines Remastered, and Microsoft Solitaire Collection: Premium Edition.\nGame Pass subscribers will also lose access to a few titles in August. Here’s what’s leaving the service on Aug. 31:\nBlair Witch (Cloud, Console, and PC)\nDouble Kick Heroes (Cloud, Console, and PC)\nNBA 2K21 (Cloud and Console)\nStranger Things 3: The Game (Cloud, Console, and PC)\nMore details are available at Xbox Wire.",
+          "link": "https://www.polygon.com/22628606/xbox-game-pass-august-2021-new-games",
+          "publishedOn": "2021-08-17T13:55:33.000Z",
+          "wordCount": 741,
+          "title": "Xbox Game Pass gets Psychonauts 2, Humankind, and Myst in August"
+        },
         {
           "id": "https://www.polygon.com/22627866/riot-games-lawsuit-workers-rights-sexual-harassment-discrimination",
           "author": null,
@@ -8574,6 +8898,24 @@
       "siteUrl": "http://kottke.org/",
       "articles": [
         {
+          "id": "https://kottke.org/21/08/everyday-paparazzi",
+          "author": null,
+          "description": "Johnny Cirillo photographs people on the streets of New York in the style of paparazzi (half a block away with a long lens) and posts them, with permission, to his Instagram account. From an interview with Cirillo in Vogue:\nI decided early-on that if I was going to shoot candids of New Yorkers, I didn’t want it to be with a wide lens, up-close in their faces. I started using a 200mm lens so that I could be half a city block away from the subject. It’s similar to the way paparazzi shoot, and all my subjects are celebrities to me, so it’s fitting in that respect. \n\n\n(via life is so beautiful)\nTags: Johnny Cirillo   NYC   fashion   photography",
+          "link": "https://kottke.org/21/08/everyday-paparazzi",
+          "publishedOn": "2021-08-17T20:15:32.000Z",
+          "wordCount": 149,
+          "title": "Everyday Paparazzi"
+        },
+        {
+          "id": "https://kottke.org/21/08/how-iceland-draws-geothermal-energy-from-the-earth",
+          "author": null,
+          "description": "In this short video from TED-Ed, we learn how Iceland extracts nearly emissions-free geothermal energy from the Earth (hint: volcanoes) but also how harnessing geothermal energy with heat pumps is something that can be done around the world. (via the kid should see this)\nTags: energy   Iceland   video",
+          "link": "https://kottke.org/21/08/how-iceland-draws-geothermal-energy-from-the-earth",
+          "publishedOn": "2021-08-17T14:37:54.000Z",
+          "wordCount": 92,
+          "title": "How Iceland Draws Geothermal Energy from the Earth"
+        },
+        {
           "id": "https://kottke.org/21/08/a-tribute-to-american-landscape-photographer-bob-wick",
           "author": null,
           "description": "Over at In Focus, Alan Taylor is highlighting the work of Bob Wick, a photographer for the U.S. Bureau of Land Management who recently retired after 33 years of service.\nIn a recent interview, Bob reflected on his career. “It has been extremely fulfilling to see my photos used in BLM, across the Department, and non-profits and getting to showcase the beauty of public lands and the resources we see,” he said. “When you see things on paper in words, it’s one thing, but when you see the image of the lands that you’re affecting with that resource decision, it’s a more powerful way to communicate the message.” \nBob added, “I like bringing joy to people with photos. A lot of people are armchair travelers and can’t go to remote places, but they get the satisfaction of seeing the beauty through my photos. I’m always happy to be able to share that beauty. I also think that images help build pride among employees as reminders of the vast and irreplaceable places that BLM manages.”\n\n\nYou can follow Wick’s continuing photo adventures on Instagram.\nTags: Alan Taylor   Bob Wick   photography",
@@ -9328,6 +9670,15 @@
       "siteUrl": "https://www.halfbakedharvest.com",
       "articles": [
         {
+          "id": "https://www.halfbakedharvest.com/?p=110177",
+          "author": "halfbakedharvest",
+          "description": "Peach Burrata Crostini with Burst Cherry Tomato Vinaigrette.\nUsing up the August peaches and tomatoes with a sweet Peach Burrata Crostini with Burst Cherry Tomato Vinaigrette. Burst cherry tomatoes with olive oil, garlic, and fresh thyme, served over grilled bread and topped with creamy burrata cheese, sweet peaches, and basil. These feel kind of fancy, but are so simple to make, and so…\nREAD: Peach Burrata Crostini with Burst Cherry Tomato Vinaigrette.",
+          "link": "https://www.halfbakedharvest.com/peach-burrata-crostin/",
+          "publishedOn": "2021-08-17T08:00:00.000Z",
+          "wordCount": 2108,
+          "title": "Peach Burrata Crostini with Burst Cherry Tomato Vinaigrette."
+        },
+        {
           "id": "https://www.halfbakedharvest.com/?p=110134",
           "author": "halfbakedharvest",
           "description": "Spicy Pesto Cheese Stuffed Roasted Red Peppers.\nThese Spicy Pesto Cheese Stuffed Roasted Red Peppers are best for nights when you’re craving Italian, but want to keep things healthy, delicious, and summery too! Roasted red peppers stuffed with a spicy, herby, tomato sauce that’s full of fresh zucchini and topped with pesto swirled ricotta cheese. This is a great way to use…\nREAD: Spicy Pesto Cheese Stuffed Roasted Red Peppers.",
@@ -9533,15 +9884,6 @@
           "publishedOn": "2021-07-20T08:00:00.000Z",
           "wordCount": 2124,
           "title": "Homemade Chocolate Frosty."
-        },
-        {
-          "id": "https://www.halfbakedharvest.com/?p=109231",
-          "author": "halfbakedharvest",
-          "description": "Creamed Feta Garlic Herb Butter Salmon.\nKeeping things super quick and very delicious with this Creamed Feta Garlic Herb Butter Salmon. This one skillet salmon is for those nights when you’re craving something fancy, but need to keep things quick and easy too. It’s all made in one skillet with heart healthy salmon, shallots, garlic, lots of herbs, creamy feta cheese,…\nREAD: Creamed Feta Garlic Herb Butter Salmon.",
-          "link": "https://www.halfbakedharvest.com/creamed-feta-garlic-herb-butter-salmon/",
-          "publishedOn": "2021-07-19T08:00:00.000Z",
-          "wordCount": 1557,
-          "title": "Creamed Feta Garlic Herb Butter Salmon."
         }
       ]
     },
@@ -9585,15 +9927,6 @@
           "publishedOn": "2021-07-26T21:52:40.000Z",
           "wordCount": 1279,
           "title": "Habit: June & July"
-        },
-        {
-          "id": "https://cate.blog/?p=53343",
-          "author": "Cate",
-          "description": "Something that came up in the Balance course I took was the lack of celebration and joy in my life (I doubt this is just me; it’s seems to be a common condition in the endless March of 2020). Anyway, my homework that I’ve kept up for several weeks now is the following: Make a […]",
-          "link": "https://cate.blog/2021/07/19/the-weekly-joy-list/",
-          "publishedOn": "2021-07-19T12:00:00.000Z",
-          "wordCount": 377,
-          "title": "The Weekly Joy List"
         }
       ]
     },
@@ -9602,6 +9935,15 @@
       "feedUrl": "https://shapeof.com/rss.xml",
       "siteUrl": "https://shapeof.com/",
       "articles": [
+        {
+          "id": "https://shapeof.com/archives/2021/8/acorn_7_sale_ends_monday.html",
+          "author": null,
+          "description": "This has easily been the longest sale we've ever had on Acorn - since March 17th!\nBut if you've been holding out on buying it for some reason, now is the time to purchase. The 50% off sale will end Monday, August 23rd, and the price will double from $19.99 up to $39.99 USD.\nThe bundle discount will still be available though. So if you buy multiple copies (or multiple apps), you can save some cash. Or buy now and save even more.",
+          "link": "https://shapeof.com/archives/2021/8/acorn_7_sale_ends_monday.html",
+          "publishedOn": "2021-08-17T19:21:08.000Z",
+          "wordCount": 151,
+          "title": "Acorn 7's 50% off Sale ends Monday the 23rd of August"
+        },
         {
           "id": "https://shapeof.com/archives/2021/8/anecdotes_about_the_macos_sandbox_file_limit.html",
           "author": null,
@@ -9624,6 +9966,204 @@
       "feedUrl": "https://bloody-disgusting.com/feed/",
       "siteUrl": "https://bloody-disgusting.com",
       "articles": [
+        {
+          "id": "https://bloody-disgusting.com/?p=3678840",
+          "author": "Brad Miska",
+          "description": "At long last, Disney is welcoming guests back to the Haunted Mansion, a fresh take on one of the company’s signature rides. It was revealed back in July that comedian Tiffany Haddish (Night School, Bad Trip) and Oscar nominee LaKeith Stanfield (Get Out, Death Note, Knives Out, Uncut Gems) will star in the film, according to THR, with Justin Simien, […]",
+          "link": "https://bloody-disgusting.com/movie/3678840/disneys-haunted-mansion-movie-will-999-happy-haunts-come-socialize/",
+          "publishedOn": "2021-08-17T21:30:02.000Z",
+          "wordCount": 1472,
+          "title": "Disney’s ‘Haunted Mansion’ Movie: Will the 999 Happy Haunts Come Out to Socialize?!"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3678828",
+          "author": "John Squires",
+          "description": "With the spooky season drawing closer, HalloweenCostumes.com has unleashed a brand new wave of “Ugly Halloween Sweaters,” several based on hit horror movie franchises. The site tells us, “The licensed designs for 2021 include Pennywise, Annabelle, The Nun, and Trick-or-Sweet Bear sweaters. (We have a Scooby-Doo printed sweatshirt, too.) Our own original designs include a Plague […]",
+          "link": "https://bloody-disgusting.com/the-further/3678828/new-ugly-halloween-sweaters-year-include-pennywise-annabelle-scooby-doo/",
+          "publishedOn": "2021-08-17T20:10:30.000Z",
+          "wordCount": 1392,
+          "title": "New “Ugly Halloween Sweaters” for This Year Include Pennywise, Annabelle and Scooby-Doo!"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3678820",
+          "author": "John Squires",
+          "description": "Everyone needs to be heard. Announced today, Yellow Veil Pictures will be releasing the Sundance horror movie Knocking on the road to Halloween, in theaters October 8 and On Demand & Digital October 19. In the film, ” After suffering a traumatic incident, Molly (Cecilia Milocco) moves into a new apartment to begin her path […]",
+          "link": "https://bloody-disgusting.com/movie/3678820/sundance-hit-knocking-releasing-october-via-yellow-veil-pictures-teaser/",
+          "publishedOn": "2021-08-17T19:50:02.000Z",
+          "wordCount": 1460,
+          "title": "Sundance Hit ‘Knocking’ Releasing in October Via Yellow Veil Pictures [Teaser]"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3678777",
+          "author": "Mike Wilson",
+          "description": "By now, you’ve probably seen James Gunn’s handiwork in The Suicide Squad (if you haven’t, check out Meg’s review). Some of you gamers might have seen it and thought one particular scene looked kind of familiar. Well, that’s because it was. In an interview with Collider, Gunn talked about his filmmaking process, and one of […]",
+          "link": "https://bloody-disgusting.com/video-games/3678777/james-gunn-drew-upon-lollipop-chainsaw-for-inspiration-in-the-suicide-squad/",
+          "publishedOn": "2021-08-17T19:13:45.000Z",
+          "wordCount": 1183,
+          "title": "James Gunn Drew Upon ‘Lollipop Chainsaw’ For Inspiration in ‘The Suicide Squad’"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3678812",
+          "author": "John Squires",
+          "description": "One of the all-time great horror legends gets his own documentary with the upcoming Boris Karloff: The Man Behind The Monster, and it’s finally on the way this year. Deadline reports today that Shout! Studios and Abramorama have joined forces for the North American rights to the documentary, with a limited theatrical run on September 17. Shout! […]",
+          "link": "https://bloody-disgusting.com/movie/3678812/documentary-boris-karloff-man-behind-monster-finally-releasing-halloween-season-trailer/",
+          "publishedOn": "2021-08-17T19:02:52.000Z",
+          "wordCount": 1504,
+          "title": "Documentary ‘Boris Karloff: The Man Behind The Monster’ Finally Releasing This Halloween Season [Trailer]"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3678801",
+          "author": "John Squires",
+          "description": "Evil has returned… Halloween Horror Nights is back at Universal Studios Hollywood from September 9-October 31, and today we’ve learned that this year’s event will feature a Halloween 4 house! Additionally, “Terror Tram: The Ultimate Purge” has been announced today. From the press release, “Universal Studios Hollywood unearths its remaining “Halloween Horror Nights” line-up with the […]",
+          "link": "https://bloody-disgusting.com/the-further/3678801/michael-myers-stalks-halloween-horror-nights-hollywood-halloween-4-maze-year/",
+          "publishedOn": "2021-08-17T18:50:24.000Z",
+          "wordCount": 1394,
+          "title": "Michael Myers Stalks Halloween Horror Nights Hollywood With ‘Halloween 4’ Maze This Year!"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3678792",
+          "author": "Brian Keiper",
+          "description": "The voice, the gestures, and those eyes. Few actors in the history of cinema are so instantly recognizable as Bela Lugosi or have had such an effect on the collective imagination. Though best known for his inescapable portrayal of Dracula on stage and screen, Lugosi’s career is long and varied. From the heights of fame […]",
+          "link": "https://bloody-disgusting.com/editorials/3678792/requiem-vampire-remembering-bela-lugosi-65-years-passing/",
+          "publishedOn": "2021-08-17T18:35:12.000Z",
+          "wordCount": 4833,
+          "title": "Requiem for a Vampire: Remembering Bela Lugosi 65 Years After His Passing"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3678788",
+          "author": "John Squires",
+          "description": "The spinoff anthology series “American Horror Stories” has already been renewed for a second season, but before we get there, the first season will be wrapping up this week. The spinoff anthology features hour-long contained episodes, and it’s exclusively available through FX on Hulu each week. The new series mostly tells original stories unconnected to […]",
+          "link": "https://bloody-disgusting.com/tv/3678788/cast-announced-weeks-season-finale-american-horror-stories-video/",
+          "publishedOn": "2021-08-17T18:07:31.000Z",
+          "wordCount": 1432,
+          "title": "Cast Announced for This Week’s Season Finale of “American Horror Stories” [Video]"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3678781",
+          "author": "John Squires",
+          "description": "Henry Selick’s 2009 film Coraline is returning to theaters for one-day-only on the road to Halloween, we’ve learned today, courtesy of Fathom Events, Shout! and Hot Topic. The press release details, “This one-day event, which takes place Tuesday, August 24, will also feature bonus content with never-before-seen animation test footage!” “From Henry Selick (The Nightmare Before […]",
+          "link": "https://bloody-disgusting.com/movie/3678781/coraline-brings-mother-back-theaters-one-day-august-24th/",
+          "publishedOn": "2021-08-17T17:47:56.000Z",
+          "wordCount": 1412,
+          "title": "‘Coraline’ Brings the Other Mother Back to Theaters for One-Day-Only on August 24th"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3678671",
+          "author": "Mike Wilson",
+          "description": "Back in March, Ratalaika Games and developer Headware Games revealed their PS1-styled horror title Chasing Static. Over the weekend, the title got some new exposure during Realms Deep 2021 with a brand-new trailer. The release date for Chasing Static is still listed as “Q3 2021”. If you’re keen on getting a taste of the game […]",
+          "link": "https://bloody-disgusting.com/video-games/3678671/3678671/",
+          "publishedOn": "2021-08-17T17:02:06.000Z",
+          "wordCount": 1182,
+          "title": "[Video] 80s Sci-Fi Horror Inspired Title ‘Chasing Static’ Oozes Atmosphere in New Trailer"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3678772",
+          "author": "John Squires",
+          "description": "AMC is currently working on a small screen adaptation of Anne Rice‘s “Interview With the Vampire,” part of the same deal that allowed AMC to acquire the rights to Rice’s trilogy of “Lives of the Mayfair Witches” novels. And indeed AMC is developing a series adaptation of those novels as well, they’ve announced with an […]",
+          "link": "https://bloody-disgusting.com/tv/3678772/lives-mayfair-witches-amc-developing-series-based-anne-rices-novels/",
+          "publishedOn": "2021-08-17T16:25:55.000Z",
+          "wordCount": 1437,
+          "title": "“Lives of the Mayfair Witches”: AMC Developing a Series Based on Anne Rice’s Novels"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3678765",
+          "author": "John Squires",
+          "description": "Announced today, a brand new docuseries titled “Behind the Monsters” is headed to the Shudder streaming service, each episode spotlighting a different horror movie villain. The debut season will cover Candyman, Chucky, Jason, Michael, Freddy and Pinhead! “Each of the series’ six episodes will focus on a single horror character, and feature interviews with horror […]",
+          "link": "https://bloody-disgusting.com/tv/3678765/behind-monsters-new-shudder-docuseries-will-shine-spotlight-horrors-iconic-villains/",
+          "publishedOn": "2021-08-17T16:10:09.000Z",
+          "wordCount": 1236,
+          "title": "“Behind the Monsters”: New Shudder Docuseries Will Shine the Spotlight on Horror’s Most Iconic Villains"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3678758",
+          "author": "Brad Miska",
+          "description": "Waxwork Records has given Bloody Disgusting the exclusive first listen to the debut single from the new Candyman score. The track is titled “Rows and Towers” and scored by NYC-based electronic and avant-garde artist Robert Aiki Aubrey Lowe. “‘Rows and Towers’ serves as one of many portals in the landscape of Candyman,” Robert Aiki Aubrey […]",
+          "link": "https://bloody-disgusting.com/exclusives/3678758/listen-get-taste-candyman-score-waxwork-records/",
+          "publishedOn": "2021-08-17T16:02:24.000Z",
+          "wordCount": 1011,
+          "title": "[Listen] Get a Taste of the ‘Candyman’ Score From Waxwork Records!"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3678319",
+          "author": "Brad Miska",
+          "description": "Candyman returns to theaters next Friday, but Chicago readers can say his name before anyone else. Bloody Disgusting has a whopping (25) pairs of tickets to a very special advance screening of Nia DaCosta‘s Candyman sequel, which will take place next Tuesday, Aug. 24 at the AMC River East 21. Full details are posted below, […]",
+          "link": "https://bloody-disgusting.com/movie/3678319/candyman-chicago-readers-say-name-catch-early-screening-aug-24th/",
+          "publishedOn": "2021-08-17T16:00:05.000Z",
+          "wordCount": 1553,
+          "title": "‘Candyman’: Chicago Readers, Say His Name and Catch an Early Screening on Aug. 24th!"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3678746",
+          "author": "John Squires",
+          "description": "“I wanna introduce you to a personal friend of mine.” The iconic M41-A Pulse Rifle from James Cameron’s Aliens has gotten an unexpectedly kid-friendly makeover, with Hasbro putting up for grabs a colorful NERF replica of the movie gun! The limited edition offering celebrates the 35th anniversary of Aliens, and it’s selling over on Hasbro’s […]",
+          "link": "https://bloody-disgusting.com/toys/3678746/pulse-rifle-aliens-turned-limited-edition-nerf-blaster/",
+          "publishedOn": "2021-08-17T15:12:06.000Z",
+          "wordCount": 1151,
+          "title": "The Pulse Rifle from ‘Aliens’ Has Been Turned into a Limited Edition NERF Blaster!"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3678697",
+          "author": "Brad Miska",
+          "description": "“The Cryptozoo is a sanctuary. A place for all the unloved animals in the world.” So explained the official trailer for Cryptozoo, one of the most imaginative trailers we’ve seen in a long while. Now, Bloody Disgusting has an exclusive clip from the animated film that Magnolia Pictures will release on August 20. “The film follows […]",
+          "link": "https://bloody-disgusting.com/exclusives/3678697/nsfw-clip-comes-across-cryptozoo-exclusive/",
+          "publishedOn": "2021-08-17T15:00:59.000Z",
+          "wordCount": 983,
+          "title": "NSFW Clip Comes Across the ‘Cryptozoo’ [Exclusive]"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3678666",
+          "author": "Mike Wilson",
+          "description": "After announcing BloodRayne Betrayal: Fresh Bites during E3 a few months ago, Ziggurat Interactive and developer WayForward have announced that the remaster will launch for PlayStation 5, Xbox Series, PlayStation 4, Xbox One, Switch, and PC via Steam and GOG on September 9. Limited Run Games is still onboard to do a physical edition of the game for PlayStation 5, […]",
+          "link": "https://bloody-disgusting.com/video-games/3678666/trailer-bloodrayne-betrayal-fresh-bites-arriving-september-9-for-pc-and-consoles/",
+          "publishedOn": "2021-08-17T14:37:32.000Z",
+          "wordCount": 1112,
+          "title": "[Trailer] ‘BloodRayne Betrayal: Fresh Bites’ Arriving September 9 For PC And Consoles"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3678729",
+          "author": "John Squires",
+          "description": "David Gordon Green’s Halloween Kills is finally releasing in theaters on October 15, and we’ve learned today that the film’s official soundtrack will release on the very same day. From John Carpenter, Cody Carpenter, and Daniel Davies, the album is releasing on October 15 via Sacred Bones Records, and the track “Unkillable” is available for […]",
+          "link": "https://bloody-disgusting.com/movie/3678729/john-carpenters-halloween-kills-soundtrack-releasing-october-listen-track-unkillable-now/",
+          "publishedOn": "2021-08-17T14:37:06.000Z",
+          "wordCount": 1660,
+          "title": "John Carpenter’s ‘Halloween Kills’ Soundtrack Releasing in October; Listen to the Track “Unkillable” Now!"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3678710",
+          "author": "Jason Jenkins",
+          "description": "phantom limb /ˈfan(t)əm’lim/ n. an often painful sensation of the presence of a limb that has been amputated. Welcome to Phantom Limbs, a recurring feature which will take a look at intended yet unproduced horror sequels and remakes – extensions to genre films we love, appendages to horror franchises that we adore – that were sadly […]",
+          "link": "https://bloody-disgusting.com/exclusives/3678710/crow-lazarus-james-gibson-details-dmx-vs-eminem-sequel-never-took-flight-phantom-limbs/",
+          "publishedOn": "2021-08-17T14:22:15.000Z",
+          "wordCount": 8762,
+          "title": "‘The Crow: Lazarus’ – James Gibson Details the DMX vs. Eminem Sequel That Never Took Flight [Phantom Limbs]"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3678702",
+          "author": "Brad Miska",
+          "description": "Sirens blare in IFC Midnight’s latest horror offering, We Need to Do Something, opening in limited theaters and on PVOD next month. Directed by Sean King O’Grady, the film stars Sierra McCormick (The Vast of Night), Vinessa Shaw (Hocus Pocus, Eyes Wide Shut, The Hills Have Eyes), Pat Healy (Cheap Thrills, Compliance, The Innkeepers), newcomer Lisette Alexis, and John James Cronin (“NOS4A2”). In We Need to Do […]",
+          "link": "https://bloody-disgusting.com/movie/3678702/frantic-need-something-clip-spoils-films-best-scene-video/",
+          "publishedOn": "2021-08-17T13:48:16.000Z",
+          "wordCount": 1480,
+          "title": "Frantic ‘We Need to Do Something’ Clip Reveals the Film’s Best Scene, Which Shocks Using Ozzy Osbourne’s Voice! [Video]"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3678689",
+          "author": "John Squires",
+          "description": "The partnership between Blumhouse and Amazon Prime continues when “Welcome to the Blumhouse” returns with four brand new horror movies, kicking off on October 1st. Produced by Blumhouse Television and Amazon Studios, Bingo Hell, Black as Night, Madres and The Manor premiere worldwide this October, exclusively on Amazon Prime Video. The “Welcome to the Blumhouse” slate […]",
+          "link": "https://bloody-disgusting.com/movie/3678689/amazons-welcome-blumhouse-back-october-four-new-original-horror-movies/",
+          "publishedOn": "2021-08-17T13:13:21.000Z",
+          "wordCount": 2155,
+          "title": "Amazon’s “Welcome to the Blumhouse” is Back in October With Four New Original Horror Movies!"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3678662",
+          "author": "Mike Wilson",
+          "description": "With the impending arrival of a new license for Dead by Daylight, Behaviour Interactive has unfortunately announced that we’ll be saying goodbye to another. The developers have announced that the Stranger Things crossover DLC will be leaving on November 17, 2021. In response, Behaviour Interactive is having a blowout sale on the DLC, which includes […]",
+          "link": "https://bloody-disgusting.com/video-games/3678662/stranger-things-dlc-to-be-removed-from-dead-by-daylight-in-november-blowout-sale-begins-august-18/",
+          "publishedOn": "2021-08-17T11:37:25.000Z",
+          "wordCount": 1197,
+          "title": "‘Stranger Things’ DLC to be Removed From ‘Dead by Daylight’ in November; Blowout Sale Begins August 18"
+        },
         {
           "id": "https://bloody-disgusting.com/?p=3678658",
           "author": "Brad Miska",
@@ -14033,33 +14573,6 @@
           "publishedOn": "2021-07-19T13:06:38.000Z",
           "wordCount": 1194,
           "title": "FX Celebrates “American Horror Stories” Premiere with Themed Bakery Pop-Up"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3674420",
-          "author": "Mike Wilson",
-          "description": "Remember ChaosForge’s Jupiter Hell? The game was to come out of Early Access on Steam way back in 2019, but that never materialized. However, two years later, and it’s finally set to try again next month. ChaosForge and publisher Hyperstrange have announced that the title, which is likened to chess (but with shotguns), will be fully […]",
-          "link": "https://bloody-disgusting.com/video-games/3674420/trailer-doom-inspired-roguelike-jupiter-hell-comes-out-of-early-access-next-month/",
-          "publishedOn": "2021-07-19T11:41:52.000Z",
-          "wordCount": 1098,
-          "title": "[Trailer] ‘Doom’-Inspired Roguelike ‘Jupiter Hell’ Comes Out of Early Access Next Month"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3674383",
-          "author": "Mike Wilson",
-          "description": "Developer WolfEye Studios has announced that their upcoming dark fantasy reimagining of the Wild West in Weird West will finally be released this fall for PC via Steam, PlayStation 4 and Xbox One. The developer has also released a new trailer to coincide with the announcement. Weird West mixes lawmen and gunslingers with werewolves, demons, […]",
-          "link": "https://bloody-disgusting.com/video-games/3674383/trailer-dark-fantasy-wild-west-shooter-weird-west-comes-to-pc-consoles-this-fall/",
-          "publishedOn": "2021-07-18T17:15:00.000Z",
-          "wordCount": 1006,
-          "title": "[Trailer] Dark Fantasy Wild West Shooter ‘Weird West’ Comes to PC, Consoles This Fall"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3674379",
-          "author": "Mike Wilson",
-          "description": "Developer Con Artist Games with publisher Armor Games Studios have announced that not only will The Last Stand: Aftermath be heading to PC via Steam Q4 2021, but also that the game will see a release on PlayStation 4, PlayStation 5, Xbox One and the Xbox Series. The game will also receive a physical version, […]",
-          "link": "https://bloody-disgusting.com/video-games/3674379/trailer-overhead-zombie-shooter-the-last-stand-aftermath-heads-to-ps5-xbox-series-ps4-xbox-one-and-pc-later-this-year/",
-          "publishedOn": "2021-07-18T14:01:34.000Z",
-          "wordCount": 1020,
-          "title": "[Trailer] Overhead Zombie Shooter ‘The Last Stand: Aftermath’ Heads to PS5, Xbox Series, PS4, Xbox One And PC Later This Year"
         }
       ]
     },
@@ -14074,6 +14587,33 @@
       "feedUrl": "https://www.broadstreethockey.com/rss/current.xml",
       "siteUrl": "https://www.broadstreethockey.com/",
       "articles": [
+        {
+          "id": "https://www.broadstreethockey.com/2021/8/17/22629234/nhl-announces-jersey-advertisement-philadelphia-flyers",
+          "author": null,
+          "description": "Photo by Len Redkoles/NHLI via Getty Images\n    \n\n  \nThe jersey ads are coming; whose money will the Flyers end up taking? \n It leaked earlier today that, despite Gary Bettman’s assurances to the contrary last year, the NHL will finally give in to the corporate gods whose money and influence rules us all and sell advertising space on NHL jerseys for the upcoming season. \nFrom ESPN’s report on the story: \nThe league’s board of governors formally voted this month to approve jersey advertisements. The NHL had surveyed its teams and found the majority of them in favor of jersey ads. The ads will be featured in a 3-inch-by-3.5-inch rectangle, which is larger than the NBA’s 2.5-by-2.5-inch space for uniform ads.\n\nThis is, of course, the second foray into selling advertising space on the players’…",
+          "link": "https://www.broadstreethockey.com/2021/8/17/22629234/nhl-announces-jersey-advertisement-philadelphia-flyers",
+          "publishedOn": "2021-08-17T19:43:19.000Z",
+          "wordCount": 1205,
+          "title": "Potential advertising partners for the Flyers’ 2021-22 season"
+        },
+        {
+          "id": "https://www.broadstreethockey.com/2021/8/17/22620760/nhl-philadelphia-flyers-2020-21-player-review-robert-hagg-leaves-on-a-high-note",
+          "author": null,
+          "description": "Photo by Len Redkoles/NHLI via Getty Images\n    \n\n  \nSo long, farewell, etc, etc. \n The time has come, folks. Lengthy, tumultuous, and often divisive, the Robert Hagg saga has come to an end in Philadelphia. As part of the return for Buffalo in the trade that brought Rasmus Ristolainen to the Flyers, this awful and messy 2020-21 season was Hagg’s last with them, and in a lot of ways it was a solid individual final showing, and serves as a positive endnote and send-off. \n\n\n\nReally, we’re not being snarky, we promise. Let’s break it down, shall we?\nBy The Numbers\n\n\nHagg’s not one that we’ve known to put up stellar scoring numbers, but he can chip in a bit of offense when push comes to shove. That said, his scoring pace was pretty well below the range of what we’ve seen from him in the past—i…",
+          "link": "https://www.broadstreethockey.com/2021/8/17/22620760/nhl-philadelphia-flyers-2020-21-player-review-robert-hagg-leaves-on-a-high-note",
+          "publishedOn": "2021-08-17T16:15:00.000Z",
+          "wordCount": 1466,
+          "title": "2020-21 Player Review: Robert Hagg leaves on a high note"
+        },
+        {
+          "id": "https://www.broadstreethockey.com/2021/8/17/22627965/tuesday-morning-fly-by-twelve-days",
+          "author": null,
+          "description": "Photo by Andy Lewis/Icon Sportswire via Getty Images\n    \n\n  \nToday’s open discussion thread, complete with your daily dose of Flyers news and notes…  \n *FOLKS! We’ve got a start date for this year’s Development Camp and it is less than two weeks away!!! Professional hockey players in Flyers jerseys on the ice in twelve days. Oh baby. [Flyers]\n*In other news that we got yesterday, the Flyers will continue their partnership with the Reading Royals for a few more years. [Royals]\n*Brian Elliott was a good dude, a good backup, and a fine Flyer during his tenure. We’ve nothing but good things to say as we send him off to Tampa Bay. [BSH]\n*It may be mid-August but we’ve still got some pretty good free agents kicking around and, as such, some rumors kicking around them. [Sportsnet]\n*And finally, Cam Atkinson is really laying it on thick and really trying to ingratiate himself with the Flyers’ fanbase. AND IT IS WORKING. [BSH]",
+          "link": "https://www.broadstreethockey.com/2021/8/17/22627965/tuesday-morning-fly-by-twelve-days",
+          "publishedOn": "2021-08-17T10:00:00.000Z",
+          "wordCount": 573,
+          "title": "Tuesday Morning Fly By: Twelve days!"
+        },
         {
           "id": "https://www.broadstreethockey.com/2021/8/16/22626837/philadephia-flyers-cam-atkinson-is-an-amazing-and-wonderful-human-being",
           "author": null,
@@ -14748,24 +15288,6 @@
           "publishedOn": "2021-07-19T13:45:00.000Z",
           "wordCount": 1315,
           "title": "BSH 2021 Community Draft Board, No. 29: Daniil Chayka"
-        },
-        {
-          "id": "https://www.broadstreethockey.com/2021/7/19/22581837/monday-morning-fly-by-ryan-ellis-is-a-flyer",
-          "author": null,
-          "description": "Photo by Len Redkoles/NHLI via Getty Images\n    \n\n  \nToday’s open discussion thread, complete with your daily dose of Flyers news and notes…\n *The big pre-expansion draft splash was made by ... the Flyers!? Ryan Ellis is a Philadelphia Flyer, and boy are we all giddy about it. [BSH]\n*To get Ellis, the team sent Phil Myers and Nolan Patrick the other way. The Predators then flipped Patrick to Vegas for Cody Glass. It’s honestly stunning that the Flyers were able to add Ellis without moving the 13th overall pick or one of their top prospects. Helluva job, Chuck. [BSH]\n*Speaking of Chuck Fletcher, the Flyers’ General Manager had some interesting things to say about the move for Ellis. And their plan for that first-round pick? Well, that’s still up in the air. [BSH]\n*Charlie broke down the Ellis trade from all angles, and honestly the deeper you dive into it, the more this starts to feel like a perfect fit. [The Athletic]\n*Of course, the big trade wasn’t the only news to break over the weekend. We also learned who the Flyers have chosen to protect in the looming expansion draft. [BSH]\n*There were reports that the Flyers were going to protect James van Riemsdyk after trading Nolan Patrick, but they turned out to be incorrect. The surprise addition? Nicolas Aube-Kubel. [NBC Sports Philly]\n*Back-to-back games in the same city were something that the NHL leaned on last season to get through the condensed schedule. It’s looking like they may be here to stay. [Philly Hockey Now]\n*In other expansion news, Carey Price waived his no-movement clause and was left unprotected by the Montreal Canadiens. He’s also injured, and may not be ready for the start of next season. [Habs Eyes On The Prize]\n*A complete list of every player both protected, and available, in the Seattle expansion draft. Who will be joining the Kraken? [The Athletic]\n*REMINDER: It’s draft week, and we are back to hosting draft parties! Come hang out with us at Xfinity Live as we watch the 2021 NHL Entry Draft. [BSH]",
-          "link": "https://www.broadstreethockey.com/2021/7/19/22581837/monday-morning-fly-by-ryan-ellis-is-a-flyer",
-          "publishedOn": "2021-07-19T10:00:00.000Z",
-          "wordCount": 765,
-          "title": "Monday Morning Fly By: Ryan Ellis is a Flyer"
-        },
-        {
-          "id": "https://www.broadstreethockey.com/2021/7/18/22582423/nhl-philadelphia-flyers-expansion-draft-protection-list-released-seattle-kraken",
-          "author": null,
-          "description": "Photo by Bruce Bennett/Getty Images\n    \n\n  \nEven more news!\n We’ve got some more news to report here, folks! The protected lists for Wednesday’s Expansion Draft have been released, and we’ve got our answers as to what the Flyers are going to do at long last. \nThe Flyers’ protected players are as follows:\nForwards: Nicolas Aube-Kubel, Sean Couturier, Claude Giroux, Kevin Hayes, Travis Konecny, and Scott Laughton\nDefensemen: Ryan Ellis, Ivan Provorov, and Travis Sanheim\nGoaltender: Carter Hart\nThis means that the exposed skaters include James van Riemsdyk, Jake Voracek, Justin Braun, Shayne Gostisbehere, and Robert Hagg.\nAre there any big surprises here? Not really. There may have been a bit of initial shock seeing Aube-Kubel on the protected list, but it’s a move that does make sense. A real emphasis for the Flyers this offseason, understandably, seems to be freeing up some cap space to have the flexibility to make some more moves, and this gives them the best chance of doing that. The Kraken no longer have the option of picking up Aube-Kubel because he’s cheap and has potential, but would have to pick up a player like van Riemsdyk, Voracek, or Gostisbehere who carry a higher cap hit. Granted, they could still go for Braun and add some good and lower cost depth, but this ensures that the Flyers have the greatest chance of seeing some money come off the books on Expansion Draft Day. \nThe Expansion Draft, of course, will take place on Wednesday July 21 at 8:00 ET, and we’ll see how Seattle decides to play this then.",
-          "link": "https://www.broadstreethockey.com/2021/7/18/22582423/nhl-philadelphia-flyers-expansion-draft-protection-list-released-seattle-kraken",
-          "publishedOn": "2021-07-18T14:56:33.000Z",
-          "wordCount": 670,
-          "title": "Flyers’ Expansion Draft protected list released"
         }
       ]
     },
@@ -14774,6 +15296,76 @@
       "feedUrl": "https://indyweek.com/api/rss/content.rss",
       "siteUrl": "https://indyweek.com/api/rss/content.rss",
       "articles": [
+        {
+          "id": "https://indyweek.com/news/durham/the-people-s-alliance-pac-hosts-a-forum-for-durham-s-municipal-election-thursday/",
+          "author": "Thomasi McDonald",
+          "description": "The two-and-a-half hour forum begins at 6 p.m. on Zoom.",
+          "link": "https://indyweek.com/news/durham/the-people-s-alliance-pac-hosts-a-forum-for-durham-s-municipal-election-thursday/",
+          "publishedOn": "2021-08-18T00:18:55.000Z",
+          "wordCount": 883,
+          "title": "The People's Alliance PAC Hosts a Forum for Durham's Municipal Candidates This Thursday",
+          "enclosure": {
+            "url": "https://indyweek.com/downloads/76207/download/DPA_logo_B-W-1000x1000.png?cb=b7c6c6ae78d86edc338cbfb2c122c864",
+            "type": "image/png",
+            "length": "56596"
+          }
+        },
+        {
+          "id": "https://indyweek.com/news/wake/raleigh-council-wants-to-prohibit/",
+          "author": "Leigh Tauss",
+          "description": "\"Like it or not, Raleigh's not a farm,\" said Council member David Knight, who worked extensively on the code change.",
+          "link": "https://indyweek.com/news/wake/raleigh-council-wants-to-prohibit/",
+          "publishedOn": "2021-08-17T20:20:25.000Z",
+          "wordCount": 830,
+          "title": "Raleigh Considers Banning Ownership of \"Wild and Dangerous\" Animals Like Opossums, Raccoons, and Ducks; Feeding Feral Cats",
+          "enclosure": {
+            "url": "https://indyweek.com/downloads/77200/download/32883674695_fb0b963fe8_b.jpg?cb=dbed5c53f9775153c93bb9dd882c0a12",
+            "type": "image/jpeg",
+            "length": "232734"
+          }
+        },
+        {
+          "id": "https://indyweek.com/news/orange/unc-chapel-hill-journalism-school-dean-will-step-down/",
+          "author": "Joe Killian",
+          "description": "Dean Susan King said in a message to faculty that this will be her last year, and a search for her successor launches this week.",
+          "link": "https://indyweek.com/news/orange/unc-chapel-hill-journalism-school-dean-will-step-down/",
+          "publishedOn": "2021-08-17T18:47:51.000Z",
+          "wordCount": 1017,
+          "title": "UNC-Chapel Hill Journalism School Dean Will Step Down",
+          "enclosure": {
+            "url": "https://indyweek.com/downloads/82283/download/Screen%20Shot%202021-05-19%20at%2010.02.18%20AM.png?cb=99b12c46821e33f339a2d7bb8f81d080",
+            "type": "image/png",
+            "length": "1113342"
+          }
+        },
+        {
+          "id": "https://indyweek.com/news/northcarolina/venus-flytrap-stuck-in-senate-committee/",
+          "author": "Sara Pequeño",
+          "description": "A bill that should be buzzing along has been caught by the N.C. Senate's rules committee.",
+          "link": "https://indyweek.com/news/northcarolina/venus-flytrap-stuck-in-senate-committee/",
+          "publishedOn": "2021-08-17T18:15:19.000Z",
+          "wordCount": 740,
+          "title": "Bugging Out: Commemorative Venus Flytrap License Plate Is Stuck in the Senate",
+          "enclosure": {
+            "url": "https://indyweek.com/downloads/82734/download/venus-flytrap.jpeg?cb=76070710d84d7b17f6e8fa251ee95338",
+            "type": "image/jpeg",
+            "length": "790260"
+          }
+        },
+        {
+          "id": "https://indyweek.com/news/durham/duke-economist-and-reparations-scholar-is-not-a-fan-of-hb-40/",
+          "author": "Thomasi McDonald",
+          "description": "Duke economist William Darity, who is leading research into the feasibility of reparations for descendants of slavery, opposes the only reparations-related bill in Congress.",
+          "link": "https://indyweek.com/news/durham/duke-economist-and-reparations-scholar-is-not-a-fan-of-hb-40/",
+          "publishedOn": "2021-08-17T16:24:16.000Z",
+          "wordCount": 1135,
+          "title": "Show Me the Money: Reparations Scholar Is Not a Fan of Reparations Bill",
+          "enclosure": {
+            "url": "https://indyweek.com/downloads/80014/download/7.15_feature_reparations_Darity-%26-Mullen.jpg?cb=e14c99a0243efab40045d76dea8d2677",
+            "type": "image/jpeg",
+            "length": "1214085"
+          }
+        },
         {
           "id": "https://indyweek.com/food-and-drink/news/downtown-durham-saltbox-seafood-joint-closing/",
           "author": "Sarah Edwards",
@@ -16364,6 +16956,36 @@
       "siteUrl": "https://daily.bandcamp.com",
       "articles": [
         {
+          "id": "142750",
+          "author": "Philip Freeman",
+          "description": "Part of the second wave of the subgenre in the '90s, the group never played live, but left a remarkable impact.\nRead full story on the Bandcamp Daily.",
+          "link": "https://daily.bandcamp.com/features/despise-you-feature",
+          "publishedOn": "2021-08-17T18:02:48.000Z",
+          "wordCount": null,
+          "title": "The Legend of Powerviolence Crew Despise You",
+          "itunes": {}
+        },
+        {
+          "id": "141710",
+          "author": "Raphael Helfand",
+          "description": "Gianluca Tramontana’s 51-track collection explores a vibrant local style of Cuban music associated with festivals and parties.\nRead full story on the Bandcamp Daily.",
+          "link": "https://daily.bandcamp.com/features/changui-the-sound-of-guantanamo-feature",
+          "publishedOn": "2021-08-17T13:43:00.000Z",
+          "wordCount": null,
+          "title": "The Legacy of Changüí, the Signature Sound of Guantánamo, Cuba",
+          "itunes": {}
+        },
+        {
+          "id": "142761",
+          "author": "John Morrison",
+          "description": "A colorful meeting ground for trippy electronics, dance music, reggae, and East African sounds.\nRead full story on the Bandcamp Daily.",
+          "link": "https://daily.bandcamp.com/album-of-the-day/amami-soleil-review",
+          "publishedOn": "2021-08-17T13:42:24.000Z",
+          "wordCount": null,
+          "title": "Amami, “Soleil”",
+          "itunes": {}
+        },
+        {
           "id": "142607",
           "author": "Dani Choi",
           "description": "With a sense of communal solidarity even among diverse regional scenes, these acts may look to older styles for inspiration, but their aim is toward the future.\nRead full story on the Bandcamp Daily.",
@@ -17241,6 +17863,24 @@
       "siteUrl": "https://www.cjr.org",
       "articles": [
         {
+          "id": "https://www.cjr.org/public_editor/cnn-primetime-daytime-ratings-climate-change.php",
+          "author": null,
+          "description": "Last Monday, the United Nations released an alarming report on climate change, warning the problem is “widespread, rapid, and intensifying” and “code red for humanity.” CNN covered the story in eleven reports spanning thirty-three minutes. But it all occurred outside of primetime hours––when most viewers are tuned in. When the report was released at 4am […]",
+          "link": "https://www.cjr.org/public_editor/cnn-primetime-daytime-ratings-climate-change.php",
+          "publishedOn": "2021-08-18T00:54:53.583Z",
+          "wordCount": 995,
+          "title": "CNN public editor: On climate coverage, it’s day and night"
+        },
+        {
+          "id": "https://www.cjr.org/the_media_today/afghanistan_press_freedom_taliban_kabul.php",
+          "author": null,
+          "description": "Eleven days ago, I wrote in this newsletter about the threats to press freedom as US troops withdrew from Afghanistan and the Taliban advanced. Many Afghan news organizations had shuttered, while others were transformed into vectors for Taliban propaganda; many Afghan journalists had censored themselves or quit the profession, while others fled captured cities and […]",
+          "link": "https://www.cjr.org/the_media_today/afghanistan_press_freedom_taliban_kabul.php",
+          "publishedOn": "2021-08-18T00:54:53.575Z",
+          "wordCount": 2863,
+          "title": "A dark time for Afghanistan’s journalists"
+        },
+        {
           "id": "https://www.cjr.org/opinion/journalism-failed-in-afghanistan-too.php",
           "author": null,
           "description": "One year after the end of World War Two, Dwight D. Eisenhower, while serving as Army Chief of Staff, gave one of his most famous lines, to the Canadian Club in Ottawa: “I hate war as only a soldier who has lived it can, only as one who has seen its brutality, its futility, its […]",
@@ -17572,6 +18212,21 @@
       "siteUrl": "https://www.platformer.news",
       "articles": [
         {
+          "id": "https://www.platformer.news/p/the-platforms-taliban-dilemma",
+          "author": "Casey Newton",
+          "description": "A designated terrorist organization rules Afghanistan. Now what?",
+          "link": "https://www.platformer.news/p/the-platforms-taliban-dilemma",
+          "publishedOn": "2021-08-18T00:00:34.000Z",
+          "wordCount": null,
+          "title": "The platforms' Taliban dilemma",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F701506ca-0b38-4072-93e9-8226d6613ce4_1024x683.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
           "id": "https://www.platformer.news/p/the-child-safety-debate-intensifies",
           "author": "Casey Newton",
           "description": "As Apple explains itself, other platforms reveal new approaches",
@@ -17773,6 +18428,51 @@
       "feedUrl": "https://cvltnation.com/feed/",
       "siteUrl": "https://cvltnation.com",
       "articles": [
+        {
+          "id": "https://cvltnation.com/?p=283564",
+          "author": "Sean Reveron",
+          "description": "Have you heard the really epic duo CASSELS from the UK? If you haven’t, I’m here to tell y’all that they are fucking BOMB. Imagine if Mark E Smith decided to allow Enter the Wu-Tang (36 Chambers) Rza to produce an off-kilter duo. The out would be “Mr. Henderson Coughs,” the upcoming single from this […]\nThe post Art rock meets the WU! Listen to CASSELS “Mr Henderson Coughs” first appeared on CVLT Nation.",
+          "link": "https://cvltnation.com/artrock-meets-the-wu-listen-to-cassels-mr-henderson-coughs/",
+          "publishedOn": "2021-08-17T11:00:55.000Z",
+          "wordCount": 507,
+          "title": "Art rock meets the WU! Listen to CASSELS “Mr Henderson Coughs”"
+        },
+        {
+          "id": "https://cvltnation.com/?p=283418",
+          "author": "Kelly Hudson",
+          "description": "I first became aware of Wolves in the Throne Room (Wittr) probably around 2009. My memory of that time is pretty hazy; lots of health issues and changing work environments kinda take up that space in my brain. But I know I saw them for the first time in 2012 at Slim’s (RIP) in San […]\nThe post The Epic, Mystical Black Metal of WOLVES IN THE THRONE ROOM’s Primordial Arcana first appeared on CVLT Nation.",
+          "link": "https://cvltnation.com/the-epic-mystical-black-metal-of-wolves-in-the-throne-rooms-primordial-arcana/",
+          "publishedOn": "2021-08-17T10:00:36.000Z",
+          "wordCount": 1531,
+          "title": "The Epic, Mystical Black Metal of WOLVES IN THE THRONE ROOM’s Primordial Arcana"
+        },
+        {
+          "id": "https://cvltnation.com/?p=283604",
+          "author": "Sean Reveron",
+          "description": "Word Sound and Power is something that has been real to me for decades. Inside of words, you can hear the truth or you can hear lies. Within language, people can convey their power or have their power taken away. The way something is spoken will color the way we allow messages to enter our […]\nThe post Word Sound and Power! Listen To the thought-provoking BLUE LICK song “V” first appeared on CVLT Nation.",
+          "link": "https://cvltnation.com/word-sound-and-power-listen-to-the-thought-provoking-blue-lick-song-v/",
+          "publishedOn": "2021-08-17T09:00:16.000Z",
+          "wordCount": 643,
+          "title": "Word Sound and Power! Listen To the thought-provoking BLUE LICK song “V”"
+        },
+        {
+          "id": "https://cvltnation.com/?p=283621",
+          "author": "Sean Reveron",
+          "description": "via BBC Teenager Danyal Hussein murdered two sisters in a London park last year – seemingly influenced to do so by a satanic web forum that contained instructions about demonic pacts that mirror his crime. Convicted of killing sisters Bibaa Henry and Nicole Smallman, the BBC has uncovered new evidence that Hussein was a member […]\nThe post Satanism and the far right! Danyal Hussein murdered two sisters first appeared on CVLT Nation.",
+          "link": "https://cvltnation.com/satanism-and-the-far-right-danyal-hussein-murdered-two-sisters/",
+          "publishedOn": "2021-08-17T08:00:53.000Z",
+          "wordCount": 1119,
+          "title": "Satanism and the far right! Danyal Hussein murdered two sisters"
+        },
+        {
+          "id": "https://cvltnation.com/?p=283571",
+          "author": "Meghan",
+          "description": "I’ve always been fascinated by the intersection of acid and art that manifests in the form of LSD blotter art. Fifty years after Mark McCloud began to collect blotter art, you can get almost anything printed on blotter paper online, either for collecting or using. The artists who create these are tapping into the experience […]\nThe post Enter the Transcendent Universe of LSD Blotter Art first appeared on CVLT Nation.",
+          "link": "https://cvltnation.com/enter-the-transcendent-universe-of-lsd-blotter-art/",
+          "publishedOn": "2021-08-17T07:00:00.000Z",
+          "wordCount": 594,
+          "title": "Enter the Transcendent Universe of LSD Blotter Art"
+        },
         {
           "id": "https://cvltnation.com/?p=283547",
           "author": "Sean Reveron",
@@ -18319,15 +19019,6 @@
           "publishedOn": "2021-07-20T10:00:16.000Z",
           "wordCount": 762,
           "title": "Track Premiere: 8 Hour Animal – “Wake”"
-        },
-        {
-          "id": "https://yourlastrites.com/?p=36965",
-          "author": "Chris C",
-          "description": "The world is not lacking for metal bands. Between Bandcamp and blogs, there’s an endless supply of new discoveries at our fingertips. Though somehow we’ve heard and seen it all. Several times over. Yet once in a blue moon something like Vaelmyst’s Secrypts of the Egochasm comes along to reinvigorate our interest in an otherwise ...",
-          "link": "https://yourlastrites.com/2021/07/19/vaelmyst-secrypts-of-the-egochasm-review/",
-          "publishedOn": "2021-07-19T11:00:12.000Z",
-          "wordCount": 1066,
-          "title": "Vaelmyst – Secrypts Of The Egochasm Review"
         }
       ]
     },
@@ -18336,6 +19027,15 @@
       "feedUrl": "https://www.teethofthedivine.com/feed/",
       "siteUrl": "https://www.teethofthedivine.com",
       "articles": [
+        {
+          "id": "https://www.teethofthedivine.com/?p=56269",
+          "author": "Steve K",
+          "description": "OK so yeah, it’s only the end of July as I write this, but it’s never too early to start thinking of Halloween, right? It’s long been a dream of mine to host a big, haunted house for the neighborhood, but I want to get it right. My wife and I have owned a home […]",
+          "link": "https://www.teethofthedivine.com/reviews/fulci-exhumed-information/",
+          "publishedOn": "2021-08-17T11:00:47.000Z",
+          "wordCount": 915,
+          "title": "Fulci – Exhumed Information"
+        },
         {
           "id": "https://www.teethofthedivine.com/?p=56378",
           "author": "Erik T",
@@ -18524,15 +19224,6 @@
           "publishedOn": "2021-07-20T11:52:53.000Z",
           "wordCount": 664,
           "title": "Eradicator – Influence Denied"
-        },
-        {
-          "id": "https://www.teethofthedivine.com/?p=56180",
-          "author": "Erik T",
-          "description": "Fuck. So back in February, I swore that Ominous Ruin‘s Amid Voices That Echo in Stone would be the tech death album of the year. Then shortly after that, Stortgren’s Impermanence,  was definitely going to take that mantle. But then Hannes Grossman dropped To Where the Light Retreats, earlier this summer, and THAT album was […]",
-          "link": "https://www.teethofthedivine.com/featured/ophidian-i-desolate/",
-          "publishedOn": "2021-07-19T11:46:49.000Z",
-          "wordCount": 814,
-          "title": "Ophidian I – Desolate"
         }
       ]
     },
@@ -18575,6 +19266,78 @@
       "feedUrl": "https://goodguysgogrind.com/feed/",
       "siteUrl": "https://goodguysgogrind.com",
       "articles": [
+        {
+          "id": "http://goodguysgogrind.com/?p=29244",
+          "author": "goodguysgogrind",
+          "description": "Visit the post for more.",
+          "link": "https://goodguysgogrind.com/2021/08/17/black-hole-prod-is-going-to-release-a-new-ep-of-pharmacist/",
+          "publishedOn": "2021-08-17T17:49:21.000Z",
+          "wordCount": 272,
+          "title": "Black Hole prod is going to release a new EP of Pharmacist!"
+        },
+        {
+          "id": "http://goodguysgogrind.com/?p=29239",
+          "author": "goodguysgogrind",
+          "description": "Mexican and Colombian crusters just released a split release! You can check the Bio Crisis side right HERE!",
+          "link": "https://goodguysgogrind.com/2021/08/17/split-bio-crisis-edictio-turbatio/",
+          "publishedOn": "2021-08-17T17:47:28.000Z",
+          "wordCount": 289,
+          "title": "Split Bio Crisis/Edictio Turbatio!"
+        },
+        {
+          "id": "http://goodguysgogrind.com/?p=29232",
+          "author": "goodguysgogrind",
+          "description": "Hard to believe but I didn’t know anything about the grind scene of Paraguay, till this day. Here is a young trio that started 4 years ago, for this release they recorded 11 old school songs. And thanks to Wise Grinds Records I`m holding this tape in my hands. What can I say, this is a flashback to the roots of the genre. The guys managed to create material with old spirit, sound, and riffs. The tape has old fashioned design (gas mask, air pollution, and so on) and a nice color balance, the green shell of the cassette looks …",
+          "link": "https://goodguysgogrind.com/2021/08/17/cancerous-social-thoughts-distopia/",
+          "publishedOn": "2021-08-17T16:33:23.000Z",
+          "wordCount": 529,
+          "title": "Cancerous Social Thoughts – Distopia"
+        },
+        {
+          "id": "http://goodguysgogrind.com/?p=29227",
+          "author": "goodguysgogrind",
+          "description": "Visit the post for more.",
+          "link": "https://goodguysgogrind.com/2021/08/17/obscene-extreme-2022/",
+          "publishedOn": "2021-08-17T14:49:59.000Z",
+          "wordCount": 264,
+          "title": "Obscene Extreme 2022!"
+        },
+        {
+          "id": "http://goodguysgogrind.com/?p=29223",
+          "author": "goodguysgogrind",
+          "description": "Visit the post for more.",
+          "link": "https://goodguysgogrind.com/2021/08/17/shitresist-rec-presents/",
+          "publishedOn": "2021-08-17T13:13:10.000Z",
+          "wordCount": 264,
+          "title": "Shitresist rec presents!"
+        },
+        {
+          "id": "http://goodguysgogrind.com/?p=29219",
+          "author": "goodguysgogrind",
+          "description": "Visit the post for more.",
+          "link": "https://goodguysgogrind.com/2021/08/17/split-oxidized-razor-depression-will-be-out-soon/",
+          "publishedOn": "2021-08-17T13:11:10.000Z",
+          "wordCount": 272,
+          "title": "Split Oxidized Razor / Depression will be out soon!"
+        },
+        {
+          "id": "http://goodguysgogrind.com/?p=29214",
+          "author": "goodguysgogrind",
+          "description": "Visit the post for more.",
+          "link": "https://goodguysgogrind.com/2021/08/17/nice-party-in-brno-czech-republic/",
+          "publishedOn": "2021-08-17T13:09:47.000Z",
+          "wordCount": 267,
+          "title": "Nice party in Brno/Czech Republic!"
+        },
+        {
+          "id": "http://goodguysgogrind.com/?p=29209",
+          "author": "goodguysgogrind",
+          "description": "Born in 2020 during a painful quarantine, Civilian Thrower is a grindcore gang featuring members from Lyon, Montpellier and Paris. CT is a tribute to old school grindcore and seeks influence in bands like EXCRUCIATING TERROR or WARSORE. The first demo came out recently, shortly followed by a split with VILE SPECIES. More releases are already planed, as well as live shows, among them a 4 ways split with GROTESQUERIE, PUTRID PANACOTA and GORE MINCER. contacts: Civilian Thrower bc",
+          "link": "https://goodguysgogrind.com/2021/08/17/civilian-thrower/",
+          "publishedOn": "2021-08-17T13:07:29.000Z",
+          "wordCount": 345,
+          "title": "Civilian Thrower!"
+        },
         {
           "id": "http://goodguysgogrind.com/?p=29204",
           "author": "goodguysgogrind",
