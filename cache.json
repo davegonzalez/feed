@@ -12,6 +12,33 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1788930",
+          "author": "Tim De Chant",
+          "description": "Recent studies have questioned blue hydrogen’s low-carbon bona fides.",
+          "link": "https://arstechnica.com/?p=1788930",
+          "publishedOn": "2021-08-21T11:45:45.000Z",
+          "wordCount": 1182,
+          "title": "Hydrogen lobbyist quits, slams oil companies’ “false claims” about blue hydrogen"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1788915",
+          "author": "WIRED",
+          "description": "New report claims that the massive video game platform can exploit young developers.",
+          "link": "https://arstechnica.com/?p=1788915",
+          "publishedOn": "2021-08-21T11:40:14.000Z",
+          "wordCount": 1392,
+          "title": "On Roblox, kids learn it’s hard to earn money making games"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1788910",
+          "author": "WIRED",
+          "description": "Researchers see if they can remove sensitive data without retraining AI from scratch.",
+          "link": "https://arstechnica.com/?p=1788910",
+          "publishedOn": "2021-08-21T10:55:11.000Z",
+          "wordCount": 1359,
+          "title": "Now that machines can learn, can they unlearn?"
+        },
+        {
           "id": "https://arstechnica.com/?p=1788948",
           "author": "Beth Mole",
           "description": "Regulators are reportedly working to finish approval Friday, but timeline could slip.",
@@ -2611,141 +2638,6 @@
           "publishedOn": "2021-07-23T14:38:49.000Z",
           "wordCount": 765,
           "title": "Two more battery fires spark second Chevrolet Bolt EV recall"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1782458",
-          "author": "Eric Berger",
-          "description": "\"My expectations were high, and they were dramatically exceeded.\"",
-          "link": "https://arstechnica.com/?p=1782458",
-          "publishedOn": "2021-07-23T11:00:49.000Z",
-          "wordCount": 2463,
-          "title": "Rocket Report: Super Heavy lights up, China tries to recover a fairing"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1782476",
-          "author": "Sam Machkovech",
-          "description": "A fan edit could get this into \"so bad it's good\" territory. Until then, watch out.",
-          "link": "https://arstechnica.com/?p=1782476",
-          "publishedOn": "2021-07-23T08:00:27.000Z",
-          "wordCount": 1815,
-          "title": "Snake Eyes film review: More like “G.I. No”"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1782437",
-          "author": "Beth Mole",
-          "description": "CDC head: The vaccines \"are some of the most effective that we have in modern medicine.\"",
-          "link": "https://arstechnica.com/?p=1782437",
-          "publishedOn": "2021-07-22T21:56:10.000Z",
-          "wordCount": 2028,
-          "title": "“Get vaccinated! Take delta seriously!” US experts plead as cases skyrocket"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1782438",
-          "author": "Jon Brodkin",
-          "description": "Viasat fears SpaceX competition, sought freeze on launches and environmental review.",
-          "link": "https://arstechnica.com/?p=1782438",
-          "publishedOn": "2021-07-22T21:30:16.000Z",
-          "wordCount": 1475,
-          "title": "Judges reject Viasat’s plea to stop SpaceX Starlink satellite launches"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1782406",
-          "author": "Dan Goodin",
-          "description": "REvil ransomware struck as many as 1,500 networks, but a master key is now available.",
-          "link": "https://arstechnica.com/?p=1782406",
-          "publishedOn": "2021-07-22T20:12:17.000Z",
-          "wordCount": 894,
-          "title": "Kaseya gets master decryptor to help customers still suffering from REvil attack"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1782258",
-          "author": "Jennifer Ouellette",
-          "description": "It's the first half of a planned two-part adaptation of Frank Herbert's novel.",
-          "link": "https://arstechnica.com/?p=1782258",
-          "publishedOn": "2021-07-22T19:59:09.000Z",
-          "wordCount": 1633,
-          "title": "Latest Dune trailer gives us our best look yet at Denis Villeneuve’s epic film"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1782287",
-          "author": "Samuel Axon",
-          "description": "It's unusual for iPadOS to come after iOS, but it's here.",
-          "link": "https://arstechnica.com/?p=1782287",
-          "publishedOn": "2021-07-22T19:07:38.000Z",
-          "wordCount": 1008,
-          "title": "iPadOS 14.7 and macOS Big Sur 11.5 come with plenty of bug fixes and security updates"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1782310",
-          "author": "Jim Salter",
-          "description": "Contrary to popular belief, it's not always DNS... but it is today.",
-          "link": "https://arstechnica.com/?p=1782310",
-          "publishedOn": "2021-07-22T17:36:05.000Z",
-          "wordCount": 640,
-          "title": "Today’s massive Internet outage comes courtesy of Akamai Edge DNS"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1782237",
-          "author": "Ron Amadeo",
-          "description": "Google broke a conditional statement that verifies passwords. A fix is rolling out.",
-          "link": "https://arstechnica.com/?p=1782237",
-          "publishedOn": "2021-07-22T17:32:54.000Z",
-          "wordCount": 836,
-          "title": "Google pushed a one-character typo to production, bricking Chrome OS devices"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1782275",
-          "author": "Jon Brodkin",
-          "description": "AT&T, the only ISP available, kept canceling installs until she contacted news media.",
-          "link": "https://arstechnica.com/?p=1782275",
-          "publishedOn": "2021-07-22T17:18:15.000Z",
-          "wordCount": 1441,
-          "title": "AT&T nightmare: Woman had to wait 3+ months for broadband at new home"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1780800",
-          "author": "Sam Machkovech",
-          "description": "Preorders start July 29 for this $179 Game Boy-like delight—which we've tested for weeks.",
-          "link": "https://arstechnica.com/?p=1780800",
-          "publishedOn": "2021-07-22T17:00:58.000Z",
-          "wordCount": 1180,
-          "title": "Playdate preview: You won’t believe how fun this dorky, $179 game system is"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1782296",
-          "author": "Financial Times",
-          "description": "World’s largest oil producer says some company files were compromised.",
-          "link": "https://arstechnica.com/?p=1782296",
-          "publishedOn": "2021-07-22T16:56:00.000Z",
-          "wordCount": 1016,
-          "title": "Saudi Aramco confirms data leak after $50 million cyber ransom demand"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1782256",
-          "author": "Tim De Chant",
-          "description": "Utility says undergrounding will take 10 years to complete.",
-          "link": "https://arstechnica.com/?p=1782256",
-          "publishedOn": "2021-07-22T16:36:17.000Z",
-          "wordCount": 1346,
-          "title": "PG&E likely sparks another massive fire, pledges to bury 10,000 miles of power lines"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1781863",
-          "author": "Sean Gallagher",
-          "description": "Turns out it's really hard to make a machine-learning model to evaluate headlines.",
-          "link": "https://arstechnica.com/?p=1781863",
-          "publishedOn": "2021-07-22T15:00:55.000Z",
-          "wordCount": 1739,
-          "title": "Ars AI headline experiment finale—we came, we saw, we used a lot of compute time"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1782223",
-          "author": "John Timmer",
-          "description": "The AI-driven structural predictions are being shared through a public database.",
-          "link": "https://arstechnica.com/?p=1782223",
-          "publishedOn": "2021-07-22T15:00:52.000Z",
-          "wordCount": 1463,
-          "title": "Google turns AlphaFold loose on the entire human genome"
         }
       ]
     },
@@ -2754,6 +2646,15 @@
       "feedUrl": "http://feeds.macrumors.com/MacRumors-Front",
       "siteUrl": "https://www.macrumors.com",
       "articles": [
+        {
+          "id": "https://www.macrumors.com/2021/08/21/top-stories-m1x-macbook-pro-november/",
+          "author": "MacRumors Staff",
+          "description": "We're rapidly approaching Apple's busy product launch season, and rumors are continuing to fly. It sounds like Apple has enough products in the pipeline that it'll need to hold multiple virtual events before the end of the year to introduce them all, so get ready for a flurry of activity over the next few months.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nOther news this week included a fresh round of betas for iOS 15 and most of the associated operating system updates, reducing the update interval to one week as Apple finalizes things ahead of an expected September public launch. We also saw an interesting story of a \"double agent\" in the Apple leaker community, confirmation of a never-released \"iPhone nano\" thanks to an old email from Steve Jobs, and more.\r\n\r\n\r\n\r\nMultiple Apple Events Expected This Fall, M1X MacBoo…",
+          "link": "https://www.macrumors.com/2021/08/21/top-stories-m1x-macbook-pro-november/",
+          "publishedOn": "2021-08-21T13:00:00.000Z",
+          "wordCount": 2807,
+          "title": "Top Stories: M1X MacBook Pro by November, iOS 15 Beta 6, Apple's Secret Double Agent"
+        },
         {
           "id": "https://www.macrumors.com/guide/ios-15-weather-app&post_date=1629505468/",
           "author": "Juli Clover",
@@ -5723,195 +5624,6 @@
           "publishedOn": "2021-07-23T13:46:32.000Z",
           "wordCount": 2497,
           "title": "Apple Not Trying Hard Enough to Protect Users Against Surveillance, Researchers Say"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/23/iphone-13-may-support-25w-fast-charging/",
-          "author": "Sami Fathi",
-          "description": "The iPhone 13 may support faster-charging speeds with a 25W power adapter, compared to the current limitation of the iPhone 12, which only supports fast charging at up to 20W, according to a rumor originating from China.\r\n\r\n\r\n\r\n\r\n\r\nThe ‌iPhone 12‌ supports fast charging with a 20W or higher power adapter; however, even if users use a more powerful wall adapter, the iPhone itself only supports up to 20W. According to the rumor, Apple will provide users with support for a 25W power adapter this fall, and with it, it will release its own 25W power adapter as an accessory for purchase. Apple's current 20W power adapter retails for $19.99. \r\n\r\n\r\n\r\nCompared to 20W, 25W won't bring a drastic change to charging speeds or typical day-to-day charging for users. Many flagship Android smartphones, such as the Samsung Galaxy S21, already support 25W. Support for the faster-charging speeds will come alongside increased battery capacities for each of the ‌iPhone 13‌ models, which will come in handy on the higher-end variants due to more advanced displays.\r\n\r\n\r\n\r\nThe ‌iPhone 13‌ Pro and ‌iPhone 13‌ Pro Max are expected to benefit from LTPO displays, which will not only provide users with a better viewing experience with ProMotion 120Hz refresh rate but may support always-on functionality. \nRelated Roundup: iPhone 13\nRelated Forum: iPhone\nThis article, \"iPhone 13 May Support 25W Fast Charge Power Adapter\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/07/23/iphone-13-may-support-25w-fast-charging/",
-          "publishedOn": "2021-07-23T09:52:02.000Z",
-          "wordCount": 2102,
-          "title": "iPhone 13 May Support 25W Fast Charge Power Adapter"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/23/nomad-magsafe-battery-pack-cover/",
-          "author": "Sami Fathi",
-          "description": "Nomad has opened pre-orders for leather covers for Apple's MagSafe Battery Pack, allowing customers to protect not only their $99 battery pack but also an opportunity to customize its look with two different colors.\r\n\r\n\r\n\r\n\r\n\r\nApple's MagSafe Battery Pack was launched last week for $99 and is meant to provide iPhone 12 users an easy and convenient way to charge up their device on the go. Apple is only offering the battery pack in a white color, leaving accessory makers to make cases and covers that customize its look. \r\n\r\n\r\n\r\nNomad offers leather cases in both black and \"Rustic Brown,\" and both colors retail for $35. The covers attach to the front of the battery pack using \"microsuction tape\" and \"form fitting shape.\" Customers who pre-order the covers can save $5, and it begins shipping on November 20. \nTag: Nomad\nThis article, \"Nomad Opens Pre-Orders for $35 Leather Cover for Apple's MagSafe Battery Pack\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/07/23/nomad-magsafe-battery-pack-cover/",
-          "publishedOn": "2021-07-23T08:57:04.000Z",
-          "wordCount": 1943,
-          "title": "Nomad Opens Pre-Orders for $35 Leather Cover for Apple's MagSafe Battery Pack"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/23/meross-led-floor-lamp-homekit/",
-          "author": "Tim Hardwick",
-          "description": "Meross this week added a height adaptable LED Floor Lamp to its smart home lineup offering Apple HomeKit support.\r\n\r\n\r\n\r\nNote: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.\r\n\r\n\r\n\r\nBoasting a modular three-piece design, the slim black lamp can be adjusted to a height of 54.7 inches (139cm) for placement on a floor, or 22 inches (56cm) for desk use via the included base or clamp mount.\r\n\r\n\r\n\r\nThe flexible gooseneck can be tilted and rotated 360 degrees, and though it doesn't feature color changes, the brightness, warmness and coolness of the light can be adjusted between 2700 to 6000K.\r\n\r\n\r\n\r\nThe 12-Watt lamp features a peak brightness of 650 lumens and is fully dimmable using the integrated touch panel on the lamp stem, the included remote, or via the mobile app.\r\n\r\n\r\n\r\n\r\n\r\nIn addition to ‌HomeKit‌, the Meross Smart LED Floor Lamp is compatible with Amazon's Alexa, Google Assistant, and the Meross app when connected to 2.4GHz Wi-Fi. \r\n\r\n\r\n\r\nThe Meross MSL610HK Smart LED Floor Lamp is available now on Amazon for $79.99, but Meross is currently offering a $25 discount that can be found on the Amazon product listing.\r\n\r\n\r\n\r\n(Via iMore.)\nTags: HomeKit, Meross\nThis article, \"Meross Launches Modular Smart LED Floor Lamp With HomeKit Support\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/07/23/meross-led-floor-lamp-homekit/",
-          "publishedOn": "2021-07-23T08:41:13.000Z",
-          "wordCount": 2544,
-          "title": "Meross Launches Modular Smart LED Floor Lamp With HomeKit Support"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/23/airpods-3-with-iphone-13-event/",
-          "author": "Sami Fathi",
-          "description": "The third-generation AirPods will likely launch at the same event revealing Apple's upcoming iPhone 13 lineup, according to a report from DigiTimes, which makes the claim citing sources familiar with the matter.\r\n\r\n\r\n\r\n\r\n\r\nThe report as a whole echoes previous reporting that production of the third-generation ‌AirPods‌ will kickstart in August, meaning a launch shortly after can be easily expected. DigiTimes states that shipments of certain components needed for the ‌AirPods‌ have already begun in \"small volumes\" and will be ramped up in the third and fourth quarters of the year.\r\n\r\n\r\n\r\nThe third-generation ‌AirPods‌ will be the first update to the standard ‌AirPods‌ since March of 2019, where it gained wireless charging support, \"Hey Siri\" support, and improved internals. Compared to the …",
-          "link": "https://www.macrumors.com/2021/07/23/airpods-3-with-iphone-13-event/",
-          "publishedOn": "2021-07-23T07:54:12.000Z",
-          "wordCount": 2760,
-          "title": "AirPods 3 Rumored to Launch Alongside iPhone 13 at Expected September Event"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/23/ted-lasso-second-season-debuts/",
-          "author": "Tim Hardwick",
-          "description": "\"Ted Lasso,\" the most watched program on Apple TV+, saw its season two opening episode debut on the streaming service today. Apple is celebrating the premiere by giving the comedy series a full-page animated takeover on its website homepage.\r\n\r\n\r\n\r\n\r\n\r\n\"Ted Lasso\" sees Jason Sudeikis reviving his Ted Lasso character that first debuted during the 2013 NBC Sports English Premier League coverage. In the ‌Apple TV+‌ show, Sudeikis plays a small-time college football coach from Kansas who is hired to coach a professional soccer team in England, despite having no experience coaching soccer. \r\n\r\n\r\n\r\nThe second season has been widely anticipated and was promoted by Apple CEO Tim Cook during the company's April event. The show regularly takes pride of place at the top of Apple's official ‌‌Apple TV+‌‌ website, and also has a line of official merchandise associated with it.\r\n\r\n\r\n\r\nFor its first season, \"Ted Lasso\" received a record-breaking 20 Emmy nominations, the most of any comedy in its first season. It also won multiple awards, including a Golden Globe for Jason Sudeikis, who plays the show's namesake main character.\r\n\r\n\r\n\r\nThe second season of the show, which consists of 12 episodes, sees Sarah Niles joining the cast. New episodes will be released every Friday on ‌‌‌‌Apple TV+‌‌‌‌. Apple has already renewed the show for a third season, which the creators of the show have hinted may be its last.\nTags: Apple TV Shows, Apple TV Plus\nThis article, \"First Episode of 'Ted Lasso' Season 2 Debuts on Apple TV+\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/07/23/ted-lasso-second-season-debuts/",
-          "publishedOn": "2021-07-23T06:58:13.000Z",
-          "wordCount": 2217,
-          "title": "First Episode of 'Ted Lasso' Season 2 Debuts on Apple TV+"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/22/mini-led-macbook-air-mid-2022/",
-          "author": "Juli Clover",
-          "description": "Apple will release a new version of the MacBook Air around the middle of 2022, Apple analyst Ming-Chi Kuo said today in note to investors seen by MacRumors.\r\n\r\n\r\n\r\n\r\n\r\nThe upcoming ‌MacBook Air‌ will feature a 13.3-inch mini-LED display, which would make it the second Mac to gain mini-LED technology after the 2021 MacBook Pro, which is rumored to include a mini-LED display and is expected to launch later this year. Mini-LED display technology will bring a signifiant improvement in MacBook display quality, allowing for a thinner, lighter design while offering benefits like improved wide color gamut, high contrast and dynamic range, and truer blacks. \r\n\r\n\r\n\r\nKuo has said that the ‌MacBook Air‌ will include a mini-LED display in the past, and the rumor has also been echoed by DigiTimes.\r\n\r\n\r\n\r\nPrior rumors have suggested the 2022 ‌MacBook Air‌ will have thinner bezels than the current model, and that it will adopt the same MagSafe charging technology rumored for the MacBook Pro.\r\n\r\n\r\n\r\nIt's also expected to include a pair of Thunderbolt/USB 4 ports, and there's also a chance that it could come in multiple colors, similar to the M1 iMacs that Apple released this year.\r\n\r\n\r\n\r\nThe 2022 ‌MacBook Air‌ will use an upgraded version of the ‌M1‌ Apple silicon chip that's faster and more efficient. Bloomberg's Mark Gurman has said that it will feature the same number of computing cores as the ‌M1‌ (eight), but that will offer nine or 10 GPU cores instead of seven or eight like the current model for better GPU performance.\r\n\r\n\r\n\r\nKuo says that if component shortages improve in late 2021 and across 2022, MacBook shipments could grow to approximately 20 to 22 million units in 2022.\nRelated Roundup: MacBook Air\nBuyer's Guide: MacBook Air (Neutral)\nRelated Forum: MacBook Air\nThis article, \"Kuo: Mini-LED MacBook Air Coming in Mid-2022\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/07/22/mini-led-macbook-air-mid-2022/",
-          "publishedOn": "2021-07-23T02:48:10.000Z",
-          "wordCount": 2473,
-          "title": "Kuo: Mini-LED MacBook Air Coming in Mid-2022"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/22/apple-to-pill-idos-2-emulator-from-app-store/",
-          "author": "Juli Clover",
-          "description": "iDOS 2, an app designed to allow users to play classic DOS games, will soon be pulled from the App Store, the app's creator said today.\r\n\r\n\r\n\r\n\r\n\r\nAccording to iDOS developer Chaoji Li, he tried to submit an iDOS update with bug fixes to the ‌App Store‌, but was told that the update was rejected because it violated the 2.5.2 ‌App Store‌ guideline that says apps cannot install or launch executable code.\nDuring review, your app installed or launched executable code, which is not permitted on the App Store.\r\n\r\n\r\n\r\nSpecifically, your app executes iDOS package and image files and allows iTunes File Sharing and Files support for importing games. Executing code can introduce or changes features or functionality of the app and allows for downloading of content without licensing.\r\n\r\n\r\n\r\nPlease note…",
-          "link": "https://www.macrumors.com/2021/07/22/apple-to-pill-idos-2-emulator-from-app-store/",
-          "publishedOn": "2021-07-22T22:22:26.000Z",
-          "wordCount": 2361,
-          "title": "Apple to Pull 'iDOS 2' DOS Emulator From App Store"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/22/corning-camera-lenses-gorilla-glass-dx/",
-          "author": "Juli Clover",
-          "description": "Corning, an Apple supplier known for its protective glass offerings, today announced the launch of new scratch resistant glass composite products designed for mobile device cameras.\r\n\r\n\r\n\r\n\n\r\n\r\nThe Corning Gorilla Glass with DX and Corning Gorilla Glass with DX+ are designed to allow professional-grade image capture through what Corning says is a combination of advanced optical performance, superior scratch resistance, and durability.\r\n\r\n\r\n\r\nCorning says that with Gorilla Glass DX+, camera lenses can capture 98 percent of light, an improvement over a camera lens that doesn't use the technology. With more light, the intensity of ghosting is reduced.\r\n\r\n\r\n\r\nIn lab tests, Gorilla Glass DX+ was more scratch resistant than glass with a standard AR coating, and it beat out standard Gorilla Glass…",
-          "link": "https://www.macrumors.com/2021/07/22/corning-camera-lenses-gorilla-glass-dx/",
-          "publishedOn": "2021-07-22T22:11:09.000Z",
-          "wordCount": 2197,
-          "title": "Apple Supplier Corning Releases New Gorilla Glass for Camera Lenses"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/22/magsafe-battery-pack-teardown/",
-          "author": "Juli Clover",
-          "description": "Apple's MagSafe Battery Pack designed for iPhone 12 models came out this week, and Charger Lab has taken one of the new accessories apart to give us a look at its inner workings.\r\n\r\n\r\n\r\n\n\r\n\r\nThe teardown has detailed information on how the ‌MagSafe Battery Pack‌ works and what each component inside does. There are two charging coils inside, shielding for heat dissipation, and a magnetic ring that allows it to attach to ‌iPhone 12‌ models.\r\n\r\n\r\n\r\nThere are two batteries inside that are connected together, with the previously known 11.13 watt hour energy and 7.62 voltage. Each individual battery is 5.733Wh, based on the internal labeling.\r\n\r\n\r\n\r\nAt the back of the ‌MagSafe Battery Pack‌, there's a large metal plate to help with heat dissipation. Underneath the heat shields on the front, there are all of the chips that allow the ‌MagSafe Battery Pack‌ to function.\r\n\r\n\r\n\r\nImages from Charger Lab's teardown surfaced earlier this week, but this is the first time the full video has been available and it's well worth watching for those who are interested in what's inside the ‌MagSafe Battery Pack‌.\r\n\r\n\r\n\r\nThe ‌MagSafe Battery Pack‌ can be purchased from Apple's website for $99.\nTag: MagSafe Battery Pack\nThis article, \"Teardown Shows Off What's Inside Apple's New MagSafe Battery Pack\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/07/22/magsafe-battery-pack-teardown/",
-          "publishedOn": "2021-07-22T21:27:44.000Z",
-          "wordCount": 1996,
-          "title": "Teardown Shows Off What's Inside Apple's New MagSafe Battery Pack"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/22/apple-music-spatial-audio-built-in-speaker-compatibility/",
-          "author": "Juli Clover",
-          "description": "Apple today clarified details on which of its devices support Spatial Audio with Dolby Atmos through the built-in speakers, and it turns out that some older iPhones and iPads previously thought to work with spatial audio do not, in fact, offer the feature.\r\n\r\n\r\n\r\n\r\n\r\nIn an updated support document, Apple says that the built-in speakers of the iPhone XS or later (minus the iPhone SE), the 11 and 12.9-inch iPad Pro models, and the fourth-generation iPad Air support spatial audio.\r\n\r\n\r\n\r\nPrior to today's update, this support document said that spatial audio was also compatible with the iPhone XR, the iPad mini 5, the ‌iPad Air‌ 3, and the 6th to 8th-generation iPads.\r\n\r\n\r\n\r\nBefore today's update:\nThe built-in speakers on an iPhone XR or later (except iPhone SE), iPad Pro 12.9-inch (3rd genera…",
-          "link": "https://www.macrumors.com/2021/07/22/apple-music-spatial-audio-built-in-speaker-compatibility/",
-          "publishedOn": "2021-07-22T19:20:50.000Z",
-          "wordCount": 2187,
-          "title": "Apple Music's Spatial Audio Feature Doesn't Work With Built-In Speakers of iPhone XR, iPad, or iPad mini"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/22/twitter-beta-ios-sign-in-with-apple/",
-          "author": "Sami Fathi",
-          "description": "Twitter's beta for iOS has gained \"Sign in With Apple\" functionality, with the end goal of allowing users to create Twitter accounts using their Apple ID, but still in beta, the feature is still not fully functioning properly.\r\n\r\n\r\n\r\n\r\n\r\nTwitter researcher Jane Manchun Wong discovered earlier this month that Twitter was working to port over Sign in With Apple to its service. Wong's report was based on code found within Twitter's website. With its beta app for iOS, Twitter is now properly testing the functionality, with some beta testers seeing a \"Continue with Apple\" option alongside continuing with Google or no third-party sign-up service at all.\r\n\r\n\r\n\r\nIn its current phase, attempting to continue with Sign in With Apple may prompt some initial errors, and once through with an account made, there are some quirks. Firstly, when users use Sign in With Apple, they aren't creating a specific password for that app or service. Instead, the app links the service to a user's ‌Apple ID‌. \r\n\r\n\r\n\r\nCurrently, with a Twitter account made with Sign in With Apple, it's not possible to change account information such as email and more since the app asks for a password. These are technical loopholes that will get ironed out before Twitter rolls out that feature to all users.\r\n\r\n\r\n\r\nTwitter is also testing other new features for its iOS app, including a new edge-to-edge timeline view for photos and an internal dislike button for tweet replies.  \nTags: Twitter, Sign in with Apple\nThis article, \"Twitter Beta for iOS Gains 'Sign in With Apple' Option\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/07/22/twitter-beta-ios-sign-in-with-apple/",
-          "publishedOn": "2021-07-22T19:10:54.000Z",
-          "wordCount": 1921,
-          "title": "Twitter Beta for iOS Gains 'Sign in With Apple' Option"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/22/apple-music-android-lossless-spatial-audio/",
-          "author": "Juli Clover",
-          "description": "Apple today updated its Apple Music for Android app to introduce support for Spatial Audio and Lossless music quality, bringing feature parity to the Android and iOS operating systems.\r\n\r\n\r\n\r\n\r\n\r\nSpatial Audio and Lossless for Apple Music came to Apple devices in June, and has been available in a beta capacity on Android since last month. From the release notes for the update:\nIn this update, Apple Music adds a spatial listening experience on compatible devices, with thousands of tracks in Dolby Atmos available at launch.\r\n\r\n\r\n\r\nOther updates include:\r\n\r\n- Lossless Audio, a new way to experience uncompromised sound, with bit-for-bit accuracy.\r\n\r\n- Automatic Crossfade, a new way to listen that blends each song into the next for a seamless experience.\r\n\r\n- Search enhancements to library, which allow you to more easily find your favorite music with in-line search.\nIn the Settings menu of the ‌Apple Music‌ app on Android, users can access an \"Audio Quality\" sub-menu with options to enable Lossless Audio and choose between different tiers where applicable.\r\n\r\n\r\n\r\nApple does not provide specific details on which Android devices are able to support the ‌Apple Music‌ features, and suggests in a support document that Android users check with their device's manufacturer. \nTags: Android, Apple Music\nThis article, \"Apple Music App for Android Gains Spatial Audio and Lossless Quality\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/07/22/apple-music-android-lossless-spatial-audio/",
-          "publishedOn": "2021-07-22T18:38:38.000Z",
-          "wordCount": 2009,
-          "title": "Apple Music App for Android Gains Spatial Audio and Lossless Quality"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/22/major-website-outage-akamai/",
-          "author": "Juli Clover",
-          "description": "An Akamai outage is affecting multiple major websites, many of which are down or experiencing issues at the current time.\r\n\r\n\r\n\r\n\r\n\r\nAffected websites include Amazon.com, HBO Max, UPS, Steam, PlayStation Network, LastPass, The Home Depot, Costco, American Express, and tons more. Some of these outages are regional, so not all users will see all affected sites impacted.\r\n\r\n\r\n\r\nAccording to Apple's System Status page, iCloud Backup, ‌iCloud‌ Mail, ‌iCloud‌ Storage Upgrades, and Photos are experiencing issues that could be related to the outage. \r\n\r\n\r\n\r\nAkamai says that it is actively investigating the issue and is aware of a problem with the Edge DNS service. It is not clear when the issue will be resolved.\r\n\r\n\r\n\r\nToday's outage mirrors a Fastly outage that occured in June, bringing websites like Reddit, Spotify, Twitch, Hulu, and more down. \nThis article, \"Multiple Major Websites Down Amid Akamai Outage\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/07/22/major-website-outage-akamai/",
-          "publishedOn": "2021-07-22T16:38:10.000Z",
-          "wordCount": 2017,
-          "title": "Multiple Major Websites Down Amid Akamai Outage"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/22/apple-watch-series-6-ad/",
-          "author": "Juli Clover",
-          "description": "Apple today shared a new Apple Watch Series 6 ad that highlights the various health-related features of the device like fitness tracking, various kinds of workouts, blood oxygen monitoring, and fall detection.\r\n\r\n\r\n\r\n\n\r\n\r\n\"With features like fall detection, the Blood Oxygen app and workout tracking, the future of health is on your wrist,\" reads the tagline for the video.\r\n\r\n\r\n\r\nThe ‌Apple Watch Series 6‌ is the first Apple Watch model to support blood oxygen monitoring, allowing users to see their blood oxygen levels with a quick test, giving them a better idea of their overall health.\r\n\r\n\r\n\r\nThe ‌Apple Watch Series 6‌ ad shared today joins another series of Apple Watch ads that Apple released back in February highlighting ECG, the Sleep app, and more.\nTag: Apple ads\nThis article, \"Apple Shares 'Hello Sunshine' Ad Highlighting Apple Watch Series 6 Health and Fitness Features\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/07/22/apple-watch-series-6-ad/",
-          "publishedOn": "2021-07-22T16:19:57.000Z",
-          "wordCount": 2244,
-          "title": "Apple Shares 'Hello Sunshine' Ad Highlighting Apple Watch Series 6 Health and Fitness Features"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/22/ipad-mini-with-mini-led-display-rumor/",
-          "author": "Joe Rossignol",
-          "description": "Apple is widely rumored to be planning a new iPad mini with a significant redesign, including a larger 8.5-inch to 9-inch display with slimmer bezels, a Touch ID power button instead of a home button, a USB-C port instead of a Lightning connector, and more.\r\n\r\n\r\n\r\n\r\n\r\nAccording to a paywalled preview of a DigiTimes report today, the sixth-generation iPad mini will also feature a mini-LED display:\nBLU maker Radiant to kick off shipments for Apple mini-LED backlit devices in 3Q21\r\n\r\nRadiant Optoelectronics will kick off shipments of its backlight units for the upcoming mini LED-backlit MacBook Pro and iPad mini later in the third quarter, with the shipments to expand in volume in the fourth quarter, according to industry sources.\nThe full report should be published by tomorrow with further d…",
-          "link": "https://www.macrumors.com/2021/07/22/ipad-mini-with-mini-led-display-rumor/",
-          "publishedOn": "2021-07-22T16:03:02.000Z",
-          "wordCount": 2277,
-          "title": "Next-Generation iPad Mini Will Reportedly Feature a Mini-LED Display"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/22/hbo-apple-tv-channel-shuts-down/",
-          "author": "Sami Fathi",
-          "description": "HBO today officially shut down its Apple TV channel, forcing customers that previously used the channel part of ‌Apple TV‌ to access HBO content to upgrade to HBO Max.\r\n\r\n\r\n\r\n\r\n\r\nHBO began promoting a notice to users on its ‌Apple TV‌ channel reading that it will be \"ending its channel service on July 22\" and that users are now required to \"get HBO Max to continue watching.\" The channel was originally shut down for new subscribers when HBO Max launched last year, but existing subscribers continued to access the channel.\r\n\r\n\r\n\r\nHBO Max is its own separate ‌Apple TV‌ app available from the App Store. \r\n\r\n\r\n\r\nSimultaneously, as HBO shuts down its ‌Apple TV‌ channel, several users are reporting across social media that HBO has removed the ability within its HBO Max app to sign in with an Apple ID account. Users who were previously signed up to HBO via the ‌Apple TV‌ channel had done so through their ‌Apple ID‌. Now, with the channel shut down and the ability to sign in with an ‌Apple ID‌ missing, some users are locked out from their accounts until further notice.\r\n\r\n\r\n\r\nSome users have found success in retrieving access to their account by creating a new HBO Max account using the same email address used in their ‌Apple ID‌.\nTag: HBO Max\nThis article, \"HBO's Apple TV Channel Shuts Down Today, Forcing All Users to Migrate to HBO Max\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/07/22/hbo-apple-tv-channel-shuts-down/",
-          "publishedOn": "2021-07-22T15:02:25.000Z",
-          "wordCount": 2254,
-          "title": "HBO's Apple TV Channel Shuts Down Today, Forcing All Users to Migrate to HBO Max"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/22/sony-ps5-apple-tv-offer/",
-          "author": "Mitchel Broussard",
-          "description": "Sony today shared a new offer that allows PS5 owners to claim a six month extended free trial of Apple TV+. This offer is available only for people who own a PS5, and can only be redeemed once per PS5 console before July 22, 2022.\r\n\r\n\r\n\r\n\r\n\r\nIf you already have ‌Apple TV+‌ you can still redeem this offer, but if you subscribe to ‌Apple TV+‌ through Apple One, you won't be eligible to get the deal. You'll need to have an Apple ID with a payment method tied to the account as well.\r\n\r\n\r\n\r\nTo get the deal, search for the Apple TV app on the PS5 search bar, or in the Media home under \"all apps.\" From there you can download the app if you haven't already, sign in with your ‌Apple ID‌, and the six month free trial will be applied to your account automatically.\r\n\r\n\r\n\r\nOnce the six month free trial ends, ‌Apple TV+‌ will renew at $4.99 per month until cancelled.\nTags: Sony, Apple TV Shows, Apple TV Plus\nThis article, \"Sony Offering PS5 Owners An Extended Six Month Free Trial of Apple TV+\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/07/22/sony-ps5-apple-tv-offer/",
-          "publishedOn": "2021-07-22T14:06:28.000Z",
-          "wordCount": 2207,
-          "title": "Sony Offering PS5 Owners An Extended Six Month Free Trial of Apple TV+"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/22/carrot-weather-video-update/",
-          "author": "Juli Clover",
-          "description": "CARROT Weather, a popular app known for its funny and sarcastic weather information, today received a major update that adds a new video Weather Report option.\r\n\r\n\r\n\r\n\nCARROT Weather's News Reports and screenshot customization features\n\r\n\r\nCARROT Weather users can now film 30-second TV news-style videos to share with friends using the onscreen script that the CARROT Weather app generates.\r\n\r\n\r\n\r\nThese quick 30-second weather reports turn CARROT Weather users into citizen weather reporters offering up current weather temperatures, next-day temperatures, and fake little news tidbits to add flair.\r\n\r\n\r\n\r\nFor premium users, there's a new Smart Layouts feature that changes the CARROT Weather interface based on the weather or the time of day. If it's raining, for example, CARROT Weather can automatically switch over to a precipitation-focused UI.\r\n\r\n\r\n\r\n\r\n\r\nToday's update also introduces new layouts and designs for layout components, screenshot styles, along with support for wet-bulb temperature readings. Wet-bulb temperature readings are useful for determining human survivability in extreme heat events.\r\n\r\n\r\n\r\nCARROT Weather can be downloaded from the App Store for free, and there is an optional $4.99 per month premium tier that unlocks new weather data sources, notifications, customization, widgets, and Apple Watch complications. There's also a higher tier $9.99 per month option with even more features. [Direct Link]\nThis article, \"CARROT Weather Gains Weather Report Videos and Smart Layouts\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/07/22/carrot-weather-video-update/",
-          "publishedOn": "2021-07-22T14:00:00.000Z",
-          "wordCount": 2286,
-          "title": "CARROT Weather Gains Weather Report Videos and Smart Layouts"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/22/2021-iphone-photography-award-winners/",
-          "author": "Joe Rossignol",
-          "description": "The winners of the 14th annual iPhone Photography Awards were announced today following submissions from thousands of photographers from all over the world.\r\n\r\n\r\n\r\n\n\"Transylvanian Shepherds\" photo shot by Istvan Kerekes\n\r\n\r\nThe recipient of the \"Photographer of the Year Award\" went to photojournalist Istvan Kerekes from Hungary for his photo \"Transylvanian Shepherds.\" In the photo, shot on an iPhone 7, two rugged shepherds are traversing a snowy industrial area in the Romanian city of Târgu Mureș, each while carrying a lamb.\r\n\r\n\r\n\r\nOther top winners included Sharan Shetty from India for his photo \"Bonding,\" where a man and his horse commune in an empty landscape, and Dan Liu from China for his \"A Walk on Mars\" photo of an astronaut traversing a desolate Martian-esque landscape. \"Bonding\" was shot with an iPhone X and \"A Walk on Mars\" was shot with an iPhone 11 Pro Max.\r\n\r\n\r\n\r\n\n\"Bonding\" (top) and \"A Walk on Mars\" (bottom) shot by Sharan Shetty and Dan Liu respectively\n\r\n\r\nTop-three winners in an additional 17 categories were awarded to photographers from almost every corner of the world, including Australia, Austria, Bangladesh, China, Greece, Hungary, Italy, Israel, the Netherlands, Mexico, Russia, Saudi Arabia, Spain, Sweden, the United Kingdom, and the United States.\r\n\r\n\r\n\r\nWe've highlighted a few of the winning photos here and the full gallery can be viewed on the iPhone Photography Awards website.\nTag: iPhone Photography Awards\nThis article, \"Winners Announced for 14th Annual iPhone Photography Awards\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/07/22/2021-iphone-photography-award-winners/",
-          "publishedOn": "2021-07-22T13:58:57.000Z",
-          "wordCount": 2199,
-          "title": "Winners Announced for 14th Annual iPhone Photography Awards"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/22/deals-2021-11-inch-ipad-pro/",
-          "author": "Mitchel Broussard",
-          "description": "Today we're tracking a discount on the 11-inch 128GB Wi-Fi iPad Pro from 2021, priced at $749.00, down from $799.00. Sold by Amazon, this tablet is available in both Silver and Space Gray at this $50 discount price.\r\n\r\n\r\n\r\nNote: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.\r\n\r\n\r\n\r\nHistorically, Amazon's new sale is a second-best price for this model, but we haven't seen a steeper discount in a few weeks. At $749.00, this is still a solid price on the entry-level model of the brand new 11-inch iPad Pro.\r\n\r\n\r\n\r\n\n$50 OFF\n2021 11-Inch iPad Pro (128GB Wi-Fi) for $749.00\n\n\r\n\r\n\r\n\r\nApple launched these new iPad Pro models in April 2021, introducing the faster M1 chip into the tablet lineup for the first time. The design of the iPad Pro remains the same as previous generations, with an edge-to-edge display, aluminum chassis, and a TrueDepth camera system with Face ID.\r\n\r\n\r\n\r\nFor even more iPad deals, head to our full Best Deals guide for iPad. In that guide we track the best discounts online for iPad, iPad mini, iPad Air, and iPad Pro.\nRelated Roundups: iPad Pro, Apple Deals\nBuyer's Guide: 11\" iPad Pro (Buy Now)\nRelated Forum: iPad\nThis article, \"Deals: Get Apple's 2021 128GB 11-Inch iPad Pro for $749 on Amazon ($50 Off)\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/07/22/deals-2021-11-inch-ipad-pro/",
-          "publishedOn": "2021-07-22T13:53:38.000Z",
-          "wordCount": 2052,
-          "title": "Deals: Get Apple's 2021 128GB 11-Inch iPad Pro for $749 on Amazon ($50 Off)"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/22/satechi-usb-c-wall-chargers/",
-          "author": "Juli Clover",
-          "description": "Satechi, known for its line of accessories designed for Apple devices, today announced the launch of a trio of USB-C chargers that are designed for use with iPads, Macs, iPhones, and more.\r\n\r\n\r\n\r\n\n\r\n\r\nThe 66W 3-Port USB-C GaN Wall Charger is priced at $54.99, has a foldable plug, and offers three USB-C ports with output combinations of 65W, 30W/30W, 45W/20W, 30W/18W/18W, adding up to 66W total. This model is designed to charge a MacBook Air while also fast charging an iPhone and charging up an iPad at full speed.\r\n\r\n\r\n\r\n\r\n\r\nSatechi's 100W USB-C PD Wall Charger, priced at $69.99, has a single USB-C port that's able to charge at up to 100W, as the name suggests.\r\n\r\n\r\n\r\n\r\n\r\nThe 108W 3-Port USB-C GaN Wall Charger also features three ports to work with, but it supports higher watt devices. It can charge with a single port at 100W, or in the following combinations: 60W/45W, 88W/20W, 45W/30W/30W, 58W/30W/20W, or 65W/20W/20W. It's available for $74.99. The 108W charger can charge a 13-inch MacBook Pro, an ‌iPhone‌, and an ‌iPad‌ at the same time, and it's high-powered enough to work with the 15-inch MacBook Pro models.\r\n\r\n\r\n\r\n\r\n\r\nAll three of the new chargers feature Gallium Nitride or GaN technology, which is designed to keep them small and compact. Satechi says they're all also CE certified and will charge devices safely and efficiently.\r\n\r\n\r\n\r\nThe three new chargers can be purchased from the Satechi website or from Amazon.com. Customers can get a 15 percent discount from July 22 to July 31 with promo code GANFAST15.\nTag: Satechi\nThis article, \"Satechi Launches Trio of New GaN USB-C Wall Chargers\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/07/22/satechi-usb-c-wall-chargers/",
-          "publishedOn": "2021-07-22T13:00:00.000Z",
-          "wordCount": 2309,
-          "title": "Satechi Launches Trio of New GaN USB-C Wall Chargers"
         }
       ]
     },
@@ -6513,51 +6225,6 @@
           "publishedOn": "2021-07-23T14:22:45.000Z",
           "wordCount": 196,
           "title": "Tom Hanks Introduces the Cleveland Indians’ New Team Name"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/22/apple-to-pill-idos-2-emulator-from-app-store/amp/?__twitter_impression=true",
-          "author": null,
-          "description": "Cited for violating rule 11.38, which prohibits excessive harmless nostalgic fun.\n ★",
-          "link": "https://www.macrumors.com/2021/07/22/apple-to-pill-idos-2-emulator-from-app-store/amp/?__twitter_impression=true",
-          "publishedOn": "2021-07-23T04:46:41.000Z",
-          "wordCount": 856,
-          "title": "MacRumors: ‘Apple to Pull “iDOS 2” DOS Emulator From App Store’"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41586-021-03625-w",
-          "author": null,
-          "description": "Worth it just for the name: PlasticARM.\n ★",
-          "link": "https://www.nature.com/articles/s41586-021-03625-w",
-          "publishedOn": "2021-07-23T02:57:25.000Z",
-          "wordCount": 5789,
-          "title": "A Natively Flexible 32-Bit ARM Microprocessor"
-        },
-        {
-          "id": "https://www.nbcnews.com/tech/tech-news/anti-vaccine-groups-changing-dance-parties-facebook-avoid-detection-rcna1480",
-          "author": null,
-          "description": "Ben Collins and Brandy Zadrozny, reporting for NBC News:\nSome anti-vaccination groups on Facebook are changing their names\nto euphemisms like “Dance Party” or “Dinner Party,” and using code\nwords to fit those themes in order to skirt bans from Facebook, as\nthe company attempts to crack down on misinformation about\nCovid-19 vaccines.\nThe groups, which are largely private and unsearchable but retain\nlarge user bases accrued during the years Facebook permitted\nanti-vaccination content, also swap out language to fit the new\nthemes and provide code legends, according to screenshots provided\nto NBC News by multiple members of the groups.\nOne major “dance party” group has more than 40,000 followers and\nhas stopped allowing new users amid public scrutiny. The backup\ngroup for “Dance Party,” known …",
-          "link": "https://www.nbcnews.com/tech/tech-news/anti-vaccine-groups-changing-dance-parties-facebook-avoid-detection-rcna1480",
-          "publishedOn": "2021-07-22T17:52:12.000Z",
-          "wordCount": 990,
-          "title": "Anti-Vaccine Groups Changing Into ‘Dance Parties’ on Facebook to Avoid Detection"
-        },
-        {
-          "id": "https://www.texastribune.org/2021/07/21/coronavirus-texas-vaccinated-deaths/",
-          "author": null,
-          "description": "Colleen DeGuzman, reporting for The Texas Tribune:\nOf the 8,787 people who have died in Texas due to COVID-19 since\nearly February, at least 43 were fully vaccinated, the Texas\nDepartment of State Health Services said.\nThat means 99.5% of people who died due to COVID-19 in Texas from\nFeb. 8 to July 14 were unvaccinated, while 0.5% were the result of\n“breakthrough infections,” which DSHS defines as people who\ncontracted the virus two weeks after being fully vaccinated.\nI got an email yesterday from a reader (well, supposedly former reader now) who was angered by my item linking to the “I’m sorry, but it’s too late” story from the Alabama ICU doctor who said the last thing her unvaccinated patients, hospitalized and unable to breathe on their own, do before being intubated is to beg for the vaccine. His email:\nYour incessant corona whinery is getting rather long in the tooth,\nbut this disgusting gloating piece takes the cake. Even though it\nprobably is fake Facebook bullshit anyway, to even imply that this\ndisgusting ‘told you so, now you’re dead’ attitude is somehow\ncommendable is just tasteless, and it reflects on you personally\nas you are sharing it.\nUnsubscribed.\nI’m a natural born gloater, I know, but there’s nothing gloating about my posts about COVID and vaccinations. These stories are heartbreaking at the micro level, and infuriating at the macro level. I am sad and I am angry about the state of vaccination denial, and the roles that powerful sources like Fox News and Facebook — neither of which should be trusted by anyone but both of which are trusted by zillions — have played in promoting it.\nYou don’t need any aptitude for numeracy at all to look at numbers like these from Texas to see that if you can get vaccinated for COVID, you should, as soon as possible. Both for your own personal good and for the good of humanity.\n ★",
-          "link": "https://www.texastribune.org/2021/07/21/coronavirus-texas-vaccinated-deaths/",
-          "publishedOn": "2021-07-22T16:55:14.000Z",
-          "wordCount": 1369,
-          "title": "Texas Has Seen Nearly 9,000 COVID-19 Deaths Since February; All but 43 Were Unvaccinated"
-        },
-        {
-          "id": "https://therealsarahmiller.substack.com/p/all-the-right-words-on-climate-have",
-          "author": null,
-          "description": "Sarah Miller, who wrote a widely-read feature story two years ago on the real estate market in Miami in the face of rising ocean levels (linked from DF here), on declining an offer to write about climate change again:\nLet’s give the article she was starting to maybe think about\nasking me to write that I was wondering if I could write the\nabsolute biggest benefit of the doubt and imagine that people\nread it and said, “Wow this is exactly how I feel, thanks for\nputting it into words.” What then? What would happen then? Would\npeople be “more aware” about climate change? It’s 109 degrees in\nPortland right now. It’s been over 130 degrees in Baghdad several\ntimes. What kind of awareness quotient are we looking for? What\nmore about climate change does anyone need to know? What else is\nthere to say?\n(Via Kottke.)\n ★",
-          "link": "https://therealsarahmiller.substack.com/p/all-the-right-words-on-climate-have",
-          "publishedOn": "2021-07-22T16:28:45.000Z",
-          "wordCount": 2157,
-          "title": "Sarah Miller: ‘All the Right Words on Climate Have Already Been Said’"
         }
       ]
     },
@@ -6566,6 +6233,15 @@
       "feedUrl": "https://www.polygon.com/rss/pc/index.xml",
       "siteUrl": "https://www.polygon.com/pc",
       "articles": [
+        {
+          "id": "https://www.polygon.com/22632590/destiny-2-pvp-pve-crucible-raid-debate-seperate-balance",
+          "author": null,
+          "description": "Image: Bungie\n    \n\n\n  \nBungie won’t separate Destiny 2’s two main modes, and it’s starting to create problems\n Since the launch of Destiny 2, Bungie has struggled to maintain the balance between its PvE and PvP communities. The two camps have argued for years about whether Destiny should just be a PvE game or if it truly has room for competitive offerings. In the process, every player has lost out. Every time Bungie tries to make a new addition to the cooperative game, it’s hamstrung by multiplayer balancing — and vice versa.\nBungie’s devotion to both sides of the Destiny coin, while admirable, has resulted in an identity crisis. The studio likely won’t ever separate its PvP Crucible from its PvE cooperative activities. But if anything is clear, it’s that current attempts toward harmony a…",
+          "link": "https://www.polygon.com/22632590/destiny-2-pvp-pve-crucible-raid-debate-seperate-balance",
+          "publishedOn": "2021-08-21T16:00:00.000Z",
+          "wordCount": 1344,
+          "title": "Is Destiny a PvE or PvP game? Bungie can’t decide"
+        },
         {
           "id": "https://www.polygon.com/22634394/genshin-impact-characters-2-1-update-baal-aloy",
           "author": null,
@@ -7807,42 +7483,6 @@
           "publishedOn": "2021-07-23T14:00:59.000Z",
           "wordCount": 1260,
           "title": "Why Final Fantasy 14 is just so hot right now"
-        },
-        {
-          "id": "https://www.polygon.com/22589046/world-of-warcraft-players-protest-blizzard-lawsuit-california-discrimination-harassment-allegations",
-          "author": null,
-          "description": "Image: Blizzard Entertainment via Polygon\n    \n\n  \nIf you can’t protest in California, try Oribos\n World of Warcraft’s current social hub of Oribos is packed with players, but it’s not due to a new raid or update. Hundreds of players are participating in an in-game protest against Activision Blizzard after a lawsuit was filed Tuesday by the California Department of Fair Employment and Housing. The court documents include allegations of a “frat boy culture” that subjected female employees to “constant sexual harassment.”\nThe protest was organized by Fence Macabre, a role-play guild that runs faction neutral stories on the Wyrmrest Accord and Moon Guard servers. In addition, the group is running a fundraising campaign for the charity Black Girls Code, a non-profit organization dedicated to t…",
-          "link": "https://www.polygon.com/22589046/world-of-warcraft-players-protest-blizzard-lawsuit-california-discrimination-harassment-allegations",
-          "publishedOn": "2021-07-22T18:39:48.000Z",
-          "wordCount": 946,
-          "title": "World of Warcraft players are hosting sit-in protests after Blizzard allegations"
-        },
-        {
-          "id": "https://www.polygon.com/22587408/dead-space-remake-release-date-ea-play-trailer",
-          "author": null,
-          "description": "Image: Visceral Games/Electronic Arts\n    \n\n  \nEA’s Motive studio will re-imagine the sci-fi horror classic\n Dead Space is back. Visceral Games’ sci-fi survival horror classic, originally released in 2008, is being remade by Electronic Arts’ Motive studio, the publisher announced during Thursday’s EA Play Live digital showcase. The new Dead Space is coming to PlayStation 5, Windows PC, and Xbox Series X.\nPlayers will experience “an improved story, characters, gameplay mechanics and more as they fight to survive a living nightmare aboard the desolate mining starship, the USG Ishimura, all while uncovering the dreadful mystery of what happened to the slaughtered crew and ship,” EA said in a news release.\n“The Dead Space franchise made a huge impact on the survival horror genre when it was re…",
-          "link": "https://www.polygon.com/22587408/dead-space-remake-release-date-ea-play-trailer",
-          "publishedOn": "2021-07-22T17:55:27.000Z",
-          "wordCount": 876,
-          "title": "Dead Space is getting a remake"
-        },
-        {
-          "id": "https://www.polygon.com/22587501/battlefield-2042-portal-custom-games-release-date-bad-company-1942",
-          "author": null,
-          "description": "Image: DICE/Ripple Effect/Electronic Arts\n    \n\n\n  \nBattlefield 2042’s big new community-driven multiplayer sandbox revealed\n When Battlefield 2042 launches this October, it will feature one of the most ambitious multiplayer modes the franchise has ever seen. It’s called Battlefield Portal, and it brings together the maps, weapons, and vehicles of fan-favorite games Battlefield 1942, Battlefield: Bad Company 2, and Battlefield 3, alongside content from Battlefield 2042, into one massive, era-spanning mashup mode.\nImagine having aerial dogfights between a team of F/A-18 Super Hornet jets and World War II-era Hornets in the skies, while infantry on the ground battle hand-to-hand, with knives on one side, defibrillators on the other. Or one giant tank against 20 Explosive Ordnance Disposal ro…",
-          "link": "https://www.polygon.com/22587501/battlefield-2042-portal-custom-games-release-date-bad-company-1942",
-          "publishedOn": "2021-07-22T17:54:36.000Z",
-          "wordCount": 802,
-          "title": "Battlefield Portal is a wild mashup of Battlefield 3, 1942, Bad Company, and 2042"
-        },
-        {
-          "id": "https://www.polygon.com/22588752/knockout-city-season-two-start-date-fight-at-the-movies-new-ball-maps-cosmetics",
-          "author": null,
-          "description": "Image: Velan Studios/Electronic Arts\n    \n\n  \nIn a world of new cosmetics, new maps, new events, and more ...\n Knockout City’s second season, a movie-themed romp through Velan Studios’ new multiplayer dodgeball game, will begin July 27 on all platforms. “Fight at the Movies,” as the season is called, will offer players another series of tiered rewards to claim, including new skins, new dodgeballs, and more.\nSeason 2’s premiere date was revealed in a sneak-peek development roadmap published at the end of June. In the same post, Velan said Season 2 would bring a new map, five new playlists, and three special events, among other features. Season 3 is due to launch in the fall, followed by Season 4 in the winter.\n\n\nIn the trailer shown Thursday at EA Play 2021, Knockout City’s new maps all took on the look of a Hollywood set, with a guest appearance from a giant mech stomping through one map. Other arenas included a castle and a strange, larger-than-life-size child’s bedroom.\nKnockout City launched May 25 on all current platforms except for mobile devices. The full game is free for anyone to play, up to Street Rank 25, which is a good six or so hours of progression. That’s partly why the new game has been able to draw an audience of about 5 million players so far.\nThe game is available on Nintendo Switch, PlayStation 4, PlayStation 5, Windows PC via Steam and Origin, Xbox One and Xbox Series X. All versions are cross-play and cross-progression compatible.",
-          "link": "https://www.polygon.com/22588752/knockout-city-season-two-start-date-fight-at-the-movies-new-ball-maps-cosmetics",
-          "publishedOn": "2021-07-22T17:42:27.000Z",
-          "wordCount": 722,
-          "title": "Knockout City’s next season, ‘Fight at the Movies,’ gets started next week"
         }
       ]
     },
@@ -9204,42 +8844,6 @@
           "publishedOn": "2021-07-26T14:35:40.000Z",
           "wordCount": 372,
           "title": "“His Name Was Emmett Till”"
-        },
-        {
-          "id": "https://kottke.org/21/07/save-your-mask-for-the-next-disaster",
-          "author": null,
-          "description": "In what will be an increasingly common occurrence in the years to come, smoke from fires in the western United States and Canada covered a large part of the US over the past few days. The smoke drifted thousands of miles to the eastern seaboard and turned the skies hazy, the Sun orange, and the air dangerous for some people to breathe. But there’s good news: your Covid mask works for air pollution too!\nDr. Commane said people should avoid going outdoors in high-pollution conditions, and especially avoid strenuous exercise. She also suggested that wearing filtered masks can provide protection for those who can’t avoid the outdoors.\n“A lot of the masks people have been wearing for Covid are designed to capture PM2.5,” she said, referring to N95-style masks. “That’s the right size to be very useful for air quality.”\n\n\nIt’s always nice when your apocalyptic dystopias match up so nicely.\nTags: Covid-19   global warming",
-          "link": "https://kottke.org/21/07/save-your-mask-for-the-next-disaster",
-          "publishedOn": "2021-07-22T19:51:07.000Z",
-          "wordCount": 198,
-          "title": "Save Your Mask for the Next Disaster"
-        },
-        {
-          "id": "https://kottke.org/21/07/how-to-draw-yourself-as-a-peanuts-character",
-          "author": null,
-          "description": "In this video, The Snoopy Show storyboard artist Krista Porter and Apple’s Anthony Jackson show us how to draw yourself as a Peanuts character. Once you get past all of the Apple synergy stuff (Pages! Pencil! Apple TV+!), this is actually pretty neat and you can obviously do it with any device/app or even pencil & paper. They’ve even included a PDF of drawing references to make it easier.\n\nSee also Watch Charles Schulz Draw Charlie Brown — it takes him about 35 seconds. (via print)\nTags: Anthony Jackson   art   how to   Krista Porter   Peanuts   video",
-          "link": "https://kottke.org/21/07/how-to-draw-yourself-as-a-peanuts-character",
-          "publishedOn": "2021-07-22T17:42:40.000Z",
-          "wordCount": 137,
-          "title": "How to Draw Yourself as a Peanuts Character"
-        },
-        {
-          "id": "https://kottke.org/21/07/what-else-is-there-to-say-about-climate-change",
-          "author": null,
-          "description": "Sarah Miller, author of this 2019 article on Miami real estate & rising oceans, recently wrote this resonant piece, All The Right Words On Climate Have Already Been Said.\nI told her I didn’t have anything to say about climate change anymore, other than that I was not doing well, that I was miserable. “I am so unhappy right now.” I said those words. So unhappy. Fire season was not only already here, I said, but it was going to go on for at least four more months, and I didn’t know what I was going to do with myself. I didn’t know how I would stand the anxiety. I told her I felt like all I did every day was try to act normal while watching the world end, watching the lake recede from the shore, and the river film over, under the sun, an enormous and steady weight.\nThere’s only one thing I have to say about climate change, I said, and that’s that I want it to rain, a lot, but it’s not going to rain a lot, and since that’s the only thing I have to say and it’s not going to happen, I don’t have anything to say.\n\n\nMiller continued:\nAlso, for what? Let’s give the article (the one she was starting to maybe think about asking me to write that I was wondering if I could write) the absolute biggest benefit of the doubt and imagine that people read it and said, “Wow, this is exactly how I feel, thanks for putting it into words.”\nWhat then? What would happen then? Would people be “more aware” about climate change? It’s 109 degrees in Portland right now. It’s been over 130 degrees in Baghdad several times. What kind of awareness quotient are we looking for? What more about climate change does anyone need to know? What else is there to say?\n\n\nThis is where I am on the climate emergency most days now (and nearly there on the pandemic). Really, what the fuck else is there to say?\nTags: global warming   journalism   Sarah Miller",
-          "link": "https://kottke.org/21/07/what-else-is-there-to-say-about-climate-change",
-          "publishedOn": "2021-07-22T15:33:50.000Z",
-          "wordCount": 395,
-          "title": "What Else Is There to Say About Climate Change?"
-        },
-        {
-          "id": "https://kottke.org/21/07/the-power-of-overthinking",
-          "author": null,
-          "description": "For The Guardian, Annalisa Barbieri wrote Why I’m glad that I’m an ‘overthinker’.\n“Just going with it” is not something I do. I have to really understand what I’m doing and then I think through almost every possibility and eventuality, like a mind map on steroids. And I plan. When people say things like: “Who could have imagined XYZ would happen?” about some entirely predictable outcome, my most common response is “I could”. I have realised that for most people I am an overthinker, but for me, it is others who underthink. I just think.\n\n\nI have taken my foot off the overthinking pedal in recent years, but that paragraph more or less describes me to a T. My anxiety and overthinking used to feel like a handicap, like something to be overcome, but Oliver Burkeman’s persuasive argument in The Antidote convinced me to think about my anxiety as useful and even a little bit of a superpower, as long as it doesn’t spiral out of control.\nTags: Annalisa Barbieri",
-          "link": "https://kottke.org/21/07/the-power-of-overthinking",
-          "publishedOn": "2021-07-22T13:29:13.000Z",
-          "wordCount": 208,
-          "title": "The Power of Overthinking"
         }
       ]
     },
@@ -9454,15 +9058,6 @@
           "publishedOn": "2021-07-26T08:00:00.000Z",
           "wordCount": 2190,
           "title": "Arugula Tomato Cheese Pizza."
-        },
-        {
-          "id": "https://www.halfbakedharvest.com/?p=109377",
-          "author": "halfbakedharvest",
-          "description": "Brown Sugar Peach Shortcakes.\nSweet, buttery, and oh so flaky, these are the best Brown Sugar Peach Shortcakes! Overflowing with in-season peaches, and the lightest whipped cream, these homemade peach shortcakes are bursting with sweet summertime peaches. Every bite is roll your eyes back delicious. Bonus, these shortcakes are simple to make…using only pantry staples, a splash of bourbon, and…\nREAD: Brown Sugar Peach Shortcakes.",
-          "link": "https://www.halfbakedharvest.com/brown-sugar-peach-shortcakes/",
-          "publishedOn": "2021-07-23T08:00:00.000Z",
-          "wordCount": 1906,
-          "title": "Brown Sugar Peach Shortcakes."
         }
       ]
     },
@@ -9554,6 +9149,24 @@
       "feedUrl": "https://bloody-disgusting.com/feed/",
       "siteUrl": "https://bloody-disgusting.com",
       "articles": [
+        {
+          "id": "https://bloody-disgusting.com/?p=3679357",
+          "author": "Brad Miska",
+          "description": "Making the festival rounds (Sitges, Fantasia, Popcorn Frights) is Seth A. Smith‘s (The Crescent) sci-fi thriller, Tin Can, which stars V/H/S/94‘s Anna Hopkins as a front-lines parasitologist who is imprisoned in a life-suspension chamber as the world faces a deadly plague. Bloody Disgusting has an exclusive clip from the film in which we see Hopkins […]",
+          "link": "https://bloody-disgusting.com/exclusives/3679357/v-h-s-94-star-anna-hopkins-gets-trapped-tin-can-global-plague-exclusive-clip/",
+          "publishedOn": "2021-08-21T16:00:35.000Z",
+          "wordCount": 1021,
+          "title": "‘V/H/S/94’ Star Anna Hopkins Gets Trapped in a ‘Tin Can’ During a Global Plague [Exclusive Clip]"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3679480",
+          "author": "John Squires",
+          "description": "As the landscape continues to change and evolve, we’ve learned tonight that animated sequel The Addams Family 2 will now be a hybrid theatrical and at-home release. MGM’s sequel will release in theaters and on Premium VOD October 1, 2021. From The Hollywood Reporter tonight, “The decision to switch to a hybrid release, first reported by Bloomberg, comes […]",
+          "link": "https://bloody-disgusting.com/movie/3679480/addams-family-2-will-now-release-theaters-home-day/",
+          "publishedOn": "2021-08-21T01:42:13.000Z",
+          "wordCount": 1145,
+          "title": "‘The Addams Family 2’ Will Now Release in Theaters and At Home on the Same Day"
+        },
         {
           "id": "https://bloody-disgusting.com/?p=3673870",
           "author": "Meagan Navarro",
@@ -13954,168 +13567,6 @@
           "publishedOn": "2021-07-23T13:01:13.000Z",
           "wordCount": 3115,
           "title": "‘Razorback’: A Beautiful, Brutal Eco-Horror from Down Under [Horrors Elsewhere]"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3675280",
-          "author": "Mike Wilson",
-          "description": "To say that we’re stoked about EA bringing Dead Space back from oblivion is an understatement. Understandably mixed, however, are fans of Visceral Games, the original developer of Dead Space. EA had closed the studio four years ago, and in hindsight it begs the question now of why. Nevertheless, there’s some reassurance that Motive is […]",
-          "link": "https://bloody-disgusting.com/video-games/3675280/motive-studios-consulted-former-visceral-games-dev-for-dead-space-remake/",
-          "publishedOn": "2021-07-23T11:29:39.000Z",
-          "wordCount": 971,
-          "title": "Motive Studios Consulted Former Visceral Games Dev For ‘Dead Space’ Remake"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3675240",
-          "author": "John Squires",
-          "description": "It’s now been nearly twenty years(!) since two horror icons battled up on the big screen in Freddy vs. Jason, but artist Marty “Riet” McEwen brings them back together for an awesome new print he’s calling “Nightmare on the 13th.” And the art, which puts Freddy Krueger (and Baby Freddy!) directly into Jason’s nightmares, is […]",
-          "link": "https://bloody-disgusting.com/images/3675240/awesome-fan-made-nightmare-13th-puzzle-puts-freddy-krueger-jasons-nightmares/",
-          "publishedOn": "2021-07-22T21:40:57.000Z",
-          "wordCount": 1163,
-          "title": "Awesome Fan-Made “Nightmare on the 13th” Puzzle Puts Freddy Krueger into Jason’s Nightmares!"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3675226",
-          "author": "John Squires",
-          "description": "Bruce Campbell’s Ash Williams truly became a horror icon in Evil Dead 2, a more comedic take on the Deadites that affixed a chainsaw to Ash’s hand. The rest, as they say, is history. Now available for pre-order, the folks over at Asmus Toys have perfectly captured Campbell’s likeness for an Evil Dead 2 figure, […]",
-          "link": "https://bloody-disgusting.com/toys/3675226/evil-dead-2-new-ash-williams-figure-asmus-toys-luxury-edition-featuring-henrietta/",
-          "publishedOn": "2021-07-22T20:02:10.000Z",
-          "wordCount": 979,
-          "title": "‘Evil Dead 2’: New Ash Williams Figure from Asmus Toys Has a “Luxury Edition” Featuring Henrietta!"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3675218",
-          "author": "John Squires",
-          "description": "One of the upcoming horror movies that should be on your radar is Netflix‘s Blood Red Sky (read Meagan’s review), which will be available for streaming tomorrow, July 23. Meagan awarded the film 4/5 stars in her review for Bloody Disgusting, writing: “Blood Red Sky is a surprisingly savage little gem that sticks with you.” […]",
-          "link": "https://bloody-disgusting.com/movie/3675218/german-poster-netflixs-vampire-movie-blood-red-sky-drops-fang-30000-feet/",
-          "publishedOn": "2021-07-22T19:40:36.000Z",
-          "wordCount": 2921,
-          "title": "German Poster for Netflix’s Vampire Movie ‘Blood Red Sky’ Drops Fang at 30,000 Feet"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3675208",
-          "author": "John Squires",
-          "description": "In the wake of maze announcements including “The Haunting of Hill House” and The Texas Chain Saw Massacre, we’ve learned today that The Exorcist is returning to Halloween Horror Nights this year. Regan will vomit pea soup all over Halloween Horror Nights Hollywood! Additionally, original maze “The Curse of Pandora’s Box” is also returning this […]",
-          "link": "https://bloody-disgusting.com/the-further/3675208/exorcist-will-vomit-pea-soup-halloween-horror-nights-hollywood-year/",
-          "publishedOn": "2021-07-22T18:54:43.000Z",
-          "wordCount": 1447,
-          "title": "‘The Exorcist’ Will Vomit Pea Soup All Over Halloween Horror Nights Hollywood This Year!"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3675197",
-          "author": "John Squires",
-          "description": "Originally announced back in 2019, this year’s Denis Villeneuve-directed film adaptation of Frank Herbert’s Dune is getting a spinoff series with “Dune: The Sisterhood,” a project that is very much still on the menu for HBO Max. Announced by Variety, in fact, the series has a new showrunner, with Diane Ademu-John (“The Haunting of Bly Manor”) […]",
-          "link": "https://bloody-disgusting.com/tv/3675197/dune-sisterhood-spinoff-series-still-planned-hbo-max/",
-          "publishedOn": "2021-07-22T18:39:36.000Z",
-          "wordCount": 1114,
-          "title": "“Dune: The Sisterhood”: Spinoff Series Still Planned for HBO Max"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3675081",
-          "author": "Mike Wilson",
-          "description": "The rumours were true. Dead Space is back. Announced today during EA’s EA Play Live 2021 event, Dead Space is in development at EA’s Motive Studios! While EA didn’t elaborate on what to expect, the game is indeed a remake of the 2008 original using the Frostbite engine. While EA didn’t reveal much more other […]",
-          "link": "https://bloody-disgusting.com/video-games/3675081/trailer-electronic-arts-resurrects-dead-space/",
-          "publishedOn": "2021-07-22T18:04:25.000Z",
-          "wordCount": 1098,
-          "title": "[Trailer] Electronic Arts Resurrects ‘Dead Space’ For Next-Gen Systems And PC!"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3675127",
-          "author": "Markus Amalthea Magnuson",
-          "description": "Martians, atomic monsters, and thinly veiled Cold War allegories were common themes of the 1950s golden age of science fiction cinema. Although with its firm center in the United States, the steady production of sci-fi epics enthused audiences worldwide. But what if the scenery was not a barren planet or an invaded city, but the […]",
-          "link": "https://bloody-disgusting.com/editorials/3675127/terror-midnight-sun-monster-story-defined-b-movies-sweden/",
-          "publishedOn": "2021-07-22T18:00:40.000Z",
-          "wordCount": 3772,
-          "title": "‘Terror in the Midnight Sun’ – The Monster Story That Defined “B” Movies in Sweden"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3675179",
-          "author": "John Squires",
-          "description": "Casting continues on HBO‘s “The Last of Us” television series, with Deadline reporting today that Anna Torv (“Fringe,” “Mindhunter”) is the latest actor to come on board. Deadline details, “Torv will recur as Tess, a smuggler and hardened survivor in a post-pandemic world. In the original video game Tess works with Joel to survive and smuggle weapons […]",
-          "link": "https://bloody-disgusting.com/tv/3675179/fringe-mindhunter-actress-anna-torv-joins-hbos-last-us-tv-series/",
-          "publishedOn": "2021-07-22T18:00:11.000Z",
-          "wordCount": 1131,
-          "title": "“Fringe” and “Mindhunter” Actress Anna Torv Joins HBO’s “The Last of Us” TV Series"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3675158",
-          "author": "John Squires",
-          "description": "Now up for grabs while supplies last, Suntup Editions presents a signed limited edition of Jaws by Peter Benchley. “The edition features a new exclusive introduction by Wendy Benchley, six full color illustrations by John Anthony Di Giovanni, bonus content from the archives of Peter Benchley, and a reproduction & sketches of the iconic painting by […]",
-          "link": "https://bloody-disgusting.com/books/3675158/jaws-peter-benchleys-novel-gets-stunning-limited-edition-release-suntup-editions/",
-          "publishedOn": "2021-07-22T17:11:29.000Z",
-          "wordCount": 1521,
-          "title": "‘JAWS’: Peter Benchley’s Novel Gets a Stunning Limited Edition Release from Suntup Editions"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3675124",
-          "author": "Daniel Kurland",
-          "description": "The cost of art and the relationship between cinema and spectator come under scrutiny in this bloody, mindful American Horror Stories entry. “Fear?” “Why do you think horror films were invented?” There are no shortage of horror films that take place within movie theaters, but it’s considerably rarer for the carnage to be set at […]",
-          "link": "https://bloody-disgusting.com/reviews/3675124/review-american-horror-stories-heads-drive-encouraging-third-episode/",
-          "publishedOn": "2021-07-22T17:03:37.000Z",
-          "wordCount": 2730,
-          "title": "[Review] “American Horror Stories” Heads to the “Drive In” for an Encouraging Third Episode"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3675148",
-          "author": "John Squires",
-          "description": "There was a time when Halloween III: Season of the Witch was a failure of a sequel that most horror fans didn’t even want to talk about, but the past several years have seen the once-maligned movie become one of the most beloved horror movies of the 1980s. At long last, it’s being fondly appreciated […]",
-          "link": "https://bloody-disgusting.com/news/3675148/silver-shamrock-kids-halloween-iii-getting-living-dead-dolls-box-set/",
-          "publishedOn": "2021-07-22T16:21:14.000Z",
-          "wordCount": 1003,
-          "title": "The Silver Shamrock Kids from ‘Halloween III’ Getting Their Own Living Dead Dolls Box Set!"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3675144",
-          "author": "Meagan Navarro",
-          "description": "We spend a large chunk of our youth wishing for time to speed up so we can obtain the freedom that comes with adulthood. Then, once we reach adulthood, we wish for the ever-rapid passing of time to slow down to appreciate the freedom that came with youth. M. Night Shyamalan captures both sentiments and […]",
-          "link": "https://bloody-disgusting.com/reviews/3675144/review-m-night-shyamalans-old-captures-absurdities-time/",
-          "publishedOn": "2021-07-22T16:09:02.000Z",
-          "wordCount": 1534,
-          "title": "[Review] M. Night Shyamalan’s ‘Old’ Captures the Absurdities of Time"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3675135",
-          "author": "John Squires",
-          "description": "A new terror from the mind of the Academy Award winner. In the wake of Get Out and Us comes Nope, the third horror movie from writer/director Jordan Peele that has been officially announced today with the first piece of poster art! Daniel Kaluuya (Get Out) will be reteaming with Peele on the mysterious movie, with […]",
-          "link": "https://bloody-disgusting.com/movie/3675135/nope-jordan-peele-teases-brand-new-horror-movie-official-poster-art/",
-          "publishedOn": "2021-07-22T15:07:54.000Z",
-          "wordCount": 940,
-          "title": "‘Nope’: Jordan Peele Teases His Brand New Horror Movie With Official Poster Art!"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3675105",
-          "author": "Jason Jenkins",
-          "description": "Welcome to Blood/Ink/Staples, a recurring column which will shine a spotlight on creepy comic books new and old. Here, we’ll be taking a peek at forgotten graphic novels and hot-off-the-press floppies, buried indies and newly-released big labels. Some articles will be historical deep dives, others will feature interviews with creators, but all will attempt to steer […]",
-          "link": "https://bloody-disgusting.com/exclusives/3675105/great-escape-meets-thing-writer-rob-williams-unveils-new-creature-comic-blood-ink-staples/",
-          "publishedOn": "2021-07-22T14:44:48.000Z",
-          "wordCount": 2364,
-          "title": "‘The Great Escape’ Meets ‘The Thing’: Writer Rob Williams Unveils New Creature Comic ‘OUT’ [Blood/Ink/Staples]"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3675099",
-          "author": "John Squires",
-          "description": "David Bruckner (The Night House), who helmed Netflix’s The Ritual as well as sections of Bloody Disgusting’s horror anthologies V/H/S and Southbound, is directing the relaunch of the Hellraiser franchise for Spyglass Media, set to be a Hulu feature film written by Ben Collins and Luke Piotrowski (SiREN, Super Dark Times, The Night House). We don’t know much at all about the movie at this time – […]",
-          "link": "https://bloody-disgusting.com/movie/3675099/hellraiser-rupauls-drag-race-finalist-gottmik-auditioned-play-pinhead-new-movie/",
-          "publishedOn": "2021-07-22T14:28:41.000Z",
-          "wordCount": 1138,
-          "title": "‘Hellraiser’: “RuPaul’s Drag Race” Finalist Gottmik Auditioned to Play Pinhead in the New Movie"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3675095",
-          "author": "John Squires",
-          "description": "It’s still hard to tell if it’s a genre movie of any sort at this time, but Ari Aster (Hereditary, Midsommar) has set up his next project, which will reunite the filmmaker with A24. The film is titled Disappointment Blvd., and Joaquin Phoenix was recently attached to star. Deadline provides an update on the project today, revealing more of the cast. Parker Posey […]",
-          "link": "https://bloody-disgusting.com/movie/3675095/disappointment-blvd-parker-posey-join-cast-ari-asters-new-a24-movie/",
-          "publishedOn": "2021-07-22T14:11:28.000Z",
-          "wordCount": 1038,
-          "title": "‘Disappointment Blvd’: Parker Posey and More Join the Cast of Ari Aster’s New A24 Movie"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3675082",
-          "author": "John Squires",
-          "description": "“Let’s fight like demons.” Denis Villeneuve‘s adaptation of Frank Herbert’s Dune is finally headed to the big screen in October, and this morning the full 3-minute(!) main trailer has made its way online. Dune will be coming to both theaters and HBO Max October 22, 2021, and you’ll find the trailer below. It sets the stage for an […]",
-          "link": "https://bloody-disgusting.com/movie/3675082/dune-new-trailer-takes-back-arrakis-3-minutes-footage-video/",
-          "publishedOn": "2021-07-22T13:08:46.000Z",
-          "wordCount": 1119,
-          "title": "‘Dune’: New Trailer Takes You Back to Arrakis for Over 3-Minutes of Footage! [Video]"
         }
       ]
     },
@@ -14130,6 +13581,15 @@
       "feedUrl": "https://www.broadstreethockey.com/rss/current.xml",
       "siteUrl": "https://www.broadstreethockey.com/",
       "articles": [
+        {
+          "id": "https://www.broadstreethockey.com/2021/8/21/22635762/travis-sanheim-flyers-agree-to-new-deal-rfa-arbitration-nhl-philadelphia-offseason-hockey-defenseman",
+          "author": null,
+          "description": "Photo by Bruce Bennett/Getty Images\n    \n\n  \nFinally, no more uncertainty.\n After a long, arduous battle over the stipulations of his new contract this offseason, Travis Sanheim finally agreed to a new contract with the Flyers: two years at a $4.675 million AAV. This represents a slight, but not enormous pay raise for Sanheim, which will certainly be a polarizing outcome within the eyes of the fanbase. Still, the price and term is around what most models projected the still-young defender to receive. Evolving-Hockey.com’s contract projections pegged Sanheim at two years for $4.303 million AAV, which isn’t too far off from what the Flyers ended up paying.\n\n\nSanheim is coming off of a season where he had awful on-ice results despite solid underlying numbers. Costly mistakes and strong analytics have been staples of the big blue liner’s career in Philadelphia, making him an interesting case for arbitration. Looking at the whole of Sanheim’s work in the NHL within the context of an advanced metrics-driven perspective would likely argue that he’s worth more than the deal he was signed to.\nImage via Evolving-Hockey.com\n      Sanheim’s three year player card.\n  \nThe Flyers now technically have -$643,523 in cap space, but are fine due to the ability to exceed the salary cap by ten percent in the offseason. However, it does put them in a precarious position when it comes to running a 23-man roster as opposed to just 22:\nBarring a trade or reworking of the roster, it now looks like the Flyers are going to roll with a 22-man roster to start the year. That's the only way they can fit everyone under the $81.5 million cap ceiling, to my eyes. Can't fit 23 without moving somebody out.\n— Charlie O'Connor (@charlieo_conn) August 21, 2021\n\n\n\nWith the season just 55 days away, signing Sanheim solidifies the outlook of the roster heading into 2021-22.",
+          "link": "https://www.broadstreethockey.com/2021/8/21/22635762/travis-sanheim-flyers-agree-to-new-deal-rfa-arbitration-nhl-philadelphia-offseason-hockey-defenseman",
+          "publishedOn": "2021-08-21T21:17:36.000Z",
+          "wordCount": 757,
+          "title": "Travis Sanheim, Flyers agree to new deal"
+        },
         {
           "id": "https://www.broadstreethockey.com/2021/8/20/22634419/philadelphia-flyers-re-sign-connor-bunnaman-to-two-year-deal-nhl-free-agency",
           "author": null,
@@ -14750,33 +14210,6 @@
           "publishedOn": "2021-07-23T14:10:48.000Z",
           "wordCount": 434,
           "title": "BSH Radio #316: Pre-Thaw Speculation"
-        },
-        {
-          "id": "https://www.broadstreethockey.com/2021/7/23/22589504/friday-morning-nhl-philadelphia-flyers-fly-by-ghosted-shayne-gostisbehere-traded-phoenix-coyotes",
-          "author": null,
-          "description": "Photo by Len Redkoles/NHLI via Getty Images\n    \n\n  \nToday’s open discussion thread, complete with your daily dose of Flyers news and notes…  \n *The Shayne Gostisbehere era in Philadelphia is over, where the Flyers go from here sans Ghost. [BSH] \n*Behold, the 2021-22 NHL schedule has been released — see the landscape the Flyers will have to navigate in the regular season right here. [BSH]\n*More on the move to clear space by sending Ghost to the desert. [NHL] \n*How available is the Flyers’ first round pick tonight? For the right piece, very. [Flying Fish Hockey]\n*But if they keep it, plenty of high upside options to choose from. [Inquirer]\n*Previewing the 2021 NHL Entry Draft, where plenty of activity could be coming. [NHL]\n*Looks like it’s the end for former Flyers great Shea Weber, and a heck of a run it was for the hulking blueliner. [NHL]\n*For your ears, a brand new Puck Soup complete with the Kraken’s new roster and more. [Puck Soup]\nThanks for all the memories, Ghost! \nThank you for the last seven seasons, @s_ghost14.    pic.twitter.com/z2cMp7hMYD\n— Philadelphia Flyers (@NHLFlyers) July 22, 2021",
-          "link": "https://www.broadstreethockey.com/2021/7/23/22589504/friday-morning-nhl-philadelphia-flyers-fly-by-ghosted-shayne-gostisbehere-traded-phoenix-coyotes",
-          "publishedOn": "2021-07-23T10:00:00.000Z",
-          "wordCount": 589,
-          "title": "Friday Morning Fly By: Ghosted"
-        },
-        {
-          "id": "https://www.broadstreethockey.com/2021/7/22/22587508/nhl-philadelphia-flyers-release-2021-22-regular-season-schedule",
-          "author": null,
-          "description": "Photo by Len Redkoles/NHLI via Getty Images\n    \n\n  \nHockey is right around the corner!\n We’re deep in the offseason and it sure feels like everything is happening at once. We just wrapped up the Expansion Draft, the Entry Draft kicks off tomorrow, and then there’s free agency opening next week, the Flyers are making trade... EVERYTHING is happening. And that probably means that this is the perfect time to remind you all that actual hockey is right around the corner! The schedule is here!\nThe Flyers’ season kicks off on October 15, a Friday, with a home game against Vancouver. That’s right, folks! It’s not a West Coast swing or a trip overseas to start the season, just a regular old home game. At long last. \nAs a few more interesting notes, we do see a break built in for the Olympics in February (the  Flyers are off from the 2nd through the 22nd), we’ll see the Kraken for the first time at home on October 18, and while they’ll play the rest of their Metro Division rivals four times, we’ll only see the Devils and the Blue Jackets three times. Hooray?\nIt’s all swiftly approaching, and, as always, it sure is gearing up to be an interesting season. The full schedule is below. See you in October!\nDownload it. Print it. Cherish it. \nIs it October Yet? https://t.co/vIJZ7lIkhr pic.twitter.com/2Yg73fjkNK\n— Philadelphia Flyers (@NHLFlyers) July 22, 2021",
-          "link": "https://www.broadstreethockey.com/2021/7/22/22587508/nhl-philadelphia-flyers-release-2021-22-regular-season-schedule",
-          "publishedOn": "2021-07-22T23:01:31.000Z",
-          "wordCount": 665,
-          "title": "Flyers release 2021-22 regular season schedule"
-        },
-        {
-          "id": "https://www.broadstreethockey.com/2021/7/22/22589009/philadelphia-flyers-trade-shayne-gostisbehere-draft-picks-to-arizona-coyotes-welp",
-          "author": null,
-          "description": "Photo by Len Redkoles/NHLI via Getty Images\n    \n\n  \nThe Flyers are making room.\n As the NHL lifted its roster freeze this afternoon, the Flyers had a trade to make official. After a bit of confusion surrounding which team would be sending draft picks, the trade became clear: Shayne Gostisbehere, a second-round pick, and a seventh-round pick to the Arizona Coyotes for no return.\nTRADE ALERT: We have traded defenseman Shayne Gostisbehere, a second round pick in 2022 and a seventh round pick in the 2022 NHL Draft to the @ArizonaCoyotes. https://t.co/rYazFRoris\n— Philadelphia Flyers (@NHLFlyers) July 22, 2021\n\n\n\nGostisbehere, who passed through waivers last season, has two years remaining on his contract that carries a $4,500,000 annual cap hit. It’s been clear for a while now that the Flyers and Gostisbehere were no longer a good match, and giving the Coyotes a second-round pick allowed the Flyers to move Gostisbehere without retaining any salary.\nNow more than ever cap space comes at a premium, and the Flyers had to give up a significant asset in order to get out of Gostisbehere’s contract. Paying a team with draft picks to take Ghost wasn’t how anybody thought his time here in Philly would end back when he was tearing up the league in his rookie season, but a combination of injuries, poor performance, and poor usage led us here. \nArizona will be hoping Gostisbehere can find his game in the desert, and for Gostisbehere’s sake, the move hopefully leads to an uptick in power-play minutes as well less time watching AHL defensemen from the press box.",
-          "link": "https://www.broadstreethockey.com/2021/7/22/22589009/philadelphia-flyers-trade-shayne-gostisbehere-draft-picks-to-arizona-coyotes-welp",
-          "publishedOn": "2021-07-22T18:21:29.000Z",
-          "wordCount": 698,
-          "title": "Flyers trade Shayne Gostisbehere, draft picks to Arizona"
         }
       ]
     },
@@ -16492,62 +15925,6 @@
             "type": "image/jpeg",
             "length": "179165"
           }
-        },
-        {
-          "id": "https://indyweek.com/news/northcarolina/controversial-gop-school-reform-model-phased-out/",
-          "author": "Greg Childress",
-          "description": "The program allows outside operators, including for-profits and charter management groups, to take over a traditional public school for five years.",
-          "link": "https://indyweek.com/news/northcarolina/controversial-gop-school-reform-model-phased-out/",
-          "publishedOn": "2021-07-23T12:36:26.000Z",
-          "wordCount": 1828,
-          "title": "Controversial Republican-Backed School-Reform Model on Target To Be Phased Out",
-          "enclosure": {
-            "url": "https://indyweek.com/downloads/82625/download/Southside-Ashpole.jpg?cb=9ce1024ad5584de0d3190487f5e38a5c",
-            "type": "image/jpeg",
-            "length": "232872"
-          }
-        },
-        {
-          "id": "https://indyweek.com/news/northcarolina/three-things-to-do-this-saturday-72421/",
-          "author": "Leigh Tauss",
-          "description": "Celebrate the glorious tomato, crush some sour beers, or catch some improv.",
-          "link": "https://indyweek.com/news/northcarolina/three-things-to-do-this-saturday-72421/",
-          "publishedOn": "2021-07-23T11:33:39.000Z",
-          "wordCount": 700,
-          "title": "Three Things to Do This Saturday",
-          "enclosure": {
-            "url": "https://indyweek.com/downloads/82622/download/tomato.jpeg?cb=f8e34b74635150b87e21b99be90790b3",
-            "type": "image/jpeg",
-            "length": "91683"
-          }
-        },
-        {
-          "id": "https://indyweek.com/news/northcarolina/proposed-nc-senate-budget-period-poverty/",
-          "author": "Lynn Bonner",
-          "description": "The Senate budget proposes to make $250,000 in grants available to schools for feminine hygiene products.",
-          "link": "https://indyweek.com/news/northcarolina/proposed-nc-senate-budget-period-poverty/",
-          "publishedOn": "2021-07-22T20:48:06.000Z",
-          "wordCount": 929,
-          "title": "State Senate’s Proposed Budget Takes a Step to Tackle Period Poverty",
-          "enclosure": {
-            "url": "https://indyweek.com/downloads/82624/download/Tampons-300x225-300x225.jpeg?cb=64ad63206db0dcb4ad4837888597af17",
-            "type": "image/jpeg",
-            "length": "64732"
-          }
-        },
-        {
-          "id": "https://indyweek.com/news/northcarolina/blue-cross-expands-coverage-for-trans-surgeries/",
-          "author": "Elizabeth Thompson",
-          "description": "Despite a banner year for anti-transgender legislation, LGBTQ advocates laud Blue Cross Blue Shield of North Carolina’s inclusion of facial surgery and voice therapy.",
-          "link": "https://indyweek.com/news/northcarolina/blue-cross-expands-coverage-for-trans-surgeries/",
-          "publishedOn": "2021-07-22T19:36:11.000Z",
-          "wordCount": 1640,
-          "title": "Victory For LGBTQ: Blue Cross NC Expands Coverage for Trans Surgeries",
-          "enclosure": {
-            "url": "https://indyweek.com/downloads/82623/download/IMG_6687-880x500.jpeg?cb=3f0bd22f1f3ae32c3569e7c3d5e2f06c",
-            "type": "image/jpeg",
-            "length": "38363"
-          }
         }
       ]
     },
@@ -17395,46 +16772,6 @@
           "wordCount": null,
           "title": "Anika, “Change”",
           "itunes": {}
-        },
-        {
-          "id": "141916",
-          "author": "Luis Minvielle",
-          "description": "These artists take the nueva canción tradition in new directions.\nRead full story on the Bandcamp Daily.",
-          "link": "https://daily.bandcamp.com/scene-report/uruguay-avant-folk-scene-report",
-          "publishedOn": "2021-07-22T17:55:10.000Z",
-          "wordCount": null,
-          "title": "Exploring the Avant-Folk Scene in Uruguay",
-          "itunes": {}
-        },
-        {
-          "id": "141892",
-          "author": "Nathan Evans",
-          "description": "The label unearths treasures from all over the world.\nRead full story on the Bandcamp Daily.",
-          "link": "https://daily.bandcamp.com/label-profile/seance-centre-label-profile",
-          "publishedOn": "2021-07-22T14:04:05.000Z",
-          "wordCount": null,
-          "title": "The Soothing New Age Sounds of Séance Centre",
-          "itunes": {}
-        },
-        {
-          "id": "141807",
-          "author": "Andy Thomas",
-          "description": "After returning from the Vietnam War, the violinist performed with the greats.\nRead full story on the Bandcamp Daily.",
-          "link": "https://daily.bandcamp.com/lists/billy-bang-jazz-violinist-interview",
-          "publishedOn": "2021-07-22T13:42:42.000Z",
-          "wordCount": null,
-          "title": "From Soldier to Jazz Giant: The Life of Billy Bang",
-          "itunes": {}
-        },
-        {
-          "id": "142117",
-          "author": "Arielle Gordon",
-          "description": "The ambient duo consisting of TALsound’s Natalie Chami and Matchess’ Whitney Johnson blurs the lines between analog and electronic.\nRead full story on the Bandcamp Daily.",
-          "link": "https://daily.bandcamp.com/album-of-the-day/damiana-vines-review",
-          "publishedOn": "2021-07-22T13:42:01.000Z",
-          "wordCount": null,
-          "title": "Damiana, “Vines”",
-          "itunes": {}
         }
       ]
     },
@@ -17784,15 +17121,6 @@
           "publishedOn": "2021-07-24T00:54:50.183Z",
           "wordCount": 2310,
           "title": "The Local Live(s) project humanizes reporters by putting them onstage"
-        },
-        {
-          "id": "https://www.cjr.org/the_media_today/facebooks-disinformation-problem-is-harder-than-it-looks.php",
-          "author": null,
-          "description": "That Facebook can distribute dangerous amounts of misinformation around the world in the blink of an eye is not a new problem. But the attention stepped up when President Joe Biden told reporters during a White House scrum that Facebook was “killing people” by spreading disinformation, hoaxes, and conspiracy theories about COVID-19, and in particular […]",
-          "link": "https://www.cjr.org/the_media_today/facebooks-disinformation-problem-is-harder-than-it-looks.php",
-          "publishedOn": "2021-07-23T00:55:06.377Z",
-          "wordCount": 2103,
-          "title": "Facebook’s disinformation problem is harder than it looks"
         }
       ]
     },
@@ -17977,21 +17305,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd1ed093d-0f58-4830-898e-d00bbdde2073_5051x3367.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          }
-        },
-        {
-          "id": "https://www.platformer.news/p/-mark-in-the-metaverse",
-          "author": "Casey Newton",
-          "description": "An interview with Facebook's CEO about the company's next big initiative",
-          "link": "https://www.platformer.news/p/-mark-in-the-metaverse",
-          "publishedOn": "2021-07-22T17:00:20.000Z",
-          "wordCount": null,
-          "title": "&#128680; Mark in the metaverse",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F098ffc53-d909-4ba3-8300-bb3179e3be86_1024x789.jpeg",
             "length": "0",
             "type": "image/jpeg"
           }
@@ -18684,15 +17997,6 @@
           "publishedOn": "2021-07-26T11:38:14.000Z",
           "wordCount": 1000,
           "title": "Fate’s Hand – Fate’s Hand Review"
-        },
-        {
-          "id": "https://yourlastrites.com/?p=36984",
-          "author": "Spencer Hotz",
-          "description": "[Cover art by Paul Booth] Before Jennifer Wrestled Her Friend Playfully to the Ground By the mid-90s, bands like Discordance Axis, Brutal Truth, Assück, Extreme Noise Terror and many others were adding new structures to the tetanus-filled grindcore playground created by Napalm Death, Carcass and Repulsion in the late 80s. While the restrictions of physical ...",
-          "link": "https://yourlastrites.com/2021/07/23/diamonds-rust-pig-destroyer-prowler-in-the-yard/",
-          "publishedOn": "2021-07-23T11:25:03.000Z",
-          "wordCount": 2626,
-          "title": "Diamonds & Rust: Pig Destroyer – 20 Years of Prowling in Yards"
         }
       ]
     },
@@ -18889,15 +18193,6 @@
           "publishedOn": "2021-07-26T11:06:39.000Z",
           "wordCount": 643,
           "title": "Cognitive – Malevolent Thoughts of a Hastened Extinction"
-        },
-        {
-          "id": "https://www.teethofthedivine.com/?p=55797",
-          "author": "Frank Rini",
-          "description": "Back in 2018 when I was back again with Internal Bleeding and we headed up to Canada, for part of the Bloodletting Tour, I met Phil Brousseau and Nickolas Lauzon and took a picture with these young gentlemen.  They really enjoyed our set and super cool dudes.  Fast Forward to 2020, a little bit right […]",
-          "link": "https://www.teethofthedivine.com/reviews/overdose-of-bacon-kill-to-consume-ep/",
-          "publishedOn": "2021-07-23T11:47:51.000Z",
-          "wordCount": 843,
-          "title": "Overdose of Bacon – Kill to Consume EP"
         }
       ]
     },
