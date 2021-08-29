@@ -12,6 +12,42 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1790309",
+          "author": "Sam Machkovech",
+          "description": "Tastefully done, fun in VR, but we hope noted issues are rendered moot before long.",
+          "link": "https://arstechnica.com/?p=1790309",
+          "publishedOn": "2021-08-28T16:00:12.000Z",
+          "wordCount": 1720,
+          "title": "Myst remake impressions: Handsome island touch-ups, launch-week woes"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1788833",
+          "author": "Ars Staff",
+          "description": "Dealmaster also has webcams, MagSafe chargers, and AMD Ryzen processors.",
+          "link": "https://arstechnica.com/?p=1788833",
+          "publishedOn": "2021-08-28T14:38:24.000Z",
+          "wordCount": 1714,
+          "title": "The weekend’s best deals: Samsung microSD cards, gaming chairs, and more"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1790329",
+          "author": "WIRED",
+          "description": "Requirements always have to be achievable and equitable.",
+          "link": "https://arstechnica.com/?p=1790329",
+          "publishedOn": "2021-08-28T11:07:12.000Z",
+          "wordCount": 2540,
+          "title": "Vaccine mandates work, especially when they’re done right"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1789926",
+          "author": "Nathan Mattise",
+          "description": "Stream this samurai-loving genre mashup when you can. Speaking of: ATTENTION US DISTRIBUTORS.",
+          "link": "https://arstechnica.com/?p=1789926",
+          "publishedOn": "2021-08-28T10:15:53.000Z",
+          "wordCount": 1899,
+          "title": "Samurai-themed sci-fi flick It’s A Summer Film! expertly slices expectations"
+        },
+        {
           "id": "https://arstechnica.com/?p=1790357",
           "author": "Jim Salter",
           "description": "The Phoenix controller in Samsung's own product images isn't present on newer drives.",
@@ -2602,141 +2638,6 @@
           "publishedOn": "2021-07-30T14:49:46.000Z",
           "wordCount": 1782,
           "title": "America’s favorite truck goes hybrid: The Ford F-150, reviewed"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1784124",
-          "author": "Dan Goodin",
-          "description": "Expect to see more of these \"Frankenstein\" malware packages, researchers warn.",
-          "link": "https://arstechnica.com/?p=1784124",
-          "publishedOn": "2021-07-30T11:54:48.000Z",
-          "wordCount": 1842,
-          "title": "Software downloaded 30,000 times from PyPI ransacked developers’ machines"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1784095",
-          "author": "Dan Goodin",
-          "description": "Screen sharing courtesy of VNC mirrors device screens to attacker-controlled servers.",
-          "link": "https://arstechnica.com/?p=1784095",
-          "publishedOn": "2021-07-30T11:30:30.000Z",
-          "wordCount": 1432,
-          "title": "New bank-fraud malware called Vultur infects thousands of devices"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1783940",
-          "author": "Eric Berger",
-          "description": "\"Pete told us that key contributors would be driving Ferraris to work in a year.\"",
-          "link": "https://arstechnica.com/?p=1783940",
-          "publishedOn": "2021-07-30T11:00:03.000Z",
-          "wordCount": 1757,
-          "title": "Rocket Report: Ariane V returns after long layoff, Rocket Lab’s tough culture"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1784020",
-          "author": "Eric Berger",
-          "description": "\"Until you exhaust all your contingency plans, you're not really starting to worry.\"",
-          "link": "https://arstechnica.com/?p=1784020",
-          "publishedOn": "2021-07-29T23:37:32.000Z",
-          "wordCount": 1083,
-          "title": "Russian module suddenly fires thrusters after docking with space station"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1782874",
-          "author": "Jennifer Ouellette",
-          "description": "The hand has integrated fluidic transistors, so it only requires one pressure input.",
-          "link": "https://arstechnica.com/?p=1782874",
-          "publishedOn": "2021-07-29T23:08:19.000Z",
-          "wordCount": 1395,
-          "title": "This 3D-printed soft robotic hand beat the first level of Super Mario Bros."
-        },
-        {
-          "id": "https://arstechnica.com/?p=1784050",
-          "author": "Jim Salter",
-          "description": "Don't get too excited—the new glasses won't have integrated display capabilities.",
-          "link": "https://arstechnica.com/?p=1784050",
-          "publishedOn": "2021-07-29T22:39:14.000Z",
-          "wordCount": 743,
-          "title": "Facebook’s next hardware product will be “smart” Ray-Ban glasses"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1784034",
-          "author": "Beth Mole",
-          "description": "A lab worker died of prion disease in 2019, nine years after a lab accident.",
-          "link": "https://arstechnica.com/?p=1784034",
-          "publishedOn": "2021-07-29T22:16:52.000Z",
-          "wordCount": 1573,
-          "title": "Second lab worker with deadly prion disease prompts research pause in France"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1783933",
-          "author": "Samuel Axon",
-          "description": "Facebook's CFO predicts the worst is yet to come, though.",
-          "link": "https://arstechnica.com/?p=1783933",
-          "publishedOn": "2021-07-29T21:07:37.000Z",
-          "wordCount": 885,
-          "title": "Forget “App Tracking Transparency”: Facebook is enjoying more ad revenue than ever"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1783945",
-          "author": "Kyle Orland",
-          "description": "In consoles' \"race to 10 million,\" PS5's 248 days is second only to the Wii.",
-          "link": "https://arstechnica.com/?p=1783945",
-          "publishedOn": "2021-07-29T20:10:15.000Z",
-          "wordCount": 1016,
-          "title": "Putting the PS5’s 10 million sales in context"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1783956",
-          "author": "John Timmer",
-          "description": "A survey of wild deer finds a lot of antibodies that target the virus.",
-          "link": "https://arstechnica.com/?p=1783956",
-          "publishedOn": "2021-07-29T20:06:25.000Z",
-          "wordCount": 1107,
-          "title": "Over half the deer in Michigan seem to have been exposed to SARS-CoV-2"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1783927",
-          "author": "Sam Machkovech",
-          "description": "This time around, the usual \"licenses expired\" song-and-dance is weirder.",
-          "link": "https://arstechnica.com/?p=1783927",
-          "publishedOn": "2021-07-29T19:30:06.000Z",
-          "wordCount": 1448,
-          "title": "How one game’s delisting pokes a hole in the Xbox Game Pass promise"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1783832",
-          "author": "Doug Johnson",
-          "description": "Evolution experts were kind enough to answer Ars' questions about alien crabs.",
-          "link": "https://arstechnica.com/?p=1783832",
-          "publishedOn": "2021-07-29T17:24:05.000Z",
-          "wordCount": 1825,
-          "title": "On Earth, things evolve into crabs—could the same be true in space?"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1783881",
-          "author": "Kyle Orland",
-          "description": "Compatible drives need to meet stringent physical and technical guidelines.",
-          "link": "https://arstechnica.com/?p=1783881",
-          "publishedOn": "2021-07-29T16:57:25.000Z",
-          "wordCount": 995,
-          "title": "PS5 gets high-speed M.2 SSD storage support in new beta system software"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1783845",
-          "author": "Ron Amadeo",
-          "description": "After delaying its iOS privacy labels for months, Google copies the feature for Play.",
-          "link": "https://arstechnica.com/?p=1783845",
-          "publishedOn": "2021-07-29T16:08:25.000Z",
-          "wordCount": 721,
-          "title": "Google Play gets mandatory app privacy labels in April 2022"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1783852",
-          "author": "Kyle Orland",
-          "description": "Disturbing new details emerge of booze-filled \"Cosby Suite\" at 2013 Blizzcon.",
-          "link": "https://arstechnica.com/?p=1783852",
-          "publishedOn": "2021-07-29T15:26:07.000Z",
-          "wordCount": 1053,
-          "title": "Blizzard confirms developer named in lawsuit was removed for “misconduct”"
         }
       ]
     },
@@ -2745,6 +2646,24 @@
       "feedUrl": "http://feeds.macrumors.com/MacRumors-Front",
       "siteUrl": "https://www.macrumors.com",
       "articles": [
+        {
+          "id": "https://www.macrumors.com/2021/08/28/iphone-13-rumors-may-have-missed/",
+          "author": "Sami Fathi",
+          "description": "We're just weeks away from when Apple will announce the iPhone 13, which we're expecting to feature some considerable upgrades, including design, performance, cameras, and more. Like every year, rumors, leaks, and reports about what Apple has in store are abundant, with some more credible than others.\r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\nRumors about the next iPhone typically begin emerging early in the year, meaning they may get forgotten as the months go by and the new ‌iPhone‌ launch approaches. To help readers of MacRumors, we've compiled this top five list consisting of some rumors about the ‌iPhone 13‌ that you may have missed from the rumor news cycle. \r\n\r\n\r\n\r\nApple's plans for product improvements are subject to change over the course of the development process, so some of the older rumors may not be a…",
+          "link": "https://www.macrumors.com/2021/08/28/iphone-13-rumors-may-have-missed/",
+          "publishedOn": "2021-08-28T18:00:00.000Z",
+          "wordCount": 2990,
+          "title": "Five iPhone 13 Rumors You May Have Missed"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/08/28/top-stories-iphone-13-apple-watch-7/",
+          "author": "MacRumors Staff",
+          "description": "August is rapidly drawing to close, which means Apple's annual iPhone launch event is right around the corner. iPhone 13 and Apple Watch Series 7 rumors are continuing to circulate, and we're also hearing about Mac updates likely coming a bit later.\r\n\r\n\r\n\r\n\r\n\r\nApple is also finishing up work on its upcoming software updates like iOS 15, with some late-addition features starting to go live in beta while others have been pushed back a bit. Finally, this week saw a $100 million class action lawsuit settlement that will see Apple provide payments to small developers while the company makes a few other minor changes and commitments with its App Store policies, so read on for all the details on these stories and more!\r\n\r\n\r\n\r\niPhone 13 Said to Go on Sale September 17\n\r\n\r\nWe're likely just a few w…",
+          "link": "https://www.macrumors.com/2021/08/28/top-stories-iphone-13-apple-watch-7/",
+          "publishedOn": "2021-08-28T13:00:00.000Z",
+          "wordCount": 2743,
+          "title": "Top Stories: iPhone 13 Nears Launch, Larger Apple Watch?, MacBook Pro and Mac Mini Rumors"
+        },
         {
           "id": "https://www.macrumors.com/2021/08/27/apple-repair-program-no-sound/",
           "author": "Juli Clover",
@@ -5660,96 +5579,6 @@
           "publishedOn": "2021-07-30T14:51:11.000Z",
           "wordCount": 2628,
           "title": "Eight New Games Came to Apple Arcade This Month, Including 'Solitaire Stories,' 'Ultimate Rivals: The Court,' and 'Detonation Racing'"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/30/iphone-13-and-macbook-pro-production-contamination/",
-          "author": "Hartley Charlton",
-          "description": "The most important TSMC factory that manufactures Apple's chips destined for next-generation iPhone and Mac models has been hit by a gas contamination, according to Nikkei Asia. \r\n\r\n\r\n\r\n\r\n\r\nThe factory, known as \"Fab 18,\" is TSMC's most advanced chipmaking facility. TSMC is Apple's sole chip supplier, making all of the processors used in every Apple device with a custom silicon chip.\r\n\r\n\r\n\r\nIndustry sources speaking to Nikkei Asia said that all of the processors for Apple's upcoming ‌iPhone‌ and Mac devices are produced at this facility. This presumably translates to the  iPhone 13 lineup and redesigned MacBook Pro models with Apple silicon, containing the \"A15\" and \"M1X\" or \"M2\" chips.\r\n\r\n\r\n\r\nGas used in the production of these chips was found to be contaminated on Thursday night. TSMC to…",
-          "link": "https://www.macrumors.com/2021/07/30/iphone-13-and-macbook-pro-production-contamination/",
-          "publishedOn": "2021-07-30T12:44:18.000Z",
-          "wordCount": 2206,
-          "title": "iPhone 13 and Redesigned MacBook Pro Chip Production Hit With Gas Contamination"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/30/apple-app-store-india-rupay-upi-payments/",
-          "author": "Tim Hardwick",
-          "description": "Apple has started accepting App Store and iTunes payments in India using UPI and Rupay cards and Net Banking. \r\n\r\n\r\n\r\n\nApple adds UPI payments to App Store in India pic.twitter.com/idIeKbpwPP\n— Ganesh (@ganeshkulkarni) July 30, 2021\n \n\r\n\r\nThe acceptance of RuPay and Unified Payments Interface (UPI)  cards means Apple users in India will be able to use the domestic payment systems as alternatives to regular credit/debit card payment methods to add funds to their Apple ID balance. \r\n\r\n\r\n\r\nThey can then use their ‌Apple ID‌ balance to buy apps, games, music, iCloud storage, and more in Apple's online stores.\r\n\r\n\r\n\r\nRuPay was launched in India in 2012, and facilitates real-time electronic payments at all Indian banks and financial institutions. The massively popular instant payments network UPI followed in 2016. \nTags: App Store, India\nThis article, \"Apple Now Accepting UPI, Rupay Cards and Net Banking for App Store Payments in India\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/07/30/apple-app-store-india-rupay-upi-payments/",
-          "publishedOn": "2021-07-30T07:26:36.000Z",
-          "wordCount": 2173,
-          "title": "Apple Now Accepting UPI, Rupay Cards and Net Banking for App Store Payments in India"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/29/apple-pay-sonic-promo/",
-          "author": "Juli Clover",
-          "description": "Apple today sent out emails letting customers know about the latest Apple Pay promotion, which offers discounts for SONIC, ParkWhiz, and HotelTonight. \r\n\r\n\r\n\r\n\r\n\r\nFrom now until August 4, customers can get a free SONIC cheeseburger, 10 percent off three parking reservations with ParkWhiz, and 10 percent off hotel reservations with HotelTonight.\r\n\r\n\r\n\r\nTo get the SONIC deal, customers must be logged into their MySonic account, and the free cheeseburger will become available in a future order after any SONIC purchase. For ParkWhiz, customers will need to use the promo code APPLEPAY10 when checking out, and for HotelTonight, customers will need to use promo code APPLEPAYHT when reserving a room. For all of these deals, ‌Apple Pay‌ must be used as a payment method.  \nTag: Apple Pay promo\nThis article, \"Apple Pay Promo Offers Discounts for SONIC, HotelTonight, and ParkWhiz\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/07/29/apple-pay-sonic-promo/",
-          "publishedOn": "2021-07-29T23:30:46.000Z",
-          "wordCount": 1887,
-          "title": "Apple Pay Promo Offers Discounts for SONIC, HotelTonight, and ParkWhiz"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/29/apple-releases-watchos-7-6-1/",
-          "author": "Juli Clover",
-          "description": "Apple today released watchOS 7.6.1, a minor update to the watchOS 7 operating system that was released in September 2020. watchOS 7.6.1 comes two weeks after the release of watchOS 7.6, an update that brought ECG capabilities to new regions.\r\n\r\n\r\n\r\n\r\n\r\n‌‌The watchOS 7.6.1 update‌‌ can be downloaded for free through the dedicated Apple Watch app on the ‌iPhone‌ by going to General > Software Update.\r\n\r\n\r\n\r\nTo install the new software, the Apple Watch needs to have at least 50 percent battery, it needs to be placed on a charger, and it needs to be in range of the ‌‌‌‌‌‌‌‌‌‌iPhone‌‌‌‌‌‌‌‌‌‌.\r\n\r\n\r\n\r\nAccording to Apple's release notes, the watchOS 7.6.1 update includes important security updates and it is recommended for all users. An Apple security support document indicates that the update fixes a memory issue that may have been actively exploited in the wild, so Apple Watch users should upgrade as soon as possible. This is the same issue that Apple previously addressed in iOS 14.7.1 and macOS Big Sur 11.5.1. \nRelated Roundups: watchOS 7, watchOS 8 \nRelated Forum: iOS, Mac, tvOS, watchOS Programming\nThis article, \"Apple Releases watchOS 7.6.1 With Security Updates\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/07/29/apple-releases-watchos-7-6-1/",
-          "publishedOn": "2021-07-29T17:30:04.000Z",
-          "wordCount": 2040,
-          "title": "Apple Releases watchOS 7.6.1 With Security Updates"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/29/playdate-now-available-for-pre-order/",
-          "author": "Juli Clover",
-          "description": "Panic, a company known for its range of apps designed for Apple's iPhones, iPads, and Macs, today announced the launch of pre-orders for its Playdate handheld gaming system.\r\n\r\n\r\n\r\n\r\n\r\nPanic had 20,000 Playdate systems available for preorder for shipping in late 2021, but those quickly sold out and orders placed now will ship out in 2022. \r\n\r\n\r\n\r\nPriced at $179, the Playdate is a pocket-sized gaming system that has a unique design. It features a black and white display, bright yellow chassis, a d-pad, A+B buttons, and a crank on the side that serves as a flip-out rotational controller.\r\n\r\n\r\n\r\n\r\n\r\nThe pocketable gaming system will feature pre-installed games from developers like Zach Gage, Shaun Inman, Bennett Foddy, and Keita Takahashi.\r\n\r\n\r\n\r\nThere will be several games available at launch, and an additional game will be delivered each week for a few months. The Playdate comes equipped with Wi-Fi, Bluetooth, a USB-C port for charging, and a headphone jack.\r\n\r\n\r\n\r\nThose interested in the Playdate can pre-order it today it from the Play.date website.\nThis article, \"'Playdate' Handheld Game System Now Available for Pre-Order\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/07/29/playdate-now-available-for-pre-order/",
-          "publishedOn": "2021-07-29T17:17:37.000Z",
-          "wordCount": 2352,
-          "title": "'Playdate' Handheld Game System Now Available for Pre-Order"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/29/apple-metlife-campus-nc/",
-          "author": "Eric Slivka",
-          "description": "Back in April, Apple announced a $430 billion investment over the next five years to create more than 20,000 new jobs as the company continues to expand. One significant piece of that plan is a new engineering and research center in North Carolina where Apple will be investing over $1 billion and hiring at least 3,000 employees.\r\n\r\n\r\n\r\nAssemblage of seven properties in Research Triangle Park owned by Apple\n \r\n\r\nApple actually acquired the land for its new North Carolina campus in late 2018, purchasing about 280 acres in Research Triangle Park (RTP) near the state capital of Raleigh for around $50 million, but while Apple announced plans for a new campus in Austin, Texas, around that time, it remained silent on its RTP plans until this year.\r\n\r\n\r\n\r\nIt will take several more years for Apple'…",
-          "link": "https://www.macrumors.com/2021/07/29/apple-metlife-campus-nc/",
-          "publishedOn": "2021-07-29T16:14:59.000Z",
-          "wordCount": 2616,
-          "title": "Apple Preparing to Occupy 200,000 Square Feet of Temporary Space Ahead of New $1 Billion North Carolina Campus"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/29/deals-magsafe-duo-chargers/",
-          "author": "Mitchel Broussard",
-          "description": "Today we're tracking a pair of discounts on Apple's new MagSafe line of accessories, compatible with iPhone 12 models. This includes the MagSafe Charger and MagSafe Duo Charger, and the sales are offered by DailySteals and StackSocial.\r\n\r\n\r\n\r\nNote: MacRumors is an affiliate partner with these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.\r\n\r\n\r\n\r\nStarting with the MagSafe Charger, DailySteals has this accessory for $27.99, down from $39.00 when you use the code DSMAG at the checkout screen. This is a new all-time low price for this accessory, beating the previous low by just over $1.\r\n\r\n\r\n\r\n\n$11 OFF\nMagSafe Charger for $27.99\n\n\r\n\r\n\r\n\r\nAt StackSocial you can get the MagSafe Duo Charger for $102.00, down from $129.00 when using the code ANNUAL15 at checkout. The MagSafe Duo has been down to $99 in the past, but that deal has been rare and today's sale is a new second-best offer.\r\n\r\n\r\n\r\n\n$27 OFF\nMagSafe Duo Charger for $102.00\n\n\r\n\r\n\r\n\r\nKeep up with all of this week's best discounts on Apple products and related accessories in our dedicated Apple Deals roundup.\nRelated Roundup: Apple Deals\nThis article, \"Deals: New Discounts Arrive for Apple's MagSafe and MagSafe Duo Chargers (Save Up to $27)\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/07/29/deals-magsafe-duo-chargers/",
-          "publishedOn": "2021-07-29T16:00:00.000Z",
-          "wordCount": 2016,
-          "title": "Deals: New Discounts Arrive for Apple's MagSafe and MagSafe Duo Chargers (Save Up to $27)"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/29/garageband-for-iphone-ipad-new-sound-packs/",
-          "author": "Joe Rossignol",
-          "description": "Apple today announced that its GarageBand app for iPhone and iPad has received all-new Sound Packs from some of today's top artists and producers, including new Remix Sessions from singers Dua Lipa and Lady Gaga.\r\n\r\n\r\n\r\n\r\n\r\nThe music creation app has also gained seven new Producer Packs with beats, loops, and instruments created by top producers, including Boys Noize, Mark Lettieri, Oak Felder, Soulection, Take A Daytrip, Tom Misch, and TRAKGIRL. Another new Producer Pack provides a companion experience to the upcoming Apple TV+ docuseries \"Watch the Sound With Mark Ronson,\" allowing users to experiment with sounds inspired by the music in the show.\r\n\r\n\r\n\r\n\"GarageBand continues to be a catalyst for music creation — making it easy for novices to get started and for seasoned pros to develop their ideas on the go,\" said Bob Borchers, Apple's vice president of worldwide product marketing. \"For this update, we've collaborated with an incredible group of artists and producers to give musicians an amazing collection of new sounds to play with, and we hope even more people will be inspired to tap into their creativity and start making music in GarageBand.\"\r\n\r\n\r\n\r\nThe new Remix Sessions and Producer Packs are available today as a free download from the Sound Library in GarageBand 2.3.11, the latest version of the app for iOS and iPadOS. \nTag: GarageBand\nThis article, \"GarageBand for iPhone and iPad Gets All-New Sound Packs From Top Artists Like Dua Lipa and Lady Gaga\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/07/29/garageband-for-iphone-ipad-new-sound-packs/",
-          "publishedOn": "2021-07-29T15:10:02.000Z",
-          "wordCount": 2091,
-          "title": "GarageBand for iPhone and iPad Gets All-New Sound Packs From Top Artists Like Dua Lipa and Lady Gaga"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/29/apple-tv-plus-see-season-two-august-27-2/",
-          "author": "Sami Fathi",
-          "description": "Apple today released the trailer for the second season of its Apple TV+ original show \"See,\" which will premiere with one episode on the platform on August 27, with new episodes following every Friday. The second season of the show will run for a total of eight episodes.\r\n\r\n\r\n\r\n\n\r\n\r\n\"See\" was one of the first shows to premiere on ‌Apple TV+‌ in 2019 and features Jason Momoa, Dave Bautista, and Alfre Woodard. The show follows the story of humanity losing the ability to see, and according to Apple, the second season will tell the story of Baba Voss, played by Jason Momoa, attempting to be reunited with his family. \r\n\r\n“See” is set in a brutal and primitive future, hundreds of years after humankind has lost the ability to see. In season two, Baba Voss (Momoa) is struggling to reunite his family while protecting them as the threat of war looms between the Kingdom of Paya and the Trivantian Republic. Despite his best efforts, his wife and sighted children are pulled to the forefront of the conflict, where they come to the attention of his estranged brother, Edo Voss (Bautista), a powerful and cunning Trivantian general, whose long-simmering hatred for his brother imperils them all even further.\nThe show's second season premiere joins a busy fall season for ‌Apple TV+‌, with the second season of the hit comedy show Ted Lasso having premiered last week, and upcoming shows, such as \"The Morning Show\" with their second season premiering in September.  \nTag: Apple TV\nThis article, \"Apple Releases Trailer for Season Two of 'See' Ahead of August 27 Premiere\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/07/29/apple-tv-plus-see-season-two-august-27-2/",
-          "publishedOn": "2021-07-29T14:21:24.000Z",
-          "wordCount": 2182,
-          "title": "Apple Releases Trailer for Season Two of 'See' Ahead of August 27 Premiere"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/29/apple-warned-leakers-misleading-accessory-makers/",
-          "author": "Hartley Charlton",
-          "description": "Apple warned leakers that sharing information about unreleased products could mislead third-party accessory makers and disappoint customers, in cease and desist letters sent by legal firms representing the company.\r\n\r\n\r\n\r\n\r\n\r\nVice today highlighted that, in an extensive letter sent to a leaker based in China, Apple warned that leaks could give third-party accessory makers the wrong dimensions and details about unreleased products. It has emerged over the past month that June saw a concerted effort by Apple to curtail information coming from a range of individual leakers outside the United States using cease and desist letters.\r\n\r\n\r\n\r\nDespite being sent by various local law firms representing Apple around the world, the letters appear to have featured identical content. An extract of one of…",
-          "link": "https://www.macrumors.com/2021/07/29/apple-warned-leakers-misleading-accessory-makers/",
-          "publishedOn": "2021-07-29T13:59:25.000Z",
-          "wordCount": 2587,
-          "title": "Apple Warned Leakers About Misleading Third-Party Accessory Makers"
         }
       ]
     },
@@ -5758,6 +5587,15 @@
       "feedUrl": "https://daringfireball.net/feeds/main",
       "siteUrl": "https://daringfireball.net/",
       "articles": [
+        {
+          "id": "https://daringfireball.net/2021/08/charlie_watts",
+          "author": null,
+          "description": "Some sad news this week: Rolling Stones drummer Charlie Woods died at age 80.",
+          "link": "https://daringfireball.net/2021/08/charlie_watts",
+          "publishedOn": "2021-08-28T20:49:30.000Z",
+          "wordCount": 312,
+          "title": "★ Charlie Watts"
+        },
         {
           "id": "https://www.theverge.com/2021/8/27/22644579/tiktok-reddit-facebook-ivermectin-covid-19-misinformation",
           "author": null,
@@ -6153,51 +5991,6 @@
           "publishedOn": "2021-07-30T21:05:21.000Z",
           "wordCount": 239,
           "title": "The Talk Show: ‘You Called Him Pixel Mature’"
-        },
-        {
-          "id": "https://www.inquirer.com/health/coronavirus/chop-vaccine-requirement-coronavirus-20210729.html",
-          "author": null,
-          "description": "Aubrey Whelan, reporting for The Philadelphia Inquirer:\nThe Children’s Hospital of Philadelphia will soon require all its on-site employees to be vaccinated against the coronavirus, as most of their patients are too young to receive the COVID-19 vaccine. The hospital did not specify a deadline for employees to receive the vaccine, but said in a statement Thursday that it is “currently preparing for the implementation of a vaccine requirement.”\n“We believe that it is our duty to protect those who cannot protect themselves, especially our young patients,” the statement read.\nMore like this, please.\n ★",
-          "link": "https://www.inquirer.com/health/coronavirus/chop-vaccine-requirement-coronavirus-20210729.html",
-          "publishedOn": "2021-07-29T22:04:11.000Z",
-          "wordCount": 501,
-          "title": "Children’s Hospital of Philadelphia to Mandate COVID-19 Vaccination for Employees"
-        },
-        {
-          "id": "https://www.nytimes.com/2021/07/27/opinion/covid-vaccine-delta-variant.html",
-          "author": null,
-          "description": "Aaron E. Carroll, chief health officer for Indiana University, in a guest column for The New York Times:\nMany may read the C.D.C.’s continued focus on masking and\ndistancing as an acknowledgment that the vaccines don’t work well\nenough. Leaning heavily on masking and distancing is what we did\nwhen we didn’t have vaccinations. Today, such recommendations are\nless likely to succeed because they are more likely to be followed\nby those already primed to listen — the vaccinated — and to be\nfought and ignored by those who aren’t.\nHospitalizations and deaths are rising in some areas not because\nsomeone didn’t wear a mask at the ballgame. They’re occurring\nbecause too many people are not immunized.\nThis is why I’ve advocated vaccine mandates. I don’t understand\nhow we can mandate wearing masks but not getting vaccinations.\nHere’s German Lopez, making the same case at Vox:\nA year ago, requiring masks as cases spiked would have been an\nobviously smart decision. Mask mandates work, and for most of\n2020, they were among the best methods we had to stop the spread\nof Covid-19. But masks were never meant to be the long-term\nsolution; they were a stopgap until the US and the rest of the\nworld could stamp out epidemics through vaccination.\nNow those vaccines are here. And the changed circumstances of\nsummer 2021 call for new approaches. Any entity thinking about a\nmask requirement — from private businesses to local, state, and\nfederal governments — should consider mandating something else\nfirst: vaccination.\nAsking the vaccinated to wear masks to protect the voluntarily unvaccinated is not going to work. The backlash is growing.\n ★",
-          "link": "https://www.nytimes.com/2021/07/27/opinion/covid-vaccine-delta-variant.html",
-          "publishedOn": "2021-07-29T18:20:29.000Z",
-          "wordCount": 1154,
-          "title": "Mandate Vaccinations, Not Masks"
-        },
-        {
-          "id": "https://www.washingtonpost.com/technology/2021/07/28/google-office-vaccinate/",
-          "author": null,
-          "description": "Heather Kelly and Gerrit De Vynck, reporting for The Washington Post:\nGoogle on Wednesday became the first Big Tech [sic] company to\nannounce that it will require employees who work in its offices to\nbe fully vaccinated. Facebook later announced a similar policy\nrequiring all in-person workers to get vaccinated before coming\ninto a Facebook office in the United States.\nMore like this, please (ahem, Apple).\n ★",
-          "link": "https://www.washingtonpost.com/technology/2021/07/28/google-office-vaccinate/",
-          "publishedOn": "2021-07-29T18:09:59.000Z",
-          "wordCount": 1468,
-          "title": "Google and Facebook to Require Employees Get Vaccinated"
-        },
-        {
-          "id": "https://twitter.com/SquawkCNBC/status/1420704924644610051",
-          "author": null,
-          "description": "Shake Shack founder Danny Meyer, appearing on CNBC’s Squawk Box:\n“We’re following the lead of both city, state, and federal\ngovernment. We’re going to do this ourselves in our restaurants in\nNew York City and in Washington D.C. … We feel like we have an\namazing responsibility to keep our staff members and our guests\nsafe, and that’s what we’re going to do.”\nMore like this, please.\n ★",
-          "link": "https://twitter.com/SquawkCNBC/status/1420704924644610051",
-          "publishedOn": "2021-07-29T18:06:59.000Z",
-          "wordCount": 196,
-          "title": "Danny Meyer’s Restaurants Will Require Both Employees and Patrons to Be Vaccinated"
-        },
-        {
-          "id": "https://daringfireball.net/linked/2020/04/04/facebook-nso-group",
-          "author": null,
-          "description": "One angle I didn’t see resurface amidst all the attention this month on NSO Group’s Pegasus spyware that exploits iOS — last year Motherboard reporter Joseph Cox revealed that Facebook attempted to purchase the right to use Pegasus to spy on their own iOS users. That seemed really fucked-up then, and even more fucked-up now.\n ★",
-          "link": "https://daringfireball.net/linked/2020/04/04/facebook-nso-group",
-          "publishedOn": "2021-07-29T14:21:45.000Z",
-          "wordCount": 349,
-          "title": "Remember When Facebook Wanted to Use NSO Group’s Spyware to Surveil iOS Users?"
         }
       ]
     },
@@ -7519,87 +7312,6 @@
           "publishedOn": "2021-07-30T16:00:00.000Z",
           "wordCount": 849,
           "title": "Boomerang X makes winning feel like a cheat"
-        },
-        {
-          "id": "https://www.polygon.com/22600347/final-fantasy-14-beginner-mmo-mounts-cosmetics",
-          "author": null,
-          "description": "Image: Square Enix\n    \n\n  \nFinal Fantasy 14 instantly makes new players shout ‘I need that’ at their monitor\n Starting a new MMO is one of the most daunting things a video game player can do. Games like Final Fantasy 14 have massive, sprawling worlds filled with hundreds of hours worth of quests and more systems than 10 AAA games put together. So shepherding a player through their first 10 hours and reminding them that this game is worth their time is key to a good experience. \nBut nothing incentivizes a player to stick with an MMO than seeing all the cool shit you can unlock as you level up, and nothing does that quite as well as Final Fantasy 14.\nLike many, I’m a longtime World of Warcraft player who finally decided to give Final Fantasy 14 an honest shot. I started making the jump to F…",
-          "link": "https://www.polygon.com/22600347/final-fantasy-14-beginner-mmo-mounts-cosmetics",
-          "publishedOn": "2021-07-29T21:00:53.000Z",
-          "wordCount": 1074,
-          "title": "Final Fantasy 14 nails the most important part of starting a new MMO"
-        },
-        {
-          "id": "https://www.polygon.com/22600464/outer-wilds-dlc-release-date-echoes-of-the-eye-expansion",
-          "author": null,
-          "description": "Image: Mobius Digital\n    \n\n  \nThe ‘first and only expansion’ for Outer Wilds\n Mobius Digital’s time-looping adventure game Outer Wilds — Polygon’s Game of the Year for 2019, by the way — is getting an expansion. It’s called Echoes of the Eye, and it’s coming to PlayStation 4, Windows PC (via Steam and the Epic Games Store), and Xbox One on Sept. 28.\nEchoes of the Eye will “weave directly into the existing world and narrative” of Outer Wilds, said Mobius Digital creative director Alex Beachum. “If you played the game you might be wondering ‘How? And also why?’ And those are very good questions,” Beachum added.\nAnnounced during publisher Annapurna Interactive’s showcase on Thursday, Outer Wilds: Echoes of the Eye is ... well, like the main game, maybe it’s better if you don’t know too much going into it? That seems to be the developer’s approach to Outer Wilds’ new content, but here’s the official description of what players can expect:\nThe hearthian space program has detected an anomaly that canʼt be attributed to any known location in the solar system. Grab your flashlight and prepare to illuminate the darkest secrets of the Outer Wilds... \n\nBeachum calls Echoes of the Eye the “first and only expansion” for Outer Wilds. Watch its “willfully cryptic trailer” above.\nThe original Outer Wilds is coming to Nintendo Switch this holiday.",
-          "link": "https://www.polygon.com/22600464/outer-wilds-dlc-release-date-echoes-of-the-eye-expansion",
-          "publishedOn": "2021-07-29T19:38:14.000Z",
-          "wordCount": 725,
-          "title": "Outer Wilds DLC Echoes of the Eye coming this September"
-        },
-        {
-          "id": "https://www.polygon.com/22600466/janky-games-celebration-bethesda-necromunda-elder-scrolls-fan-communities-memes",
-          "author": null,
-          "description": "Image: Streum On Studio/Focus Home Interactive\n    \n\n  \nAn ode to jank\n One of my favorite games this summer is Necromunda: Hired Gun, which is a thrill ride of violence, guts, and gore in the grim darkness of the far future. The game is extremely fun, but also ... kind of sloppy. It isn’t quite broken, but it doesn’t fully work, either. \nIn a word, it’s janky — and that’s part of why I love it so much. On one hand, jank breaks immersion and reminds us we’re playing a game, but on the other hand, it’s fun and often endearing. I’m not afraid to say it: I love these awkward baby horse games, and their stumbles only make them more endearing.\n“Jank” is when the illusion of a world rips, and you can see the machinery underneath making the game work. Jank can manifest in silly looking animations…",
-          "link": "https://www.polygon.com/22600466/janky-games-celebration-bethesda-necromunda-elder-scrolls-fan-communities-memes",
-          "publishedOn": "2021-07-29T19:30:00.000Z",
-          "wordCount": 1191,
-          "title": "Janky games may be broken, but they have a special place in my heart"
-        },
-        {
-          "id": "https://www.polygon.com/22600254/stray-cyberpunk-cat-game-ps5-ps4-annapurna-interactive",
-          "author": null,
-          "description": "Image: Blue Twelve/Anapurna Interactive\n    \n\n  \nKnock things over, claw up furniture, solve puzzles, and lick your own butt\n A new trailer for Stray, the futuristic cyberpunk adventure game in which you’ll control a cat, offers our best look yet at developer BlueTwelve Studio’s game. The cat-centric gameplay looks impressively authentic; as the titular stray cat, you’ll knock things over to solve puzzles and create new pathways, leap through a strange city with feline grace, and claw up furniture because you despise humans’ material investments.\nMost of what you’ll do in Stray draws upon the real-world abilities of a cat. But you also have a helpful companion, a drone named B-12, who offers other gifts. B-12 will helpfully interact with objects in the world and communicate with the city’s robotic inhabitants. The cat will also have to avoid danger from rat-like creatures, but with the help of B-12, it appears the cat can turn the tables and kill them en masse with a purple light.\nThe cat can also very believably lick its butt, as seen in the GIF below.\nStray is coming to PlayStation 4, PlayStation 5, and Windows PC sometime in early 2022.",
-          "link": "https://www.polygon.com/22600254/stray-cyberpunk-cat-game-ps5-ps4-annapurna-interactive",
-          "publishedOn": "2021-07-29T19:27:23.000Z",
-          "wordCount": 685,
-          "title": "Cyberpunk cat adventure Stray will let you do highly accurate cat stuff"
-        },
-        {
-          "id": "https://www.polygon.com/22600488/solar-ash-release-date-ps4-ps5-heart-machine",
-          "author": null,
-          "description": "Image: Heart Machine/Annapurna Interactive\n    \n\n  \nStylized action-platformer is coming to PC, PS4, and PS5\n Hyper Light Drifter developer Heart Machine will release its next game, the 3D action-platformer Solar Ash, on Oct. 26, publisher Annapurna Interactive announced Thursday. Solar Ash is coming to PlayStation 4, PlayStation 5, and Windows PC via the Epic Games Store.\nHeart Machine first revealed Solar Ash in 2019 (as Solar Ash Kingdom). Players take on the role of Rei, a Voidrunner who will journey through a colorful, stylized world as she fights to save her planet from the Ultravoid. The developer promises fluid controls, with rail-grinding, grappling, and cloud surfing. \n“Solar Ash is Heart Machine’s vision of the adventure platformer,” game designer Alx Preston said of Solar Ash earlier this year. “The giant spaces, the feel of movement, the flow of combat, and the high stakes battles atop enormous beasts all come together to bring players something we think is incredibly unique, and more importantly, fun.”\nIn our review of the developer’s Hyper Light Drifter, we praised the top-down action game for its combination of story and gameplay: “It replaces traditional narrative structures with moods, but punctuates those contemplative, quiet moments with constant scenes of breakneck, pitch-perfect action. Getting those two elements to not only coexist but thrive together is a needle that Hyper Light Drifter confidently threads.”",
-          "link": "https://www.polygon.com/22600488/solar-ash-release-date-ps4-ps5-heart-machine",
-          "publishedOn": "2021-07-29T19:25:24.000Z",
-          "wordCount": 707,
-          "title": "Hyper Light Drifter team’s new game, Solar Ash, arrives in October"
-        },
-        {
-          "id": "https://www.polygon.com/22599958/metal-gear-solid-snake-legend-of-zelda-wind-waker-mod",
-          "author": null,
-          "description": "Image: Nintendo/AaronTheSnob\n    \n\n  \nIt also answers the question ‘What if Link had a gun?’\n Watch out Ganon! You have a new hero sneaking up your way! Thanks to a mod created by AaronTheSnob, you can now play The Legend of Zelda: The Wind Waker as Solid Snake, the protagonist of the Metal Gear series. \nThe “Snake” in the mod is done in the style of Wind Waker, so he has big eyes and cute, stubby legs. (The little sausage legs just dangle in the wind as he parachutes down.) He wears his hair up with his recognizable headband and dons the dual-toned tactical espionage suit Snake is known for. \nImage: Nintendo/AaronTheSnob\n      Everyone watch out! Link’s got a gun!\n  \nThe mod was published back in 2018, but it made a comeback after a post on it went viral on Twitter. A showcase video for t…",
-          "link": "https://www.polygon.com/22599958/metal-gear-solid-snake-legend-of-zelda-wind-waker-mod",
-          "publishedOn": "2021-07-29T19:10:00.000Z",
-          "wordCount": 894,
-          "title": "This mod lets you play Wind Waker as the cutest widdle Solid Snake"
-        },
-        {
-          "id": "https://www.polygon.com/reviews/22600113/deaths-door-review-xbox-pc-devolver-dark-souls",
-          "author": null,
-          "description": "Image: Acid Nerve/Devolver Digital\n    \n\n\n  \nA difficult game with a generous ramp\n A simple screenshot of Death’s Door evokes its Dark Souls influence without you even needing to know it’s the follow-up to Acid Nerve’s previous top-down boss-killer, Titan Souls. Death’s Door captures that FromSoftware gloom in an instant, but it’s a far more forgiving experience than its inspiration.\nWhere Soulsborne games build seemingly impossible walls for you to break down from the start, Death’s Door carefully ramps up its difficulty to create a fair and completable experience. It’s still a challenge, but Death’s Door reduces the likelihood you’ll hit an impassable wall by slowly pushing your boundaries.\nWhat is Death’s Door?\n\n  \n        \n      Image: Acid Nerve/Devolver Digital\n      Crow stares up …",
-          "link": "https://www.polygon.com/reviews/22600113/deaths-door-review-xbox-pc-devolver-dark-souls",
-          "publishedOn": "2021-07-29T18:27:11.000Z",
-          "wordCount": 1145,
-          "title": "Death’s Door may look like Dark Souls, but its learning curve is much kinder"
-        },
-        {
-          "id": "https://www.polygon.com/e3/22532214/marvels-avengers-black-panther-war-for-wakanda-release-date-trailer-e3-2021",
-          "author": null,
-          "description": "Image: Square Enix/Twitch\n    \n\n  \nCheck out War for Wakanda in action\n Marvel’s Avengers: War for Wakanda is a new expansion coming later this year that will star Black Panther and add the Wakanda biome. Square Enix gave fans a fresh look at the expansion during its E3 2021 livestream on Sunday. \nSquare Enix and Crystal Dynamics first announced the War for Wakanda expansion in March of this year. The original trailer was a call to cation from Klaw, the infamous Vibranium thief played by Andy Serkis in the Marvel Cinematic Universe. Klaw and his minions will invade Wakanda in the new expansion, and the Avengers will team up with the Black Panther to help him save his kingdom.\nBlack Panther marks the third new hero since Marvel’s Avengers launched last year. Both Kate Bishop and Clint Barton — two different versions of the same hero, Hawkeye — have already made their debut. Square Enix and Crystal Dynamics previously revealed that Spider-Man will come to Marvel’s Avengers as a PlayStation-exclusive hero.\nMarvel’s Avengers: War for Wakanda will be free for all players who own Marvel’s Avengers, and it will come to Google Stadia, PlayStation 4, PlayStation 5, Windows PC, Xbox One, and Xbox Series X. \nUpdate (July 29): Square Enix and Crystal Dynamics revealed that Black Panther and Marvel’s Avengers War for Wakanda expansion will launch Aug. 17.",
-          "link": "https://www.polygon.com/e3/22532214/marvels-avengers-black-panther-war-for-wakanda-release-date-trailer-e3-2021",
-          "publishedOn": "2021-07-29T18:18:34.000Z",
-          "wordCount": 788,
-          "title": "Marvel’s Avengers’ Black Panther expansion launches Aug. 17"
-        },
-        {
-          "id": "https://www.polygon.com/22600297/forza-motorsport-7-end-of-life-details-september-2021",
-          "author": null,
-          "description": "Image: Turn 10 Studios/Xbox Game Studios\n    \n\n  \nOwn the game? You won’t lose it.\n Forza Motorsport 7 is a relatively young game, having only been released in 2017. Today, Microsoft announced that the game is about to reach “End of Life” status, which means it’ll be unavailable to purchase on the Microsoft Store or through Xbox Game Pass after Sept. 15. Players who already own the game will be able to download and play the game as normal, including multiplayer and other online services. Microsoft will also continue to run Rivals esports events with partners.\nPlayers who own DLC for the game but access the main game through Xbox Game Pass will not be locked out of the game either. Microsoft explains how these cases will be handled. The post reads, in part:\nFor any Xbox Game Pass players who previously purchased DLC for the game, but not the game itself, we have good news! You will receive a token for the game through the Xbox Message Center so that you can continue playing Forza Motorsport 7. Token distribution will be through August 2. However, if after that date you have not received your token, please contact Xbox Support here. (Unused tokens will expire on September 15, 2023.)\nIf you know someone who has yet to play Forza Motorsport 7, we are offering a discount on the game in the Microsoft Store through September 15.\nThe next game in the series, which is simply called Forza Motorsport, currently has no release date, although it will come to Xbox Game Pass on day one.",
-          "link": "https://www.polygon.com/22600297/forza-motorsport-7-end-of-life-details-september-2021",
-          "publishedOn": "2021-07-29T18:02:43.000Z",
-          "wordCount": 774,
-          "title": "Forza Motorsport 7 reaches ‘end of life,’ won’t be sold after Sept. 15"
         }
       ]
     },
@@ -7991,60 +7703,6 @@
           "publishedOn": "2021-07-30T17:55:16.000Z",
           "wordCount": 1643,
           "title": "Apple Bottom Jeans"
-        },
-        {
-          "id": "https://waxy.org/?p=42120",
-          "author": "Andy Baio",
-          "description": "a short delightful game by Louie Zong, made with GB Studio #",
-          "link": "https://everydaylouie.itch.io/windsor-road",
-          "publishedOn": "2021-07-30T01:55:01.000Z",
-          "wordCount": 106,
-          "title": "Windsor Road"
-        },
-        {
-          "id": "https://waxy.org/?p=42115",
-          "author": "Andy Baio",
-          "description": "printed on the back of cereal boxes, make beats with cereal and an AR web app #",
-          "link": "https://twitter.com/reesespuffs/status/1420402142741925892",
-          "publishedOn": "2021-07-29T20:56:54.000Z",
-          "wordCount": 196,
-          "title": "RP-FX, the Reese’s Puffs drum machine"
-        },
-        {
-          "id": "https://waxy.org/?p=42109",
-          "author": "Andy Baio",
-          "description": "I love how Mark Rober and friends perform remarkable feats of engineering for delightfully silly ends #",
-          "link": "https://www.youtube.com/watch?v=8HEfIJlcFbs",
-          "publishedOn": "2021-07-29T20:35:02.000Z",
-          "wordCount": null,
-          "title": "World Record Domino Robot"
-        },
-        {
-          "id": "https://waxy.org/?p=42106",
-          "author": "Andy Baio",
-          "description": "so many great games, I'm most excited for the Outer Wilds expansion, Stray, and Storyteller #",
-          "link": "https://www.theverge.com/2021/7/29/22597945/annapurna-showcase-stray-artful-escape-solar-ash-outer-wilds",
-          "publishedOn": "2021-07-29T20:31:36.000Z",
-          "wordCount": 1015,
-          "title": "Highlights from Annapurna Interactive’s game showcase"
-        },
-        {
-          "id": "https://waxy.org/?p=42103",
-          "author": "Andy Baio",
-          "description": "Coopertom is continually doing something great in VRChat #",
-          "link": "https://www.inputmag.com/gaming/how-furries-are-making-virtual-reality-worth-visiting",
-          "publishedOn": "2021-07-29T20:06:51.000Z",
-          "wordCount": 2738,
-          "title": "How furries are making VR actually worth visiting"
-        },
-        {
-          "id": "https://waxy.org/?p=42099",
-          "author": "Andy Baio",
-          "description": "preorders for the adorable cranky handheld open today! #",
-          "link": "https://podcast.panic.com/#episode006",
-          "publishedOn": "2021-07-29T15:44:07.000Z",
-          "wordCount": 837,
-          "title": "Panic Podcast on the story of Playdate"
         }
       ]
     },
@@ -8736,42 +8394,6 @@
           "publishedOn": "2021-07-30T14:00:56.000Z",
           "wordCount": 178,
           "title": "The HD Video Feedback Kinetic Sculpture"
-        },
-        {
-          "id": "https://kottke.org/21/07/lora-webb-nichols-photographic-chronicle-of-the-20th-century-american-west",
-          "author": null,
-          "description": "This is fantastic: for more than 60 years beginning in 1899, Lora Webb Nichols captured and collected about 24,000 photographs of life in a small copper-mining town in Wyoming.\nOn October 28, 1899, Lora Webb Nichols was at her family’s homestead, near Encampment, Wyoming, reading “Five Little Peppers Midway,” when her beau, Bert Oldman, came to the door to deliver a birthday present. The sixteen-year-old Nichols would marry the thirty-year-old Oldman the following year, and divorce him a decade later. The gift, however — a Kodak camera — would change the course of her life. Between 1899 and her death, in 1962, Nichols created and collected some twenty-four thousand negatives documenting life in her small Wyoming town, whose fortunes boomed and then busted along with the region’s copper mines. What Nichols left behind might be the largest photographic record of this era and region in existence: thousands of portraits, still-lifes, domestic interiors, and landscapes, all made with an unfussy, straightforward, often humorous eye toward the small textures and gestures of everyday life.\n\n\nYou can browse the collection of her photos at the American Heritage Center at the University of Wyoming.\nTags: Lora Webb Nichols   photography",
-          "link": "https://kottke.org/21/07/lora-webb-nichols-photographic-chronicle-of-the-20th-century-american-west",
-          "publishedOn": "2021-07-29T20:27:52.000Z",
-          "wordCount": 246,
-          "title": "Lora Webb Nichols’ Photographic Chronicle of the 20th Century American West"
-        },
-        {
-          "id": "https://kottke.org/21/07/how-taiwan-held-off-covid-19-until-it-didnt",
-          "author": null,
-          "description": "This video from Vox takes a look at how Taiwan avoided a Covid-19 outbreak for more than a year (and kept total deaths to just 7 in 2020 in a country of 23.6 million) while residents were mostly able to go about their normal lives. The video features photojournalist Ed Ou, who underwent a mandatory 14-day quarantine when he traveled to Taiwan last year. Ou had this to say after spending time in Taiwan, doing normal things without lockdowns or restrictions:\nThis was an alternate universe of what America, and the rest of the world, had seen all year. The Taiwanese people had been able to just live their lives, as if nothing had happened. Like, to me, that’s freedom.\n\n\nAfter more than a year of almost no cases, Taiwan experienced its first Covid-19 outbreak in May (after relaxing their quarantine rules and, presumably, the rise of the delta variant) but has since gotten it under control. Other countries that had been successful in controlling the virus until recently — like Vietnam, Thailand, and Mongolia — are also seeing outbreaks now. When the rest of the world is teeming with the virus, it becomes more likely over time that even the most organized and protected systems are going to be vulnerable.\nTags: Covid-19   Ed Ou   Taiwan   video",
-          "link": "https://kottke.org/21/07/how-taiwan-held-off-covid-19-until-it-didnt",
-          "publishedOn": "2021-07-29T18:22:36.000Z",
-          "wordCount": 260,
-          "title": "How Taiwan Held Off Covid-19 (Until It Didn’t)"
-        },
-        {
-          "id": "https://kottke.org/21/07/philosophical-captchas",
-          "author": null,
-          "description": "The ship of Theseus image is from Brooks Sterritt and Magritte’s pipe is from Noah Veltman.\nTags: Brooks Sterritt   Noah Veltman   remix",
-          "link": "https://kottke.org/21/07/philosophical-captchas",
-          "publishedOn": "2021-07-29T16:15:22.000Z",
-          "wordCount": 54,
-          "title": "Philosophical CAPTCHAs"
-        },
-        {
-          "id": "https://kottke.org/21/07/minimalist-creative-funny-photography",
-          "author": null,
-          "description": "Spanish photographers Anna Devís and Daniel Rueda cleverly use landscapes and architectural elements to create minimalist and fun portraits of themselves. You can check out more of their work on Instagram. (via moss & fog)\nTags: Anna Devis   art   Daniel Rueda   photography",
-          "link": "https://kottke.org/21/07/minimalist-creative-funny-photography",
-          "publishedOn": "2021-07-29T14:15:57.000Z",
-          "wordCount": 77,
-          "title": "Minimalist Creative Funny Photography"
         }
       ]
     },
@@ -8995,15 +8617,6 @@
           "publishedOn": "2021-08-01T08:00:00.000Z",
           "wordCount": 5996,
           "title": "Nine Favorite Things."
-        },
-        {
-          "id": "https://www.halfbakedharvest.com/?p=109543",
-          "author": "halfbakedharvest",
-          "description": "Frozen Chocolate Peanut Butter Cups.\nFrozen Chocolate Peanut Butter Cups…homemade Reese’s peanut butter cups – but frozen. These treats are so easy to make with only 6 ingredients and zero baking, nothing not to love! Salted chocolate cups stuffed with a sweet and super creamy peanut butter filling are frozen until they’re ice cold. These cups are so delicious, they’re…\nREAD: Frozen Chocolate Peanut Butter Cups.",
-          "link": "https://www.halfbakedharvest.com/frozen-chocolate-peanut-butter-cups/",
-          "publishedOn": "2021-07-30T08:00:00.000Z",
-          "wordCount": 1942,
-          "title": "Frozen Chocolate Peanut Butter Cups."
         }
       ]
     },
@@ -13729,105 +13342,6 @@
           "publishedOn": "2021-07-30T13:06:09.000Z",
           "wordCount": 1122,
           "title": "Behold Starro, Fear Weasel in Two Great ‘The Suicide Squad’ Clips [Video]"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3676181",
-          "author": "Mike Wilson",
-          "description": "Originally released in 2019 for PC via Steam and PlayStation 4, Soedesco and developer Creazn Studio have announced that their film noir psychological horror title Dollhouse is getting both a physical and digital release this October for the Nintendo Switch. The new version of the game will take advantage of Switch-specific features, including the touch screen […]",
-          "link": "https://bloody-disgusting.com/video-games/3676181/psychological-horror-game-dollhouse-receiving-nintendo-switch-release-this-october/",
-          "publishedOn": "2021-07-30T11:56:35.000Z",
-          "wordCount": 1009,
-          "title": "Psychological Horror Game ‘Dollhouse’ Receiving Nintendo Switch Release This October"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3676124",
-          "author": "Brad Miska",
-          "description": "Originally announced last year, Neil Marshall (Dog Soldiers, The Descent) will be following up his brand new horror movie The Reckoning with The Lair, a fresh horror project that’ll bring Marshall back into the world of creatures. It was announced tonight that filming is currently underway in Hungary and that The Lair will star Jonathan Howard (Marvel’s Thor: The Dark World, Skylines, Warner Bros.’ Godzilla […]",
-          "link": "https://bloody-disgusting.com/movie/3676124/image-neil-marshalls-lair-full-monster-movie-flesh-eating-human-alien-hybrids/",
-          "publishedOn": "2021-07-29T21:22:30.000Z",
-          "wordCount": 1580,
-          "title": "[Image] Neil Marshall’s ‘The Lair’ Is a “Full-On Monster Movie” With Flesh-Eating Human-Alien Hybrids!"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3676115",
-          "author": "Brad Miska",
-          "description": "Whether you’re in Los Angeles or in the Orlando area, Halloween Horror Nights is the premier event each Halloween season. The massive attraction is set to return to both Universal Studios theme parks this September and is delivering a ton of really cool mazes from Beetlejuice to “The House on Haunted Hill”, The Exorcist, and even The Texas […]",
-          "link": "https://bloody-disgusting.com/the-further/3676115/horror-nights-merch-alive-sweet-new-bride-frankenstein-lives-t-shirt/",
-          "publishedOn": "2021-07-29T19:29:12.000Z",
-          "wordCount": 1468,
-          "title": "Horror Nights Merch Is Alive: Sweet New ‘The Bride of Frankenstein Lives!’ T-Shirt"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3675996",
-          "author": "Meagan Navarro",
-          "description": "Masquerade is defined as a false pretense or pretending to be someone or something else. Writer/Director Shane Dax Taylor opens his home invasion thriller to a masquerade fundraiser as a misdirect, instead of hoping to make something more meaningful out of his title by the end credits. But Masquerade sticks too closely to the formula for too long, unable […]",
-          "link": "https://bloody-disgusting.com/reviews/3675996/review-masquerade-sleepwalks-home-invasion-thriller/",
-          "publishedOn": "2021-07-29T19:19:29.000Z",
-          "wordCount": 1535,
-          "title": "[Review] ‘Masquerade’ Sleepwalks Through Home Invasion Thriller"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3676109",
-          "author": "Brad Miska",
-          "description": "Winchester Mystery House announced today All Hallows’ Eve, an all-new estate-wide Halloween event with both indoor and outdoor tours kicking off on Friday, September 10th. Tickets are on sale. All Hallows’ Eve features the “Lost in the House Tour”, a theatrical paranormal investigative adventure and the family-friendly Jack O’ Lantern Trail. The Winchester Mystery House […]",
-          "link": "https://bloody-disgusting.com/the-further/3676109/get-lost-winchester-mystery-house-part-hallows-eve-event-walk-jack-olantern-trail/",
-          "publishedOn": "2021-07-29T19:17:15.000Z",
-          "wordCount": 1461,
-          "title": "Get Lost in ‘The Winchester Mystery House’ as Part of ‘All Hallows’ Eve’ Event; Walk the Jack O’Lantern Trail!"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3676077",
-          "author": "Daniel Kurland",
-          "description": "American Horror Stories conjures inspired scares with a murderous Santa, but falls flat with its vile cast of social media-obsessed Grinches. “We’re not just gonna sit here, Barry. We’re gonna record it.” I love Killer Santas. There’s something absolutely twisted about the perversion of this symbol of purity and childhood innocence, whether it’s through the […]",
-          "link": "https://bloody-disgusting.com/reviews/3676077/american-horror-stories-review-naughty-list-mixed-bag-thats-filled-coal-toys/",
-          "publishedOn": "2021-07-29T16:39:48.000Z",
-          "wordCount": 2989,
-          "title": "[Review] “American Horror Stories”: Danny Trejo Stars as Killer Santa in “The Naughty List”, a Mixed Bag That’s Filled With More Coal Than Toys"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3675973",
-          "author": "Brad Miska",
-          "description": "Yet another movie about the real-life murders of serial killer Ted Bundy is on the way, with Ted Bundy: American Boogeyman arriving in select theaters via Fathom Events next month. The film will tell “the untold story of notorious killer Ted Bundy. A specter roams the highways of a gritty and decadent 1970s America, hunting for […]",
-          "link": "https://bloody-disgusting.com/exclusives/3675973/exclusive-look-lin-shaye-house-wax-actor-chad-michael-murray-ted-bundy-american-boogeyman-images/",
-          "publishedOn": "2021-07-29T16:00:04.000Z",
-          "wordCount": 1316,
-          "title": "Exclusive Look at Lin Shaye and ‘House of Wax’ Actor Chad Michael Murray in ‘Ted Bundy: American Boogeyman’ [Images]"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3676088",
-          "author": "Brad Miska",
-          "description": "Venice 2020 winner of “Best Cinematography”, Shudder will release Filip Jan Rymsza‘s psychological thriller Mosquito State on its platform Aug. 26th. The film takes place in August of 2007: “Isolated in his austere penthouse overlooking Central Park, obsessive Wall Street data analyst Richard Boca (Beau Knapp) sees ominous patterns: His computer models are behaving erratically, […]",
-          "link": "https://bloody-disgusting.com/home-video/3676088/body-horror-mosquito-state-swarms-shudder-august-trailer/",
-          "publishedOn": "2021-07-29T15:38:14.000Z",
-          "wordCount": 1063,
-          "title": "Body Horror ‘Mosquito State’ Swarms Shudder This August [Trailer]"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3676080",
-          "author": "Brad Miska",
-          "description": "In addition to the recently released Escape Room 2, Orphan star Isabelle Fuhrman appears in the period horror movie The Last Thing Mary Saw, set in the year 1843. Set to World Premiere at the virtual edition of the Fantasia Film Festival, Fuhrman stars alongside Rory Culkin (Lords of Chaos), Stefanie Scott (Insidious: Chapter 3) and Judith Roberts (You Were Never Really Here). From […]",
-          "link": "https://bloody-disgusting.com/movie/3676080/head-back-1843-religious-horror-last-thing-mary-saw-images/",
-          "publishedOn": "2021-07-29T15:21:38.000Z",
-          "wordCount": 1336,
-          "title": "Head Back to 1843 With Religious Horror ‘The Last Thing Mary Saw’ [Images]"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3676070",
-          "author": "Brad Miska",
-          "description": "Bad Blood Films is bringing their folk-horror Sacrilege to digital download in the UK on September 27th and with the news have released the first UK trailer. In the film… “Four lifelong friends head to a remote lodge for a weekend of fun. What begins as an idyllic retreat quickly descends into a fight for […]",
-          "link": "https://bloody-disgusting.com/movie/3676070/uk-sacrilege-trailer-sacrificed-solstice-video/",
-          "publishedOn": "2021-07-29T14:19:08.000Z",
-          "wordCount": 1152,
-          "title": "UK ‘Sacrilege’ Trailer Sacrificed for the Solstice [Video]"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3676027",
-          "author": "Brad Miska",
-          "description": "Don’t Breathe 2 has set its sights on a theatrical release next month and Bloody Disgusting got our hands on a new piece of international art that slightly harkens back to the original poster for the Fede Alvarez-directed first film. On it, we see Stephen Lang‘s “Blind Man” hovering over a young girl (played by […]",
-          "link": "https://bloody-disgusting.com/movie/3676027/dont-breathe-2-poster-art-calls-back-first-film/",
-          "publishedOn": "2021-07-29T13:55:48.000Z",
-          "wordCount": 1199,
-          "title": "International ‘Don’t Breathe 2’ Poster Art Warns the Intruders"
         }
       ]
     },
@@ -14300,42 +13814,6 @@
           "publishedOn": "2021-07-30T13:00:00.000Z",
           "wordCount": 478,
           "title": "BSH Radio #317: He’s not dad, he’s Uncle Jim"
-        },
-        {
-          "id": "https://www.broadstreethockey.com/2021/7/30/22600749/friday-morning-fly-by-and-now-we-wait",
-          "author": null,
-          "description": "Photo by Len Redkoles/NHLI via Getty Images\n    \n\n  \nToday’s open discussion thread, complete with your daily dose of Flyers news and notes…  \n *So now that Chuck is done (ostensibly), we’ve got the long hot August between us and players on the ice. Sigh. Anyhoo, Charlie looks at the last two moves Chuck made this week: Martin Jones and Nate Thompson. [The Athletic]\n*If there’s one thing we can take from Chuck’s offseason it’s that he is ready for this team to win now. This isn’t a man building for the future. [NBC Sports Philly]\n*But there were some risks taken. Last summer, Chuck bet that his players would repeat their performance from the end of the regular season. He lost that bet. This year, he’s better that a couple of his new players will improve. We’ll see how it goes. [BSH]\n*We spoke with Alex from The Cannon to get a little inside information about Cam Atkinson. [BSH]\n*Our pal Michael Raffl has found a new home down south. [Defending Big D]\n*It seemed like a Vladimir Tarasenko trade was imminent. And it still hasn’t happened. What’s up with that? [ProHockeyTalk]\n*If you were worried about Ron Hextall going to the Penguins and making them into a winner again... well, he’s doing Ron Hextall things over there. We’re fine. [Pensburgh]\n*And finally, just in time for your ride to the shore today, Steph had a chat with Chuck Fletcher yesterday and we learned some good stuff. Really really good stuff. [BSH]",
-          "link": "https://www.broadstreethockey.com/2021/7/30/22600749/friday-morning-fly-by-and-now-we-wait",
-          "publishedOn": "2021-07-30T10:00:00.000Z",
-          "wordCount": 672,
-          "title": "Friday Morning Fly By: And now, we wait"
-        },
-        {
-          "id": "https://www.broadstreethockey.com/2021/7/29/22600377/interview-chuck-fletcher-general-manager-philadelphia-flyers",
-          "author": null,
-          "description": "Photo by Bruce Bennett/Getty Images\n    \n\n  \nWe get some one on one time with the Flyers General Manager\n We sit down with Flyers General Manager Chuck Fletcher to talk about his time in Philadelphia, the moves he has made so far this offseason, and the general state of the team. This is part of a series we will continue through the season where we talk to Flyers players, coaches, and front office staff.\nYou can listen to this interview below or on any of the platforms where you listen to podcasts! Here are some of the highlights along with timestamps:\n0:19\nWhat have you learned about the Flyers organization that you didn’t know prior to 2018?\n2:32\nCan you tell me a little more about how you work with Flyers ownership?\n5:44\nHave you been surprised by any other team’s moves in this offseason?\n7:14\nHow far away is the team we have right now from the team you have in your head that will win the Stanley Cup?\n9:04\nHow does the group you brought in this offseason help move the team forward?\n10:29\nDo you think Philadelphia is a desirable destination for free agents and high profile players?\n11:58\nWhat does success look like for the team this year?\n14:07\nAn update on the Claude Giroux and Sean Couturier extensions.\n14:54\nTalking about Rasmus Ristolainen and Martin Jones.\n18:43\nWhat do you want Flyers fans to take away from this interview?",
-          "link": "https://www.broadstreethockey.com/2021/7/29/22600377/interview-chuck-fletcher-general-manager-philadelphia-flyers",
-          "publishedOn": "2021-07-29T18:29:49.000Z",
-          "wordCount": 718,
-          "title": "Broad Street Hockey interviews Chuck Fletcher"
-        },
-        {
-          "id": "https://www.broadstreethockey.com/2021/7/29/22599161/nhl-free-agency-philadelphia-flyers-gambling-in-crease-goalies-martin-jones-carter-hart-analysis",
-          "author": null,
-          "description": "Photo by Len Redkoles/NHLI via Getty Images\n    \n\n  \nGM Chuck Fletcher is playing a potentially dangerous game with his goaltending situation heading into 2021-22.\n After posting the NHL’s worst save percentage (.880) and allowing the most goals in the league a season ago, the Flyers are once again leaving their goaltending situation to chance in 2021-22.\nFlyers GM Chuck Fletcher has worked hard this offseason to try and improve his roster — adding defensemen Ryan Ellis and Rasmus Ristolainen via the trade market and dumped the offensive-minded Shayne Gostisbehere for cap space. Heck, he even swapped out a major defensive liability at forward in Jakub Voracek for the more defensively responsible Cam Atkinson. \nBut while Fletcher took care of items off his offseason checklist, one of — if n…",
-          "link": "https://www.broadstreethockey.com/2021/7/29/22599161/nhl-free-agency-philadelphia-flyers-gambling-in-crease-goalies-martin-jones-carter-hart-analysis",
-          "publishedOn": "2021-07-29T14:00:00.000Z",
-          "wordCount": 1448,
-          "title": "The Flyers are gambling on better results in the crease in 2021-22 with a risky bet"
-        },
-        {
-          "id": "https://www.broadstreethockey.com/2021/7/29/22599682/bsh-radio-bonus-meet-cam-atkinson-with-alex-connor",
-          "author": null,
-          "description": "Photo by Kyle Ross/Icon Sportswire via Getty Images\n    \n\n  \nIn which we get the good and the bad from a Blue Jackets expert. \n When Jake Voracek was traded to the Columbus Blue Jackets for Cam Atkinson the reaction of most Flyers fans was one of overwhelming positivity. But are we right to be so optimistic about the addition of Atkinson? Are there downsides to be found? We get the ins and the outs, the goods and the bads, from Alex Connor of The Cannon.",
-          "link": "https://www.broadstreethockey.com/2021/7/29/22599682/bsh-radio-bonus-meet-cam-atkinson-with-alex-connor",
-          "publishedOn": "2021-07-29T13:00:00.000Z",
-          "wordCount": 521,
-          "title": "BSH Radio Bonus! Meet Cam Atkinson - with Alex from The Cannon"
         }
       ]
     },
@@ -14344,6 +13822,34 @@
       "feedUrl": "https://indyweek.com/api/rss/content.rss",
       "siteUrl": "https://indyweek.com/api/rss/content.rss",
       "articles": [
+        {
+          "id": "https://indyweek.com/news/sunday-long-reads-parents-are-not-okay/",
+          "author": "Leigh Tauss",
+          "description": "\"Parents are living a repeat of the worst year of their lives—except this time, no matter what, kids are going back,\" writes Dan Sinker for The Atlantic.",
+          "link": "https://indyweek.com/news/sunday-long-reads-parents-are-not-okay/",
+          "publishedOn": "2021-08-28T19:18:11.000Z",
+          "wordCount": 734,
+          "title": "Sunday Reading: Parents Are Not Okay",
+          "enclosure": {
+            "url": "https://indyweek.com/downloads/79453/download/stay%20home.jpg?cb=004ae01d7e66b8b2ef805dfae1a2ae48",
+            "type": "image/jpeg",
+            "length": "72395"
+          }
+        },
+        {
+          "id": "https://indyweek.com/news/northcarolina/protections-for-struggling-tenants-ends-supreme-court-voids-eviction-moratorium/",
+          "author": "Yanqi Xu",
+          "description": "A North Carolina attorney representing tenants calls the ruling “cruel and horrific.”",
+          "link": "https://indyweek.com/news/northcarolina/protections-for-struggling-tenants-ends-supreme-court-voids-eviction-moratorium/",
+          "publishedOn": "2021-08-28T14:34:26.000Z",
+          "wordCount": 1115,
+          "title": "Protections for Struggling Tenants Ends as Supreme Court Voids Eviction Moratorium",
+          "enclosure": {
+            "url": "https://indyweek.com/downloads/81049/download/Garden-Terrace-tenants-protest-repairs-evictions.jpg?cb=4a205211312b66df5dc4546dc94ee55f",
+            "type": "image/jpeg",
+            "length": "1916644"
+          }
+        },
         {
           "id": "https://indyweek.com/news/things-to-do-this-weekend-82821/",
           "author": "Sarah Edwards",
@@ -16107,48 +15613,6 @@
             "type": "image/jpeg",
             "length": "120535"
           }
-        },
-        {
-          "id": "https://indyweek.com/music/news/north-carolina-central-university-student/",
-          "author": "Thomasi McDonald",
-          "description": "Jawan Davidson, a senior voice student, steps into NCCU's rich jazz tradition.",
-          "link": "https://indyweek.com/music/news/north-carolina-central-university-student/",
-          "publishedOn": "2021-07-29T17:37:33.000Z",
-          "wordCount": 1250,
-          "title": "North Carolina Central University Student Wins Top Jazz Scholarship",
-          "enclosure": {
-            "url": "https://indyweek.com/downloads/82651/download/Jawan%20Davidson.jpg?cb=1483e7f089b363356c3908ae2706b1a7",
-            "type": "image/jpeg",
-            "length": "486956"
-          }
-        },
-        {
-          "id": "https://indyweek.com/culture/sports/pickleball-facility-opening-in-durham/",
-          "author": "Sarah Edwards",
-          "description": "Pickleball enthusiasts, rejoice: Durham Parks and Recreation has announced that it is installing the first \"dedicated pickleball facility in Durham.\"",
-          "link": "https://indyweek.com/culture/sports/pickleball-facility-opening-in-durham/",
-          "publishedOn": "2021-07-29T17:34:23.000Z",
-          "wordCount": 648,
-          "title": "The Pickleball Craze Finds a New Home at Piney Wood Park",
-          "enclosure": {
-            "url": "https://indyweek.com/downloads/82650/download/joan-azeka-bg43g7xTu2M-unsplash.jpg?cb=4442a0560f835a3d5df85bc4a1e6ec41",
-            "type": "image/jpeg",
-            "length": "951278"
-          }
-        },
-        {
-          "id": "https://indyweek.com/culture/etc/galaxycon-returns-to-the-triangle-cautiously/",
-          "author": "Zack Smith",
-          "description": "This year, reports say the convention is prepared for a smaller crowd of about 22,000 attendees over the four days.",
-          "link": "https://indyweek.com/culture/etc/galaxycon-returns-to-the-triangle-cautiously/",
-          "publishedOn": "2021-07-29T15:59:01.000Z",
-          "wordCount": 954,
-          "title": "GalaxyCon Returns to the Triangle for a Weekend of Cautious Cosplay",
-          "enclosure": {
-            "url": "https://indyweek.com/downloads/82649/download/Screen%20Shot%202021-07-29%20at%2011.46.59%20AM.png?cb=dd020e9c467047f1da778d13267bac02",
-            "type": "image/png",
-            "length": "1196335"
-          }
         }
       ]
     },
@@ -16996,46 +16460,6 @@
           "wordCount": null,
           "title": "Xhosa Cole, “K(no)w Them, K(no)w Us”",
           "itunes": {}
-        },
-        {
-          "id": "142059",
-          "author": "George Grella",
-          "description": "The composer used classical composition to show how the lives of the least fortunate are as important as the abstract pantheons of high culture.\nRead full story on the Bandcamp Daily.",
-          "link": "https://daily.bandcamp.com/lists/fred-rzewski-list",
-          "publishedOn": "2021-07-29T18:00:17.000Z",
-          "wordCount": null,
-          "title": "Fred Rzewski’s Classical Call To Arms",
-          "itunes": {}
-        },
-        {
-          "id": "142296",
-          "author": "Sean Keating",
-          "description": "Our guide to the month’s crucial singles.\nRead full story on the Bandcamp Daily.",
-          "link": "https://daily.bandcamp.com/best-dance-12s/the-best-dance-12-singles-on-bandcamp-june-july-2021",
-          "publishedOn": "2021-07-29T13:42:20.000Z",
-          "wordCount": null,
-          "title": "The Best Dance 12” Singles on Bandcamp: June/July 2021",
-          "itunes": {}
-        },
-        {
-          "id": "142289",
-          "author": "Marcus J. Moore",
-          "description": "Much of Sharrock’s late-career catalog has newly become available on Bandcamp via the label Improvising Beings.\nRead full story on the Bandcamp Daily.",
-          "link": "https://daily.bandcamp.com/lists/linda-sharrock-list",
-          "publishedOn": "2021-07-29T13:41:43.000Z",
-          "wordCount": null,
-          "title": "A Guide to the Late Recordings of Experimental Vocalist Linda Sharrock",
-          "itunes": {}
-        },
-        {
-          "id": "142293",
-          "author": "Jeff Terich",
-          "description": "Kristina Esfandiari’s latest uses religious language to share personal truths.\nRead full story on the Bandcamp Daily.",
-          "link": "https://daily.bandcamp.com/album-of-the-day/king-woman-celestial-blues-review",
-          "publishedOn": "2021-07-29T13:41:09.000Z",
-          "wordCount": null,
-          "title": "King Woman, “Celestial Blues”",
-          "itunes": {}
         }
       ]
     },
@@ -17376,15 +16800,6 @@
           "publishedOn": "2021-07-31T00:54:24.824Z",
           "wordCount": 2446,
           "title": "Getting the ‘vaccine mandates’ story right"
-        },
-        {
-          "id": "https://www.cjr.org/the_media_today/section-230-critics-are-forgetting-about-the-first-amendment.php",
-          "author": null,
-          "description": "It is a recurring theme in political circles that giant digital platforms such as Facebook, Twitter, and YouTube engage in bad behavior—distributing disinformation, allowing hate speech, removing conservative opinions, and so on—in part because they are protected from legal liability by Section 230 of the Communications Decency Act, which says they aren’t responsible for content […]",
-          "link": "https://www.cjr.org/the_media_today/section-230-critics-are-forgetting-about-the-first-amendment.php",
-          "publishedOn": "2021-07-30T00:56:13.120Z",
-          "wordCount": 2255,
-          "title": "Section 230 critics are forgetting about the First Amendment"
         }
       ]
     },
@@ -17569,21 +16984,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3d977d0e-073e-4dbb-baef-a6e765cc60d3_5683x3697.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          }
-        },
-        {
-          "id": "https://www.platformer.news/p/notes-on-a-year-using-roam-research",
-          "author": "Casey Newton",
-          "description": "Can tech platforms build a better knowledge worker?",
-          "link": "https://www.platformer.news/p/notes-on-a-year-using-roam-research",
-          "publishedOn": "2021-07-30T00:00:21.000Z",
-          "wordCount": null,
-          "title": "Notes on a year using Roam Research",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F045d50e9-6653-4aa4-bf6f-1e0711996882_954x664.png",
             "length": "0",
             "type": "image/jpeg"
           }
@@ -18411,15 +17811,6 @@
           "publishedOn": "2021-08-02T10:00:36.000Z",
           "wordCount": 1882,
           "title": "Diskord – Degenerations Review"
-        },
-        {
-          "id": "https://yourlastrites.com/?p=37038",
-          "author": "Captain",
-          "description": "Heavy metal and gimmickry have had a complicated relationship since the very day the genre first crawled from the primordial soup. When the strategy has worked, the results have been remarkable: KISS, Mercyful Fate / King Diamond, Venom, GWAR, Ghost, et al. When it flops, however, the consequences are damning: *cough*Ghost Bath*cough*, plus about a ...",
-          "link": "https://yourlastrites.com/2021/07/30/diamonds-rust-crimson-glory-crimson-glory/",
-          "publishedOn": "2021-07-30T10:00:18.000Z",
-          "wordCount": 2474,
-          "title": "Diamonds & Rust: Crimson Glory – Crimson Glory"
         }
       ]
     },
@@ -18607,15 +17998,6 @@
           "publishedOn": "2021-08-02T11:27:56.000Z",
           "wordCount": 543,
           "title": "Sun Of The Suns – TIIT"
-        },
-        {
-          "id": "https://www.teethofthedivine.com/?p=55910",
-          "author": "Erik T",
-          "description": "Sweden’s Havamal ( ‘the words of Odin’), is a relatively new Norse/Viking-themed melodic death metal band with one album under their belt from 2019, Tales from Yggdrasil, which I have not heard. I was in the mood for something Viking -y to tide me over until the new Thyrfing, and this has fit the bill […]",
-          "link": "https://www.teethofthedivine.com/reviews/havamal-the-shadow-chapter/",
-          "publishedOn": "2021-07-30T11:26:37.000Z",
-          "wordCount": 447,
-          "title": "Havamal – The Shadow Chapter"
         }
       ]
     },
