@@ -12,6 +12,33 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1790312",
+          "author": "Ars Staff",
+          "description": "Massive patch downloads, online-focused game designs hinder millions of players.",
+          "link": "https://arstechnica.com/?p=1790312",
+          "publishedOn": "2021-08-29T22:18:29.000Z",
+          "wordCount": 1462,
+          "title": "The modern challenge of gaming without a strong Internet connection"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1790302",
+          "author": "Ars Staff",
+          "description": "Hardware and software solutions open gaming to a wider audience than ever.",
+          "link": "https://arstechnica.com/?p=1790302",
+          "publishedOn": "2021-08-29T21:20:24.000Z",
+          "wordCount": 1282,
+          "title": "How game makers are catering to disabled players"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1790321",
+          "author": "WIRED",
+          "description": "Undersea cables would be hit especially hard by a coronal mass ejection.",
+          "link": "https://arstechnica.com/?p=1790321",
+          "publishedOn": "2021-08-29T10:05:25.000Z",
+          "wordCount": 1501,
+          "title": "A bad solar storm could cause an “Internet apocalypse”"
+        },
+        {
           "id": "https://arstechnica.com/?p=1790309",
           "author": "Sam Machkovech",
           "description": "Tastefully done, fun in VR, but we hope noted issues are rendered moot before long.",
@@ -2548,96 +2575,6 @@
           "publishedOn": "2021-07-31T14:00:13.000Z",
           "wordCount": 1531,
           "title": "The privacy battle Apple isn’t fighting"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1784270",
-          "author": "Diana Gitig",
-          "description": "H.G. Wells presented a vision of society that events quickly eclipsed.",
-          "link": "https://arstechnica.com/?p=1784270",
-          "publishedOn": "2021-07-31T12:05:21.000Z",
-          "wordCount": 1576,
-          "title": "H.G. Wells’ “World Brain” is now here—what have we learned since?"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1784275",
-          "author": "Jonathan M. Gitlin",
-          "description": "In the US, lifecycle emissions for EVs are already 60-68% lower than gasoline.",
-          "link": "https://arstechnica.com/?p=1784275",
-          "publishedOn": "2021-07-31T11:00:36.000Z",
-          "wordCount": 1035,
-          "title": "Electric cars have much lower life cycle emissions, new study confirms"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1784320",
-          "author": "Jim Salter",
-          "description": "The 2021/2022 3G sunset will affect even 8th-gen (2016) Kindle devices.",
-          "link": "https://arstechnica.com/?p=1784320",
-          "publishedOn": "2021-07-30T22:02:10.000Z",
-          "wordCount": 752,
-          "title": "3G-only Kindles begin their long, slow death this year"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1784297",
-          "author": "Jon Brodkin",
-          "description": "Bezos' Blue Origin protested SpaceX deal, but GAO said NASA didn't break any laws.",
-          "link": "https://arstechnica.com/?p=1784297",
-          "publishedOn": "2021-07-30T21:18:05.000Z",
-          "wordCount": 1227,
-          "title": "Jeff Bezos loses attempt to block the Moon-landing contract NASA gave to SpaceX"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1784237",
-          "author": "John Timmer",
-          "description": "The evolutionary pressures result in some pretty complicated host interactions.",
-          "link": "https://arstechnica.com/?p=1784237",
-          "publishedOn": "2021-07-30T18:39:16.000Z",
-          "wordCount": 1143,
-          "title": "Evolutionary chaos as butterflies, wasps, and viruses have a three-way war"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1784224",
-          "author": "Jon Brodkin",
-          "description": "Lawsuit: Marvel star was promised exclusive theatrical release and cut of ticket sales.",
-          "link": "https://arstechnica.com/?p=1784224",
-          "publishedOn": "2021-07-30T18:20:53.000Z",
-          "wordCount": 2013,
-          "title": "Scarlett Johansson sues Disney, says Disney+ release of Black Widow broke contract"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1783893",
-          "author": "Ron Amadeo",
-          "description": "Facing export ban and chip shortage, Huawei is scraping together what it can find.",
-          "link": "https://arstechnica.com/?p=1783893",
-          "publishedOn": "2021-07-30T17:35:36.000Z",
-          "wordCount": 1196,
-          "title": "Huawei’s latest flagship phone has HarmonyOS, a Qualcomm SoC, and no 5G"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1784203",
-          "author": "Kyle Orland",
-          "description": "Valve says it has \"no obligation\" to let devs \"undercut\" Steam using free keys.",
-          "link": "https://arstechnica.com/?p=1784203",
-          "publishedOn": "2021-07-30T16:19:47.000Z",
-          "wordCount": 1248,
-          "title": "Valve issues scathing reply over the facts behind a Steam antitrust case"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1784187",
-          "author": "Beth Mole",
-          "description": "CDC estimates 35K symptomatic infections in US per week among 162 million vaccinated.",
-          "link": "https://arstechnica.com/?p=1784187",
-          "publishedOn": "2021-07-30T15:44:42.000Z",
-          "wordCount": 1064,
-          "title": "This 900-person delta cluster in Mass. has CDC freaked out—74% are vaccinated [Updated]"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1778218",
-          "author": "Eric Bangeman",
-          "description": "Hybridization offers decent fuel economy improvement and a lot more power.",
-          "link": "https://arstechnica.com/?p=1778218",
-          "publishedOn": "2021-07-30T14:49:46.000Z",
-          "wordCount": 1782,
-          "title": "America’s favorite truck goes hybrid: The Ford F-150, reviewed"
         }
       ]
     },
@@ -2646,6 +2583,42 @@
       "feedUrl": "http://feeds.macrumors.com/MacRumors-Front",
       "siteUrl": "https://www.macrumors.com",
       "articles": [
+        {
+          "id": "https://www.macrumors.com/2021/08/29/iphone-13-to-feature-leo-to-make-calls-and-text/",
+          "author": "Hartley Charlton",
+          "description": "The iPhone 13 will feature low earth orbit (LEO) satellite communication connectivity to allow users to make calls and send messages in areas without 4G or 5G coverage, according to the reliable analyst Ming-Chi Kuo.\r\n\r\n\r\n\r\n\r\n\r\nIn a note to investors, seen by MacRumors, Kuo explained that the ‌iPhone 13‌ lineup will feature hardware that is able to connect to LEO satellites. If enabled with the relevant software features, this could allow ‌iPhone 13‌ users to make calls and send messages without the need for a 4G or 5G cellular connection.\r\n\r\n\r\n\r\nThe ‌iPhone 13‌ reportedly features a customized Qualcomm X60 baseband chip that supports satellite communications. Other smartphone brands are apparently currently waiting until 2022 to adopt the X65 baseband chip necessary to implement satellite…",
+          "link": "https://www.macrumors.com/2021/08/29/iphone-13-to-feature-leo-to-make-calls-and-text/",
+          "publishedOn": "2021-08-29T14:39:59.000Z",
+          "wordCount": 2234,
+          "title": "Kuo: iPhone 13 to Feature LEO Satellite Communications to Make Calls and Texts Without Cellular Coverage"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/08/29/apple-watch-series-7-new-watch-faces/",
+          "author": "Sami Fathi",
+          "description": "Along with an increase in size for the upcoming Apple Watch Series 7, which is rumored to feature larger 41mm and 45mm sizes, Apple plans to include new watch faces that take advantage of the larger displays.\r\n\r\n\r\n\r\n\r\n\r\nIn the latest publication of his \"Power On\" newsletter, Bloomberg's Mark Gurman has put his weight behind recent rumors suggesting that thanks to smaller bezels and a flat-edged design, the upcoming Apple Watch will feature larger case sizes. \r\n\r\n\r\n\r\nCompared to the current 40mm and 44mm sizes, the Series 7 will be offered in 41mm and 45mm variants. Gurman says that Apple plans to make the larger screen real-estate worthwhile by bundling it with new Apple Watch faces that utilize the larger displays.  \r\n\r\nThis year's watches will come in 41-millimeter and 45-millimeter sizes, up from 40 and 44 millimeters. I'm told that Apple will bundle multiple new watch faces to take advantage of the bigger screen, including an updated Infograph Modular face. This will be the second time in the Apple Watch's history that the company has increased the display size, following the Apple Watch Series 4 in 2017. \nThe new Apple Watch faces will be exclusive to the Series 7 and will likely not be made available through a software update for older models. \r\n\r\n\r\n\r\nBesides cosmetic changes, the Apple Watch Series 7 is expected to include improved performance and battery life. The Apple Watch Series 7 is expected to be unveiled at an all-digital Apple Event in September alongside the iPhone 13. Learn more about what we're expecting this fall using our guide. \nRelated Roundup: Apple Watch Series 6\nTag: Mark Gurman\nBuyer's Guide: Apple Watch (Don't Buy)\nRelated Forum: Apple Watch\nThis article, \"Apple Watch Series 7 Expected to Feature New Watch Faces to Take Advantage of Larger Displays\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/08/29/apple-watch-series-7-new-watch-faces/",
+          "publishedOn": "2021-08-29T13:04:45.000Z",
+          "wordCount": 2247,
+          "title": "Apple Watch Series 7 Expected to Feature New Watch Faces to Take Advantage of Larger Displays"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/08/29/apple-tv-plus-home-before-dark-free-to-watch/",
+          "author": "Tim Hardwick",
+          "description": "Apple has made season one of mystery drama \"Home Before Dark\" available to watch for free on Apple TV+ for a limited time, no subscription required.\r\n\r\n\r\n\r\n\n\r\n\r\nThe official announcement, delivered on Saturday in a tweet, comes three weeks after the conclusion of the second season. \r\n\r\n\r\n\r\n\"Home Before Dark\" is a drama series about Hilde Lysiak, a child journalist who published a newspaper called the Orange Street News in her hometown of Selinsgrove, Pennsylvania.\r\n\r\n\r\n\r\nThe series follows the young girl as she moves from Brooklyn to the small lakeside town her father is from, where she unearths a cold case that everyone else in the town had attempted to bury. \r\n\r\nA mystery inspired by the reporting of a real nine-year-old journalist. When a young girl and her family move back to the small town her father left behind, her pursuit of the truth leads to the unearthing of a long-buried cold case.\nIn real life, Hilde Lysiak was the first to report on a murder in her town of Selinsgrove, which gave her paper, Orange Street News, national and international media attention. Season 2 premiered on June 11.\r\n\r\n\r\n\r\n\nFor a limited time, you can watch Season 1 of Home Before Dark for free, exclusively on Apple TV+ https://t.co/lkdhusWjEN pic.twitter.com/jaDjSIk1Rv\n— Apple TV (@AppleTV) August 28, 2021\n \n\r\n\r\n‌Apple TV+‌‌ is available for a $4.99 per month subscription for the whole family, though Apple offers a free year of service with the purchase of an iPhone, iPad, Mac, iPod touch, or Apple TV.\nTags: Apple TV Shows, Apple TV Plus\nThis article, \"Apple Makes Season One of TV+ Mystery Drama 'Home Before Dark' Free to Watch\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/08/29/apple-tv-plus-home-before-dark-free-to-watch/",
+          "publishedOn": "2021-08-29T12:35:52.000Z",
+          "wordCount": 2212,
+          "title": "Apple Makes Season One of TV+ Mystery Drama 'Home Before Dark' Free to Watch"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/08/29/universal-control-working-macos-not-ipados/",
+          "author": "Sami Fathi",
+          "description": "One of the most highly anticipated features coming to macOS Monterey and iPadOS 15 is Universal Control. Universal Control enables users to use a single Mac's input devices across multiple iPads or Macs.\r\n\r\n\r\n\r\n\r\n\r\nWhile the feature was previewed at WWDC in June, it's yet to make an official appearance in any developer beta of ‌macOS Monterey‌ or ‌iPadOS 15‌, leading to speculation that the feature may be delayed to a future update to the operating systems. However, in the latest ‌macOS Monterey‌ beta released on August 11, Universal Control can be enabled and used between two Macs. \r\n\r\n\r\n\r\nTo enable it, users will need to follow the steps outlined in this GitHub post, which requires running a series of Terminal lines, altering system settings, and running commands to enable \"Ensemble,\" Ap…",
+          "link": "https://www.macrumors.com/2021/08/29/universal-control-working-macos-not-ipados/",
+          "publishedOn": "2021-08-29T12:11:21.000Z",
+          "wordCount": 2461,
+          "title": "Universal Control Works in macOS Monterey Beta 5, But Terminal Commands Required to Enable It"
+        },
         {
           "id": "https://www.macrumors.com/2021/08/28/iphone-13-rumors-may-have-missed/",
           "author": "Sami Fathi",
@@ -5489,96 +5462,6 @@
           "publishedOn": "2021-07-31T13:00:00.000Z",
           "wordCount": 3244,
           "title": "Top Stories: Face ID on Future Macs, Elon Musk Criticizes Apple, and More"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/31/telegram-update-video-calls-1000-viewers/",
-          "author": "Tim Hardwick",
-          "description": "Telegram Messenger has received a major update to its video capabilities, including support for video calls with up to 1,000 viewers. \r\n\r\n\r\n\r\n\r\n\r\nGroup video calls in Telegram allow up to 30 users to stream video from both their camera and their screen, and now a maximum of 1,000 people can tune into the broadcast. Telegram says it intends to continue increasing this limit \"until all humans on Earth can join one group call.\"\r\n\r\n\r\n\r\nMeanwhile, video messages now have a higher resolution, and any audio playing on the user's device will keep playing when a message is being captured so that it's included in the recording. \r\n\r\n\r\n\r\nIn addition, users can now tap on a video message to expand it in the conversation thread. Tapping on an expanded video message initially pauses it, and it's also possible to fast-forward and rewind the message.\r\n\r\n\r\n\r\nElsewhere in this update, the media player now supports multiple video playback speeds, screen sharing has been added to one-on-one calls, the in-app camera supports all zoom levels a device is capable of, and the media editor includes new tools to illustrate photos and videos with drawings, text, and stickers.\r\n\r\n\r\n\r\nSeveral other smaller tweaks and improvements have made it into this bumper update, and Telegram has further details in its latest blog post. Telegram is a free download for iPhone and iPad from the App Store. [Direct Link]\nTag: Telegram\nThis article, \"Bumper Telegram Update Enables Video Calls With Up to 1,000 Viewers\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/07/31/telegram-update-video-calls-1000-viewers/",
-          "publishedOn": "2021-07-31T07:13:11.000Z",
-          "wordCount": 2225,
-          "title": "Bumper Telegram Update Enables Video Calls With Up to 1,000 Viewers"
-        },
-        {
-          "id": "https://www.macrumors.com/guide/ios-15-find-my&post_date=1627691055/",
-          "author": "Juli Clover",
-          "description": "Since introducing the unified Find My app, Apple has been working to improve the ‌Find My‌ experience. iOS 15 brings some major new features to ‌Find My‌, including features like live locations and the ability to track an iPhone even after it's been erased or powered off.\r\n\r\n\r\n\r\n\r\n\r\nThis guide covers everything that Apple added to the ‌Find My‌ app in ‌iOS 15‌.\r\n\r\n\r\n\r\nLive Locations\n\r\n\r\nWhen you track a friend or a family member using the ‌Find My‌ app, it now shows continuous streaming updates on their location rather than updating with a new location every few minutes.\r\n\r\n\r\n\r\nApple says that this feature is designed to provide an immediate sense of speed, direction, and progress when you're looking at someone's location.\r\n\r\n\r\n\r\nLocate Lost Devices That Are Off\n\r\n\r\nDevices that have been …",
-          "link": "https://www.macrumors.com/guide/ios-15-find-my/",
-          "publishedOn": "2021-07-30T21:24:15.000Z",
-          "wordCount": 3118,
-          "title": "What's New With Find My in iOS 15: Tracking When iPhone is Off, Live Locations, Locate After Erase and More"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/30/steve-wozniak-unicorn-hunters-tv-distribution/",
-          "author": "Juli Clover",
-          "description": "\"Unicorn Hunters,\" a YouTube and Facebook show starring Apple-cofounder Steve Wozniak and singer Lance Bass as judges, is aiming to make its way to television, reports Variety.\r\n\r\n\r\n\r\n\r\n\r\nThe show aims to find \"unicorn\" companies, which are startups able to reach a $1 billion valuation. A panel of investors called the \"Circle of Money\" serve as judges on the show, in a format that's similar to \"Shark Tank.\" Circle of Money members include Steve Wozniak, Lance Bass, Moe Vela, Silvina Moschini, Alex Konanykhin, Scott Livingston, and Rosa Rios.\nUnicorn is the name given to startup companies with a valuation of over one billion dollars. If you spot one and invest in it at an early stage, you could potentially earn enormous returns on your investment.\r\n\r\n\r\n\r\nNo one has the ability to predict wh…",
-          "link": "https://www.macrumors.com/2021/07/30/steve-wozniak-unicorn-hunters-tv-distribution/",
-          "publishedOn": "2021-07-30T18:29:53.000Z",
-          "wordCount": 2253,
-          "title": "'Unicorn Hunters' Show Starring Steve Wozniak and Lance Bass Seeks TV Distribution"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/30/macrumors-giveaway-harber-london-briefcase/",
-          "author": "Juli Clover",
-          "description": "For this week's giveaway, we've teamed up with Harber London to offer MacRumors readers a chance to win an Everyday Leather Briefcase and a matching Magnetic Envelope Sleeve for either the MacBook or the iPad.\r\n\r\n\r\n\r\n\r\n\r\nHarber London makes a range of attractive, quality leather accessories designed for Apple devices, including multiple bag and briefcase options. The Everyday Briefcase is a sleek, high-quality bag that's ideal for carrying a Mac or an iPad.\r\n\r\n\r\n\r\n\r\n\r\nPriced at GBP289.00 (~$400), the Everyday Briefcase can fit a 13 to 16-inch laptop or a 12.9-inch iPad Pro with Magic Keyboard attached, so it's ideal for all of Apple's Mac and ‌iPad‌ offerings. There are two sizes. The medium version has a 5.6L capacity, while the larger version has a 7.5L capacity.\r\n\r\n\r\n\r\n\r\n\r\nThe Everyday …",
-          "link": "https://www.macrumors.com/2021/07/30/macrumors-giveaway-harber-london-briefcase/",
-          "publishedOn": "2021-07-30T18:02:08.000Z",
-          "wordCount": 2556,
-          "title": "MacRumors Giveaway: Win an Everyday Briefcase and Magnetic Sleeve for Mac From Harber London"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/30/elon-musk-on-apple-app-store-fees/",
-          "author": "Juli Clover",
-          "description": "Tesla CEO Elon Musk took to Twitter today to criticize Apple's App Store fees in a tweet that sides with Epic in the ongoing Epic v. Apple dispute.\r\n\r\n\r\n\r\n\r\n\r\n\"Epic is right,\" wrote Musk, before going on to call Apple's ‌App Store‌ fees a \"de facto global tax on the Internet.\"\r\n\r\n\r\n\r\nMusk earlier this week made veiled comments about ‌App Store‌ fees, but today's statement is a much more direct criticism.\r\n\r\n\r\n\r\nDuring Tesla's earnings call, Musk said that Tesla was planning to let other companies use its charger network because Tesla does not want to \"create a walled garden\" and use that to \"bludgeon\" competitors. Musk said that this is a tactic used by \"some companies,\" and then he fake coughed and said \"Apple.\"\r\n\r\n\r\n\r\nEpic Games launched a major dispute with Apple in August 2020, defying…",
-          "link": "https://www.macrumors.com/2021/07/30/elon-musk-on-apple-app-store-fees/",
-          "publishedOn": "2021-07-30T17:04:20.000Z",
-          "wordCount": 2313,
-          "title": "Elon Musk: Apple's App Store Fees Are a 'De Facto Global Tax on the Internet'"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/30/ipad-shipments-q2-2021-idc/",
-          "author": "Joe Rossignol",
-          "description": "While the iPad has long been the world's most popular tablet, newly published market research helps put Apple's lead into perspective.\r\n\r\n\r\n\r\nAccording to estimates shared by research firm IDC, Apple shipped 12.9 million iPads in the second quarter of 2021. By comparison, IDC estimated that Samsung and Amazon shipped a combined 12.3 million tablets in the quarter, suggesting that Apple shipped more tablets than Samsung and Amazon did combined in the quarter.\r\n\r\n\r\n\r\n\r\n\r\nA big caveat is that Apple no longer reports iPad unit sales in its earnings results, forcing IDC to estimate shipments based off the iPad quarterly revenue number that Apple does share. As a result, other research firms like Strategy Analytics and Canalys have different iPad shipment numbers for the second quarter, but it doesn't change the narrative, as both have Apple with a significant lead over Samsung and Amazon.\r\n\r\n\r\n\r\n\r\n\r\niPad sales continued to surge last quarter as many people continue to work, learn, and communicate with others remotely. According to Apple CEO Tim Cook, the ‌iPad‌ had its best June quarter in nearly a decade, with the company reporting iPad revenue of $7.4 billion in the quarter, a significant increase over $6.6 billion in the year-ago quarter.\r\n\r\n\r\n\r\nThe launch of a new iPad Pro with an M1 chip and a mini-LED display on the 12.9-inch model likely also bolstered sales during the quarter.\nTag: IDC\nThis article, \"Apple Shipped More Tablets Than Samsung and Amazon Did Combined Last Quarter\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/07/30/ipad-shipments-q2-2021-idc/",
-          "publishedOn": "2021-07-30T16:55:15.000Z",
-          "wordCount": 2159,
-          "title": "Apple Shipped More Tablets Than Samsung and Amazon Did Combined Last Quarter"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/30/elon-musk-wanting-to-become-apple-ceo/",
-          "author": "Sami Fathi",
-          "description": "Tesla CEO Elon Musk reportedly once demanded that he be made Apple CEO in a brief discussion of a potential acquisition with Apple's current CEO, Tim Cook. The claim comes in a new book titled \"Power Play: Tesla, Elon Musk and the Bet of the Century,\" as reviewed by The Los Angeles Times.\r\n\r\n\r\n\r\n\r\n\r\nAccording to the book, during a 2016 phone call between Musk and Cook that touched on the possibility of Apple purchasing Tesla, Musk told Cook that a purchase of Telsa by Apple could only go forward if he became CEO of the combined company. \nApple Chief Executive Tim Cook and Tesla Chief Executive Elon Musk are talking on the phone. The 2016 unveiling of the make-it-or-break-it Model 3 is coming soon, but Tesla is in serious financial trouble. Cook has an idea: Apple buys Tesla.\r\n\r\n\r\n\r\nMusk is…",
-          "link": "https://www.macrumors.com/2021/07/30/elon-musk-wanting-to-become-apple-ceo/",
-          "publishedOn": "2021-07-30T16:04:41.000Z",
-          "wordCount": 2341,
-          "title": "Elon Musk Reportedly Demanded to Become Apple CEO as Part of Potential Tesla Acquisition [Update: Musk Denies]"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/30/deals-tech-back-to-school/",
-          "author": "Mitchel Broussard",
-          "description": "Back to school season is already upon us, and in order to prepare students for a return to school we're collecting all of the best back to school sales from popular Apple-related accessory companies. These include Nomad, Twelve South, Nimble, Brydge, and more, with plenty of discounts to make a dent in your shopping list, whether it be for a return to in-person school or remote learning.\r\n\r\n\r\n\r\nNote: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.\r\n\r\n\r\n\r\nNomad\n\r\n\r\nWe've got a few exclusive sales lined up for our readers during back to school season, starting with 20 percent off sitewide on Nomad through Monday, August 2. You can shop across Nomad's website (sale it…",
-          "link": "https://www.macrumors.com/2021/07/30/deals-tech-back-to-school/",
-          "publishedOn": "2021-07-30T15:23:41.000Z",
-          "wordCount": 3057,
-          "title": "Deals: Shop the Best Tech-Related Back To School Sales From Twelve South, Nimble, Nomad, and More"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/30/revamped-apple-maps-testing-in-italy/",
-          "author": "Joe Rossignol",
-          "description": "A few years ago, Apple announced that it would be revamping its Maps app with more detailed maps, better road coverage, and faster and more accurate navigation. The improvements have since rolled out in the United States, Canada, the United Kingdom, Ireland, Portugal, and Spain, and Apple is focusing on Italy next.\r\n\r\n\r\n\r\n\r\n\r\nAccording to Apple Maps enthusiast Justin O'Beirne, Apple recently started testing its revamped Maps experience across the Italian Peninsula, including San Marino and Vatican City. The updated maps appear to be limited to devices with the iOS 15 developer or public betas installed for now, but at WWDC 2021 last month, Apple announced that its revamped Maps experience would be expanded to all users in Italy and Australia later this year.\r\n\r\n\r\n\r\nIn early 2020, Apple said it would begin rolling out the revamped Maps experience across Europe in the coming months, so other countries should soon follow. The updated maps provide more comprehensive views of roads, buildings, parks, airports, shopping malls, sports venues like baseball fields and tennis courts, and other details.\nTag: Apple Maps\nThis article, \"Revamped Apple Maps Now Being Tested in Italy\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/07/30/revamped-apple-maps-testing-in-italy/",
-          "publishedOn": "2021-07-30T15:16:34.000Z",
-          "wordCount": 2062,
-          "title": "Revamped Apple Maps Now Being Tested in Italy"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/07/30/eight-new-games-came-to-apple-arcade-this-month/",
-          "author": "Hartley Charlton",
-          "description": "July was a busy month for Apple Arcade, with eight new titles joining the library of almost 200 games on Apple's growing mobile gaming subscription service, including some familiar, fan-favorite games.\r\n\r\n\r\n\r\n\r\n\r\nLast month, \"Legends of Kingdom Rush,\" \"Game Dev Story+,\" \"Frenzic: Overtime,\" \"INKS.+,\" and \"Leo's Fortune+\" arrived on Apple Arcade. In July, eight new games joined the platform in the card, sports, puzzle, action, simulation, and racing genres.\r\n\r\n\r\n\r\nJuly 2: Solitaire Stories\n\r\n\r\nThe first game to arrive on ‌Apple Arcade‌ this month was \"Solitaire Stories,\" putting a new spin on the classic card game with a narrative focus, a range of deck designs, daily challenges, and global leaderboards.\r\n\r\n\r\n\r\n\n\r\n\r\n\r\n\r\nSolitaire Stories features a progressive journey through increasingly d…",
-          "link": "https://www.macrumors.com/2021/07/30/eight-new-games-came-to-apple-arcade-this-month/",
-          "publishedOn": "2021-07-30T14:51:11.000Z",
-          "wordCount": 2628,
-          "title": "Eight New Games Came to Apple Arcade This Month, Including 'Solitaire Stories,' 'Ultimate Rivals: The Court,' and 'Detonation Racing'"
         }
       ]
     },
@@ -5587,6 +5470,24 @@
       "feedUrl": "https://daringfireball.net/feeds/main",
       "siteUrl": "https://daringfireball.net/",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=oJZuSVl5wjM",
+          "author": null,
+          "description": "Keep in mind as you watch this that Jony Ive left Apple two years ago, and Apple dropped headphone jacks from new iPhones five years ago starting with the iPhones 7. Google’s own high-end Pixels dropped headphone jacks in 2017. As of next month, 40 percent of all iPhone model years will have been headphone-jack-free. This feels about as relevant as mocking the original iMac for not having a floppy drive.\n ★",
+          "link": "https://www.youtube.com/watch?v=oJZuSVl5wjM",
+          "publishedOn": "2021-08-29T17:51:51.000Z",
+          "wordCount": null,
+          "title": "Google’s Circle Jerk"
+        },
+        {
+          "id": "https://www.wsj.com/articles/worlds-largest-chip-maker-to-raise-prices-threatening-costlier-electronics-11629978308",
+          "author": null,
+          "description": "Yang Jie, Stephanie Yang, and Yoko Kubota, reporting for The Wall Street Journal (News+):\nTaiwan Semiconductor Manufacturing Co. plans to increase the prices of its most advanced chips by roughly 10%, while less advanced chips used by customers like auto makers will cost about 20% more, these people said. The higher prices will generally take effect late this year or next year, the people said.\nApple Inc. is one of TSMC’s largest customers and its iPhones use advanced microprocessors made in TSMC foundries. It couldn’t be determined how much more Apple would pay.\nNot just iPhones: TSMC manufactures all “Apple silicon”. And no one else can make them. Really, this is just Econ 101: demand for TSMC chips is high, supply is constrained, so prices are going up.\nUpdate: Compelling alternative theory.\n ★",
+          "link": "https://www.wsj.com/articles/worlds-largest-chip-maker-to-raise-prices-threatening-costlier-electronics-11629978308",
+          "publishedOn": "2021-08-29T17:21:05.000Z",
+          "wordCount": 1199,
+          "title": "TSMC to Raise Chip Prices by 10–20 Percent"
+        },
         {
           "id": "https://daringfireball.net/2021/08/charlie_watts",
           "author": null,
@@ -5982,15 +5883,6 @@
           "publishedOn": "2021-07-31T14:28:47.000Z",
           "wordCount": 1969,
           "title": "Rolling Stone: ‘How Dommes Are Convincing Submissives to Get Jabs’"
-        },
-        {
-          "id": "https://daringfireball.net/thetalkshow/2021/07/30/ep-319",
-          "author": null,
-          "description": "Special guest: John Moltz. Special topics: Playdate preorders, MagSafe battery packs, iPad keyboard covers, Facebook and NSO Group, Safari 15 betas, and Loki.\nBrought to you by:\nLinkedIn Jobs: Find and hire the right person. Your first job post is free.\nAway: Because this season, everyone wants to get Away.\nSquarespace: Everything you need to grow online. Use code talkshow for 10% off your first order.\nLinode: Instantly deploy and manage an SSD server in the Linode Cloud. New accounts get a $100 credit.\nMack Weldon: Reinventing men’s basics with smart design, premium fabrics, and simple shopping. Get 20% off your first order with code talkshow.\n ★",
-          "link": "https://daringfireball.net/thetalkshow/2021/07/30/ep-319",
-          "publishedOn": "2021-07-30T21:05:21.000Z",
-          "wordCount": 239,
-          "title": "The Talk Show: ‘You Called Him Pixel Mature’"
         }
       ]
     },
@@ -7285,33 +7177,6 @@
           "publishedOn": "2021-07-31T14:00:00.000Z",
           "wordCount": 3088,
           "title": "Destiny 2’s story is heating up with a compelling political allegory"
-        },
-        {
-          "id": "https://www.polygon.com/destiny-2-guide-walkthrough/2021/7/30/22602162/destiny-2-trials-osiris-rewards-july-30-aug-3",
-          "author": null,
-          "description": "Image: Bungie\n    \n\n  \nGet two weapons and some armor in Trials this week\n Trials of Osiris is back in Destiny 2. Saint-14 is the new Trials vendor and announcer, and players can find him and his wares in the Tower Hangar every Friday at reset.\nEach week, the Trials of Osiris map changes, as do the rewards for winning a certain number of matches. The rewards are consistent across all players, although each player’s weapon roll will differ.\nHere are the guaranteed Trials of Osiris rewards this week:\nMap: Wormhaven\n3 wins — Pyrrhic Ascent Mask, Helm, Hood (Hunter, Titan, Warlock helmet)\n5 wins — Sola’s Scar, Solar sword\n7 wins — Pyrrhic Ascent Grasps, Gauntlets, Gloves (Hunter, Titan, Warlock arms)\nFlawless — Eye of Sol (Adept), Kinetic sniper rifle\nNote: As of Season of Arrivals, players can complete the End Game weekly bounty — which just needs Trials match completions (wins give more progress) — to earn the three-win reward.\nPlayers who manage to reach seven wins without a single loss can go to the Lighthouse social space — this is called a Flawless run. The Lighthouse offers additional rewards for players, some of which are unique, like a special emblem. Players who reach the Lighthouse also earn a special armor glow for any of their Trials of Osiris armor, which lasts for the remainder of the weekend.",
-          "link": "https://www.polygon.com/destiny-2-guide-walkthrough/2021/7/30/22602162/destiny-2-trials-osiris-rewards-july-30-aug-3",
-          "publishedOn": "2021-07-30T18:12:10.000Z",
-          "wordCount": 788,
-          "title": "Destiny 2 Trials of Osiris rewards, July 30-Aug. 3"
-        },
-        {
-          "id": "https://www.polygon.com/destiny-2-guide-walkthrough/2021/7/30/22602161/destiny-2-xur-location-items-july-30-aug-3",
-          "author": null,
-          "description": "Image: Bungie\n    \n\n  \nHead to the Tower for some Exotics\n The weekly Exotic item merchant, Xur, hangs out in random locations around the world of Destiny. In Destiny 2, he can appear all over the map, as well as inside the Tower. This week, you can find Xur in the Tower, north of the Hangar, standing on the back stairs.\nImage: Bungie via Polygon\n  \nXur’s inventory this week consists of the following:\nTelesto, Void fusion rifle: 29 Legendary Shards\nLucky Pants, Hunter pants: 23 Legendary Shards\nActium War Rig, Titan chest: 23 Legendary Shards\nClaws of Ahamkara, Warlock arms: 23 Legendary Shards\nExotic Engram: 97 Legendary Shards (you can now purchase a second with an Exotic Cipher)\nExotic Cipher quest: free\n\n\nXur’s items drop at a similar power level as your character.\nTelesto\nTelesto is a…",
-          "link": "https://www.polygon.com/destiny-2-guide-walkthrough/2021/7/30/22602161/destiny-2-xur-location-items-july-30-aug-3",
-          "publishedOn": "2021-07-30T17:23:48.000Z",
-          "wordCount": 1223,
-          "title": "Destiny 2 Xur location and items, July 30-Aug. 3"
-        },
-        {
-          "id": "https://www.polygon.com/22600225/boomerang-x-flying-slingshot-boss-arena-shooter-impressions",
-          "author": null,
-          "description": "Image: DANG!/Devolver Digital\n    \n\n\n  \nIf you’re Boomerang X-ing correctly, you’ll never touch the ground\n Boomerang X made me feel like a genius, like I was getting something over on a hard game by circumventing its level design. It wasn’t until I reached the game’s truly difficult sections — the end of the whole thing — that I began to realize I was not a god-tier game-breaking genius, but that developer Dang! spent the entire game teaching me to fly.\nWhat originally felt like an overpowered exploit of Boomerang X’s mechanics turns out to be mandatory if you want to succeed.\nWhat is Boomerang X?\n  \n        \n      Image: DANG!/Devolver Digital\n      Touching the ground in Boomerang X is the easiest way to die\n  \n\nIn Boomerang X, an arena-based first-person shooter, I play as a mummy with…",
-          "link": "https://www.polygon.com/22600225/boomerang-x-flying-slingshot-boss-arena-shooter-impressions",
-          "publishedOn": "2021-07-30T16:00:00.000Z",
-          "wordCount": 849,
-          "title": "Boomerang X makes winning feel like a cheat"
         }
       ]
     },
@@ -7667,42 +7532,6 @@
           "publishedOn": "2021-08-04T17:54:39.000Z",
           "wordCount": 3534,
           "title": "Alien Dreams"
-        },
-        {
-          "id": "https://waxy.org/?p=42136",
-          "author": "Andy Baio",
-          "description": "a brilliantly elegant PuzzleScript game by increpare and pancelor #",
-          "link": "https://www.puzzlescript.net/play.html?p=6a412035f6f1999cc773ddcb071de6e6",
-          "publishedOn": "2021-07-30T19:17:15.000Z",
-          "wordCount": 9,
-          "title": "paint everything everywhere"
-        },
-        {
-          "id": "https://waxy.org/?p=42133",
-          "author": "Andy Baio",
-          "description": "the paper's completely incomprehensible to me, but it all sounds suitably sci-fi #",
-          "link": "https://www.quantamagazine.org/first-time-crystal-built-using-googles-quantum-computer-20210730/",
-          "publishedOn": "2021-07-30T18:03:56.000Z",
-          "wordCount": 2960,
-          "title": "First “time crystal” built using Google’s quantum computer"
-        },
-        {
-          "id": "https://waxy.org/?p=42128",
-          "author": "Andy Baio",
-          "description": "countdown until someone makes this for real #",
-          "link": "https://xkcd.com/2496/",
-          "publishedOn": "2021-07-30T17:59:16.000Z",
-          "wordCount": 185,
-          "title": "xkcd’s Mine Captcha"
-        },
-        {
-          "id": "https://waxy.org/?p=42123",
-          "author": "Andy Baio",
-          "description": "late to this meme, but deep-diving these on YouTube killed me #",
-          "link": "https://www.metafilter.com/192028/Shawty-Got-Low-in-Those-Apple-Bottom-Memes",
-          "publishedOn": "2021-07-30T17:55:16.000Z",
-          "wordCount": 1643,
-          "title": "Apple Bottom Jeans"
         }
       ]
     },
@@ -8385,15 +8214,6 @@
           "publishedOn": "2021-08-02T13:42:47.000Z",
           "wordCount": 96,
           "title": "The 2021 Astronomy Photographer of the Year Shortlist"
-        },
-        {
-          "id": "https://kottke.org/21/07/the-hd-video-feedback-kinetic-sculpture",
-          "author": null,
-          "description": "Here’s a description of what the machine featured in this video does: “The HD Video Feedback Kinetic Sculpture creates fractals and organic-looking images in real-time, without a computer: this is old-school video feedback.” But just watch the video for the full effect — this thing produces some amazing imagery.\nThis is part sculpture, part performance art, and may make the most complex video feedback ever created, using three cameras, two video switchers, a sheet of beam-splitter glass, and an HDMI input from a phone or live video feed.\nMuch like a musical instrument, the operator at the helm of this device plays it, but instead of making sounds, makes entire worlds, spirals within spirals, loops within loops, galaxies, classical fractal imagery and primordial organisms, leaves, trees, and insects. It really is the God machine.\n\n\n Tags: art   video",
-          "link": "https://kottke.org/21/07/the-hd-video-feedback-kinetic-sculpture",
-          "publishedOn": "2021-07-30T14:00:56.000Z",
-          "wordCount": 178,
-          "title": "The HD Video Feedback Kinetic Sculpture"
         }
       ]
     },
@@ -8402,6 +8222,15 @@
       "feedUrl": "https://www.halfbakedharvest.com/feed/",
       "siteUrl": "https://www.halfbakedharvest.com",
       "articles": [
+        {
+          "id": "https://www.halfbakedharvest.com/?p=110612",
+          "author": "halfbakedharvest",
+          "description": "Nine Favorite Things.\nNine Favorite Things. You guys, it’s already the last Sunday of August. I know this is such a common saying, but wow, where has the summer gone? As crazy as this sounds, it’s slowly starting to feel like fall here in the mountains. I spotted yellow leaves on my hike Friday morning and with the…\nREAD: Nine Favorite Things.",
+          "link": "https://www.halfbakedharvest.com/nine-favorite-things-208/",
+          "publishedOn": "2021-08-29T08:00:00.000Z",
+          "wordCount": 4149,
+          "title": "Nine Favorite Things."
+        },
         {
           "id": "https://www.halfbakedharvest.com/?p=110552",
           "author": "halfbakedharvest",
@@ -8708,6 +8537,69 @@
       "feedUrl": "https://bloody-disgusting.com/feed/",
       "siteUrl": "https://bloody-disgusting.com",
       "articles": [
+        {
+          "id": "https://bloody-disgusting.com/?p=3680514",
+          "author": "Mike Wilson",
+          "description": "We’re officially less than a month away from the release of Leigh Thorne and Ruben Abreu‘s fan film Silent Hill: Road of Guilt. Leigh has got the clock ticking with a brand-new trailer for the short, which will be premiering on Dax79’s YouTube channel on the 20th anniversary of Silent Hill 2‘s release (September 24, […]",
+          "link": "https://bloody-disgusting.com/news/3680514/video-final-trailer-for-upcoming-fan-film-silent-hill-road-of-guilt-descends-into-madness/",
+          "publishedOn": "2021-08-29T19:30:16.000Z",
+          "wordCount": 1112,
+          "title": "[Video] Final Trailer For Upcoming Fan Film ‘Silent Hill: Road of Guilt’ Descends Into Madness"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3680508",
+          "author": "Mike Wilson",
+          "description": "It’s been a long time since we last heard anything about 2P Games and developer Nekcom Entertainment’s DYING: 1983, but the game made an appearance last week at Gamescom with a brand new trailer. There’s still that vague 2021 release date, but we do get some gameplay footage in the latest trailer, courtesy of IGN. […]",
+          "link": "https://bloody-disgusting.com/video-games/3680508/gamescom-2021-horror-puzzle-game-dying-1983-shows-off-gameplay-in-new-trailer/",
+          "publishedOn": "2021-08-29T18:42:52.000Z",
+          "wordCount": 1043,
+          "title": "[Gamescom 2021] Horror Puzzle Game ‘DYING: 1983’ Shows Off Gameplay in New Trailer"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3680526",
+          "author": "Brad Miska",
+          "description": "The first Venom teased “Maximum Carnage” and with these new images from the forthcoming sequel, we’re one step closer to seeing it become a reality. The comic book arc “Maximum Carnage” delivered more than just extreme Carnage, but an entire symbiote family that was highlighted by Shriek, Carnage’s sonic-powered accomplice and eventual love interest. She-Carnage […]",
+          "link": "https://bloody-disgusting.com/movie/3680526/venom-let-carnage-images-highlight-shriek/",
+          "publishedOn": "2021-08-29T18:27:14.000Z",
+          "wordCount": 1830,
+          "title": "‘Venom: Let There Be Carnage’ Images Reveal Shriek, Carnage’s Love Interest!"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3680504",
+          "author": "Mike Wilson",
+          "description": "Japanese publication Famitsu has provided 50 minutes of gameplay footage for Koei Tecmo’s upcoming remaster of Fatal Frame: Maiden of Black Water. The footage comes from the PlayStation 4 version, which was broadcast during the latest episode of the Famitsu LIVE program. An enhanced version of the 2014 Wii U original, Fatal Frame: Maiden of […]",
+          "link": "https://bloody-disgusting.com/video-games/3680504/watch-video-of-extended-look-at-fatal-frame-maiden-of-black-water-remaster-gameplay/",
+          "publishedOn": "2021-08-29T16:32:33.000Z",
+          "wordCount": 1060,
+          "title": "[Watch] Video of Extended Look at ‘Fatal Frame: Maiden of Black Water’ Remaster Gameplay"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3680511",
+          "author": "Patrick Bromley",
+          "description": "I was fortunate enough to attend the world premiere of punk legend Glenn Danzig’s first feature film Verotika back in 2019 during Chicago’s Cinepocalypse Film Festival. At that time, no one knew what a movie written and directed by the Misfits frontman would look like, so hopes were high that Danzig’s voice would be as […]",
+          "link": "https://bloody-disgusting.com/reviews/3680511/review-glenn-danzigs-death-rider-house-vampires-charm-flaws-verotika/",
+          "publishedOn": "2021-08-29T16:00:33.000Z",
+          "wordCount": 1819,
+          "title": "[Review] Glenn Danzig’s ‘Death Rider in the House of Vampires’ Has All the Charm…and Flaws of ‘Verotika’"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3680502",
+          "author": "Brad Miska",
+          "description": "Warner Bros. and New Line Cinema have been the gold standard for horror over the past few decades, but Universal Pictures has slowly become their rival. Universal Pictures not only stole Blumhouse away from Paramount Pictures, but they’ve become home to Jordan Peele‘s productions, including the brand new Candyman, directed by Nia DaCosta. The box […]",
+          "link": "https://bloody-disgusting.com/movie/3680502/box-office-audiences-say-name-resurrect-candyman-franchise-25m/",
+          "publishedOn": "2021-08-29T14:49:31.000Z",
+          "wordCount": 1411,
+          "title": "[Box Office] Audiences Say His Name, Resurrect ‘Candyman’ Franchise With a Sweet $22.37M!"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3680489",
+          "author": "Mike Wilson",
+          "description": "Bandai Namco has allowed publications the first hands-off preview for Elden Ring. And while details are still being kept under wraps, there are several key details that publications like GameSpot, Game Informer, IGN have reported on that will no doubt pique your interest. Starting off, the land you’ll be traversing is huge. The game will […]",
+          "link": "https://bloody-disgusting.com/video-games/3680489/gamescom-2021-elden-ring-previews-appear-online/",
+          "publishedOn": "2021-08-29T13:31:55.000Z",
+          "wordCount": 1193,
+          "title": "[Gamescom 2021] ‘Elden Ring’ Previews Appear Online"
+        },
         {
           "id": "https://bloody-disgusting.com/?p=3680481",
           "author": "Brad Miska",
@@ -13261,87 +13153,6 @@
           "publishedOn": "2021-08-01T14:39:15.000Z",
           "wordCount": 1073,
           "title": "[Trailer] ‘Mortal Shell’ DLC “The Virtuous Cycle” Arrives August 18th For Consoles And PC, Including Steam"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3676245",
-          "author": "Meagan Navarro",
-          "description": "From the original Star Wars trilogy to Starship Troopers, legendary and Oscar Award-winning visual effects artist Phil Tippett has long established himself a pioneer and master of stop-motion animation. He’s kept so busy that his personal stop-motion animated masterwork that its taken thirty years to complete his personal masterwork, Mad God. A new trailer, below, […]",
-          "link": "https://bloody-disgusting.com/movie/3676245/phil-tippetts-mad-god-unveils-stop-motion-animation-sci-fi-epic-30-years-making-trailer/",
-          "publishedOn": "2021-07-30T19:05:24.000Z",
-          "wordCount": 3108,
-          "title": "Phil Tippett’s ‘Mad God’ Unveils Stop-Motion Animation Sci-Fi Epic 30 Years in the Making [Trailer]"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3676187",
-          "author": "Mike Wilson",
-          "description": "Epic Games are catering to genre fans once again with the reveal that Asobo’s A Plague Tale: Innocence will be the next title available for free for a week as part of the store’s weekly giveaways. Innocence (which once again, we loved) will be available for free from August 5 to August 12, alongside Double […]",
-          "link": "https://bloody-disgusting.com/video-games/3676187/epic-games-store-adds-a-plague-tale-innocence-next-week/",
-          "publishedOn": "2021-07-30T17:25:14.000Z",
-          "wordCount": 967,
-          "title": "Epic Games Store Adds ‘A Plague Tale: Innocence’ Next Week"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3675480",
-          "author": "Ron Breton",
-          "description": "It’s not unusual for eras or decades of the horror genre to be categorized by one overarching theme or style. The eighties have become synonymous for their boom in low-budget, often sleazy, slasher films inspired by the cornerstone slashers of the mid-to-late seventies. The horrors of the 50s reflected cultural fears of science creating new […]",
-          "link": "https://bloody-disgusting.com/editorials/3675480/decade-grief-horror-reflecting-shared-themes-horror-movies-2010s/",
-          "publishedOn": "2021-07-30T16:00:47.000Z",
-          "wordCount": 3956,
-          "title": "The Decade of Grief Horror: Reflecting on Shared Themes in the Horror Movies of the 2010s"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3676134",
-          "author": "Michael Roffman",
-          "description": "“Maybe there is a beast… maybe it’s only us.” There’s been a wreck. A British aeroplane has crashed on a remote island, leaving the Losers stranded somewhere in the vastness of the Pacific Ocean. Hope is dwindling, but the weather is beautiful, the vegetation is plentiful, and there’s even livestock roaming around. In an effort […]",
-          "link": "https://bloody-disgusting.com/podcasts/3676134/stephen-king-lord-of-the-flies-losers-club/",
-          "publishedOn": "2021-07-30T16:00:04.000Z",
-          "wordCount": 1230,
-          "title": "Stephen King Wrangled the Beast Within the “Lord of the Flies” [The Losers’ Club Podcast]"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3676207",
-          "author": "Brad Miska",
-          "description": "Todd Grimson’s horror novel “Brand New Cherry Flavor” is coming to Netflix as a horror-thriller revenge series, with Rosa Salazar (Alita: Battle Angel) in the leading role. The eight-episode limited series was written and executive produced by “Channel Zero” duo Nick Antosca and Lenore Zion, who also serve as showrunners. Here’s the synopsis… “Lisa N. Nova (Rosa Salazar) comes to LA dead set […]",
-          "link": "https://bloody-disgusting.com/tv/3676207/hungry-brand-new-cherry-flavor-trailer-netflix-series-channel-zero-creator-premiering-friday-13th-video/",
-          "publishedOn": "2021-07-30T15:15:58.000Z",
-          "wordCount": 2663,
-          "title": "Hungry for a “Brand New Cherry Flavor” Trailer? Netflix Series from “Channel Zero” Creator Premiering on Friday the 13th! [Video]"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3676184",
-          "author": "Mike Wilson",
-          "description": "After surprising folks at this year’s E3, Saber Interactive has given World War Z fans some new gameplay to chew on with the upcoming upgrade/expansion to World War Z in Aftermath. The new trailer (courtesy of IGN) shows off the new locales, the new Vanguard class, first-person combat, and just to show zombies in the […]",
-          "link": "https://bloody-disgusting.com/video-games/3676184/trailer-get-a-taste-of-the-new-gameplay-features-in-world-war-z-aftermath/",
-          "publishedOn": "2021-07-30T14:56:39.000Z",
-          "wordCount": 970,
-          "title": "[Trailer] Get a Taste of The New Gameplay Features in ‘World War Z: Aftermath’"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3676202",
-          "author": "Brad Miska",
-          "description": "After fine-tuning her sound and brand around the release of last year’s excellent I Disagree, Poppy parted ways with her longtime collaborator, leaving many of us wondering what the future would look like. We got a taste of Poppy’s new sound this past March when she performed a brand new track to celebrate being nominated for “Best Metal […]",
-          "link": "https://bloody-disgusting.com/music/3676202/poppy-drops-title-track-off-new-album-flux-music-video/",
-          "publishedOn": "2021-07-30T13:24:38.000Z",
-          "wordCount": 1268,
-          "title": "Poppy Drops Title Track and Trippy Music Video Off New Album, ‘Flux’"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3676198",
-          "author": "Brad Miska",
-          "description": "Deadline initially broke the news that Mark Mylod will direct Searchlight Pictures’ (Ready or Not, The Night House) horror-comedy The Menu, which promises to cook up many surprises. With the announcement came news that Anya Taylor-Joy (The Witch, Last Night in Soho) is starring alongside Ralph Fiennes, while THR adds today that Nicholas Hoult (Warm Bodies, Mad Max: Road Fury) […]",
-          "link": "https://bloody-disgusting.com/movie/3676198/nicholas-hoult-cooks-role-next-anya-taylor-joy-horror-comedy-menu-set-world-eccentric-culinary-culture/",
-          "publishedOn": "2021-07-30T13:15:59.000Z",
-          "wordCount": 1104,
-          "title": "Nicholas Hoult Cooks Up a Role Next to Anya Taylor-Joy in the Horror-Comedy ‘The Menu’; Set in the World of “Eccentric Culinary Culture”"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3676192",
-          "author": "Brad Miska",
-          "description": "It’s always frustrating when a studio releases boring stills and even more useless clips from their films in an attempt to garner hype. Thankfully, Warner Bros. is delivering the goods with these brand new clips from The Suicide Squad, the brand new DC adaptation from horror veteran James Gunn (SLiTHER). The film has even been […]",
-          "link": "https://bloody-disgusting.com/movie/3676192/behold-starro-fear-weasel-two-great-suicide-squad-clips-video/",
-          "publishedOn": "2021-07-30T13:06:09.000Z",
-          "wordCount": 1122,
-          "title": "Behold Starro, Fear Weasel in Two Great ‘The Suicide Squad’ Clips [Video]"
         }
       ]
     },
@@ -13805,15 +13616,6 @@
           "publishedOn": "2021-08-02T10:00:00.000Z",
           "wordCount": 658,
           "title": "Monday Morning Fly By: The doldrums are here"
-        },
-        {
-          "id": "https://www.broadstreethockey.com/2021/7/30/22601680/bsh-radio-317-hes-not-dad-hes-uncle-jim",
-          "author": null,
-          "description": "Photo by Elsa/Getty Images\n    \n\n  \nIn which the gang runs down the free agency moves. \n You wanted moves?? Well, Spicy Chuck made some and the gang runs through the new additions: the good, the bad, what we should expect, and why it might be okay to Trust Chuck’s Process.",
-          "link": "https://www.broadstreethockey.com/2021/7/30/22601680/bsh-radio-317-hes-not-dad-hes-uncle-jim",
-          "publishedOn": "2021-07-30T13:00:00.000Z",
-          "wordCount": 478,
-          "title": "BSH Radio #317: He’s not dad, he’s Uncle Jim"
         }
       ]
     },
@@ -13822,6 +13624,20 @@
       "feedUrl": "https://indyweek.com/api/rss/content.rss",
       "siteUrl": "https://indyweek.com/api/rss/content.rss",
       "articles": [
+        {
+          "id": "https://indyweek.com/news/orange/governor-proof-of-vaccination-orange-county/",
+          "author": "Anne Blythe",
+          "description": "In Orange County, where nearly 77 percent of the population has had a vaccination, this pizzeria is making sure you've had your jab.",
+          "link": "https://indyweek.com/news/orange/governor-proof-of-vaccination-orange-county/",
+          "publishedOn": "2021-08-29T17:00:00.000Z",
+          "wordCount": 1482,
+          "title": "Even the Governor Has to Show Proof of a Covid-19 Vaccination at this Pizzeria",
+          "enclosure": {
+            "url": "https://indyweek.com/downloads/82795/download/VAXCHECK-e1630016106263-880x500.jpg?cb=8350b9c657bfdc16dfc00330ba58fb7b",
+            "type": "image/jpeg",
+            "length": "80170"
+          }
+        },
         {
           "id": "https://indyweek.com/news/sunday-long-reads-parents-are-not-okay/",
           "author": "Leigh Tauss",
@@ -15585,34 +15401,6 @@
             "type": "image/jpeg",
             "length": "290218"
           }
-        },
-        {
-          "id": "https://indyweek.com/news/northcarolina/three-ways-to-have-a-fun-sunday-in-the-triangle-080121/",
-          "author": "Sara Pequeño",
-          "description": "Rabbit rabbit. Enjoy the first day of August, everyone.",
-          "link": "https://indyweek.com/news/northcarolina/three-ways-to-have-a-fun-sunday-in-the-triangle-080121/",
-          "publishedOn": "2021-07-30T22:35:32.000Z",
-          "wordCount": 741,
-          "title": "Three Ways to Have a Fun Sunday in the Triangle",
-          "enclosure": {
-            "url": "https://indyweek.com/downloads/82658/download/watermelon-rens-d-unsplash.jpeg?cb=79e66886dfaff86b9b333550f5dd5dd4",
-            "type": "image/jpeg",
-            "length": "161924"
-          }
-        },
-        {
-          "id": "https://indyweek.com/news/northcarolina/three-ways-to-spend-your-saturday-in-the-triangle-73121/",
-          "author": "Sara Pequeño",
-          "description": "If you're going outside at all, be sure to bring lots of water.",
-          "link": "https://indyweek.com/news/northcarolina/three-ways-to-spend-your-saturday-in-the-triangle-73121/",
-          "publishedOn": "2021-07-30T20:00:20.000Z",
-          "wordCount": 836,
-          "title": "Three Ways to Spend Your Saturday in the Triangle",
-          "enclosure": {
-            "url": "https://indyweek.com/downloads/82657/download/208629942_10165688065405045_264122202465688368_n.jpeg?cb=36269e794a1aac6c8d6b2b3fd0c20be4",
-            "type": "image/jpeg",
-            "length": "120535"
-          }
         }
       ]
     },
@@ -16430,36 +16218,6 @@
           "wordCount": null,
           "title": "This Friday, Support Artists Impacted by the Covid-19 Pandemic",
           "itunes": {}
-        },
-        {
-          "id": "142214",
-          "author": "Kerry Cardoza",
-          "description": "A new compilation from proto-punks Beex, Cemento's shoegazey post-punk, Psico Galera's off-the-wall hardcore, and more.\nRead full story on the Bandcamp Daily.",
-          "link": "https://daily.bandcamp.com/best-punk/the-best-punk-on-bandcamp-july-2021",
-          "publishedOn": "2021-07-30T17:56:01.000Z",
-          "wordCount": null,
-          "title": "The Best Punk on Bandcamp: July 2021",
-          "itunes": {}
-        },
-        {
-          "id": "142350",
-          "author": "Bandcamp Daily Staff",
-          "description": "Experimental hip-hop, post-hardcore, R&B fusion, and more.\nRead full story on the Bandcamp Daily.",
-          "link": "https://daily.bandcamp.com/seven-essential-releases/essential-releases-july-30-2021",
-          "publishedOn": "2021-07-30T13:50:58.000Z",
-          "wordCount": null,
-          "title": "Essential Releases, July 30, 2021",
-          "itunes": {}
-        },
-        {
-          "id": "142374",
-          "author": "John Morrison",
-          "description": "The Birmingham, England-based jazz musician connects the genre's past, present, and future on his debut album.\nRead full story on the Bandcamp Daily.",
-          "link": "https://daily.bandcamp.com/album-of-the-day/xhosa-cole-know-them-know-us-review",
-          "publishedOn": "2021-07-30T13:50:01.000Z",
-          "wordCount": null,
-          "title": "Xhosa Cole, “K(no)w Them, K(no)w Us”",
-          "itunes": {}
         }
       ]
     },
@@ -16791,15 +16549,6 @@
           "publishedOn": "2021-08-03T00:59:03.929Z",
           "wordCount": 2663,
           "title": "How major media outlets screwed up the vaccine ‘breakthrough’ story"
-        },
-        {
-          "id": "https://www.cjr.org/the_media_today/vaccine_mandates_biden.php",
-          "author": null,
-          "description": "On Tuesday, Fred Ryan, the publisher of the Washington Post, laid down the law: staffers will have to be fully vaccinated against COVID-19 by mid-September, when the paper plans to reopen its offices. If employees don’t comply, they risk losing their jobs. Contractors and guests will also have to show proof of vaccination; the paper […]",
-          "link": "https://www.cjr.org/the_media_today/vaccine_mandates_biden.php",
-          "publishedOn": "2021-07-31T00:54:24.824Z",
-          "wordCount": 2446,
-          "title": "Getting the ‘vaccine mandates’ story right"
         }
       ]
     },
