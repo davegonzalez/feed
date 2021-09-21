@@ -2,10 +2,1484 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://davegonzalez.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-20T01:00:22.580Z</updated>
+    <updated>2021-09-21T00:57:33.892Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://davegonzalez.github.io/feed/index.html"/>
     <link rel="self" href="https://davegonzalez.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Press freedom, protest, and the Nicaragua election]]></title>
+        <id>https://www.cjr.org/the_media_today/press-freedom-central-america-nicaragua.php</id>
+        <link href="https://www.cjr.org/the_media_today/press-freedom-central-america-nicaragua.php"/>
+        <updated>2021-09-21T00:57:28.686Z</updated>
+        <summary type="html"><![CDATA[In 2018, tens of thousands of Nicaraguans flooded the streets to protest against the nation’s increasingly repressive president, Daniel Ortega, and his wife Rosario Murillo, who holds an amalgam of positions, including vice president and communications coordinator. The protests posed a serious threat to Ortega’s fourteen-year hold on power; with news outlets doggedly covering the […]]]></summary>
+        <author>
+            <name>Columbia Journalism Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Larry Fink: Vulgarity and Anna Wintour’s Met Gala]]></title>
+        <id>https://www.cjr.org/podcast/larry-fink-vulgarity-anna-wintour-podcast.php</id>
+        <link href="https://www.cjr.org/podcast/larry-fink-vulgarity-anna-wintour-podcast.php"/>
+        <updated>2021-09-21T00:57:28.175Z</updated>
+        <summary type="html"><![CDATA[CJR · Larry Fink: Vulgarity and Anna Wintour’s Met Gala In his five-plus decades of photographing performative wealth and celebrity at events like the Vanity Fair Oscar Party and the Met Gala, Larry Fink perfected the art of taking “candid pictures of very non-candid people.”  On this week’s Kicker, Fink joins Kyle Pope, editor and […]]]></summary>
+        <author>
+            <name>Columbia Journalism Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Sponsor] Retool]]></title>
+        <id>https://retool.com/?utm_source=sponsor&amp;utm_medium=newsletter&amp;utm_campaign=daringfireball</id>
+        <link href="https://retool.com/?utm_source=sponsor&amp;utm_medium=newsletter&amp;utm_campaign=daringfireball"/>
+        <updated>2021-09-21T00:24:24.000Z</updated>
+        <summary type="html"><![CDATA[Programming has gotten surprisingly hard. Building a simple form to POST data back to your API means wrangling with redux and thunks. Oh, and debouncing that submit button. Everything but solving the business problem.
+Retool is a new approach: we’ve unified the ease of visual programming with the power and flexibility of real code. Drag and drop a form together, and have it POST back to your API in minutes. Deploy instantly with access controls and audit logs.
+Allbirds uses Retool to measure billboard efficacy. Amazon uses Retool to handle GDPR requests. You, too, can use it to build business-critical applications fast.
+Start building for free today.
+ ★]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple and Google bow to Russia]]></title>
+        <id>https://www.platformer.news/p/apple-and-google-bow-to-russia</id>
+        <link href="https://www.platformer.news/p/apple-and-google-bow-to-russia"/>
+        <updated>2021-09-21T00:00:47.000Z</updated>
+        <summary type="html"><![CDATA[The Splinternet marches on]]></summary>
+        <author>
+            <name>Casey Newton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Card Gains Advanced Fraud Protection in iOS 15]]></title>
+        <id>https://www.macrumors.com/2021/09/20/apple-card-ios-15-advanced-fraud-protection/</id>
+        <link href="https://www.macrumors.com/2021/09/20/apple-card-ios-15-advanced-fraud-protection/"/>
+        <updated>2021-09-20T23:06:52.000Z</updated>
+        <summary type="html"><![CDATA[Starting with iOS 15, Apple Card owners can take advantage of a new Advanced Fraud Protection feature that is designed to keep ‌Apple Card‌ information more secure by changing the three-digit security code associated with the card on a regular basis.
+
+
+
+
+
+When enabled, Advanced Fraud Protection will cause the three digit security code used for making purchases online to change every so often, which protects you if your card details are compromised by an online merchant. Apple says that the feature will not impact recurring purchases and subscriptions.
+Advanced Fraud Protection is a way to keep your Apple Card information even more secure. After turning on Advanced Fraud Protection, your three-digit Apple Card security code will change periodically after it's been viewed in the Wallet…]]></summary>
+        <author>
+            <name>Juli Clover</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sony’s new PS5 firmware can make your games slightly faster]]></title>
+        <id>https://arstechnica.com/?p=1796836</id>
+        <link href="https://arstechnica.com/?p=1796836"/>
+        <updated>2021-09-20T22:09:16.000Z</updated>
+        <summary type="html"><![CDATA[How big a frame-rate bump? Tests get down to the percentile level.]]></summary>
+        <author>
+            <name>Steve Haske</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Ultimate iOS 15 Walkthrough: Guides and How Tos for Every New Feature]]></title>
+        <id>https://www.macrumors.com/guide/ultimate-ios-15-walkthrough&amp;post_date=1632185113/</id>
+        <link href="https://www.macrumors.com/guide/ultimate-ios-15-walkthrough/"/>
+        <updated>2021-09-20T21:45:13.000Z</updated>
+        <summary type="html"><![CDATA[While iOS 15 was in the beta testing phase, we here at MacRumors wrote up a series of in-depth feature guides to highlight everything that's new in the update, along with how tos to walk you through using those features.
+
+
+
+
+
+This is a comprehensive guide with all of our coverage, and it's a great resource for casual users who haven't had a chance to test out ‌iOS 15‌ prior to its launch. Everything is organized by app or feature to make it easy to find what you might be looking for.
+
+
+
+Overview
+
+
+
+Just Install iOS 15? Here's Where to Start
+
+
+iOS 15 Features: Our Top 10 Picks
+
+
+
+
+
+
+Safari
+
+
+
+
+ 
+Everything New With Safari in iOS 15: Redesign, Tab Groups, Live Text, Privacy Updates and More
+
+
+ 
+How to Hide Your IP Address From Trackers in Safari
+
+
+How to Switch Ba…]]></summary>
+        <author>
+            <name>Juli Clover</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEC probing Activision Blizzard in wake of harassment, discrimination lawsuits]]></title>
+        <id>https://arstechnica.com/?p=1796859</id>
+        <link href="https://arstechnica.com/?p=1796859"/>
+        <updated>2021-09-20T21:27:44.000Z</updated>
+        <summary type="html"><![CDATA[CEO Bobby Kotick and other execs subpoenaed, personnel files requested.]]></summary>
+        <author>
+            <name>Tim De Chant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Theo Germaine Set to Star in Blumhouse Horror Movie Set at a Gay Conversion Camp]]></title>
+        <id>https://bloody-disgusting.com/?p=3683739</id>
+        <link href="https://bloody-disgusting.com/movie/3683739/theo-germaine-set-star-blumhouse-horror-movie-set-gay-conversion-camp/"/>
+        <updated>2021-09-20T21:23:49.000Z</updated>
+        <summary type="html"><![CDATA[John Logan (“Penny Dreadful”) will be making his directorial debut with a new horror film in the works over at Blumhouse Productions. Deadline provides an update on the project today, reporting that Theo Germaine (“The Politician”) will lead the cast. The film was formerly titled Whistler Camp, but is currently untitled. “Whistler Camp is a queer empowerment […]]]></summary>
+        <author>
+            <name>John Squires</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Prompts Pre-Order Customers to 'Get Ready' for New iPhone 13 With iCloud Syncing and Trade-Ins]]></title>
+        <id>https://www.macrumors.com/2021/09/20/iphone-13-get-ready-process/</id>
+        <link href="https://www.macrumors.com/2021/09/20/iphone-13-get-ready-process/"/>
+        <updated>2021-09-20T21:23:24.000Z</updated>
+        <summary type="html"><![CDATA[iPhone users who have pre-ordered an iPhone 13 model are seeing a new prompt in the Settings app that walks through the steps of preparing for a new device.
+
+
+
+
+
+Tapping on this prompt encourages users to make sure that iCloud syncing is enabled for all of their apps for a complete ‌iCloud‌ backup, offering up an option to turn on syncing for any app that doesn't have it on.
+
+
+
+The feature also explains how to use an existing ‌iPhone‌ to set up a new ‌iPhone‌ for a quick sign in process, and it offers up details on finding out how much an existing ‌iPhone‌ is worth for trade-in purposes.
+
+
+
+Apple is likely showing this information based on Apple ID, so many customers who pre-ordered an ‌iPhone‌ may be seeing the new popup. For those who want to get rid of it, just tapping through the prompts should be enough to get it to disappear.
+This article, "Apple Prompts Pre-Order Customers to 'Get Ready' for New iPhone 13 With iCloud Syncing and Trade-Ins" first appeared on MacRumors.com
+Discuss this article in our forums]]></summary>
+        <author>
+            <name>Juli Clover</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1Password Releases Safari Extension for iOS 15 and iPadOS 15]]></title>
+        <id>https://www.macrumors.com/2021/09/20/1password-safari-extension-ios-15/</id>
+        <link href="https://www.macrumors.com/2021/09/20/1password-safari-extension-ios-15/"/>
+        <updated>2021-09-20T21:12:29.000Z</updated>
+        <summary type="html"><![CDATA[With the release of iOS and iPadOS 15 today, the popular password management app 1Password has released an accompanying update that brings its desktop-class extension to the iPhone and iPad.
+
+
+
+
+
+With iOS and ‌iPadOS 15‌, Apple allows Safari extensions developers to release their previously exclusive Safari for Mac extensions to the ‌iPhone‌ and ‌iPad‌, allowing users to use extensions on all of their devices. 1Password was one of the first to tease support earlier in June, and with its latest App Store update today, it's bringing it to all users. 
+
+
+
+With its Safari extension on ‌iPhone‌ and ‌iPad‌, 1Password users now have immediate access to all their passwords and 1Password entries right inside of Safari, including in-page suggestions. 1Password for Safari uses on-device machine learning to automatically fill in the login process of complicated websites and even automatically fills in two-factor authentication codes.
+
+
+
+On ‌iPadOS 15‌, 1Password's extension is even more feature-rich, featuring a complete in-Safari user interface that "turbocharges any ‌iPad‌."  1Password along with its Safari extension is introducing other app improvements and bug fixes. Users can learn more about 1Password's announcement over on its blog. 
+Related Roundups: iOS 15, iPadOS 15
+Tag: 1Password
+Related Forum: iOS 15
+This article, "1Password Releases Safari Extension for iOS 15 and iPadOS 15" first appeared on MacRumors.com
+Discuss this article in our forums]]></summary>
+        <author>
+            <name>Sami Fathi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Being the DRI of Your Career]]></title>
+        <id>https://cate.blog/?p=53401</id>
+        <link href="https://cate.blog/2021/09/20/being-the-dri-of-your-career/"/>
+        <updated>2021-09-20T21:03:22.000Z</updated>
+        <summary type="html"><![CDATA[At DuckDuckGo, there’s an expression: “You are the DRI of your career” (DRI: Directly Responsible Individual). I like this, both as an individual who has always felt like the DRI of my own career, and I like it as a manager because I think it makes the boundaries of what you can and can’t do […]]]></summary>
+        <author>
+            <name>Cate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In HB2's Shadow, Advocates Fear the Consequences of Anti-Trans Bills in N.C.]]></title>
+        <id>https://indyweek.com/news/northcarolina/in-hb2s-shadow-advocates-fear-consequences-of-anti-trans-bills-in-nc/</id>
+        <link href="https://indyweek.com/news/northcarolina/in-hb2s-shadow-advocates-fear-consequences-of-anti-trans-bills-in-nc/"/>
+        <updated>2021-09-20T20:29:57.000Z</updated>
+        <summary type="html"><![CDATA[In 2020, more than half of homicides against transgender people occurred in states that attempted to pass anti-trans legislation, according to recent reports.]]></summary>
+        <author>
+            <name>Elizabeth Thompson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sigourney Weaver Believes ‘Ghostbusters: Afterlife’ Will “Surprise Everybody”]]></title>
+        <id>https://bloody-disgusting.com/?p=3683725</id>
+        <link href="https://bloody-disgusting.com/movie/3683725/sigourney-weaver-believes-ghostbusters-afterlife-will-surprise-everybody/"/>
+        <updated>2021-09-20T20:27:09.000Z</updated>
+        <summary type="html"><![CDATA[Ghostbusters: Afterlife will begin haunting theaters on November 19, 2021, and the first wave of rave reviews from movie critics suggest we’re all in for a treat later this year. Critic Scott Menzel tweeted, “Ghostbusters: Afterlife is the Ghostbusters sequel that I’ve been waiting all my life to see. It is nostalgia done right. A perfect blend of classic Ghostbusters […]]]></summary>
+        <author>
+            <name>John Squires</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Trailer] Battle Swarms of Monsters in RTS Game ‘Age of Darkness: Final Stand’]]></title>
+        <id>https://bloody-disgusting.com/?p=3683612</id>
+        <link href="https://bloody-disgusting.com/video-games/3683612/trailer-battle-swarms-of-monsters-in-rts-game-age-of-darkness-final-stand/"/>
+        <updated>2021-09-20T20:20:28.000Z</updated>
+        <summary type="html"><![CDATA[Horror gamers don’t have many RTS games to call their own. So when a game like PlaySide’s Age of Darkness: Final Stand comes along, promising “over 70,000 enemy units on the screen at one time”, you bet we’re interested. The latest gameplay trailer should convince you if you’re on the fence. The premise of Age […]]]></summary>
+        <author>
+            <name>Mike Wilson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Study: There are More Emergency Surgeries, More 'Catastrophic' Bills in States Without Medicaid Expansion]]></title>
+        <id>https://indyweek.com/news/northcarolina/there-are-more-emergency-surgeries-more-catastrophic-bills-in-states-without-medicaid-expansion/</id>
+        <link href="https://indyweek.com/news/northcarolina/there-are-more-emergency-surgeries-more-catastrophic-bills-in-states-without-medicaid-expansion/"/>
+        <updated>2021-09-20T20:13:12.000Z</updated>
+        <summary type="html"><![CDATA[A Duke University researcher compared surgeries performed in Medicaid expansion states to those in states that did not expand the program and found devastating economic circumstances for patients.]]></summary>
+        <author>
+            <name>Rose Hoban</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 15 Features: Our Top 10 Picks]]></title>
+        <id>https://www.macrumors.com/guide/ios-15-features&amp;post_date=1632179497/</id>
+        <link href="https://www.macrumors.com/guide/ios-15-features/"/>
+        <updated>2021-09-20T20:11:37.000Z</updated>
+        <summary type="html"><![CDATA[iOS 15 is absolutely packed with new features, and it can be overwhelming sorting through everything that's new. If you're wondering whether it's worth upgrading and what new features might be worth getting access to right away, we've rounded up 10 of the best new additions in the ‌iOS 15‌ update that you might not be aware of.
+
+
+
+
+
+1. Android and Web-Based FaceTime
+
+
+For the first time, FaceTime is expanding to non-Apple device users, and those who are on Android and PCs can join in on a ‌FaceTime‌ call.
+
+
+
+
+
+If you have an Apple device, you can open up the ‌FaceTime‌ app and select the "Create Link" option to make a ‌FaceTime‌ "room" that anyone can join from the web on an Android device, PC, or other compatible option. You can also create a link while you're already on a ‌…]]></summary>
+        <author>
+            <name>Juli Clover</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nation-state espionage group breaches Alaska Department of Health]]></title>
+        <id>https://arstechnica.com/?p=1796814</id>
+        <link href="https://arstechnica.com/?p=1796814"/>
+        <updated>2021-09-20T20:10:15.000Z</updated>
+        <summary type="html"><![CDATA[Fallout continues from an advanced persistent threat first detected in May 2021.]]></summary>
+        <author>
+            <name>Jim Salter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iMovie and Clips Apps for iOS Gain Support for iPhone 13 Features]]></title>
+        <id>https://www.macrumors.com/2021/09/20/imovie-clips-apps-iphone-13-support/</id>
+        <link href="https://www.macrumors.com/2021/09/20/imovie-clips-apps-iphone-13-support/"/>
+        <updated>2021-09-20T20:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Apple today updated iMovie and Clips with support for several new features that are set to be introduced alongside the iPhone 13 models.
+
+
+
+
+
+
+
+iMovie now supports Cinematic Mode and can be used to add, adjust, and delete focus points and modify the depth of field effect in Cinematic Mode video. Cinematic Mode is a feature that's available on all of the ‌iPhone 13‌ models, but footage can be edited on the iPhone XS or later, iPad mini 5 or later iPad Air 3 or later, and all iPad Pro models.
+
+
+
+The update also includes the option to add ProRAW images to movies and trailers, and options to import and edit ProRes video.
+
+
+
+ProRes video is a feature coming to the iPhone 13 Pro models later this year, and it will allow the devices to record in the ProRes format. ProRes video can be captured with an ‌iPhone 13 Pro‌ when the feature launches and it will be able to be edited on the ‌iPhone 13‌, iPad mini 6, and ‌iPad Pro‌ models.
+
+
+
+As for Clips, Cinematic Mode video can now be imported and edited in the app. Filters, stickers, and emoji can be added to video recorded in Cinematic Mode, and ProRAW images can be added to videos. When ProRes video launches, it will also be able to be imported into Clips and edited directly in the app.
+
+
+
+Today's update also adds the option to add photos or videos from the Photos library with a single tap, without having to record each one into a project.
+
+
+
+iMovie and Clips can both be downloaded from the App Store for free.
+This article, "iMovie and Clips Apps for iOS Gain Support for iPhone 13 Features" first appeared on MacRumors.com
+Discuss this article in our forums]]></summary>
+        <author>
+            <name>Juli Clover</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web-Based iCloud Mail Redesign, Hide My Email, and Custom Domain Features Now Live]]></title>
+        <id>https://www.macrumors.com/2021/09/20/icloud-ios-15-web-mail-features-live/</id>
+        <link href="https://www.macrumors.com/2021/09/20/icloud-ios-15-web-mail-features-live/"/>
+        <updated>2021-09-20T20:00:35.000Z</updated>
+        <summary type="html"><![CDATA[Alongside the launch of iOS 15, iPadOS 15, tvOS 15, and watchOS 8, Apple has also pushed an update for its iCloud.com website, introducing a new look for iCloud Mail that's viewed on the web.
+
+
+
+
+
+The new web-based ‌iCloud‌ Mail design looks similar to the Mail apps on devices running ‌iOS 15‌, ‌iPadOS 15‌, and the beta version of macOS Monterey. It is a cleaner and more streamlined look than the prior ‌iCloud‌ Mail app for the web, but the functionality is largely the same.
+
+
+
+Colors are lighter, the font has been updated, and there's a new smaller compose window for writing emails that takes up less space.
+
+
+
+Apple introduced the new ‌iCloud‌ Mail design for the web during the ‌iOS 15‌ beta testing process and it was previously limited to the beta.icloud.com site, but it has now been released for the main iCloud.com website.
+
+
+
+Apple today also made the Hide My Email and Custom Email Domain features live on the main iCloud.com site. Hide My Email is designed to allow users to create throwaway emails that forward to a main email address. With this feature, users can create different email addresses for different websites and then disable them if spam emails ever start arriving.
+
+
+
+
+
+Custom Email Domains are designed to allow customers to use their own custom email addresses with the ‌iCloud‌ Mail feature. Domain records need to be updated with Apple's settings, so access to the domain's registrar is required.
+
+
+
+
+
+All of these new features can be accessed by logging into the iCloud.com website. The Custom Email Domain and Hide My Email features can be accessed by clicking on your name and choosing "Settings."
+This article, "Web-Based iCloud Mail Redesign, Hide My Email, and Custom Domain Features Now Live" first appeared on MacRumors.com
+Discuss this article in our forums]]></summary>
+        <author>
+            <name>Juli Clover</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stay Home, Watch Horror: Five Standout 2020 Horror Movies to Stream This Week]]></title>
+        <id>https://bloody-disgusting.com/?p=3683655</id>
+        <link href="https://bloody-disgusting.com/movie/3683655/stay-home-watch-horror-5-2020-horror-releases-stream-week/"/>
+        <updated>2021-09-20T20:00:28.000Z</updated>
+        <summary type="html"><![CDATA[It’s already been an insanely packed year for genre offerings, and the Halloween season is about to compound that tenfold with some major anticipated releases still on the horizon. It’s a continuing trend from last year, in which a steady stream of horror content made it tricky to keep up with all of the titles. […]]]></summary>
+        <author>
+            <name>Meagan Navarro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“A Ghost Ruined My Life”: Eli Roth Presents Real Life Ghost Stories With Discovery+ Series for Halloween]]></title>
+        <id>https://bloody-disgusting.com/?p=3683715</id>
+        <link href="https://bloody-disgusting.com/tv/3683715/ghost-ruined-life-eli-roth-presents-real-life-ghost-stories-discovery-series-halloween/"/>
+        <updated>2021-09-20T19:58:22.000Z</updated>
+        <summary type="html"><![CDATA[Part of this year’s Ghostober lineup, discovery+ has fully detailed their upcoming series Eli Roth Presents: A Ghost Ruined My Life, coming to the streaming service for Halloween. The press release explains, “You may want to keep those lights on for “Eli Roth Presents: A Ghost Ruined My Life,” a new series from the master […]]]></summary>
+        <author>
+            <name>John Squires</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 15 Includes Improved Face ID Anti-Spoofing Models and Other Vulnerability Fixes]]></title>
+        <id>https://www.macrumors.com/2021/09/20/ios-15-improved-face-id-anti-spoofing/</id>
+        <link href="https://www.macrumors.com/2021/09/20/ios-15-improved-face-id-anti-spoofing/"/>
+        <updated>2021-09-20T19:50:35.000Z</updated>
+        <summary type="html"><![CDATA[The iOS 15 and iPadOS 15 updates that were released today add improved anti-spoofing models for Face ID, further improving the security of facial recognition on the iPhone X and later and the iPad Pro models.
+
+
+
+
+
+According to Apple's security support document for the updates, there was a Face ID vulnerability that could allow a Face ID ‌iPhone‌ to be unlocked and authenticated using a 3D model constructed to look like the ‌iPhone‌'s owner.
+
+
+
+Apple says that this issue has been resolved through improvements to the Face ID feature, which is available on the ‌iPhone‌ X, iPhone XR, ‌iPhone‌ XS (all models), iPhone 11 (all models), iPhone 12 (all models), ‌iPad Pro‌ (11-inch), and ‌iPad Pro‌ (3rd generation).
+
+
+
+There are a number of other security fixes included in the ‌iOS 15‌ update, but none of the exploits were listed as being used in the wild. There was an issue with the Neural Engine that could allow an application to execute arbitrary code with system privileges on devices with a Neural Engine, and a CoreML bug could let attackers cause unexpected application termination or arbitrary code execution.
+
+
+
+Apple also addressed issues with FontParser, Preferences, Siri, WebKit, and WiFi, all of which are outlined in Apple's full security document.
+
+
+
+For those not particularly interested in the feature set that ‌iOS 15‌ offers, it may still be a good idea to upgrade just to get the full suite of security fixes that Apple has deployed.
+Related Roundups: iOS 15, iPadOS 15
+Related Forum: iOS 15
+This article, "iOS 15 Includes Improved Face ID Anti-Spoofing Models and Other Vulnerability Fixes" first appeared on MacRumors.com
+Discuss this article in our forums]]></summary>
+        <author>
+            <name>Juli Clover</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Living While Black, in Japan]]></title>
+        <id>https://kottke.org/21/09/living-while-black-in-japan</id>
+        <link href="https://kottke.org/21/09/living-while-black-in-japan"/>
+        <updated>2021-09-20T19:41:57.000Z</updated>
+        <summary type="html"><![CDATA[In Living While Black, in Japan, directed by Keith Bedford and Shiho Fukada, a group of African-Americans talk about what it’s like to live in Japan as Black people versus their experiences living in the United States.
+“I didn’t leave because I was running away from anything. I left because I felt I could be more myself in Japan.”
+“Living in Japan, as an African-American, I’ve honestly never felt more free.”
+“You know, I can do things here in Japan that I can’t do back at home, in the U.S.”
+“I can catch a cab when I’m not trying to catch a cab. People in stores that are supposed to serve you, serve you, like they serve everybody else.”
+
+
+ Tags: Japan   Keith Bedford   racism   Shiho Fukada   USA   video]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Five stars of the Flyers rookie games]]></title>
+        <id>https://www.broadstreethockey.com/2021/9/20/22682912/nhl-philadelphia-flyers-rookie-camp-prospects-morgan-frost-tyson-foerster-analysis</id>
+        <link href="https://www.broadstreethockey.com/2021/9/20/22682912/nhl-philadelphia-flyers-rookie-camp-prospects-morgan-frost-tyson-foerster-analysis"/>
+        <updated>2021-09-20T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Heather Barry / SB Nation
+    
+
+  
+The kids are alright, etc etc. 
+ At long last, we had a bit of hockey to watch this weekend! Ahead of training camp opening up this week, the Flyers had their rookie camp last week, which they closed out with a pair of scrimmages against the Rangers’ rookies. The Flyers’ prospects split that series, taking home a 6-3 win on Saturday, and then dropping Sunday’s matchup 3-2. And while that’s all good to know, we’re a little less fussed on the outcomes of the games than we are concerned, more generally, about just how the prospects looked. So, all of that said, let’s take a look at some of the standout performances, shall we?
+Tyson Foerster
+Foerster was one of the big standouts during development camp, and he was able to keep the momentum he built up rolling…]]></summary>
+        <author>
+            <name>Broad Street Hockey -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Pokémon Trading Card Game is coming to your phone]]></title>
+        <id>https://www.polygon.com/pokemon/22684423/pokemon-tcg-live-ptcg-mobile-release-dates</id>
+        <link href="https://www.polygon.com/pokemon/22684423/pokemon-tcg-live-ptcg-mobile-release-dates"/>
+        <updated>2021-09-20T18:50:53.000Z</updated>
+        <summary type="html"><![CDATA[Image: The Pokémon Company
+    
+
+  
+Will soft-launch on smartphones in Canada; global beta on PC later in 2021
+ The Pokémon Trading Card Game will soon be available as a free-to-play app for iOS and Android devices, The Pokémon Company announced on Monday.
+With Pokémon TCG Live, The Pokémon Company promises that newcomers and veterans alike will get Pokémon’s classic deck-building game with true-to-life rules and gameplay. Pokémon TCG Live will be supplemented with daily quests, customizable avatars and accessories, and more. A robust post-launch content schedule is promised.
+“Pokémon TCG Live will go hand in hand with the tabletop version that fans know and love,” Barry Sams, The Pokémon Company’s vice president in charge of the Pokémon trading card game, said in a statement. The game “we…]]></summary>
+        <author>
+            <name>Polygon -  PC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Just Install iOS 15? Here's Where to Start]]></title>
+        <id>https://www.macrumors.com/guide/ios-15-start-guide&amp;post_date=1632174608/</id>
+        <link href="https://www.macrumors.com/guide/ios-15-start-guide/"/>
+        <updated>2021-09-20T18:50:08.000Z</updated>
+        <summary type="html"><![CDATA[Apple today released the new iOS 15 and iPadOS 15 updates to all users, and there are dozens of new features to learn about. Some of these options must be toggled on or set up, so we've created a handy get started with ‌iOS 15‌ guide that walks you through what you should do after installing the update.
+
+
+
+
+Subscribe to the MacRumors YouTube channel for more videos.
+
+
+Set Up Notification Summary
+
+
+If you're tired of getting endless notification alerts all day long, Notification Summary is a feature you're going to want to use. You can set your notifications to be delivered just a few times a day in bulk, which is ideal for cutting down on notification spam.
+
+
+
+
+
+This is ideal for notifications that you don't necessarily need to see right away like new TV show alerts or Apple …]]></summary>
+        <author>
+            <name>Juli Clover</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magic is Illegal in ‘Caster’; Maggie Levin Adapting the Young Adult Novel for Paramount]]></title>
+        <id>https://bloody-disgusting.com/?p=3683709</id>
+        <link href="https://bloody-disgusting.com/movie/3683709/magic-illegal-caster-maggie-levin-adapting-young-adult-novel-paramount/"/>
+        <updated>2021-09-20T18:44:11.000Z</updated>
+        <summary type="html"><![CDATA[In the wake of directing “Into the Dark: My Valentine” for Blumhouse and Hulu, Maggie Levin has set up her next project, set to write an adaptation of young adult novel Caster. Deadline reports that Levin is adapting Elsie Chapman’s novel for Paramount. The site compares Caster to both Hunger Games and Fight Club. “Caster […]]]></summary>
+        <author>
+            <name>John Squires</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Releases Safari 15 Update for macOS Big Sur and macOS Catalina With New Safari Design, Tab Groups, and More]]></title>
+        <id>https://www.macrumors.com/2021/09/20/apple-releases-safari-15-macos-big-sur-catalina/</id>
+        <link href="https://www.macrumors.com/2021/09/20/apple-releases-safari-15-macos-big-sur-catalina/"/>
+        <updated>2021-09-20T18:37:03.000Z</updated>
+        <summary type="html"><![CDATA[Apple today released Safari 15 for macOS Big Sur and macOS Catalina devices, with Apple introducing support for features that are going to be coming in the macOS Monterey update set to be released laster this year.
+
+
+
+
+
+Safari 15 introduces a new look for Safari with rounded, more defined tabs and support for transparency, a compact tab bar option that can be toggled on or off, and Tab Groups. Apple's notes for the update are below:
+Safari 15 delivers faster performance, improved security, and the following new features:
+
+- Tab Groups help you save and organize your tabs and easily access them across devices
+
+- Redesigned tabs have a rounder and more defined appearance and take on the color of the webpage
+
+- Compact tab bar option shows more of your web page on screen
+
+- HTTPS upgrade automatically switches sites from HTTP to more secure HTTPS when available
+
+
+
+
+Safari 15 can be downloaded by opening up the System Preferences interface and selecting the Software Update option. There is no word yet on when ‌macOS Monterey‌ will be released, but it could come in October alongside new Macs as Apple is expected to hold a Mac-centric event this fall to debut new 14 and 16-inch MacBook Pro models.
+Related Roundup: macOS Big Sur
+Tag: Safari
+Related Forum: macOS Big Sur
+This article, "Apple Releases Safari 15 Update for macOS Big Sur and macOS Catalina With New Safari Design, Tab Groups, and More" first appeared on MacRumors.com
+Discuss this article in our forums]]></summary>
+        <author>
+            <name>Juli Clover</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A single sunset makes me want to live in this Breath of the Wild-like game]]></title>
+        <id>https://www.polygon.com/22679364/zelda-breath-of-the-wild-indie-hamtaro-2d-3d-platformer</id>
+        <link href="https://www.polygon.com/22679364/zelda-breath-of-the-wild-indie-hamtaro-2d-3d-platformer"/>
+        <updated>2021-09-20T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Image: Sørb
+    
+
+  
+And there’s a comically fast runner and a wooden boat you can drive like a jet ski
+ Relishing in the details of game development helps me build an appreciation for both the worlds of games and the people who make them. This includes environmental design I normally take for granted, like a game’s day-to-night cycle. While time of day can often influence how I play a game, I rarely stop and pause to appreciate that my game world is constantly changing. So, when developer Sørb posted a video showing off the landscape as it changes from a bright blue to golden hour, it didn’t just show me how beautiful that game is, but how lucky we are that any game has any sunset at all.
+We have beautiful views and more in Cool WIP, Polygon’s weekly roundup of eye-catching clips and scre…]]></summary>
+        <author>
+            <name>Polygon -  PC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sea of Thieves’ next season introduces siren shrines full of booty]]></title>
+        <id>https://www.polygon.com/22684294/sea-of-thieves-season-4-start-date-plunder-pass</id>
+        <link href="https://www.polygon.com/22684294/sea-of-thieves-season-4-start-date-plunder-pass"/>
+        <updated>2021-09-20T18:28:12.000Z</updated>
+        <summary type="html"><![CDATA[Image: Rare/Microsoft Studios
+    
+
+  
+Plunder shrines, kill coral beasts, get rich
+ We knew that Sea of Thieves newest season would send pirates beneath the waves, but now Rare has revealed more details behind the game’s next update. Siren Shrines and Treasuries are arriving to the Sea of Thieves, and players will be able to either track them on their boat’s map, or look for the telltale shimmer of siren treasure on the surface of the water. The reward, of course, is tons of treasure.
+Some underwater enemies were introduced during the previous season, A Pirate’s Life, which included a crossover with Disney’s Pirates of the Caribbean franchise. They play a much bigger role in season 4. Siren shrines seem to have a lot in common with the above-water fort, except instead of skeletons, players have to work their way through waves of sirens, coral beasts, and other threats. They also have to solve puzzles to get to the final wave of treasure. 
+Luckily, helpful mermaids will help pirates transport their loot to the surface in one go, so you don’t have to worry about the long trip back and forth with all of your coral-encrusted treasure. Coral-encrusted bottles have washed up on the shores, which give the player voyages into the Sunken Kingdom in order to find the Breath of the Sea. This mysterious potion sells and gives rep to the training companies.
+Pirates can earn special coral-related cosmetics, like a ship set, scars, and even a curse by completing the new Sunken Kingdom. There’s also a Plunder Pass, which is free and offers 100 free levels of gear and currencies. An updated Plunder Pass grants some extra cosmetics for interested players.
+Sea of Thieves’ new season is planned to launch on Sept. 23, and is a free addition to the game. The Sunken Kingdom content will remain in the game for players to explore, while the Plunder Pass is limited to the three-month duration of this season.]]></summary>
+        <author>
+            <name>Polygon -  PC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Low-Cost iPad and iPod Touch Are Last iOS Devices With Headphone Jack as iPad Mini 6 Drops Support]]></title>
+        <id>https://www.macrumors.com/2021/09/20/ipad-mini-6-no-headphone-jack/</id>
+        <link href="https://www.macrumors.com/2021/09/20/ipad-mini-6-no-headphone-jack/"/>
+        <updated>2021-09-20T18:24:44.000Z</updated>
+        <summary type="html"><![CDATA[Apple is continuing to phase out the headphone jack from its iOS devices, and the iPad mini 6 is the latest iPad to see the feature removed.
+
+
+
+
+
+The prior-generation iPad mini 5, released in 2019, had a headphone jack located at the top of the device, but the ‌iPad mini 6‌ does not include this feature. With no headphone jack, the ‌iPad mini 6‌ supports only Bluetooth-enabled headphones or headphones able to connect to the USB-C port on the device.
+
+
+
+
+‌iPad mini 6‌ components
+
+
+Apple has now removed the headphone jack from all of the devices in its iOS lineups with the exception of the low-cost ‌iPad‌ and the iPod touch, a device that's likely being phased out and sees few updates.
+
+
+
+The 10.2-inch iPad 9 that was released last week continues to offer a headphone jack at …]]></summary>
+        <author>
+            <name>Juli Clover</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[TIFF Review] ‘Silent Night’ Hides Grim Tragedy Within Awkward Christmas Comedy]]></title>
+        <id>https://bloody-disgusting.com/?p=3683574</id>
+        <link href="https://bloody-disgusting.com/reviews/3683574/tiff-review-silent-night-hides-grim-tragedy-within-awkward-christmas-comedy/"/>
+        <updated>2021-09-20T18:22:09.000Z</updated>
+        <summary type="html"><![CDATA[For the most part, writer/director Camille Griffin’s feature debut, Silent Night, plays like many comedies set around holiday gatherings. It features typical awkwardness that comes from a large makeshift family coming together during one of the most stressful times of the year, attempting to cast aside grudges, secrets, or bad manners for the sake of […]]]></summary>
+        <author>
+            <name>Meagan Navarro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Over 20 Classic Monster Movies Added to Peacock Including ‘Bride of Frankenstein’ and ‘Son of Dracula’]]></title>
+        <id>https://bloody-disgusting.com/?p=3683701</id>
+        <link href="https://bloody-disgusting.com/movie/3683701/20-classic-monster-movies-added-peacock-including-bride-frankenstein-son-dracula/"/>
+        <updated>2021-09-20T18:14:30.000Z</updated>
+        <summary type="html"><![CDATA[While we wait for Halloween Kills, which will be exclusively streaming on Peacock October 15, NBCUniversal’s streaming service has first unleashed a handful of classic horror movies. Available for streaming via Peacock, the horror selection now includes Bride of Frankenstein, Dracula’s Daughter, Frankenstein Meets the Wolfman, and The Invisible Man. Here’s the full lineup of […]]]></summary>
+        <author>
+            <name>John Squires</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[These iOS 15 Features Aren't Available on the iPhone X or Older]]></title>
+        <id>https://www.macrumors.com/2021/09/20/ios-15-features-not-on-iphone-x-or-older/</id>
+        <link href="https://www.macrumors.com/2021/09/20/ios-15-features-not-on-iphone-x-or-older/"/>
+        <updated>2021-09-20T18:05:34.000Z</updated>
+        <summary type="html"><![CDATA[Apple released iOS 15 today following over three months of beta testing, but not all of the new features are available on older iPhones.
+
+
+
+
+
+According to the iOS 15 features page on Apple's website, the following features require an iPhone with an A12 Bionic chip or newer, which means the features listed below aren't available on the iPhone X or any older models.
+
+
+
+You'll need an iPhone XS, iPhone XS Max, iPhone XR, or newer for these iOS 15 features:
+Portrait mode in FaceTime, which blurs your background and puts the focus on you.
+
+
+Spatial audio in FaceTime, which makes voices sound like they're coming from the direction in which the people are positioned on the call.
+
+
+Voice Isolation mode in FaceTime, which uses machine learning to block out ambient noises like a leaf b…]]></summary>
+        <author>
+            <name>Joe Rossignol</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best ’80s Neo-Psych on Bandcamp]]></title>
+        <id>143877</id>
+        <link href="https://daily.bandcamp.com/lists/neo-psych-rock-list"/>
+        <updated>2021-09-20T17:58:57.000Z</updated>
+        <summary type="html"><![CDATA[These bands put their own innovative spin on the psychedelic sound.
+Read full story on the Bandcamp Daily.]]></summary>
+        <author>
+            <name>John Morrison</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best ’80s Neo-Psych on Bandcamp]]></title>
+        <id>143877</id>
+        <link href="https://daily.bandcamp.com/lists/neo-psych-rock-list"/>
+        <updated>2021-09-20T17:58:57.000Z</updated>
+        <summary type="html"><![CDATA[These bands put their own innovative spin on the psychedelic sound.
+Read full story on the Bandcamp Daily.]]></summary>
+        <author>
+            <name>Juila Dufosse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Public Demo For ‘Zombies Ate My Neighbors’ Total Conversion For ‘Doom II’ Coming This Halloween]]></title>
+        <id>https://bloody-disgusting.com/?p=3683609</id>
+        <link href="https://bloody-disgusting.com/video-games/3683609/new-public-demo-for-zombies-ate-my-neighbors-total-conversion-for-doom-ii-coming-this-halloween/"/>
+        <updated>2021-09-20T17:53:52.000Z</updated>
+        <summary type="html"><![CDATA[We talked about the Zombies Ate My Neighbors Total Conversion for Doom II a few months ago. And now, the creator of the mod, Dude27th, has announced that the mod will be getting a public demo this Halloween! Those who have been members of Dude27th’s Patreon have been getting the latest taste of the game’s […]]]></summary>
+        <author>
+            <name>Mike Wilson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debating Camp vs Trash in ‘Freddy’s Dead: The Final Nightmare’ [Horror Queers Podcast]]]></title>
+        <id>https://bloody-disgusting.com/?p=3683120</id>
+        <link href="https://bloody-disgusting.com/podcasts/3683120/debating-camp-vs-trash-freddys-dead-final-nightmare-horror-queers-podcast/"/>
+        <updated>2021-09-20T17:51:33.000Z</updated>
+        <summary type="html"><![CDATA[Looney Tunes. After back-to-back weeks of visually sumptuous horror films with Germany’s Der Samurai and Detroit‘s It Follows, Trace and I are tackling a franchise entry with the 30th anniversary of Freddy’s Dead: The Final Nightmare (1991). Joining us is Mark O. Estes, host of the Midnight Social Distortion podcast, who has strong nostalgic feelings for the […]]]></summary>
+        <author>
+            <name>Joe Lipsett</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple releases iOS 15 with Focus mode and more]]></title>
+        <id>https://arstechnica.com/?p=1796762</id>
+        <link href="https://arstechnica.com/?p=1796762"/>
+        <updated>2021-09-20T17:49:38.000Z</updated>
+        <summary type="html"><![CDATA[Apple also pushed out new versions of iPadOS, watchOS, and tvOS.]]></summary>
+        <author>
+            <name>Samuel Axon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rock & Roll Pioneer Sister Rosetta Tharpe]]></title>
+        <id>https://kottke.org/21/09/rock-roll-pioneer-sister-rosetta-tharpe</id>
+        <link href="https://kottke.org/21/09/rock-roll-pioneer-sister-rosetta-tharpe"/>
+        <updated>2021-09-20T17:33:33.000Z</updated>
+        <summary type="html"><![CDATA[If you’re talking about the origins of rock & roll, Sister Rosetta Tharpe has to be included in those conversations. Her early fusion of gospel, the blues, and the electric guitar (as on 1944’s Strange Things Happening Every Day, a contender for the first rock & roll record) had a huge influence on men like Little Richard, Chuck Berry, and Elvis Presley, who ended up winning much of the credit for this innovation. This 60-minute BBC documentary from 2011 is a good place to start learning about Tharpe — part 1 is embedded above and here are parts two, three, and four.
+I found this via Ted Mills at Open Culture, who writes:
+As the doc makes clear, Tharpe had a rebellious streak, didn’t do what she was told, and pushed boundaries in a very segregated America. She invited the all-white Jordanaires to tour with her, surprising house managers and booking agents alike. And she carried on a love affair and creative partnership with fellow gospel singer Marie Knight for decades, very much on the down low.
+So perhaps this is the reason Tharpe has not been on our collective radar — we’ve been slow to admit that rock guitar was created by a queer black woman devoted to the Lord.
+
+
+And if you want to see the whole clip of Tharpe performing Didn’t It Rain from the opening scene of the documentary, there’s really not a better way to spend eight minutes (bc you’ll probably want to watch it twice):
+
+Damn.
+Tags: music   Rosetta Tharpe   video]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PSA: You don’t have to upgrade to iOS 15]]></title>
+        <id>https://arstechnica.com/?p=1794468</id>
+        <link href="https://arstechnica.com/?p=1794468"/>
+        <updated>2021-09-20T17:25:31.000Z</updated>
+        <summary type="html"><![CDATA[Apple will keep updating iOS 14, which means fewer downsides to waiting.]]></summary>
+        <author>
+            <name>Andrew Cunningham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google’s foldable phone plans include two devices, Android 12.1 release]]></title>
+        <id>https://arstechnica.com/?p=1796682</id>
+        <link href="https://arstechnica.com/?p=1796682"/>
+        <updated>2021-09-20T17:18:43.000Z</updated>
+        <summary type="html"><![CDATA[Rumors say Google will combine Samsung-style foldables with an iPad-style app dock.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finch trailer is carefully tailored to push all the right warm, fuzzy buttons]]></title>
+        <id>https://arstechnica.com/?p=1796691</id>
+        <link href="https://arstechnica.com/?p=1796691"/>
+        <updated>2021-09-20T17:10:12.000Z</updated>
+        <summary type="html"><![CDATA[Directed by Miguel Sapochnik, film looks like a mix of Cast Away, WALL-E, and Chappie.]]></summary>
+        <author>
+            <name>Jennifer Ouellette</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Releases iOS 15 and iPadOS 15 With Safari Updates, Focus Mode, Live Text, iCloud+, System-Wide Translate, On-Device Siri and More]]></title>
+        <id>https://www.macrumors.com/2021/09/20/ios-15-now-available/</id>
+        <link href="https://www.macrumors.com/2021/09/20/ios-15-now-available/"/>
+        <updated>2021-09-20T17:04:16.000Z</updated>
+        <summary type="html"><![CDATA[Apple today released iOS 15 and iPadOS 15, the newest operating system updates designed for the iPhone, iPad, and iPod touch. As with all of Apple's software updates, iOS and iPadOS 15 can be downloaded at no cost. iOS 15 is available on the ‌iPhone‌ 6s and later while ‌iPadOS 15‌ is available on the iPad Air 2 and later.
+
+
+
+
+
+The new software can be downloaded on eligible devices over-the-air by going to Settings > General > Software Update. It may take a few minutes for the updates to propagate to all users due to high demand.
+
+
+
+While the update downloads, read over our quick feature highlights below, and make sure to visit our full iOS 15 and iPadOS 15 roundups to get a complete overview of everything that's new.
+
+
+
+A new Focus mode cuts down on distractions by limiting w…]]></summary>
+        <author>
+            <name>Juli Clover</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Releases watchOS 8 With Mindfulness App, Focus Mode, Messages Updates, Find My and Contacts]]></title>
+        <id>https://www.macrumors.com/2021/09/20/watchos-8-now-available/</id>
+        <link href="https://www.macrumors.com/2021/09/20/watchos-8-now-available/"/>
+        <updated>2021-09-20T17:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Apple today released watchOS 8, the newest version of the watchOS operating system designed to run on modern Apple Watch models. watchOS 8 is compatible with the Apple Watch Series 3 and later.
+
+
+
+
+
+‌‌watchOS ‌8 can be downloaded for free through the dedicated Apple Watch app on the iPhone by going to General > Software Update. To install the new software, the Apple Watch needs to have at least 50 percent battery, it needs to be placed on a charger, and it needs to be in range of the ‌‌‌iPhone‌‌‌.
+
+
+
+Most of the new features in ‌watchOS 8‌ carry over from iOS 15. A Focus mode cuts down on distractions and notifications so you can avoid interruptions, and the Wallet app is gaining digital keys for unlocking doors at home, the office, and while traveling. In the future, you'll even…]]></summary>
+        <author>
+            <name>Juli Clover</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Releases New HomePod 15 Software With Siri Playback Support, HomePod Mini Stereo Pairs, and More]]></title>
+        <id>https://www.macrumors.com/2021/09/20/homepod-15-software-now-available/</id>
+        <link href="https://www.macrumors.com/2021/09/20/homepod-15-software-now-available/"/>
+        <updated>2021-09-20T17:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Alongside iOS 15, iPadOS 15, tvOS 15, and watchOS 8, Apple today released new software that's designed for the HomePod and the HomePod mini. 
+
+
+
+
+
+The ‌HomePod‌ 15 software update introduces several new features that are designed to work in tandem with tvOS and iOS. 
+- Select a single or pair of HomePod mini as the default speakers for your Apple TV 4K for rich room-filling sound and clear dialogue. 
+
+- Media playback controls automatically appear on your iPhone’s Lock Screen when a HomePod mini playing music is nearby
+
+- Set a lower bass level to enjoy music without disturbing the neighbors
+
+- Ask Siri to turn on your Apple TV, start playing a favorite movie, and control playback while you watch
+
+- Siri automatically adjusts its speaking level based on the room environment and volume of the user
+
+- Ask Siri to control smart home devices at a specific time like turning off the lights in 10 minutes
+
+- Extend access to HomePod throughout your home by enabling Siri voice control on compatible HomeKit accessories
+
+- Support for package detection with HomeKit Secure Video
+‌‌‌‌‌‌HomePod‌‌‌‌‌‌‌ software is installed automatically on the ‌‌‌‌‌‌‌HomePod‌‌‌ unless the feature is disabled‌‌‌‌, but the ‌‌‌‌‌‌‌HomePod‌‌‌‌‌‌‌ can also be manually updated in the Home app by following the instructions in our HomePod‌‌ update how to.
+Related Roundups: HomePod, HomePod mini
+Buyer's Guide: HomePod (Don't Buy), HomePod Mini (Buy Now)
+Related Forum: HomePod, HomeKit, CarPlay, Home & Auto Technology
+This article, "Apple Releases New HomePod 15 Software With Siri Playback Support, HomePod Mini Stereo Pairs, and More" first appeared on MacRumors.com
+Discuss this article in our forums]]></summary>
+        <author>
+            <name>Juli Clover</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Releases tvOS 15 With Spatial Audio, Stereo Support Using Two HomePod Minis, Hey Siri Improvements and More]]></title>
+        <id>https://www.macrumors.com/2021/09/20/tvos-15-now-available/</id>
+        <link href="https://www.macrumors.com/2021/09/20/tvos-15-now-available/"/>
+        <updated>2021-09-20T17:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Apple today released tvOS 15, the newest version of the tvOS operating system designed for the Apple TV 4K and the ‌Apple TV‌ HD.
+
+
+
+
+
+The tvOS 15 update can be downloaded over the air through the Settings app on the ‌‌‌Apple TV‌‌‌ by going to System -> Software Update. ‌‌‌Apple TV‌‌‌ owners who have automatic software updates turned on will be upgraded to ‌tvOS 15 automatically.
+
+
+
+Apple's tvOS updates are never as grand as its iOS updates, but tvOS 15 does introduce a few notable new features.
+
+
+
+A new "Shared With You" section in tvOS will aggregate any content that people have recommended to you through the Messages app so you can check them out at your convenience.
+
+
+
+When you use the ‌Apple TV‌ with your AirPods Pro or AirPods Max, there's now support for spatial audio for a theater-like surround sound experience. There's also a new feature for automatically connecting your AirPods through Smart ‌AirPods‌ routing.
+
+
+
+Using Hey Siri commands, you can launch Apple TV+ shows in tvOS 15, and two HomePod mini speakers can now be paired with an ‌Apple TV‌ 4K for surround sound. Those with HomeKit cameras can view multiple cameras at the same time on the ‌Apple TV‌.
+
+
+
+When the SharePlay FaceTime feature launches later this year, the option that allows multiple people to watch TV shows or movies together will integrate with tvOS. There's even a new "For All of You" recommendation engine that will suggest content everyone might enjoy.
+
+
+
+For more on tvOS 15 and the ‌Apple TV‌, we have a dedicated roundup that outlines the new features. Apple has also released a 8.4.6 update for older ‌Apple TV‌ devices. 
+Related Roundup: Apple TV
+Buyer's Guide: Apple TV (Buy Now)
+Related Forum: Apple TV and Home Theater
+This article, "Apple Releases tvOS 15 With Spatial Audio, Stereo Support Using Two HomePod Minis, Hey Siri Improvements and More" first appeared on MacRumors.com
+Discuss this article in our forums]]></summary>
+        <author>
+            <name>Juli Clover</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘The Beta Test’: ‘The Wolf of Snow Hollow’ Director’s Next Movie Will Make You Suspicious of Everyone [Trailer]]]></title>
+        <id>https://bloody-disgusting.com/?p=3683693</id>
+        <link href="https://bloody-disgusting.com/movie/3683693/beta-test-wolf-snow-hollow-directors-next-movie-will-make-suspicious-everyone-trailer/"/>
+        <updated>2021-09-20T17:00:45.000Z</updated>
+        <summary type="html"><![CDATA[Up next from director Jim Cummings (Thunder Road, The Wolf of Snow Hollow) is The Beta Test, which IFC Films had recently acquired for U.S. release. They’ll be bringing the film to Select Theaters, Digital Platforms and VOD on November 5, 2021. Check out the official trailer below, via Empire Magazine today. Cummings wrote and directed the film, and he also […]]]></summary>
+        <author>
+            <name>John Squires</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epic and Balenciaga bring fashion (look it up) to Fortnite]]></title>
+        <id>https://www.polygon.com/22683951/fortnite-balenciaga-fashion-line-epic-games</id>
+        <link href="https://www.polygon.com/22683951/fortnite-balenciaga-fashion-line-epic-games"/>
+        <updated>2021-09-20T16:21:48.000Z</updated>
+        <summary type="html"><![CDATA[Image: Epic Games
+    
+
+  
+A real Balenciaga Fortnite hoodie costs $725
+ Fortnite is a getting a line of aesthetic items inspired by the Spanish luxury designer Balenciaga on Sept. 20, Epic Games announced Monday. The series, called the “Balenciaga Fit Set,” includes four new outfits in addition to a variety of other items like backpacks, pickaxes, wraps, a glider, and an emote. There will also be free Sprays, a Strange Times Featured Hub, and a live “Fortography” campaign. 
+The skins are inspired by “archival looks from luxury fashion house Balenciaga,” but some looks will come as products people can actually buy and wear themselves. For example, the real-life version of the white hoodie with the Fortnite logo will be available to purchase for a whopping $725. The real-life Fortnite X Bal…]]></summary>
+        <author>
+            <name>Polygon -  PC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World’s largest chip foundry TSMC sets 2050 deadline to go carbon neutral]]></title>
+        <id>https://arstechnica.com/?p=1796734</id>
+        <link href="https://arstechnica.com/?p=1796734"/>
+        <updated>2021-09-20T16:21:15.000Z</updated>
+        <summary type="html"><![CDATA[World’s third-largest chipmaker emits more carbon than many countries.]]></summary>
+        <author>
+            <name>Tim De Chant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NECA Teases “Monster Madness” Event in October!]]></title>
+        <id>https://bloody-disgusting.com/?p=3683689</id>
+        <link href="https://bloody-disgusting.com/toys/3683689/neca-teases-monster-madness-event-october/"/>
+        <updated>2021-09-20T16:20:47.000Z</updated>
+        <summary type="html"><![CDATA[NECA has taken to social media this afternoon to tease an upcoming “Monster Madness” event, which will be taking place virtually (via Instagram) on the road to Halloween. We have no idea what to expect from the event at this time, but we can only assume the idea is to tease and preview upcoming horror/monster […]]]></summary>
+        <author>
+            <name>John Squires</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When ‘The Power’ Goes Out: 10 of the Scariest Scenes in Horror That Take Place in the Dark]]></title>
+        <id>https://bloody-disgusting.com/?p=3677020</id>
+        <link href="https://bloody-disgusting.com/sponsored/3677020/power-goes-10-scariest-scenes-horror-take-place-dark/"/>
+        <updated>2021-09-20T16:00:24.000Z</updated>
+        <summary type="html"><![CDATA[Corinna Faith’s supernatural chiller, The Power, takes place in 1974 London when mandated blackouts plunged the city into darkness every night. It’s the worst-case scenario for Val (Rose Williams), a young nurse starting her very first night shift in an old hospital that’s mid-relocation. Trying to navigate the unfamiliar labyrinthine corridors at night, save for a lantern […]]]></summary>
+        <author>
+            <name>Meagan Navarro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flyers Top 25 Under 25, No. T-11: Samuel Ersson]]></title>
+        <id>https://www.broadstreethockey.com/2021/9/20/22680911/nhl-philadelphia-flyers-summer-2021-top-25-under-25-no-t-11-samuel-ersson-prospect-analysis</id>
+        <link href="https://www.broadstreethockey.com/2021/9/20/22680911/nhl-philadelphia-flyers-summer-2021-top-25-under-25-no-t-11-samuel-ersson-prospect-analysis"/>
+        <updated>2021-09-20T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Zack Hill / Flyers
+    
+
+  
+To North America, at long last.
+ No. T-11: Samuel Ersson
+2020-21 League/Team(s): Brynäs (SHL)
+2020-21 Statistics: 2.96 GAA, .911 SV% in 42 GP
+Age: 21
+Acquired In: 2018 (drafted)
+Ranking in Spring 2020 25 Under 25: 22
+How did Ersson’s 2020-21 hockey season go? Is his stock trending up or down from where it was entering the year?
+The numbers don’t end up looking terribly inspiring—they’re good but not absolutely stellar—but we can still come away from this season feeling really good about what Ersson was able to accomplish. And context is important here too. Brynäs were the worst playdriving team in the SHL, with a 43.93 CF% on the season, and gave up the most shots on goal (1702, 32.73 per game average), so Ersson was facing a much heavier workload on a nightly b…]]></summary>
+        <author>
+            <name>Broad Street Hockey -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kuo: iPhones With Under-Screen Touch ID Now Coming in 2023, Foldable iPhone in 2024]]></title>
+        <id>https://www.macrumors.com/2021/09/20/kuo-iphones-with-under-screen-touch-id-now-coming-in-2023-foldable-iphone-in-2024/</id>
+        <link href="https://www.macrumors.com/2021/09/20/kuo-iphones-with-under-screen-touch-id-now-coming-in-2023-foldable-iphone-in-2024/"/>
+        <updated>2021-09-20T15:52:44.000Z</updated>
+        <summary type="html"><![CDATA[In addition to claiming that iPhone 14 Pro models will feature a hole-punch display design and a 48-megapixel Wide lens for the rear camera system, Apple analyst Ming-Chi Kuo outlined his expectations for future iPhones beyond that.
+
+
+
+
+
+In a research note seen by MacRumors, Kuo said that while he previously predicted that Apple would launch its first iPhones with under-screen Touch ID in the second half of 2022, he now expects the devices to be released in the second half of 2023 due to slower than expected progress with development. Likewise, Kuo now expects Apple's first foldable iPhone to launch in 2024, compared to 2023 previously.
+
+
+
+Kuo did not provide any further details, including which iPhone models might gain an under-screen fingerprint sensor. It's likely that under-screen Touch ID would complement Face ID, providing users with multiple biometric authentication options.
+Tags: Ming-Chi Kuo, TF International Securities, Foldable iPhone
+This article, "Kuo: iPhones With Under-Screen Touch ID Now Coming in 2023, Foldable iPhone in 2024" first appeared on MacRumors.com
+Discuss this article in our forums]]></summary>
+        <author>
+            <name>Joe Rossignol</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Big tech companies snap up smaller rivals at record pace]]></title>
+        <id>https://arstechnica.com/?p=1796684</id>
+        <link href="https://arstechnica.com/?p=1796684"/>
+        <updated>2021-09-20T15:39:24.000Z</updated>
+        <summary type="html"><![CDATA["Pac-Man" buying spree comes as US regulators look to clamp down on some acquisitions.]]></summary>
+        <author>
+            <name>Financial Times</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kuo: iPhone 14 Pro Models to Feature Hole-Punch Display and 48MP Wide Camera]]></title>
+        <id>https://www.macrumors.com/2021/09/20/kuo-iphone-14-pro-hole-punch-48mp-camera/</id>
+        <link href="https://www.macrumors.com/2021/09/20/kuo-iphone-14-pro-hole-punch-48mp-camera/"/>
+        <updated>2021-09-20T15:36:18.000Z</updated>
+        <summary type="html"><![CDATA[Just a few days after iPhone 13 pre-orders began, well-known Apple analyst Ming-Chi Kuo is looking ahead. In a research note seen by MacRumors, Kuo shared some of his key hardware expectations for next year's tentatively named iPhone 14 Pro models, including a hole-punch display and a 48-megapixel Wide lens for the rear camera system.
+
+
+
+
+
+A hole-punch design refers to a display with only a small circular cutout for the front camera, as seen on many recent Samsung smartphones. This design would result in the notch being removed, with Face ID sensors likely moved under the display. Kuo said Apple is also working on iPhones with under-screen Touch ID for release in 2023.
+
+
+
+As for the rear camera, the 48-megapixel Wide lens would be an upgrade from the 12-megapixel Wide lens on iPhone 13 Pro models.
+
+
+
+Apple is expected to release the iPhone 14 lineup in the second half of 2022, in line with usual launch timing. Kuo also reiterated that Apple plans to release a third-generation iPhone SE with 5G support in the first half of 2022. 
+
+
+
+In line with research shared by Morgan Stanley analyst Katy Huberty this morning, Kuo said pre-orders for the iPhone 13 series have been higher than iPhone 12 series, particularly for the higher-end Pro models.
+Related Roundup: iPhone 14
+Tags: Ming-Chi Kuo, TF International Securities
+This article, "Kuo: iPhone 14 Pro Models to Feature Hole-Punch Display and 48MP Wide Camera" first appeared on MacRumors.com
+Discuss this article in our forums]]></summary>
+        <author>
+            <name>Joe Rossignol</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Check out the new job skills trailer for Final Fantasy 14: Endwalker]]></title>
+        <id>https://www.polygon.com/2021/9/20/22680423/final-fantasy-14-ff14-ffxiv-endwalker-job-trailer</id>
+        <link href="https://www.polygon.com/2021/9/20/22680423/final-fantasy-14-ff14-ffxiv-endwalker-job-trailer"/>
+        <updated>2021-09-20T15:26:56.000Z</updated>
+        <summary type="html"><![CDATA[Image: Square Enix
+    
+
+  
+A revamp for Summoner and lots of new shiny things for everyone else!
+ The Final Fantasy 14 development team detailed some new features for the upcoming expansion, Endwalker, focusing on changes to the various jobs, in a Friday evening livestream.
+The developer noted that changes to jobs will expand upon the systems built in the Shadowbringers expansion, rather than create new systems. As the game gets more complex and jobs can hit higher levels, the developer does not want to make jobs overly confusing.
+As expected, most jobs are getting additional actions to flesh out combos and add fancy new gauges and resources to use as you fight.
+There are several big quality-of-life changes, like ranged attacks from tanks not breaking their weaponskill combos. Lots of job…]]></summary>
+        <author>
+            <name>Polygon -  PC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Psychology of Pandemics]]></title>
+        <id>https://kottke.org/21/09/the-psychology-of-pandemics</id>
+        <link href="https://kottke.org/21/09/the-psychology-of-pandemics"/>
+        <updated>2021-09-20T15:25:11.000Z</updated>
+        <summary type="html"><![CDATA[I don’t know if this is comforting or what, but psychologist Steven Taylor published a book two months before the start of the Covid-19 pandemic called The Psychology of Pandemics that predicted many of the behaviors we’ve been seeing over the past 18+ months, including masking backlash, the acceptance of conspiracy theories, vaccine resistance, and wholesale denial that the pandemic is even happening.
+Taylor would know because he predicted it. He wrote a remarkable little book back in 2019 called “The Psychology of Pandemics.” Its premise is that pandemics are “not simply events in which some harmful microbe ‘goes viral,’” but rather are mass psychological phenomena about the behaviors, attitudes and emotions of people.
+The book came out pre-COVID and yet predicts every trend and trope we…]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Aileen Wuornos: American Boogeywoman’: Exclusive Look at “Cobra Kai” Star Peyton List in the Prequel to ‘Monster’ [Photos]]]></title>
+        <id>https://bloody-disgusting.com/?p=3683643</id>
+        <link href="https://bloody-disgusting.com/exclusives/3683643/aileen-wuornos-american-boogeywoman-exclusive-look-cobra-kai-star-peyton-list-prequel-monster-photos/"/>
+        <updated>2021-09-20T15:06:50.000Z</updated>
+        <summary type="html"><![CDATA[In 2004, Charlize Theron won an Oscar for playing Aileen Wuornos, America’s most notorious female serial killer, in Monster. Now, “Cobra Kai” actress Peyton List is taking over the role for Aileen Wuornos: American Boogeywoman, a brand new true crime feature. Based on Aileen Wuornos’s early life in 1976, the film follows America’s most notorious female serial killer in Florida […]]]></summary>
+        <author>
+            <name>Brad Miska</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Halloween Kills’ Final Trailer is Loaded With New Footage and Returning Characters from the Original Classic!]]></title>
+        <id>https://bloody-disgusting.com/?p=3683617</id>
+        <link href="https://bloody-disgusting.com/movie/3683617/halloween-kills-final-trailer-loaded-new-footage-returning-characters-original-classic/"/>
+        <updated>2021-09-20T15:04:39.000Z</updated>
+        <summary type="html"><![CDATA[“We are the survivors of Michael Myers.” David Gordon Green‘s sequel Halloween Kills comes to theaters and Peacock on October 15, almost exactly one year after it was originally supposed to be released in theaters. Today, the FINAL trailer has arrived, and it is absolutely loaded with brand new footage that we hadn’t seen before. In particular, […]]]></summary>
+        <author>
+            <name>John Squires</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Laperriere backs Frost to make Flyers out of camp]]></title>
+        <id>https://www.broadstreethockey.com/2021/9/20/22683262/philadelphia-flyers-morgan-frost-prospects-nhl-roster-training-camp</id>
+        <link href="https://www.broadstreethockey.com/2021/9/20/22683262/philadelphia-flyers-morgan-frost-prospects-nhl-roster-training-camp"/>
+        <updated>2021-09-20T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo by Len Redkoles/NHLI via Getty Images
+    
+
+  
+The Phantoms head coach had something to say about an intriguing prospect.
+ Morgan Frost has sort of been the forgotten Philadelphia Flyers prospect. Whether it was more focus drawn on the big-league team and their fortunes and misfortunes, or the season he mostly lost due to injury, no one has really thought of him as a sure-thing to contribute to this team. Well, until Lehigh Valley Phantoms head coach Ian Laperriere ranted and raved about the kid after Sunday’s rookie showcase game.
+The massive individual narrative coming into the prospect camp for Frost was whether or not he can demonstrate his work from the summer at getting to that NHL level of physicality. And he has already gotten questions about it from his teammates, so the Pha…]]></summary>
+        <author>
+            <name>Broad Street Hockey -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 13 Pro Pre-Orders Off to Promising Start With Strong Early Demand, Says Analyst]]></title>
+        <id>https://www.macrumors.com/2021/09/20/iphone-13-preorder-demand/</id>
+        <link href="https://www.macrumors.com/2021/09/20/iphone-13-preorder-demand/"/>
+        <updated>2021-09-20T14:59:46.000Z</updated>
+        <summary type="html"><![CDATA[While it has been many years since Apple stopped providing first weekend sales numbers for new iPhones, Morgan Stanley analyst Katy Huberty today said that iPhone 13 Pro pre-orders are "off to a promising start" with "strong early demand."
+
+
+
+
+
+Huberty based her opinion off of Apple's delivery estimates for iPhones, which she has been tracking for many years. Shortly after pre-orders began last Friday, delivery estimates for the iPhone 13 Pro and iPhone 13 Pro Max began slipping into October, with Huberty having calculated the average lead time at around 27 days. She said this is the second longest lead time on the first day of pre-orders amongst all iPhone models launched over the past five years, surpassed only by the iPhone X in 2017.
+
+
+
+As of last Friday, Huberty said the iPhone 13 mini was faring better with a lead time of 3.1 days, while the standard iPhone 13 faced no delays.
+
+
+
+As with every iPhone launch, it is possible that lengthy delivery estimates are a function of low supply rather than high demand, but Huberty said Morgan Stanley's supply chain checks indicate minimal near-term component headwinds for iPhones and concluded that these long lead times "are at least partly a function of strong early demand." 
+
+
+
+All four iPhone 13 models will begin arriving to customers and launch in stores on Friday, September 24. Key features across the iPhone 13 lineup include a faster A15 Bionic chip, camera improvements, longer battery life, and a smaller notch. The two Pro models also feature a ProMotion display with a variable refresh rate up to 120Hz.
+Related Roundups: iPhone 13, iPhone 13 Pro
+Tags: Katy Huberty, Morgan Stanley
+Buyer's Guide: iPhone 13 (Buy Now), iPhone 13 Pro (Buy Now)
+Related Forum: iPhone
+This article, "iPhone 13 Pro Pre-Orders Off to Promising Start With Strong Early Demand, Says Analyst" first appeared on MacRumors.com
+Discuss this article in our forums]]></summary>
+        <author>
+            <name>Joe Rossignol</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anniversary Update For ‘Phasmophobia’ Eases The Pain of Failed Ghost-Hunting Contracts]]></title>
+        <id>https://bloody-disgusting.com/?p=3683604</id>
+        <link href="https://bloody-disgusting.com/video-games/3683604/anniversary-update-for-phasmophobia-offers-insurance-for-failed-ghost-hunting-contracts/"/>
+        <updated>2021-09-20T14:35:58.000Z</updated>
+        <summary type="html"><![CDATA[Kinetic Games’ runaway hit Phasmophobia hit Steam a year ago, and to celebrate, the devs have unveiled a new update. Sure, they’ve been constantly updating the game with new ghosts and tweaks to gameplay, but this update aims to improve quality of life for some players. For one, the update overhauls the journal, allowing you […]]]></summary>
+        <author>
+            <name>Mike Wilson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kids 5-11 appear safely protected by small doses of COVID vaccine, Pfizer says]]></title>
+        <id>https://arstechnica.com/?p=1796679</id>
+        <link href="https://arstechnica.com/?p=1796679"/>
+        <updated>2021-09-20T14:33:50.000Z</updated>
+        <summary type="html"><![CDATA[The company aims to submit data to the FDA by the end of this month.]]></summary>
+        <author>
+            <name>Beth Mole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 13 vs. iPhone 12 Buyer's Guide]]></title>
+        <id>https://www.macrumors.com/guide/iphone-13-vs-iphone-12&amp;post_date=1632158714/</id>
+        <link href="https://www.macrumors.com/guide/iphone-13-vs-iphone-12/"/>
+        <updated>2021-09-20T14:25:14.000Z</updated>
+        <summary type="html"><![CDATA[This month, Apple unveiled the iPhone 13 as the successor to the popular iPhone 12, with improved rear cameras, longer battery life, the A15 Bionic chip, and more. As devices that are more affordable than the Pro models, but more full-featured than the low-cost iPhone SE or iPhone 11, the ‌iPhone 13‌ will likely be the most popular option among consumers.
+
+
+
+
+
+The ‌iPhone 12‌ from 2020 continues to be sold by Apple. As it is a year older than the most recent iPhones, it starts at $699, while the ‌iPhone 13‌ starts at $799. As the ‌iPhone 12‌ and ‌iPhone 13‌ share a large number of features, should you consider purchasing the older model to save money? Our guide helps to answer the question of how to decide which of these two iPhones is best for you, but overall the ‌iPhone 13‌ is onl…]]></summary>
+        <author>
+            <name>Hartley Charlton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Venom: Let There Be Carnage’ Character Posters Tease the Return of She-Venom!]]></title>
+        <id>https://bloody-disgusting.com/?p=3683635</id>
+        <link href="https://bloody-disgusting.com/movie/3683635/venom-let-carnage-character-posters-tease-return-venom/"/>
+        <updated>2021-09-20T14:16:44.000Z</updated>
+        <summary type="html"><![CDATA[Eddie Brock’s (Tom Hardy) ex, Anne Weying (played by Michelle Williams), briefly transformed into comic book character She-Venom in Ruben Fleischer’s Venom, a surprise treat for fans that was no doubt one of the coolest moments in the movie. And it looks like we may be getting more She-Venom in director Andy Serkis‘ hotly-anticipated Venom: […]]]></summary>
+        <author>
+            <name>Brad Miska</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leaked Surface Pro 8 specs include Thunderbolt ports and a 120 Hz screen]]></title>
+        <id>https://arstechnica.com/?p=1796659</id>
+        <link href="https://arstechnica.com/?p=1796659"/>
+        <updated>2021-09-20T14:11:12.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft's next Surface devices will be officially unveiled on September 22.]]></summary>
+        <author>
+            <name>Andrew Cunningham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deltarune’s next 3 chapters will drop together]]></title>
+        <id>https://www.polygon.com/22683779/deltarune-undertale-toby-fox-price-chapter-3-release</id>
+        <link href="https://www.polygon.com/22683779/deltarune-undertale-toby-fox-price-chapter-3-release"/>
+        <updated>2021-09-20T14:01:33.000Z</updated>
+        <summary type="html"><![CDATA[Image: Toby Fox
+    
+
+  
+You’ll also need to buy it 
+ Deltarune creator Toby Fox aims to release the next three chapters of his sequel to Undertale  — Deltarune Chapters 3, 4, and 5 — all at once, Fox shared in an update. Instead of just getting Chapter 3, like we have have for Chapter 1 and 2, he will release three together, up to Chapter 5. Fox said he will then put the game up for sale, though he did not list a price.
+Deltarune Chapter 1 was released back in 2018, and Chapter 2 got a surprise release on Sept. 17. 
+“The world has been really tough for everybody recently. So I decided to release DELTARUNE Chapter 2 for free,” Fox said. Seven chapters in total are expected, according to the Deltarune website at the time of publication.
+Fox hasn’t settled on a price yet, but said that the full game will cost more than Undertale. The creator encouraged fans to spend the money they saved by downloading Chapter 2 for free by supporting other indie developers. 
+Fox said he had originally planned to release chapters together once they were all finished, but noted that it’s “hard both for creators and fans to go a long time without a release.”]]></summary>
+        <author>
+            <name>Polygon -  PC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Romantic Drama ‘In the Flesh’ Falls In Love With a Cannibal]]></title>
+        <id>https://bloody-disgusting.com/?p=3683625</id>
+        <link href="https://bloody-disgusting.com/movie/3683625/romantic-drama-flesh-falls-love-cannibal/"/>
+        <updated>2021-09-20T13:55:33.000Z</updated>
+        <summary type="html"><![CDATA[Variety has first word on In the Flesh, described as a “romantic drama with dashes of terror” that will mark the feature debut of Ainhoa Menéndez. “In the Flesh follows Mara, a woman almost in her thirties, working as a stock girl in a supermarket, who grew up in foster homes. Throughout her life all […]]]></summary>
+        <author>
+            <name>Brad Miska</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[’70s UK Jazz Group Splinters Captures the Era’s Restless Musical Spirit]]></title>
+        <id>143655</id>
+        <link href="https://daily.bandcamp.com/features/splinters-inclusivity-interview"/>
+        <updated>2021-09-20T13:39:52.000Z</updated>
+        <summary type="html"><![CDATA[Decades before Shabaka and Emma-Jean, the septet pushed the borders of UK jazz.
+Read full story on the Bandcamp Daily.]]></summary>
+        <author>
+            <name>Philip Freeman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On His Latest, Proc Fiskal Fuses Dance Music With Gaelic Folk]]></title>
+        <id>143664</id>
+        <link href="https://daily.bandcamp.com/features/proc-fiskal-siren-spine-sysex-interview"/>
+        <updated>2021-09-20T13:39:42.000Z</updated>
+        <summary type="html"><![CDATA[“Sometimes it’s nice to be repulsed by something.”
+Read full story on the Bandcamp Daily.]]></summary>
+        <author>
+            <name>Michael Lawson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pejzaż, “Wyspa”]]></title>
+        <id>143886</id>
+        <link href="https://daily.bandcamp.com/album-of-the-day/pejzaz-wyspa"/>
+        <updated>2021-09-20T13:38:25.000Z</updated>
+        <summary type="html"><![CDATA[The newest Pejzaż album introduces a new and important inspiration to Bartosz Kruczyński music: J Dilla.
+Read full story on the Bandcamp Daily.]]></summary>
+        <author>
+            <name>Sam McLemore</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[After Inspiration4, SpaceX sees high demand for free-flyer missions]]></title>
+        <id>https://arstechnica.com/?p=1796501</id>
+        <link href="https://arstechnica.com/?p=1796501"/>
+        <updated>2021-09-20T13:37:48.000Z</updated>
+        <summary type="html"><![CDATA["We have interest for both Dragons and Starships, which is pretty exciting."]]></summary>
+        <author>
+            <name>Eric Berger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bruce Campbell Will Star in Upcoming Hallmark Christmas Movie ‘One December Night’]]></title>
+        <id>https://bloody-disgusting.com/?p=3683620</id>
+        <link href="https://bloody-disgusting.com/movie/3683620/bruce-campbell-will-star-upcoming-hallmark-christmas-movie-one-december-night/"/>
+        <updated>2021-09-20T13:37:09.000Z</updated>
+        <summary type="html"><![CDATA[In addition to the upcoming horror-comedy Black Friday, horror legend Bruce Campbell will also soon be seen in a Hallmark Christmas movie, The Screening Space reports. The movie is titled One December Night, described as being “a wonderful heartfelt Christmas tale about friendship, music, family and the things that ultimately bring us all together.” One […]]]></summary>
+        <author>
+            <name>John Squires</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fabrice du Welz Hunts a Child Abuser With Next Thriller, ‘Maldoror’]]></title>
+        <id>https://bloody-disgusting.com/?p=3683621</id>
+        <link href="https://bloody-disgusting.com/movie/3683621/fabrice-du-welz-hunts-child-abuser-next-thriller-maldoror/"/>
+        <updated>2021-09-20T13:35:57.000Z</updated>
+        <summary type="html"><![CDATA[Fabrice du Welz (Calvaire, pictured, and Vinyan) is back in TIFF with Inexorable and has already set his next, Maldoror, a thriller inspired by a true story, writes Variety. “Maldoror follows Paul Chartier, a young policeman who became obsessed with a case involving a notorious child abuser after coming close to catching him.” Belgian actor […]]]></summary>
+        <author>
+            <name>Brad Miska</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flyers Top 25 Under 25, No. 11: Tanner Laczynski]]></title>
+        <id>https://www.broadstreethockey.com/2021/9/20/22682952/philadelphia-flyers-summer-2021-top-25-under-25-no-11-tanner-laczynski-ohio-state-phantoms-analysis</id>
+        <link href="https://www.broadstreethockey.com/2021/9/20/22682952/philadelphia-flyers-summer-2021-top-25-under-25-no-11-tanner-laczynski-ohio-state-phantoms-analysis"/>
+        <updated>2021-09-20T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo by Joe Sargent/NHLI via Getty Images
+    
+
+  
+The collegiate standout thrived in first professional action and should push for an NHL job in training camp.
+ No. T-11: Tanner Laczynski
+2020-21 League/Team(s): Flyers/Phantoms
+2020-21 Statistics: 6 G, 4 A, 10 P in 19 G
+Age: 24
+Acquired In: 2016 NHL Entry Draft, 169th overall
+Ranking in Spring 2020 25 Under 25: 18
+How did Laczynski’s 2020-21 hockey season go? Is his stock trending up or down from where it was entering the year?
+The former collegiate star at Ohio State broke through to the NHL last season for a five-game cup of coffee after being a sixth-round pick way back in 2016. Laczynski didn’t register a point in any of those five games, but held his own as a bottom six lineup piece and was able to product 10 points in 14 games with…]]></summary>
+        <author>
+            <name>Broad Street Hockey -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Doctor Explains Why He Violated Texas’s Extremist Abortion Ban]]></title>
+        <id>https://kottke.org/21/09/doctor-explains-why-he-violated-texass-extremist-abortion-ban</id>
+        <link href="https://kottke.org/21/09/doctor-explains-why-he-violated-texass-extremist-abortion-ban"/>
+        <updated>2021-09-20T13:15:53.000Z</updated>
+        <summary type="html"><![CDATA[Dr. Alan Braid, a practicing OB/GYN in the state of Texas for 45 years, explains why he provided medical care in the form of an abortion to a woman in violation of the state’s absurd and dangerous new law.
+A new Texas law, known as S.B. 8, virtually banned any abortion beyond about the sixth week of pregnancy. It shut down about 80 percent of the abortion services we provide. Anyone who suspects I have violated the new law can sue me for at least $10,000. They could also sue anybody who helps a person obtain an abortion past the new limit, including, apparently, the driver who brings a patient to my clinic.
+For me, it is 1972 all over again.
+And that is why, on the morning of Sept. 6, I provided an abortion to a woman who, though still in her first trimester, was beyond the state’s new limit. I acted because I had a duty of care to this patient, as I do for all patients, and because she has a fundamental right to receive this care.
+I fully understood that there could be legal consequences — but I wanted to make sure that Texas didn’t get away with its bid to prevent this blatantly unconstitutional law from being tested.
+
+
+Braid concluded his piece: “I believe abortion is an essential part of health care.” Absolutely.
+Tags: abortion   Alan Braid   medicine   politics   Texas]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roku OS 10.5 announced alongside new Streaming Stick 4K]]></title>
+        <id>https://arstechnica.com/?p=1796513</id>
+        <link href="https://arstechnica.com/?p=1796513"/>
+        <updated>2021-09-20T13:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Roku is focused on improving the search and audio experience for users.]]></summary>
+        <author>
+            <name>Corey Gaskin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Philadelphia Flyers Summer 2021 Top 25 Under 25, No. 13: Zayde Wisdom]]></title>
+        <id>https://www.broadstreethockey.com/2021/9/20/22682193/philadelphia-flyers-summer-2021-top-25-under-25-no-13-zayde-wisdom</id>
+        <link href="https://www.broadstreethockey.com/2021/9/20/22682193/philadelphia-flyers-summer-2021-top-25-under-25-no-13-zayde-wisdom"/>
+        <updated>2021-09-20T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Yong Kim
+    
+
+  
+He certainly looks to be a wise pick.
+ No. 13: Zayde Wisdom
+2020-21 League/Team(s): Lehigh Valley Phantoms (AHL)
+2020-21 Statistics: 28 GP, 7 G, 11 A, 18 PTS
+Age: 19
+Acquired In: 2020 (Draft, Round 4, 94 Overall) 
+Ranking in Spring 2020 25 Under 25: N/A
+How did Wisdom’s 2020-21 hockey season go? Is his stock trending up or down from where it was entering the year?
+Wisdom was somewhat forced into the AHL with the uncertainties regarding the Canadian Junior leagues, and he did not look out of place in his first professional league season. He proved to be a valuable asset for the Phantoms, and certainly improved his stock as a NHL-level prospect. He has without a doubt risen in the Flyers prospect pool. 
+What are we expecting from Wisdom this season? What should we be lookin…]]></summary>
+        <author>
+            <name>Broad Street Hockey -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epik data breach impacts 15 million users, including non-customers]]></title>
+        <id>https://arstechnica.com/?p=1796568</id>
+        <link href="https://arstechnica.com/?p=1796568"/>
+        <updated>2021-09-20T12:32:41.000Z</updated>
+        <summary type="html"><![CDATA[Scraped WHOIS data of NON-Epik customers also exposed in the 180 GB leak.]]></summary>
+        <author>
+            <name>Ax Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seven Spires – Gods of Debauchery]]></title>
+        <id>https://www.teethofthedivine.com/?p=56790</id>
+        <link href="https://www.teethofthedivine.com/reviews/seven-spires-gods-of-debauchery/"/>
+        <updated>2021-09-20T11:36:56.000Z</updated>
+        <summary type="html"><![CDATA[Very late last year, I was introduced to Boston’s Seven Spires, with their second album, Emerald Seas, and immediately fell in love with them, largely due to vocalist Adrienne Cowan (who surprisingly used to be the keyboard player for deathcore act, Winds of Plague). Her range and power on songs like “Bury You” , “Succumb” […]]]></summary>
+        <author>
+            <name>Erik T</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Trailer] ‘V Rising’ Gameplay Trailer Has Small Beginnings For Your Vampire Army]]></title>
+        <id>https://bloody-disgusting.com/?p=3683601</id>
+        <link href="https://bloody-disgusting.com/video-games/3683601/trailer-v-rising-gameplay-trailer-has-small-beginnings-for-your-vampire-army/"/>
+        <updated>2021-09-20T11:35:51.000Z</updated>
+        <summary type="html"><![CDATA[The idea of commanding a vampire army in Stunlock Studios’ V Rising is cool and all, but where’s the gameplay to show it? The devs answered that question with a brand-new gameplay trailer that shows the humble beginnings of your conquest, that quickly turns into you taking on monsters while wielding powerful magic. We’ve touched […]]]></summary>
+        <author>
+            <name>Mike Wilson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teeth of the Divine Presents: ‘One Hit Wonders’]]></title>
+        <id>https://www.teethofthedivine.com/?p=54181</id>
+        <link href="https://www.teethofthedivine.com/featured/teeth-of-the-divine-presents-one-hit-wonders/"/>
+        <updated>2021-09-20T11:34:55.000Z</updated>
+        <summary type="html"><![CDATA[The metal universe is chock full of legendary, long lasting acts who delivered album after album of excellence or at least some level of  consistency, even with a misstep or two; for example, Cannibal Corpse, Morbid Angel, Bolt Thrower, Dismember, Iron Maiden, Slayer, Incantation, Deicide, Suffocation etc.
+
+But for every one of those bands that had the right recipe for longevity and quality, there are 50 or more that never 'made' it. And my made it, we mean they just had one killer album or EP and for any number of reasons, never followed that release up.]]></summary>
+        <author>
+            <name>Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Command line wizardry, part two: Variables and loops in Bash]]></title>
+        <id>https://arstechnica.com/?p=1793704</id>
+        <link href="https://arstechnica.com/?p=1793704"/>
+        <updated>2021-09-20T11:15:28.000Z</updated>
+        <summary type="html"><![CDATA[Learn to process thousands of items reliably and repeatably in this installment.]]></summary>
+        <author>
+            <name>Jim Salter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Morbid Messiah – Disgorged In The Coffin Review]]></title>
+        <id>https://yourlastrites.com/?p=37627</id>
+        <link href="https://yourlastrites.com/2021/09/20/morbid-messiah-disgorged-in-the-coffin-review/"/>
+        <updated>2021-09-20T10:00:19.000Z</updated>
+        <summary type="html"><![CDATA[Picture a James Bond villain: Refined, debonair, intellectual; enacting some long-goal plan for world domination, some chess-game masterclass in malevolence that requires vast and far-reaching machinations; a portrait of upper-class sociopathy and grace. Now picture a street kid who will beat your ass with a baseball bat for the $20 in your pocket. He or ...]]></summary>
+        <author>
+            <name>Andrew Edmunds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monday Morning Fly By: The injuries are already starting]]></title>
+        <id>https://www.broadstreethockey.com/2021/9/20/22683013/monday-morning-fly-by-the-injuries-are-already-starting</id>
+        <link href="https://www.broadstreethockey.com/2021/9/20/22683013/monday-morning-fly-by-the-injuries-are-already-starting"/>
+        <updated>2021-09-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Heather Barry
+    
+
+  
+Today’s open discussion thread, complete with your daily dose of Flyers news and notes…  
+ *The kids played their rookie games against the Rangers this weekend and Saturday afternoon’s match was a lot of fun, with the Flyers coming out on top and a good time had by all... [Inquirer]
+*... and then, in Sunday’s game, this: 
+Wade Allison is hurt. Rangers defenseman Braden Schneider sent Allison into the boards and his right leg went under him funny. He needed assistance getting back to the locker room, wasn't putting any weight on his leg.
+— Olivia Reiner (@ReinerOlivia) September 19, 2021
+
+
+
+Maybe having potential roster players play in meaningless games before training camp is dumb?? Just one person’s thoughts (opinion). [NBC Sports Philly]
+*Wade Allison was one of the stand-outs on Saturday, too. Kid is so fun. [NBC Sports Philly]
+*In case you missed them, last week’s final entries into the 25 Under 25 were Emil Andrae at 15... [BSH]
+*...and new guy Samu Tuomaala at 14. Today we head into the halfway point! Exciting!! [BSH]
+*Brady Tkachuk still isn’t signed. That’s wild. No idea how he could do it, but if Chuck could do it, that would be a lot of fun for us. [Sportsnet]
+*And finally, to wrap things up for this Monday morning, Montreal will be hosting the 2022 Entry Draft after being screwed out of the 2020 draft by the entire world shutting down due to a viral pandemic. Seems fair. [ProHockeyTalk]]]></summary>
+        <author>
+            <name>Broad Street Hockey -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teaching by filling in knowledge gaps]]></title>
+        <id>https://jvns.ca/blog/2021/09/20/teaching-by-filling-in-knowledge-gaps/</id>
+        <link href="https://jvns.ca/blog/2021/09/20/teaching-by-filling-in-knowledge-gaps/"/>
+        <updated>2021-09-20T09:28:40.000Z</updated>
+        <summary type="html"><![CDATA[Hello! This post (like patterns in confusing explanations)
+is another one in the “julia attempts to articulate her teaching strategy”
+series.
+I’ll start out by talking about a “backwards” approach to learning
+that I think a lot of you will recognize (do projects first without fully
+understanding what you’re doing, fill in missing knowledge after), and then
+talk about I try to teach in a way that works better with that mode of
+learning.
+how I’ve learned programming: backwards
+There are a lot of “basic” concepts in programming, like memory management,
+networking, operating systems, assembly, etc. You could imagine that you learn
+programming by first starting with the basic concepts and then learning
+abstractions on top of those concepts.
+But, even though I have a very traditional CS backgrou…]]></summary>
+        <author>
+            <name>Julia Evans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 Cheese Roasted Garlic Alfredo Stuffed Spaghetti Squash.]]></title>
+        <id>https://www.halfbakedharvest.com/?p=111571</id>
+        <link href="https://www.halfbakedharvest.com/alfredo-stuffed-spaghetti-squash/"/>
+        <updated>2021-09-20T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[4 Cheese Roasted Garlic Alfredo Stuffed Spaghetti Squash.
+Taking classic pasta, and swapping in seasonal squash, with this 4 Cheese Roasted Garlic Alfredo Stuffed Spaghetti Squash. Roasted spaghetti squash stuffed with a creamy 4 cheese béchamel sauce, with fresh sage and sweet buttery roasted garlic. Everything is baked together until the cheese is melted and perfect. This is an easy, delicious, and healthier…
+READ: 4 Cheese Roasted Garlic Alfredo Stuffed Spaghetti Squash.]]></summary>
+        <author>
+            <name>halfbakedharvest</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Review] ‘Midnight Mass’ Cuts Deep and Instills Profound Faith for Mike Flanagan’s Horror Storytelling]]></title>
+        <id>https://bloody-disgusting.com/?p=3683463</id>
+        <link href="https://bloody-disgusting.com/reviews/3683463/review-midnight-mass-cuts-deep-instills-profound-faith-mike-flanagans-horror-storytelling/"/>
+        <updated>2021-09-20T07:01:42.000Z</updated>
+        <summary type="html"><![CDATA[Few storytellers kill their darlings as well as Mike Flanagan. Or more to the point, few storytellers make you care so much about the story’s characters. It causes their trauma, pain, heartbreak, and often worse, to hurt that much more when the horror hits. Flanagan’s only sharpened that skill to a sharp, pointy edge with […]]]></summary>
+        <author>
+            <name>Meagan Navarro</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Here's When You Can Download iOS 15 and iPadOS 15 in Time Zones Around the World]]></title>
         <id>https://www.macrumors.com/2021/09/19/when-is-ios-15-public-release/</id>
@@ -27803,125 +29277,6 @@ In the latest publication of his Power On newsletter, Gurman writes that a new h
 Last fall, as part of its trio of initial Macs to transition over to Apple Silicon chips, the company updated the older Mac mini design with the M1 processor. The Mac mini is used for more basic tas…]]></summary>
         <author>
             <name>Sami Fathi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tiong Bahru Social Club review: Won’t you be my algorithmic neighbor?]]></title>
-        <id>https://arstechnica.com/?p=1788129</id>
-        <link href="https://arstechnica.com/?p=1788129"/>
-        <updated>2021-08-22T12:30:55.000Z</updated>
-        <summary type="html"><![CDATA[In this Fantasia Fest film, happiness algorithms dictate terms of community living.]]></summary>
-        <author>
-            <name>Nathan Mattise</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Looking for a new job in tech? It may be your lucky day]]></title>
-        <id>https://arstechnica.com/?p=1788920</id>
-        <link href="https://arstechnica.com/?p=1788920"/>
-        <updated>2021-08-22T11:00:42.000Z</updated>
-        <summary type="html"><![CDATA[Employers are turning on the charm to attract engineers and developers to their firms.]]></summary>
-        <author>
-            <name>WIRED</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nine Favorite Things.]]></title>
-        <id>https://www.halfbakedharvest.com/?p=110311</id>
-        <link href="https://www.halfbakedharvest.com/nine-favorite-things-207/"/>
-        <updated>2021-08-22T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Nine Favorite Things.
-Nine Favorite Things. We’re just one week out from Asher’s 13th birthday (it’s the 30th). And while I’m not big on celebrating my own birthday, I am so bummed I won’t be with her to celebrate hers, as I will be in LA for work. The last I heard, my family is planning to surprise…
-READ: Nine Favorite Things.]]></summary>
-        <author>
-            <name>halfbakedharvest</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Fantasia Review] ‘The Sadness’ Goes for the Jugular With Transgressive, Extreme Horror]]></title>
-        <id>https://bloody-disgusting.com/?p=3676443</id>
-        <link href="https://bloody-disgusting.com/reviews/3676443/fantasia-review-the-sadness-goes-jugular-transgressive-extreme-horror/"/>
-        <updated>2021-08-22T02:30:58.000Z</updated>
-        <summary type="html"><![CDATA[Everything about the premise of writer/director Rob Jabbaz’s feature debut reads like another formulaic zombie or outbreak horror that’s become overly familiar in the wake of our real-time pandemic. It quickly becomes apparent that The Sadness refuses to adhere to the average viral horror movie. Jabbaz keeps a death grip on the pulse of the […]]]></summary>
-        <author>
-            <name>Meagan Navarro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Travis Sanheim, Flyers agree to new deal]]></title>
-        <id>https://www.broadstreethockey.com/2021/8/21/22635762/travis-sanheim-flyers-agree-to-new-deal-rfa-arbitration-nhl-philadelphia-offseason-hockey-defenseman</id>
-        <link href="https://www.broadstreethockey.com/2021/8/21/22635762/travis-sanheim-flyers-agree-to-new-deal-rfa-arbitration-nhl-philadelphia-offseason-hockey-defenseman"/>
-        <updated>2021-08-21T21:17:36.000Z</updated>
-        <summary type="html"><![CDATA[Photo by Bruce Bennett/Getty Images
-    
-
-  
-Finally, no more uncertainty.
- After a long, arduous battle over the stipulations of his new contract this offseason, Travis Sanheim finally agreed to a new contract with the Flyers: two years at a $4.675 million AAV. This represents a slight, but not enormous pay raise for Sanheim, which will certainly be a polarizing outcome within the eyes of the fanbase. Still, the price and term is around what most models projected the still-young defender to receive. Evolving-Hockey.com’s contract projections pegged Sanheim at two years for $4.303 million AAV, which isn’t too far off from what the Flyers ended up paying.
-
-
-Sanheim is coming off of a season where he had awful on-ice results despite solid underlying numbers. Costly mistakes and strong analytics have been staples of the big blue liner’s career in Philadelphia, making him an interesting case for arbitration. Looking at the whole of Sanheim’s work in the NHL within the context of an advanced metrics-driven perspective would likely argue that he’s worth more than the deal he was signed to.
-Image via Evolving-Hockey.com
-      Sanheim’s three year player card.
-  
-The Flyers now technically have -$643,523 in cap space, but are fine due to the ability to exceed the salary cap by ten percent in the offseason. However, it does put them in a precarious position when it comes to running a 23-man roster as opposed to just 22:
-Barring a trade or reworking of the roster, it now looks like the Flyers are going to roll with a 22-man roster to start the year. That's the only way they can fit everyone under the $81.5 million cap ceiling, to my eyes. Can't fit 23 without moving somebody out.
-— Charlie O'Connor (@charlieo_conn) August 21, 2021
-
-
-
-With the season just 55 days away, signing Sanheim solidifies the outlook of the roster heading into 2021-22.]]></summary>
-        <author>
-            <name>Broad Street Hockey -  All Posts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘V/H/S/94’ Star Anna Hopkins Gets Trapped in a ‘Tin Can’ During a Global Plague [Exclusive Clip]]]></title>
-        <id>https://bloody-disgusting.com/?p=3679357</id>
-        <link href="https://bloody-disgusting.com/exclusives/3679357/v-h-s-94-star-anna-hopkins-gets-trapped-tin-can-global-plague-exclusive-clip/"/>
-        <updated>2021-08-21T16:00:35.000Z</updated>
-        <summary type="html"><![CDATA[Making the festival rounds (Sitges, Fantasia, Popcorn Frights) is Seth A. Smith‘s (The Crescent) sci-fi thriller, Tin Can, which stars V/H/S/94‘s Anna Hopkins as a front-lines parasitologist who is imprisoned in a life-suspension chamber as the world faces a deadly plague. Bloody Disgusting has an exclusive clip from the film in which we see Hopkins […]]]></summary>
-        <author>
-            <name>Brad Miska</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Destiny a PvE or PvP game? Bungie can’t decide]]></title>
-        <id>https://www.polygon.com/22632590/destiny-2-pvp-pve-crucible-raid-debate-seperate-balance</id>
-        <link href="https://www.polygon.com/22632590/destiny-2-pvp-pve-crucible-raid-debate-seperate-balance"/>
-        <updated>2021-08-21T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image: Bungie
-    
-
-
-  
-Bungie won’t separate Destiny 2’s two main modes, and it’s starting to create problems
- Since the launch of Destiny 2, Bungie has struggled to maintain the balance between its PvE and PvP communities. The two camps have argued for years about whether Destiny should just be a PvE game or if it truly has room for competitive offerings. In the process, every player has lost out. Every time Bungie tries to make a new addition to the cooperative game, it’s hamstrung by multiplayer balancing — and vice versa.
-Bungie’s devotion to both sides of the Destiny coin, while admirable, has resulted in an identity crisis. The studio likely won’t ever separate its PvP Crucible from its PvE cooperative activities. But if anything is clear, it’s that current attempts toward harmony a…]]></summary>
-        <author>
-            <name>Polygon -  PC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Stories: M1X MacBook Pro by November, iOS 15 Beta 6, Apple's Secret Double Agent]]></title>
-        <id>https://www.macrumors.com/2021/08/21/top-stories-m1x-macbook-pro-november/</id>
-        <link href="https://www.macrumors.com/2021/08/21/top-stories-m1x-macbook-pro-november/"/>
-        <updated>2021-08-21T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We're rapidly approaching Apple's busy product launch season, and rumors are continuing to fly. It sounds like Apple has enough products in the pipeline that it'll need to hold multiple virtual events before the end of the year to introduce them all, so get ready for a flurry of activity over the next few months.
-
-
-
-
-
-
-
-Other news this week included a fresh round of betas for iOS 15 and most of the associated operating system updates, reducing the update interval to one week as Apple finalizes things ahead of an expected September public launch. We also saw an interesting story of a "double agent" in the Apple leaker community, confirmation of a never-released "iPhone nano" thanks to an old email from Steve Jobs, and more.
-
-
-
-Multiple Apple Events Expected This Fall, M1X MacBoo…]]></summary>
-        <author>
-            <name>MacRumors Staff</name>
         </author>
     </entry>
 </feed>
