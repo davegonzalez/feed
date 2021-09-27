@@ -6,6 +6,15 @@
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
       "articles": [
         {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2",
+          "author": null,
+          "description": "Fixed: unicode characters in URL caused download error\nFixed: project root npm install error\nAdded: unit test library\nChore: Dependency updates\nThank you: @CaptNo1",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2",
+          "publishedOn": "2021-09-26T18:45:39.000Z",
+          "wordCount": 354,
+          "title": "v1.11.2"
+        },
+        {
           "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.1",
           "author": null,
           "description": "Fixed: Unexpected nested element in author field crashes the parser\nThank you @ad-m",
@@ -21,6 +30,24 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index/",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1798338",
+          "author": "Steve Haske",
+          "description": "Previous NSO support, third party relations, Virtual Console history: We dive in.",
+          "link": "https://arstechnica.com/?p=1798338",
+          "publishedOn": "2021-09-26T11:30:48.000Z",
+          "wordCount": 1902,
+          "title": "N64 on Switch: Reading the tea leaves on future game prospects"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1798346",
+          "author": "WIRED",
+          "description": "A key backer of a 2018 Oakland law says the city is not following the rules.",
+          "link": "https://arstechnica.com/?p=1798346",
+          "publishedOn": "2021-09-26T10:30:39.000Z",
+          "wordCount": 1257,
+          "title": "It’s not easy to control police use of tech—even with a law"
+        },
         {
           "id": "https://arstechnica.com/?p=1798244",
           "author": "Jonathan M. Gitlin",
@@ -2810,132 +2837,6 @@
           "publishedOn": "2021-08-28T14:38:24.000Z",
           "wordCount": 1714,
           "title": "The weekend’s best deals: Samsung microSD cards, gaming chairs, and more"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1790329",
-          "author": "WIRED",
-          "description": "Requirements always have to be achievable and equitable.",
-          "link": "https://arstechnica.com/?p=1790329",
-          "publishedOn": "2021-08-28T11:07:12.000Z",
-          "wordCount": 2540,
-          "title": "Vaccine mandates work, especially when they’re done right"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1789926",
-          "author": "Nathan Mattise",
-          "description": "Stream this samurai-loving genre mashup when you can. Speaking of: ATTENTION US DISTRIBUTORS.",
-          "link": "https://arstechnica.com/?p=1789926",
-          "publishedOn": "2021-08-28T10:15:53.000Z",
-          "wordCount": 1899,
-          "title": "Samurai-themed sci-fi flick It’s A Summer Film! expertly slices expectations"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1790357",
-          "author": "Jim Salter",
-          "description": "The Phoenix controller in Samsung's own product images isn't present on newer drives.",
-          "link": "https://arstechnica.com/?p=1790357",
-          "publishedOn": "2021-08-27T22:20:31.000Z",
-          "wordCount": 1105,
-          "title": "Samsung seemingly caught swapping components in its 970 Evo Plus SSDs"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1790331",
-          "author": "Jim Salter",
-          "description": "30% of Cosmos DB customers were notified—more are likely impacted.",
-          "link": "https://arstechnica.com/?p=1790331",
-          "publishedOn": "2021-08-27T21:00:37.000Z",
-          "wordCount": 1171,
-          "title": "“Worst cloud vulnerability you can imagine” discovered in Microsoft Azure"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1790325",
-          "author": "Jon Brodkin",
-          "description": "Amazon: Starlink's plan to have two plans should be dismissed.",
-          "link": "https://arstechnica.com/?p=1790325",
-          "publishedOn": "2021-08-27T20:35:40.000Z",
-          "wordCount": 1276,
-          "title": "Amazon urges FCC to reject SpaceX proposals for next-generation Starlink"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1790285",
-          "author": "Diana Gitig",
-          "description": "As if an Android phone could all of a sudden run iOS at the same time.",
-          "link": "https://arstechnica.com/?p=1790285",
-          "publishedOn": "2021-08-27T18:59:11.000Z",
-          "wordCount": 1103,
-          "title": "Engineering a second genetic code in parallel with the normal one"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1790296",
-          "author": "Beth Mole",
-          "description": "DeSantis' controversial ban “does not meet constitutional muster,” judge said.",
-          "link": "https://arstechnica.com/?p=1790296",
-          "publishedOn": "2021-08-27T18:46:06.000Z",
-          "wordCount": 936,
-          "title": "DeSantis’ ban on school mask mandates violates state constitution, judge rules"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1790287",
-          "author": "Tim De Chant",
-          "description": "Alleged perpetrators used malware to send funds to their own bitcoin addresses.",
-          "link": "https://arstechnica.com/?p=1790287",
-          "publishedOn": "2021-08-27T18:27:58.000Z",
-          "wordCount": 1317,
-          "title": "Man robbed of 16 bitcoin hunts down suspects, sues their parents"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1790272",
-          "author": "Andrew Cunningham",
-          "description": "You won't see it in Windows Update, but Microsoft won't stop you from running it.",
-          "link": "https://arstechnica.com/?p=1790272",
-          "publishedOn": "2021-08-27T17:55:59.000Z",
-          "wordCount": 849,
-          "title": "You’ll be able to run Windows 11 on older PCs—if you install the update manually"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1790182",
-          "author": "Andrew Cunningham",
-          "description": "Security and stability are both much better on newer PCs, says Microsoft.",
-          "link": "https://arstechnica.com/?p=1790182",
-          "publishedOn": "2021-08-27T17:37:05.000Z",
-          "wordCount": 1650,
-          "title": "Why Windows 11 has such strict hardware requirements, according to Microsoft"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1790038",
-          "author": "Andrew Cunningham",
-          "description": "Microsoft sticks to its guns—1st-gen Ryzen, other CPUs won't make the cut.",
-          "link": "https://arstechnica.com/?p=1790038",
-          "publishedOn": "2021-08-27T17:00:05.000Z",
-          "wordCount": 955,
-          "title": "Microsoft will support some, but not most, 7th-gen Intel Core CPUs in Windows 11"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1790215",
-          "author": "Ron Amadeo",
-          "description": "Check out the weird clipped-on display and the plastic-coated metal body.",
-          "link": "https://arstechnica.com/?p=1790215",
-          "publishedOn": "2021-08-27T16:31:30.000Z",
-          "wordCount": 877,
-          "title": "Pixel 5a teardown shows a surprising amount of metal"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1790231",
-          "author": "Jonathan M. Gitlin",
-          "description": "Why do highway planners refuse to accept that more lanes means more traffic?",
-          "link": "https://arstechnica.com/?p=1790231",
-          "publishedOn": "2021-08-27T16:20:57.000Z",
-          "wordCount": 1251,
-          "title": "Please stop adding more lanes to busy highways—it doesn’t help"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1790220",
-          "author": "Financial Times",
-          "description": "Brussels expected to open investigation in early September over competition concerns.",
-          "link": "https://arstechnica.com/?p=1790220",
-          "publishedOn": "2021-08-27T14:47:48.000Z",
-          "wordCount": 677,
-          "title": "EU set to launch formal probe into Nvidia’s $54 billion takeover of Arm"
         }
       ]
     },
@@ -2944,6 +2845,15 @@
       "feedUrl": "http://feeds.macrumors.com/MacRumors-Front",
       "siteUrl": "https://www.macrumors.com",
       "articles": [
+        {
+          "id": "https://www.macrumors.com/2021/09/26/apple-to-fix-iphone-13-unlock-with-apple-watch/",
+          "author": "Joe Rossignol",
+          "description": "Apple today said an issue preventing some iPhone 13 users from using the Unlock with Apple Watch feature will be fixed in an upcoming software update.\r\n\r\n\r\n\r\n\r\n\r\nIn a support document, Apple said affected users can turn off Unlock with Apple Watch and use their passcode to unlock their iPhone 13 until the software update is released. The feature, which is designed to let you unlock your iPhone while wearing a mask or ski goggles, can be toggled off in the Settings app under Face ID & Passcode.\r\n\r\n\r\n\r\nApple did not specify which software update will include a fix, nor did it provide a timeframe. The first beta of iOS 15.1 was released five days ago, but Apple could also choose to release a minor iOS 15.0.1 update with bug fixes.\r\n\r\n\r\n\r\nAs we reported, affected users might see an \"Unable to Communicate with Apple Watch\" error message if they try to unlock their iPhone 13 while wearing a face mask, or they might not be able to set up Unlock with Apple Watch.\nRelated Roundups: iPhone 13, iPhone 13 Pro\nBuyer's Guide: iPhone 13 (Buy Now), iPhone 13 Pro (Buy Now)\nRelated Forum: iPhone\nThis article, \"Apple to Fix Issue Preventing iPhone 13 Users From Unlocking With Apple Watch in Upcoming Software Update\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/09/26/apple-to-fix-iphone-13-unlock-with-apple-watch/",
+          "publishedOn": "2021-09-26T13:57:43.000Z",
+          "wordCount": 2229,
+          "title": "Apple to Fix Issue Preventing iPhone 13 Users From Unlocking With Apple Watch in Upcoming Software Update"
+        },
         {
           "id": "https://www.macrumors.com/2021/09/25/top-stories-iphone-13-ios-15-launch/",
           "author": "MacRumors Staff",
@@ -5904,114 +5814,6 @@
           "publishedOn": "2021-08-28T13:00:00.000Z",
           "wordCount": 2743,
           "title": "Top Stories: iPhone 13 Nears Launch, Larger Apple Watch?, MacBook Pro and Mac Mini Rumors"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/08/27/apple-repair-program-no-sound/",
-          "author": "Juli Clover",
-          "description": "Apple today announced the launch of a new service program that addresses an issue that can cause some iPhone 12 and 12 Pro devices to experience sound issues. \r\n\r\n\r\n\r\n\r\n\r\nAccording to Apple, a \"very small percentage\" of ‌iPhone 12‌ and 12 Pro models may experience sound problems because of a component that can fail on the receiver module. Affected devices were manufactured between October 2020 and April 2021. \r\n\r\n\r\n\r\n‌iPhone 12‌ and 12 Pro owners who have a device that does not emit sound from the receiver when making or receiving phone calls may be eligible for free service. iPhone 12 mini and iPhone 12 Pro Max models are not affected and are not part of the service program. \r\n\r\n\r\n\r\nThose who have an iPhone experiencing issues can make an appointment at an Apple retail location, or find an Apple Authorized Service Provider. Apple Support can also be contacted to arrange a mail-in repair. \r\n\r\n\r\n\r\n‌iPhone 12‌ or 12 Pro models that have damage that impairs the ability to complete the repair, like a cracked screen, will need to have that issue fixed prior to receiving service. Apple says the repair program covers affected ‌iPhone 12‌ or 12 Pro devices for two years after the first retail sale of the device. \nRelated Roundups: iPhone 12, iPhone 12 Pro\nBuyer's Guide: iPhone 12 (Don't Buy), iPhone 12 Pro (Don't Buy)\nRelated Forum: iPhone\nThis article, \"Apple Launches 'No Sound' Repair Program for iPhone 12 and 12 Pro Models\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/08/27/apple-repair-program-no-sound/",
-          "publishedOn": "2021-08-27T22:01:10.000Z",
-          "wordCount": 2282,
-          "title": "Apple Launches 'No Sound' Repair Program for iPhone 12 and 12 Pro Models"
-        },
-        {
-          "id": "https://www.macrumors.com/guide/ios-15-health-app&post_date=1630110559/",
-          "author": "Juli Clover",
-          "description": "Apple made some notable improvements to the Health app in iOS 15, primarily focused on helping iPhone users care for elderly parents and others who might need additional medical oversight and help.\r\n\r\n\r\n\r\n\r\n\r\nThere are extensive sharing features that let users keep an eye on the health data of a loved one, plus bonus features like walking steadiness metrics and improvements to how lab results are presented. This guide highlights all of the new additions in the ‌iOS 15‌ Health app.\r\n\r\n\r\n\r\n\r\n\r\nWalking Steadiness\n\r\n\r\nWalking Steadiness is a new health metric that uses data culled from the ‌iPhone‌ to provide insight into a person's risk of falling down.\r\n\r\n\r\n\r\n\r\n\r\nIt uses algorithms that assess balance, strength, and gait, using metrics like walking speed, step length, and walking asymmetry d…",
-          "link": "https://www.macrumors.com/guide/ios-15-health-app/",
-          "publishedOn": "2021-08-27T21:29:19.000Z",
-          "wordCount": 2846,
-          "title": "What's New With the Health App in iOS 15: Data Sharing, Lab Result Improvements, COVID Vaccine Records and More"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/08/27/t-mobile-ceo-apologies-for-data-breach/",
-          "author": "Juli Clover",
-          "description": "T-Mobile CEO Mike Sievert today penned a letter to T-Mobile customers apologizing for the recent data breach that impacted more than 50 million current, former, and prospective T-Mobile users.\r\n\r\n\r\n\r\n\r\n\r\nData that included names, phone numbers, addresses, birth dates, social security numbers, driver's license and ID info, IMEI numbers, and IMSI numbers was stolen and has been offered for sale.\r\n\r\n\r\n\r\n\"We didn't live up to the expectations we have for ourselves to protect our customers,\" wrote Sievert. \"Knowing that we failed to prevent this exposure is one of the hardest parts of this event. On behalf of everyone at Team Magenta, I want to say we are truly sorry.\"\r\n\r\n\r\n\r\nHe went on to say that T-Mobile is \"disappointed and frustrated\" and that keeping customer data safe is a responsibility…",
-          "link": "https://www.macrumors.com/2021/08/27/t-mobile-ceo-apologies-for-data-breach/",
-          "publishedOn": "2021-08-27T20:03:46.000Z",
-          "wordCount": 2666,
-          "title": "T-Mobile CEO Apologizes for Data Breach, Shares Info on Future Security Plans"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/08/27/apple-expands-employee-vaccination-efforts/",
-          "author": "Juli Clover",
-          "description": "Apple is further pushing its employees in the United States to get vaccinated now that the Food and Drug Administration has officially approved the Pfizer COVID-19 vaccine, reports Bloomberg.\r\n\r\n\r\n\r\n\r\n\r\nApple has launched a new internal web page, sent out an employee memo, and is holding internal talks as part of its vaccination campaign.\n\"Apple is asking everyone who has access to the vaccine and is able to get vaccinated to do so as soon as you can,\" the company said in the memo, which was sent to staff Thursday evening. Sumbul Desai, Apple's vice president of health efforts, and Kristina Raspe, vice president in charge of real estate, are also hosting talks to encourage employees to get the shots.\nThe webpage Apple has created explains the delta variant and how getting vaccinated can help prevent its spread. Apple is also offering vouchers for employees to get vaccinated through Walgreens, and it is providing on-site vaccinations in the San Francisco Bay Area and Austin, Texas. Apple gives employees paid time off for vaccine appointments and paid sick leave for those who experience side effects.\r\n\r\n\r\n\r\nApple is not mandating that its employees get vaccinated, which is a departure from other tech companies in the area. Both Google and Facebook are requiring employees to be vaccinated, but according to Bloomberg, Apple has not done so for the sake of employee privacy.\r\n\r\n\r\n\r\nEarlier this month, Apple implemented more frequent testing for corporate and retail employees, asking them to take COVID-19 tests up to three times per week.\r\n\r\n\r\n\r\nApple initially planned to have employees return to work for three days a week in September, but with cases continuing to ramp up, corporate employees will be able to work from home until at least January 2022.\nThis article, \"Apple Expands Efforts to Vaccinate Employees, But Doesn't Mandate Vaccines\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/08/27/apple-expands-employee-vaccination-efforts/",
-          "publishedOn": "2021-08-27T19:52:04.000Z",
-          "wordCount": 2345,
-          "title": "Apple Expands Efforts to Vaccinate Employees, But Doesn't Mandate Vaccines"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/08/27/google-pixel-5a-headphone-jack-ad/",
-          "author": "Juli Clover",
-          "description": "Google today shared a new Pixel 5a ad that's meant to parody some of the product intro videos that former Apple design chief Jony Ive used to make to highlight new iPhone features.\r\n\r\n\r\n\r\n\n\r\n\r\nIn the video, Google spends a full two minutes describing the design of the Pixel 5a's headphone jack in exaggeratory language, and as noted by CNET, there are even two moments where the video uses Ive's British pronunciation of aluminum. From the video description:\nCalling this perfectly-symmetrical, technological marvel, a \"headphone jack\" may feel like an understatement...but technically, that's what it's called, so... fair enough. Behold! The Headphone Jack, on the Google Pixel 5a with 5G.\nSince Jony Ive is no longer Apple's design chief and does not make Apple's product videos, it's not clear why Google has opted to make a video imitating him two years after he left the company. A video promoting the headphone jack is also an unusual choice as fervor over the component has died down now that many high-end smartphones have eliminated it, including Google's own flagship Pixel models. \r\n\r\n\r\n\r\nThe $449 Pixel 5a goes on sale today. In addition to a headphone jack, it features a 6.3-inch display with hole punch camera cutout, IP67 water resistance, 5G connectivity, and a Qualcomm Snapdragon 765G chip.\r\n\r\n\r\n\r\nGoogle's Pixel 5a competes with the $699 iPhone 12 mini and the $399 iPhone SE at the current time, but Apple plans to release an upgraded 5G version of the iPhone SE for 2022.\nTags: Google, Google Pixel\nThis article, \"Google Channels Jony Ive in Ad Promoting Pixel 5a Headphone Jack\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/08/27/google-pixel-5a-headphone-jack-ad/",
-          "publishedOn": "2021-08-27T19:30:48.000Z",
-          "wordCount": 2164,
-          "title": "Google Channels Jony Ive in Ad Promoting Pixel 5a Headphone Jack"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/08/27/apple-watch-series-7-what-to-expect/",
-          "author": "Juli Clover",
-          "description": "Apple in just a few weeks is expected to release the Apple Watch Series 7 alongside new iPhone 13 models, and it's looking like this could be one of the most exciting design updates we've had to the Apple Watch in a few years.\r\n\r\n\r\n\r\n\nSubscribe to the MacRumors YouTube channel for more videos.\n\r\n\r\nWe're not expecting new health features this year, and if there are new health sensors, Apple has kept them under wraps, but multiple rumors have indicated that the Apple Watch Series 7 is getting a new design.\r\n\r\n\r\n\r\nThe upcoming Apple Watch could feature a flat-edged design that's similar to the design of the iPhone 12 and the iPad Pro. Leaked renders said to be based on CAD drawings have depicted iPhone-12 style flat curves, a thinner Digital Crown, and new speaker design on the left side of t…",
-          "link": "https://www.macrumors.com/2021/08/27/apple-watch-series-7-what-to-expect/",
-          "publishedOn": "2021-08-27T18:12:23.000Z",
-          "wordCount": 2677,
-          "title": "What to Expect From the Apple Watch Series 7"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/08/27/macrumors-giveaway-throwboy-plush-pillow/",
-          "author": "Juli Clover",
-          "description": "For this week's giveaway, we've once again teamed up with Throwboy to offer MacRumors readers a chance to win one of Throwboy's pillows, which are modeled after classic Apple products and make fun decorations for Apple enthusiasts.\r\n\r\n\r\n\r\n\r\n\r\nThrowboy's pillows are plush, squeezable versions of Apple products like the original iPhone, first iPod, Classic Macintosh, iMac G3, and more. Pillows are priced at $30 to $40, and the main Iconic collection features designs modeled after five of the most notable Apple products Apple has released to date.\r\n\r\n\r\n\r\n\r\n\r\nEach Throwboy pillow features intricate embroidery to match the detailing on the Apple product it's modeled after. The 1998 Pillow is designed to look just like an ‌iMac‌ G3 with bright Bondi Blue-style fabric and embroidered details that…",
-          "link": "https://www.macrumors.com/2021/08/27/macrumors-giveaway-throwboy-plush-pillow/",
-          "publishedOn": "2021-08-27T18:07:28.000Z",
-          "wordCount": 2458,
-          "title": "MacRumors Giveaway: Win an iPhone, iPod, or Mac Pillow From Throwboy"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/08/27/apple-shares-come-from-away-trailer/",
-          "author": "Hartley Charlton",
-          "description": "Apple has shared a trailer for the original film \"Come From Away,\" which is set to debut on September 10, as an unlisted video on the Apple TV YouTube channel.\r\n\r\n\r\n\r\n\n\r\n\r\nDirected by Christopher Ashley, who directed the original Broadway production, Come From Away is a recording of the Tony Award-winning Broadway musical of the same name that was filmed live at the Gerald Schoenfeld Theater in New York City.\r\n\r\n\r\n\r\nThe musical centers on the true story of when 38 flights were grounded in Gander, Newfoundland, leaving 7,000 passengers in a small Canadian town after flights into the United States were briefly suspended in 2001.\n\"Come From Away\" tells the story of 7,000 people stranded in the small town of Gander, Newfoundland after all flights into the US are grounded on September 11, 2001. As the people of Newfoundland graciously welcome the \"come from aways\" into their community in the aftermath, the passengers and locals alike process what's happened while finding love, laughter and new hope in the unlikely and lasting bonds that they forge.\nApple said earlier this year that the live performance of Come From Away was filmed in May with an audience of 9/11 survivors and front-line workers.\r\n\r\n\r\n\r\nCome From Away premieres exclusively on Apple TV+ on Friday, September 10. \"The Problem With Jon Stewart,\" \"9/11: Inside the President's War Room,\" \"The Morning Show\" Season 2, and \"Foundation\" are also set to arrive next month.\nTags: Apple TV Shows, Apple TV Plus\nThis article, \"Apple Shares Trailer for Broadway Musical 'Come From Away'\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/08/27/apple-shares-come-from-away-trailer/",
-          "publishedOn": "2021-08-27T15:30:07.000Z",
-          "wordCount": 2077,
-          "title": "Apple Shares Trailer for Broadway Musical 'Come From Away'"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/08/27/twitter-begins-rolling-out-ticketed-spaces-on-ios/",
-          "author": "Hartley Charlton",
-          "description": "Twitter has started rolling out its new Ticketed Spaces feature to iOS users, the company has announced.\r\n\r\n\r\n\r\n\r\n\r\nTwitter Spaces allow users to host live audio discussions that other users can listen in to. Now, some Twitter users on iOS will be able to create Ticketed Spaces that have a small fee to join, allowing hosts to make money from sales directly on the popular social media platform.\r\n\r\n\r\n\r\nUsers over the age of 18 who have hosted at least three Spaces in the past 30 days and have at least 1,000 followers have been able to apply to host Ticketed Spaces since June, but the feature has not been live until now.\r\n\r\n\r\n\r\n\nwe want to help people creating cool Spaces make $$$. today, some Hosts will be able create Ticketed Spaces! \nwe’re experimenting on iOS only for now but we hope to get it to everyone soon. know it’s taking us a little time, but we want to get this right for you! https://t.co/xc68yWkOim\n— Spaces (@TwitterSpaces) August 26, 2021\n \n\r\n\r\n\r\n\r\nHosts receive 67 percent of the proceeds from ticket sales, with 30 percent going to Apple as an in-app purchase fee and three percent going to Twitter. If a host's total lifetime earnings on Twitter pass $50,000, then Twitter plans to raise its commission rate to 20 percent.\r\n\r\n\r\n\r\nIt is not clear how many users are now eligible to host Ticketed Spaces or when Twitter plans to roll out the functionality to all users. Even so, any iOS user is able to buy a ticket to join a Ticketed Spaces session.\nTag: Twitter\nThis article, \"Twitter Begins Rolling Out Ticketed Spaces on iOS\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/08/27/twitter-begins-rolling-out-ticketed-spaces-on-ios/",
-          "publishedOn": "2021-08-27T14:35:12.000Z",
-          "wordCount": 2303,
-          "title": "Twitter Begins Rolling Out Ticketed Spaces on iOS"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/08/27/apple-small-developer-assistance-fund/",
-          "author": "Joe Rossignol",
-          "description": "Apple on Thursday evening announced it has reached a $100 million settlement that, pending court approval, will resolve a class action lawsuit from U.S. developers who alleged that Apple has a monopoly on the distribution of iOS apps and in-app purchases.\r\n\r\n\r\n\r\n\r\n\r\nAs part of the settlement, some U.S. developers would be entitled to receive a payment from Apple, so long as they meet certain requirements.\r\n\r\n\r\n\r\nWho is eligible for a payment from Apple?\n\r\n\r\nAccording to law firm Hagens Berman, which brought the lawsuit against Apple in 2019, the class includes any current or former U.S. developer of an iOS app that earned less than $1 million through the U.S. App Store in paid downloads and/or in-app purchases/subscriptions per calendar year between June 4, 2015 and April 26, 2021.\r\n\r\n\r\n\r\n…",
-          "link": "https://www.macrumors.com/2021/08/27/apple-small-developer-assistance-fund/",
-          "publishedOn": "2021-08-27T13:55:44.000Z",
-          "wordCount": 2718,
-          "title": "Notice to Developers: You Could Be Entitled to Between a $250 and $30,000 Payment From Apple"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/08/27/apple-watch-series-7-clones-emerge-in-china/",
-          "author": "Hartley Charlton",
-          "description": "Images purporting to show counterfeit clones of upcoming Apple Watch Series 7 models have been shared online, giving a closer look at the device's expected redesign.\r\n\r\n\r\n\r\n\r\n\r\nThe images, shared in a tweet from the user known as \"Majin Bu,\" show counterfeit clones of the Apple Watch Series 7 in Space Gray, Silver, and Space Black. The design of the clones closely matches the redesign that is expected to bring squared-off edges to the Apple Watch, much like those of the iPhone 12 lineup, iPad Air, iPad Pro, and 24-inch iMac.\r\n\r\n\r\n\r\nAlthough the units in the images are clones and not legitimate Apple devices, they may give the best impression yet of what we can expect the new Apple Watch design to look like in the real world. Majin Bu explained that these Apple Watch Series 7 clones will se…",
-          "link": "https://www.macrumors.com/2021/08/27/apple-watch-series-7-clones-emerge-in-china/",
-          "publishedOn": "2021-08-27T13:40:53.000Z",
-          "wordCount": 2279,
-          "title": "Apple Watch Series 7 Clones Emerge in China"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/08/27/deals-amazon-drops-macbook-air/",
-          "author": "Mitchel Broussard",
-          "description": "Amazon today introduced new low prices on the M1 MacBook Air for both 256GB and 512GB storage options. To start, you can get the 256GB model for $849.99, down from an original price of $999.00.\r\n\r\n\r\n\r\nNote: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.\r\n\r\n\r\n\r\nOnly Silver and Gold are available at this price on Amazon. This sale marks a new all-time low price for Apple's 2020 M1 MacBook Air, providing the cheapest entry price into the lineup since it debuted last year.\r\n\r\n\r\n\r\n\n$149 OFF\nM1 MacBook Air (256GB) for $849.99\n\n\r\n\r\n\r\n\r\nLikewise, the 512GB version of the M1 MacBook Air is seeing a notable discount to $1,099.99, down from $1,249.00. This is a record low price for the notebook, and it's available in all colors.\r\n\r\n\r\n\r\n\n$149 OFF\nM1 MacBook Air (512GB) for $1,099.99\n\n\r\n\r\n\r\n\r\nYou can find even more discounts on other MacBooks by visiting our Best Deals guide for MacBook Pro and MacBook Air. In this guide we track the steepest discounts for the newest MacBook models every week, so be sure to bookmark it and check back often if you're shopping for a new Apple notebook.\nRelated Roundup: Apple Deals\nThis article, \"Deals: Amazon Drops Price of 256GB M1 MacBook Air to New Low of $849.99 ($149 Off)\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/08/27/deals-amazon-drops-macbook-air/",
-          "publishedOn": "2021-08-27T13:16:06.000Z",
-          "wordCount": 2094,
-          "title": "Deals: Amazon Drops Price of 256GB M1 MacBook Air to New Low of $849.99 ($149 Off)"
         }
       ]
     },
@@ -6811,15 +6613,6 @@
           "publishedOn": "2021-08-28T20:49:30.000Z",
           "wordCount": 312,
           "title": "★ Charlie Watts"
-        },
-        {
-          "id": "https://www.theverge.com/2021/8/27/22644579/tiktok-reddit-facebook-ivermectin-covid-19-misinformation",
-          "author": null,
-          "description": "Kait Sanchez, writing for The Verge:\nOn TikTok, Rolling Stone found videos, some of which had more than a million views, promoting ivermectin as a COVID-19 treatment under tags like #ivermectin4covid and #ivermectinworks. TikTok has since removed the videos for violating community guidelines and blocked the tags, and a spokesperson says TikTok will continue removing related videos and hashtags. The #ivermectin tag is still up, though many of the most popular videos in the tag are of healthcare professionals debunking misinformation. \nOn Reddit this week, moderators of several hundred subreddits called on the platform to take action against COVID-19 misinformation, including banning subreddits that spread medical disinformation. \nDisagreeing with the requests for outright bans, Reddit CEO S…",
-          "link": "https://www.theverge.com/2021/8/27/22644579/tiktok-reddit-facebook-ivermectin-covid-19-misinformation",
-          "publishedOn": "2021-08-27T20:42:53.000Z",
-          "wordCount": 831,
-          "title": "TikTok, Reddit, and Facebook Are Killing People by Publishing Ivermectin Disinformation"
         }
       ]
     },
@@ -7718,33 +7511,6 @@
           "publishedOn": "2021-08-30T13:50:28.000Z",
           "wordCount": 724,
           "title": "Watch Dogs gets a new mission based on Netflix’s Money Heist"
-        },
-        {
-          "id": "https://www.polygon.com/22645202/destiny-2-witch-queen-dungeon-raid-schedule-release-season",
-          "author": null,
-          "description": "A full fireteam heads into Destiny: Rise of Iron’s raid, Wrath of the Machine. | Image: Bungie\n    \n\n\n  \nPinnacle endgame content is Destiny’s lifeblood, and it’s about to get an infusion\n Bungie’s Destiny Showcase on Tuesday revealed a ton of exciting news for Guardians. Destiny 2 has a lot coming to it over the next few years, with crafting, three expansions, a new weapon type, reworks for existing subclasses, the return of Gjallarhorn, and a continuation into a whole new story after 2024’s The Final Shape expansion. But the showcase’s most important announcement came and went in a flash: Starting this December, Destiny 2 players will get a new raid or dungeon every three months. \nDestiny’s raids take six players to new locations and pit them against puzzle-filled arenas or giant bosses.…",
-          "link": "https://www.polygon.com/22645202/destiny-2-witch-queen-dungeon-raid-schedule-release-season",
-          "publishedOn": "2021-08-27T22:02:20.000Z",
-          "wordCount": 830,
-          "title": "Nobody is talking about this week’s biggest Destiny 2 announcement"
-        },
-        {
-          "id": "https://www.polygon.com/22644794/destiny-2-void-3-0-subclass-upgrade-darkness-conversion-aspect-fragment",
-          "author": null,
-          "description": "Image: Bungie\n    \n\n  \nBungie’s weekly blog highlighted what players can expect from their Void subclasses next February\n Bungie revealed at its Destiny Showcase that all of Destiny 2’s Light subclasses — Arc, Solar, and Void — will undergo a conversion to the Darkness/Stasis system over the next year. Just a few days later, the studio gave players their first look at the first subclass getting updated: Void. \nThe studio first revealed that players won’t unlock a new Darkness subclass in The Witch Queen or any point before Destiny 2’s 2023 expansion, Lightfall — something creative director Joe Blackburn discussed on a Twitch stream an hour prior. Bungie also said players won’t unlock new Stasis Aspects or Fragments in Season of the Lost. \nFor the uninitiated, Stasis offers the traditional …",
-          "link": "https://www.polygon.com/22644794/destiny-2-void-3-0-subclass-upgrade-darkness-conversion-aspect-fragment",
-          "publishedOn": "2021-08-27T21:18:58.000Z",
-          "wordCount": 1264,
-          "title": "Destiny 2’s Void 3.0 in The Witch Queen will let players mix and match their abilities"
-        },
-        {
-          "id": "https://www.polygon.com/deaths-door-guide/22622388/shrines-locations-vitality-health-all-castle-lockstone-overgrown-ruins-urn-witchs-manor-map",
-          "author": null,
-          "description": "Image: Acid Nerve/Devolver Digital via Polygon\n    \n\n  \nBoost your vitality and magic by praying at shrines\n Death’s Door can be hard to the low amount of vitality and magic you can have at once, but you can gain more of both by finding shrines. Shrines are hidden structures with monstrous faces found around the world, and they each give a crystal — pink for magic and green for health. Our Death’s Door guide will list out where to find all the shrines with maps.\nThere are 16 shrines throughout the game. Eight of them are for vitality and eight of them are for magic. To increase your health or magic bars, you need to collect four shards from shrines.\nWe’ve listed the shrines in the order you can access them below. Some of the shrines are in early areas, but require abilities that you don’t …",
-          "link": "https://www.polygon.com/deaths-door-guide/22622388/shrines-locations-vitality-health-all-castle-lockstone-overgrown-ruins-urn-witchs-manor-map",
-          "publishedOn": "2021-08-27T18:44:05.000Z",
-          "wordCount": 1862,
-          "title": "Death’s Door guide: All shrine locations"
         }
       ]
     },
@@ -8135,15 +7901,6 @@
           "publishedOn": "2021-08-30T17:03:40.000Z",
           "wordCount": 908,
           "title": "China bans videogames for minors except from Friday to Sunday 8-9pm"
-        },
-        {
-          "id": "https://waxy.org/?p=42268",
-          "author": "Andy Baio",
-          "description": "arguably the most upgradable and DIY-friendly laptop ever made #",
-          "link": "https://www.ifixit.com/News/51614/framework-laptop-teardown-10-10-but-is-it-perfect",
-          "publishedOn": "2021-08-27T23:47:39.000Z",
-          "wordCount": 1772,
-          "title": "iFixit’s teardown of the Framework laptop"
         }
       ]
     },
@@ -8736,6 +8493,15 @@
       "siteUrl": "https://www.halfbakedharvest.com",
       "articles": [
         {
+          "id": "https://www.halfbakedharvest.com/?p=111794",
+          "author": "halfbakedharvest",
+          "description": "Nine Favorite Things.\nNine Favorite Things Happy autumn…and happy last Sunday of September!! Next week October will hit, and man, things will really start to pick up then. It’s crazy because I love this time of year so much, but it’s always so busy and goes so fast. I am really, really thankful we haven’t had any snow…\nREAD: Nine Favorite Things.",
+          "link": "https://www.halfbakedharvest.com/nine-favorite-things-212/",
+          "publishedOn": "2021-09-26T08:00:00.000Z",
+          "wordCount": 4207,
+          "title": "Nine Favorite Things."
+        },
+        {
           "id": "https://www.halfbakedharvest.com/?p=111770",
           "author": "halfbakedharvest",
           "description": "The 20 Most Popular Fall Drinks.\nSharing The 20 Most Popular Fall Drinks today to help you find the perfect drink for all the cozy fall nights ahead. This list has everything from pitcher-style drinks…like my Pumpkin Patch Punch, to spooky Halloween cocktails, to warming apple cider moscow mules, and just about everything in between. If you’re looking for the perfect…\nREAD: The 20 Most Popular Fall Drinks.",
@@ -9041,6 +8807,51 @@
       "feedUrl": "https://bloody-disgusting.com/feed/",
       "siteUrl": "https://bloody-disgusting.com",
       "articles": [
+        {
+          "id": "https://bloody-disgusting.com/?p=3677347",
+          "author": "Mike Wilson",
+          "description": "It’s ironic that we’ve only now gotten around to diving deep into the original Castlevania after delving into retrospectives for its two sequels. At 35, the series has seen its up and downs. The current trend seems to be to lament over “the good old days” of when Konami first bestowed greatness on Nintendo’s Famicom […]",
+          "link": "https://bloody-disgusting.com/editorials/3677347/retrospective-castlevania-is-still-vampire-killing-at-35/",
+          "publishedOn": "2021-09-26T18:50:00.000Z",
+          "wordCount": 3054,
+          "title": "[Retrospective] ‘Castlevania’ is Still Vampire Killing at 35"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3684464",
+          "author": "Mike Wilson",
+          "description": "With Steam Next Fest right around the corner, genre fans will no doubt be in heaven. Among the titles releasing demos, the Lovecraftian-tinged Forgive Me Father and the surreal A Wake Inn: Rebooked will be exhibiting their wares during the event, which kicks off on October 1. 1C Entertainment’s Forgive Me Father is a stylized […]",
+          "link": "https://bloody-disgusting.com/video-games/3684464/throwback-lovecraftian-shooter-forgive-me-father-surreal-a-wake-inn-rebooked-unveilling-demos-next-month-during-steam-next-fest/",
+          "publishedOn": "2021-09-26T17:37:17.000Z",
+          "wordCount": 2307,
+          "title": "Throwback Lovecraftian Shooter ‘Forgive Me Father’, Surreal ‘A Wake Inn: Rebooked’ Unveiling Demos Next Month During Steam Next Fest"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3684473",
+          "author": "Meagan Navarro",
+          "description": "For many, director Scott Derrickson and writer C. Robert Cargill’s Sinister ranks high among the scariest modern horror movies. The pair return to horror with an adaptation of Joe Hill’s short story “The Black Phone” from compilation 20th Century Ghost. Derrickson and Cargill revive the same traits and structure of Sinister to transform Hill’s short into a feature-length nightmare full of ghostly kids, […]",
+          "link": "https://bloody-disgusting.com/reviews/3684473/fantastic-fest-review-black-phone-dials-terror-skin-crawling-villain/",
+          "publishedOn": "2021-09-26T14:26:08.000Z",
+          "wordCount": 2133,
+          "title": "[Fantastic Fest Review] ‘The Black Phone’ Dials Into Terror With Skin-Crawling Villain"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3684458",
+          "author": "Mike Wilson",
+          "description": "Warner Bros. have upped the ante for next month’s DC FanDome. Not only are we getting a new reveal of the upcoming Gotham Knights, but now Rocksteady is doing the same with their upcoming action-adventure shooter Suicide Squad: Kill the Justice League. Along with that reveal announcement, Rocksteady has dropped key art for the game, […]",
+          "link": "https://bloody-disgusting.com/video-games/3684458/rocksteady-unveils-key-artwork-for-suicide-squad-kill-the-justice-league-new-reveal-at-dc-fandome-next-month/",
+          "publishedOn": "2021-09-26T14:14:13.000Z",
+          "wordCount": 2188,
+          "title": "Rocksteady Unveils Key Artwork For ‘Suicide Squad: Kill the Justice League’, New Reveal at DC FanDome Next Month"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3684468",
+          "author": "Mike Wilson",
+          "description": "We haven’t forgotten about Sunscorched Studios’ upcoming survival horror title Negative Atmosphere. The devs are still plugging away at the game, but lucky for us, they’ve taken a bit of time to release a brand-new gameplay trailer, with the promise of more info on the game to come in the future. The three-minute trailer starts […]",
+          "link": "https://bloody-disgusting.com/video-games/3684468/trailer-new-gameplay-trailer-for-negative-atmosphere-drips-with-dread/",
+          "publishedOn": "2021-09-26T07:04:00.000Z",
+          "wordCount": 2136,
+          "title": "[Trailer] New Gameplay Trailer For ‘Negative Atmosphere’ Drips With Dread"
+        },
         {
           "id": "https://bloody-disgusting.com/?p=3684413",
           "author": "Trace Thurman",
@@ -13108,186 +12919,6 @@
           "publishedOn": "2021-08-29T13:31:55.000Z",
           "wordCount": 1193,
           "title": "[Gamescom 2021] ‘Elden Ring’ Previews Appear Online"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3680481",
-          "author": "Brad Miska",
-          "description": "Variety reports Friday evening that “actor, disability-inclusion advocate and double hand amputee” John W. Lawson (“American Horror Story”) has been cast as “Stanny” in Paramount Players’ untitled Pet Sematary prequel. “I have myoelectric hands… or what people commonly call ‘cyborg,’” Lawson jokes to the site. “But most of the time, it’s just my hooks.” Variety […]",
-          "link": "https://bloody-disgusting.com/movie/3680481/pet-sematary-role-rewritten-actor-double-hand-amputee-john-w-lawson/",
-          "publishedOn": "2021-08-27T23:44:01.000Z",
-          "wordCount": 1306,
-          "title": "‘Pet Sematary’ Role Was Rewritten for Actor and Double Hand Amputee John W. Lawson"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3680468",
-          "author": "John Squires",
-          "description": "We learned a while back that James Wan was producing a new take on Stephen King‘s vampire story Salem’s Lot for New Line, with Gary Dauberman (It, The Nun, Annabelle Comes Home) attached to write the script and also direct the film. Today brings the first casting news. THR reports that Lewis Pullman (The Strangers: Prey at Night) has signed on […]",
-          "link": "https://bloody-disgusting.com/movie/3680468/stephen-kings-salems-lot-returns-life-james-wan-produced-movie-starring-lewis-pullman/",
-          "publishedOn": "2021-08-27T20:26:26.000Z",
-          "wordCount": 1317,
-          "title": "Stephen King’s ‘Salem’s Lot’ Returns to Life With James Wan-Produced Movie Starring Lewis Pullman"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3680315",
-          "author": "Mike Wilson",
-          "description": "Miss out on the Collector’s Edition of the Stubbs the Zombie in Rebel Without a Pulse remaster? While this isn’t exactly a second run, THQ Nordic and Aspyr Media will be bringing out a physical version of the cult favourite to retail for those who love their physical media. The physical edition will be released […]",
-          "link": "https://bloody-disgusting.com/video-games/3680315/stubbs-the-zombie-in-rebel-without-a-pulse-lumbers-to-a-physical-release-for-consoles-this-october/",
-          "publishedOn": "2021-08-27T20:24:47.000Z",
-          "wordCount": 921,
-          "title": "‘Stubbs The Zombie in Rebel Without a Pulse’ Lumbers to a Physical Release For Consoles This October"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3680457",
-          "author": "John Squires",
-          "description": "“I never thought I’d have to do that again.” While we wait for Lar Park-Lincoln’s return as New Blood character Tina Shepard in Rose Blood, another Friday the 13th film featuring one of the franchise’s heroines is now available. Directed by James Sweet, fan film Jason Rising can be watched in full below, a nearly […]",
-          "link": "https://bloody-disgusting.com/movie/3680457/adrienne-king-back-alice-hardy-friday-13th-fan-film-jason-rising-watch-now/",
-          "publishedOn": "2021-08-27T19:52:09.000Z",
-          "wordCount": 1271,
-          "title": "Adrienne King is Back as Alice Hardy in ‘Friday the 13th’ Fan Film ‘Jason Rising’; Watch Now!"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3680266",
-          "author": "Luiz H. C.",
-          "description": "From Greek mythology’s Lycaon to modern-day Michigan Dogman sightings, werewolves and their regional variants have prowled our imagination since time immemorial. While most cultures had their own particular rules and conventions regarding these creatures (the full-moon shtick is actually a relatively recent addition to the lore), the monster that we now know as the werewolf […]",
-          "link": "https://bloody-disgusting.com/editorials/3680266/funny-horror-scary-comedy-celebrating-40-years-an-american-werewolf-in-london/",
-          "publishedOn": "2021-08-27T19:30:18.000Z",
-          "wordCount": 5617,
-          "title": "“Too Funny for Horror and Too Scary for Comedy” – 40 Years of ‘An American Werewolf in London’"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3680450",
-          "author": "Jason Jenkins",
-          "description": "phantom limb /ˈfan(t)əm’lim/ n. an often painful sensation of the presence of a limb that has been amputated. Welcome to Phantom Limbs, a recurring feature which will take a look at intended yet unproduced horror sequels and remakes – extensions to genre films we love, appendages to horror franchises that we adore – that were sadly […]",
-          "link": "https://bloody-disgusting.com/exclusives/3680450/larry-fessenden-revisits-orphanage-discuss-remake-never-ended-making-phantom-limbs/",
-          "publishedOn": "2021-08-27T18:52:17.000Z",
-          "wordCount": 5594,
-          "title": "Larry Fessenden Revisits ‘The Orphanage’ to Discuss the Remake He Never Ended Up Making [Phantom Limbs]"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3680423",
-          "author": "John Squires",
-          "description": "One of the next big horror movies on deck is James Wan‘s (Saw, The Conjuring, Insidious) Malignant, which Warner Bros./New Line will release to theaters & HBO Max September 10. In the film, “Paralyzed by shocking visions of grisly murders, Madison’s (Annabelle Wallis) torment worsens as she discovers that her waking dreams are in fact terrifying […]",
-          "link": "https://bloody-disgusting.com/movie/3680423/malignant-photos/",
-          "publishedOn": "2021-08-27T17:30:50.000Z",
-          "wordCount": 1142,
-          "title": "‘Malignant’ Photo Gallery Previews James Wan’s Return to Horror in Just Two Weeks [Images]"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3680311",
-          "author": "Mike Wilson",
-          "description": "Earlier in the week, we mentioned Prime Matter and developer Massive Work Studio’s upcoming cosmic horror action-RPG Dolmen would be debuting its gameplay during Gamescom. Lo and behold, that’s exactly what they did during the Future Games Show. The trailer shows off the game’s third-person shooting and melee combat that can be swapped out on the […]",
-          "link": "https://bloody-disgusting.com/video-games/3680311/gamescom-2021-dolmen-gameplay-trailer-features-cosmic-horror-shooter-action/",
-          "publishedOn": "2021-08-27T17:13:54.000Z",
-          "wordCount": 912,
-          "title": "[Gamescom 2021] ‘Dolmen’ Gameplay Trailer Features Cosmic Horror Shooter Action"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3680407",
-          "author": "John Squires",
-          "description": "Warning: these toys feature Candyman 2021 spoilers… Now that Nia DaCosta’s sequel Candyman has arrived in theaters, Funko has unleashed a wave of four different POP! vinyl toys that are based on the franchise’s brand new relaunch. Three of the toys depict main character Anthony McCoy (Yahya Abdul-Mateen II) as Candyman, including “Candyman With Bees” […]",
-          "link": "https://bloody-disgusting.com/toys/3680407/nia-dacostas-candyman-gets-four-different-vinyl-toys-funko/",
-          "publishedOn": "2021-08-27T17:08:48.000Z",
-          "wordCount": 889,
-          "title": "[Spoilers] Nia DaCosta’s ‘Candyman’ Gets Four Different Vinyl Toys from Funko"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3680387",
-          "author": "Michael Roffman",
-          "description": "“When the movie was over, I hugged [Rob Reiner] because I was moved to tears, because it was so autobiographical.” —Stephen King to Rolling Stone, October 2014 The Losers have yet to leave Castle Rock. No, the sun is still out, there’s a breeze in the trees, and there isn’t a smokestack in sight for […]",
-          "link": "https://bloody-disgusting.com/podcasts/3680387/stand-by-me-screenwriters-interview/",
-          "publishedOn": "2021-08-27T16:56:13.000Z",
-          "wordCount": 1138,
-          "title": "‘Stand By Me’ Screenwriters on Bringing Stephen King to Tears [The Losers’ Club Podcast]"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3680394",
-          "author": "John Squires",
-          "description": "The English-language debut of Suicide Club director Sion Sono, Prisoners of the Ghostland is coming to theaters and on VOD and Digital September 17, 2021 via RLJE Films, and Cage himself has described the project as being “the wildest movie I’ve ever made.” We’ve learned this week that the film has gotten its own prequel comic from Patriot Comic Books, which is […]",
-          "link": "https://bloody-disgusting.com/comics/3680394/nicolas-cage-movie-prisoners-ghostland-turned-prequel-comic-book-thats-now-available/",
-          "publishedOn": "2021-08-27T16:25:03.000Z",
-          "wordCount": 1279,
-          "title": "Nicolas Cage Movie ‘Prisoners of the Ghostland’ Turned into a Prequel Comic Book That’s Now Available!"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3680376",
-          "author": "Paul Farrell",
-          "description": "The landscape of the city, with its many moving parts, appears to be not all that dissimilar from a beehive— from a certain point of view. There’s a purposeful busyness that pervades such a place, presenting the illusion that the individuals there are all part of the hive, working toward something meaningful. Of course, it’s […]",
-          "link": "https://bloody-disgusting.com/editorials/3680376/hypnotic-horror-original-candyman-led-path-horror-movie-obsession/",
-          "publishedOn": "2021-08-27T15:40:35.000Z",
-          "wordCount": 4439,
-          "title": "A Hypnotic Horror: How the Original ‘Candyman’ Led Me Down the Path of Horror Movie Obsession"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3680306",
-          "author": "Mike Wilson",
-          "description": "The Game Kitchen and publisher Team17 have reaped the rewards of their soulslike side-scroller Blasphemous. And not only are fans getting more free DLC, but they can also expect a new game in 2023! The Game Kitchen has announced “Wounds of Eventide,” a free DLC which will arrive on December 9. This DLC will effectively […]",
-          "link": "https://bloody-disgusting.com/video-games/3680306/trailer-blasphemous-dlc-wounds-of-eventide-announced-blasphemous-ii-coming-in-2023/",
-          "publishedOn": "2021-08-27T14:51:20.000Z",
-          "wordCount": 919,
-          "title": "[Trailer] ‘Blasphemous’ DLC “Wounds of Eventide” Announced; ‘Blasphemous II’ Coming in 2023!"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3680368",
-          "author": "John Squires",
-          "description": "On the way from Arrow Video in November is Phantom of the Mall: Eric’s Revenge, headed to Limited Edition Blu-ray here in the United States as well as the UK and Canada. The 2-disc Blu-ray will be released on November 23 in the US. Limited Edition contents include: Three versions of the feature: Original Theatrical […]",
-          "link": "https://bloody-disgusting.com/home-video/3680368/phantom-mall-erics-revenge-heads-blu-ray-3-different-cuts-movie/",
-          "publishedOn": "2021-08-27T14:47:15.000Z",
-          "wordCount": 1652,
-          "title": "‘Phantom of the Mall: Eric’s Revenge’ Heads to Blu-ray With 3 Different Cuts of the Movie"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3680361",
-          "author": "John Squires",
-          "description": "Announced by Arrow Video this morning, Wes Craven‘s classic The Hills Have Eyes is headed to 4K Ultra HD with a limited edition package for release in the US, UK, and Canada. The release date here in the U.S. is November 9, 2021. Here’s an overview of everything you’re getting in the set: Brand new […]",
-          "link": "https://bloody-disgusting.com/home-video/3680361/wes-cravens-hills-eyes-terrorizing-4k-ultra-hd-limited-edition-arrow-video-release/",
-          "publishedOn": "2021-08-27T14:27:48.000Z",
-          "wordCount": 1653,
-          "title": "Wes Craven’s ‘The Hills Have Eyes’ Terrorizing 4K Ultra HD With Limited Edition Arrow Video Release"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3680355",
-          "author": "Brad Miska",
-          "description": "Fall Out Boy guitarist Joe Trohman and actor Brian Posehn (Rob Zombie’s The Devil’s Rejects, “The Sarah Silverman Program”, “The Big Bang Theory”) have teamed up with Heavy Metal Magazine to create new comic book series “The Axe”, coming in early 2022, reports Variety. Said to be a cross between Army of Darkness and The […]",
-          "link": "https://bloody-disgusting.com/comics/3680355/heavy-metal-magazine-brings-axe-teams-fall-boys-joe-trohman-actor-brian-posehn-comic-series/",
-          "publishedOn": "2021-08-27T14:13:39.000Z",
-          "wordCount": 1266,
-          "title": "Heavy Metal Magazine Brings Down ‘The Axe’; Teams With Fall Out Boy’s Joe Trohman & Actor Brian Posehn on Comic Series"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3680351",
-          "author": "John Squires",
-          "description": "It was officially announced in February that Tim Burton is headed to the small screen with a new live-action series centered on Wednesday Addams, coming soon from Netflix. The series, which is simply titled “Wednesday,” will follow the beloved Addams Family character’s “spooky coming-of-age.” Eight episodes have been ordered up by Netflix. Jenna Ortega (The Babysitter: Killer Queen, Scream) has signed on […]",
-          "link": "https://bloody-disgusting.com/tv/3680351/wednesday-tim-burtons-live-action-addams-family-series-netflix-casts-thora-birch/",
-          "publishedOn": "2021-08-27T14:04:57.000Z",
-          "wordCount": 1241,
-          "title": "“Wednesday”: Tim Burton’s Live Action ‘Addams Family’ Series for Netflix Casts Thora Birch and More"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3680093",
-          "author": "Paul Lê",
-          "description": "Horrors Elsewhere is a recurring column that spotlights a variety of movies from all around the globe, particularly those not from the United States. Fears may not be universal, but one thing is for sure — a scream is understood, always and everywhere. Hammer Productions was unmatched when it came to gothic horror during its […]",
-          "link": "https://bloody-disgusting.com/editorials/3680093/gaslighting-thriller-taste-fear-one-hammers-best-horrors-elsewhere/",
-          "publishedOn": "2021-08-27T13:35:00.000Z",
-          "wordCount": 2689,
-          "title": "Gaslighting Thriller ‘Taste of Fear’ is One of Hammer’s Best [Horrors Elsewhere]"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3680328",
-          "author": "Brad Miska",
-          "description": "Lionsgate with some fun timing with a date announcement that coincides with the release of Candyman, which features callbacks to the original 1992 film. Bloody Disgusting learned out of CinemaCon that Lionsgate has dated the supernatural thriller The Devil’s Light for release in theaters on February 11, 2022, just in time for a scary Valentine’s […]",
-          "link": "https://bloody-disgusting.com/movie/3680328/lionsgate-dates-devils-light-february-2022-features-original-candyman-star-virginia-madsen/",
-          "publishedOn": "2021-08-27T13:17:02.000Z",
-          "wordCount": 1312,
-          "title": "Lionsgate Dates ‘The Devil’s Light’ for February 2022; Features Original ‘Candyman’ Star Virginia Madsen!"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3680319",
-          "author": "John Squires",
-          "description": "A Halloween special from Marvel is headed to Disney+ next year, The Wrap reports today, with the project “said to be centered on a werewolf character.” Naturally, this is leading to speculation that the project centers on the Werewolf by Night character, and The Wrap notes that “individuals with knowledge” of the project suggest it […]",
-          "link": "https://bloody-disgusting.com/tv/3680319/werewolf-night-marvel-developing-werewolf-themed-halloween-special-disney/",
-          "publishedOn": "2021-08-27T13:09:01.000Z",
-          "wordCount": 1232,
-          "title": "‘Werewolf by Night’? Marvel Developing a Werewolf-Themed Halloween Special for Disney+"
         }
       ]
     },
@@ -13302,6 +12933,15 @@
       "feedUrl": "https://www.broadstreethockey.com/rss/current.xml",
       "siteUrl": "https://www.broadstreethockey.com/",
       "articles": [
+        {
+          "id": "https://www.broadstreethockey.com/2021/9/26/22694530/philadelphia-flyers-claude-giroux-keith-yandle-derick-brassard",
+          "author": null,
+          "description": "Photo by Gavin Baker/Icon Sportswire via Getty Images\n    \n\n  \nA couple free agency acquisitions are stoked as hell.\n Claude Giroux’s contract is on the mind of every single Philadelphia Flyers fan and staff member as they head into an all-important season to show that last year’s tumble down the standings was a fluke. It is the final year of the captain’s eight-year contract extension signed way back in 2013.\nAnd while the contract talk between Flyers GM Chuck Fletcher and Giroux will be had a later date, letting this season play out to determine where to go from here with one of the franchise’s most beloved stars.\nThe general feeling is not a matter of if they are going to sign him, but for how long and how much. Especially considering just how damn respected he is around his locker room…",
+          "link": "https://www.broadstreethockey.com/2021/9/26/22694530/philadelphia-flyers-claude-giroux-keith-yandle-derick-brassard",
+          "publishedOn": "2021-09-26T14:30:00.000Z",
+          "wordCount": 1199,
+          "title": "New Flyers excited to play with ‘world class’ Giroux"
+        },
         {
           "id": "https://www.broadstreethockey.com/2021/9/24/22689406/nhl-philadelphia-flyers-summer-2021-top-25-under-25-no-1-goalie-carter-hart-prospect-analysis",
           "author": null,
@@ -13975,6 +13615,20 @@
       "feedUrl": "https://indyweek.com/api/rss/content.rss",
       "siteUrl": "https://indyweek.com/api/rss/content.rss",
       "articles": [
+        {
+          "id": "https://indyweek.com/news/durham/durham-officials-will-pause-emergency-rental-assisance-program/",
+          "author": "Thomasi McDonald",
+          "description": "The program, launched in May, is a partnership between the City of Durham and Durham County governments that provides rental and utility assistance to city and county residents whose incomes were affected by COVID-19.",
+          "link": "https://indyweek.com/news/durham/durham-officials-will-pause-emergency-rental-assisance-program/",
+          "publishedOn": "2021-09-26T14:33:22.000Z",
+          "wordCount": 692,
+          "title": "Durham Officials Will Pause Emergency Rental Assistance Program",
+          "enclosure": {
+            "url": "https://indyweek.com/downloads/7322/download/durham.jpe?cb=f4c957f9e7b68350f76f7ccc0e4b2b20",
+            "type": "image/jpeg",
+            "length": "16398"
+          }
+        },
         {
           "id": "https://indyweek.com/news/durham/one-thousand-black-men-a-new-initiative-to-curb-gun-violence/",
           "author": "Jane Porter",
@@ -16046,20 +15700,6 @@
             "type": "image/jpeg",
             "length": "1916644"
           }
-        },
-        {
-          "id": "https://indyweek.com/news/things-to-do-this-weekend-82821/",
-          "author": "Sarah Edwards",
-          "description": "Gaze at the stars, gaze at Kevin Costner (in Bull Durham) under the stars, and give your pups a break from the heat.",
-          "link": "https://indyweek.com/news/things-to-do-this-weekend-82821/",
-          "publishedOn": "2021-08-27T16:58:48.000Z",
-          "wordCount": 761,
-          "title": "Three Things To Do in the Triangle This Weekend",
-          "enclosure": {
-            "url": "https://indyweek.com/downloads/53084/download/cs_bull_durham_dbap_06_dla.jpe?cb=b05c830d6c0bf565dccfe98e8703f020",
-            "type": "image/jpeg",
-            "length": "46926"
-          }
         }
       ]
     },
@@ -16927,16 +16567,6 @@
           "wordCount": null,
           "title": "This Friday is Bandcamp Friday",
           "itunes": {}
-        },
-        {
-          "id": "142997",
-          "author": "Kerry Cardoza",
-          "description": "Jittery post-punk from Lassie, the propulsive dark punk of Altar of Eden, the raw glam of The Imploders, and more.\nRead full story on the Bandcamp Daily.",
-          "link": "https://daily.bandcamp.com/best-punk/the-best-punk-on-bandcamp-august-2021",
-          "publishedOn": "2021-08-27T17:38:07.000Z",
-          "wordCount": null,
-          "title": "The Best Punk on Bandcamp: August 2021",
-          "itunes": {}
         }
       ]
     },
@@ -17232,24 +16862,6 @@
           "publishedOn": "2021-08-31T00:55:38.477Z",
           "wordCount": 2759,
           "title": "Counting the costs of an apocalyptic news cycle"
-        },
-        {
-          "id": "https://www.cjr.org/podcast/how-we-got-here-unwelcome-to-america-podcast.php",
-          "author": null,
-          "description": "CJR · How We Got Here: Unwelcome to America, host Prof. Nina Alvarez The American Dream is often portrayed as the hook that pulls people to the United States. What is usually left out of the story is the hell many flee––sometimes a hell fed by the very country in which they seek refuge. The […]",
-          "link": "https://www.cjr.org/podcast/how-we-got-here-unwelcome-to-america-podcast.php",
-          "publishedOn": "2021-08-28T00:50:44.140Z",
-          "wordCount": 474,
-          "title": "How We Got Here: Unwelcome to America"
-        },
-        {
-          "id": "https://www.cjr.org/the_media_today/politico_axel_springer_vice_layoffs.php",
-          "author": null,
-          "description": "In 2019, Andrew Curry profiled Axel Springer, a private-equity-backed German media titan, for CJR. Founded in the 1940s as a newspaper publisher, Axel Springer had, since the mid-2000s, achieved a successful transition to the web that, as Curry wrote, “few other media companies have managed”—scaling back its print output while launching or acquiring a range […]",
-          "link": "https://www.cjr.org/the_media_today/politico_axel_springer_vice_layoffs.php",
-          "publishedOn": "2021-08-28T00:50:44.038Z",
-          "wordCount": 2630,
-          "title": "Politico, Vice, and the circular digital-news story"
         }
       ]
     },
@@ -18904,5 +18516,5 @@
       ]
     }
   ],
-  "cliVersion": "1.11.1"
+  "cliVersion": "1.11.2"
 }
