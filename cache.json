@@ -31,6 +31,33 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1800306",
+          "author": "Tim De Chant",
+          "description": "Emails show director left \"out of the loop\" in hit-or-miss cross-examination.",
+          "link": "https://arstechnica.com/?p=1800306",
+          "publishedOn": "2021-10-03T22:01:46.000Z",
+          "wordCount": 1125,
+          "title": "Elizabeth Holmes’ defense strikes back in cross-examination of lab director"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1799858",
+          "author": "Doug Johnson",
+          "description": "Early price forecasts underestimated how good we’d get at making green energy",
+          "link": "https://arstechnica.com/?p=1799858",
+          "publishedOn": "2021-10-03T21:07:17.000Z",
+          "wordCount": 1154,
+          "title": "The decreasing cost of renewables unlikely to plateau anytime soon"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1800108",
+          "author": "Eric Bangeman",
+          "description": "It’s not so simple as just feeding them gas-busting seaweed.",
+          "link": "https://arstechnica.com/?p=1800108",
+          "publishedOn": "2021-10-03T11:05:55.000Z",
+          "wordCount": 1325,
+          "title": "The controversial quest to make cow burps less noxious"
+        },
+        {
           "id": "https://arstechnica.com/?p=1800174",
           "author": "Steve Haske",
           "description": "Multiple new entries made in-and-out house could be long-awaited good news for fans.",
@@ -2900,69 +2927,6 @@
           "publishedOn": "2021-09-04T14:00:50.000Z",
           "wordCount": 1700,
           "title": "How a flight-sim cockpit helps me get away from it all (figuratively)"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1791480",
-          "author": "Nathan Mattise",
-          "description": "Phil Tippett's love letter to practical effects and monster creation is be-a-u-tiful.",
-          "link": "https://arstechnica.com/?p=1791480",
-          "publishedOn": "2021-09-04T12:00:26.000Z",
-          "wordCount": 1703,
-          "title": "Mad God: What happens when the best practical VFX artist, ever, writes a film?"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1791988",
-          "author": "Sam Machkovech",
-          "description": "Boots on the ground, mask on the face: We report on the weirdest PAX in years.",
-          "link": "https://arstechnica.com/?p=1791988",
-          "publishedOn": "2021-09-04T11:00:52.000Z",
-          "wordCount": 1431,
-          "title": "PAX-demic West impressions: Creating fun out of thin, masked air"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1791967",
-          "author": "Samuel Axon",
-          "description": "The new feature will first be supported by the TSA in participating states.",
-          "link": "https://arstechnica.com/?p=1791967",
-          "publishedOn": "2021-09-03T21:34:06.000Z",
-          "wordCount": 1196,
-          "title": "In 8 US states, Apple will begin storing driver’s licenses on the iPhone"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1791992",
-          "author": "Jon Brodkin",
-          "description": "GoDaddy gave website \"24 hours to move to a different provider.\"",
-          "link": "https://arstechnica.com/?p=1791992",
-          "publishedOn": "2021-09-03T20:53:45.000Z",
-          "wordCount": 1198,
-          "title": "GoDaddy boots Texas abortion “whistleblower” site for violating privacy rule"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1791954",
-          "author": "Beth Mole",
-          "description": "DeSantis is still penalizing districts for issuing mask mandates despite legal limbo.",
-          "link": "https://arstechnica.com/?p=1791954",
-          "publishedOn": "2021-09-03T18:38:43.000Z",
-          "wordCount": 1387,
-          "title": "DeSantis still fights masks—despite COVID surge, court loss, expert advice, etc."
-        },
-        {
-          "id": "https://arstechnica.com/?p=1791914",
-          "author": "Ron Amadeo",
-          "description": "Users say Pixel 3s are unable to boot into Android or do anything useful at all.",
-          "link": "https://arstechnica.com/?p=1791914",
-          "publishedOn": "2021-09-03T17:23:57.000Z",
-          "wordCount": 979,
-          "title": "Reports of Pixel 3s bricking with “EDL” message are growing"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1791903",
-          "author": "Jon Brodkin",
-          "description": "Apple issues vague statement promising \"improvements\" but still plans to scan photos.",
-          "link": "https://arstechnica.com/?p=1791903",
-          "publishedOn": "2021-09-03T14:09:05.000Z",
-          "wordCount": 1385,
-          "title": "Amid backlash, Apple will change photo-scanning plan but won’t drop it completely"
         }
       ]
     },
@@ -2971,6 +2935,24 @@
       "feedUrl": "http://feeds.macrumors.com/MacRumors-Front",
       "siteUrl": "https://www.macrumors.com",
       "articles": [
+        {
+          "id": "https://www.macrumors.com/2021/10/03/gurman-apple-event-this-month/",
+          "author": "Sami Fathi",
+          "description": "After its first event of the fall, Apple is on track to hold a Mac focused event within the next month, where it will debut brand new MacBook Pros with a faster \"M1X\" Apple silicon chip, an updated design, and improved display technology, according to Bloomberg's Mark Gurman.\r\n\r\n\r\n\r\n\r\n\r\nApple last year held its Mac event in November, but in the past, it has held Mac events in October. Till now, there's been some unknown about whether Apple will stick with its November or October timeframe for this year. \r\n\r\n\r\n\r\nIn his latest Power On newsletter, Gurman says the company is poised to announce M1X powered MacBook Pros within the next month, noting that \"Apple typically does its major new Mac introductions in October. So stay tuned.\" In the paywalled section of the newsletter, Gurman also reiterated what we can expect performance-wise from the new machines. \r\n\r\nThe Apple M1X chip, the likely name for a more graphics-intense and professional-focused M1 chip, is indeed still on tap for 2021. We'll likely see it show up first in a new range of MacBook Pros in the next month and a higher-end Mac mini at some point. The M1X has been developed in two variations: both with 10 CPU cores (eight high-performance and two high-efficiency) and either 16 or 32 graphics cores.\nPrevious report suggests that alongside the new MacBook Pros, Apple may also announce a redesigned Mac mini. Apple last month announced the iPhone 13, Apple Watch Series 7, a new generation iPad, and the sixth-generation iPad mini, and besides new Macs, the company is also rumored to be releasing third-generation AirPods before the end of this year.  \nRelated Roundups: MacBook Pro 13\", MacBook Pro 16\"\nTags: Mark Gurman, 14-Inch MacBook Pro\nBuyer's Guide: 13\" MacBook Pro (Don't Buy), 16\" MacBook Pro (Don't Buy)\nRelated Forum: MacBook Pro\nThis article, \"New MacBook Pros Likely to Launch at Apple Event This Month, Says Gurman\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/10/03/gurman-apple-event-this-month/",
+          "publishedOn": "2021-10-03T13:03:54.000Z",
+          "wordCount": 2153,
+          "title": "New MacBook Pros Likely to Launch at Apple Event This Month, Says Gurman"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/10/03/apple-watch-series-7-hands-on-images/",
+          "author": "Sami Fathi",
+          "description": "Amid rumors that the Apple Watch Series 7 could go on sale in just a matter of weeks, new images shared with MacRumors allegedly show the new Apple Watch in the wild, giving us our first real-world look at Apple's latest watch.\r\n\r\n\r\n\r\n\r\n\r\nThe images were initially posted on a Facebook group for Apple Watch enthusiasts, but it has been taken down since its posting. The poster of the photos claimed that they are working for a carrier who was testing the Series 7 before it officially goes on sale \"later this fall.\"\r\n\r\n\r\n\r\nWe've so far only seen the Series 7 in Apple's marketing and promotional materials, and the company has yet to announce a date for when it will be available for purchase. The images shared today offer us our first hands-on look at the Series 7 with its larger and more expansive display. Despite rumors, the Series 7 does not feature flat-edges but instead \"more rounded and softer corners,\" which allows the display to curve slightly over the sides.\r\n\r\n\r\n\r\nThe larger display is one of just a few design changes for the Series 7 compared to the previous generation. The Series 7 features an improved IP6X rating for dust and water resistance but internally maintains the same CPU as the Apple Watch Series 6.\r\n\r\n\r\n\r\nWhile there certainly could be more internal changes for the Series 7, we'll have to wait until we get our hands on the watch itself to learn about them. For a full rundown of everything we know, be sure to check out our comprehensive roundup. \nRelated Roundup: Apple Watch Series 7\nTag: Apple Watch Series 7\nBuyer's Guide: Apple Watch (Don't Buy)\nRelated Forum: Apple Watch\nThis article, \"First Real-World Look Shows Apple Watch Series 7 Amid Rumors of Imminent Launch\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/10/03/apple-watch-series-7-hands-on-images/",
+          "publishedOn": "2021-10-03T12:01:16.000Z",
+          "wordCount": 2305,
+          "title": "First Real-World Look Shows Apple Watch Series 7 Amid Rumors of Imminent Launch"
+        },
         {
           "id": "https://www.macrumors.com/2021/10/02/kuo-apple-cancels-ipad-air-plans-2022/",
           "author": "Sami Fathi",
@@ -5877,69 +5859,6 @@
           "publishedOn": "2021-09-04T17:03:00.000Z",
           "wordCount": 2809,
           "title": "Apple Watch Series 7: Rumors, Features, Possible Release Date and More"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/09/04/top-stories-last-minute-iphone-13-rumors/",
-          "author": "MacRumors Staff",
-          "description": "The finish line is in sight! Apple's annual iPhone event is likely just a week or so away and all eyes will be on the company as it unveils the next version of its most popular product line. With any luck, we'll also see the next-generation Apple Watch and perhaps even some new AirPods.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nOther news this week saw Apple making some more changes to its App Store policies in response to a Japanese investigation and delaying the rollout of its controversial child safety features that raised privacy concerns. Read on for details on these stories and more!\r\n\r\n\r\n\r\niPhone 13 Feature Breakdown: Everything Rumors Say We Can Expect\n\r\n\r\nThe calendar has turned to September and that means Apple's annual iPhone event is likely just around the corner. Ahead of time, we've put together a deta…",
-          "link": "https://www.macrumors.com/2021/09/04/top-stories-last-minute-iphone-13-rumors/",
-          "publishedOn": "2021-09-04T13:00:00.000Z",
-          "wordCount": 2821,
-          "title": "Top Stories: Last-Minute iPhone 13 Rumors, Apple Announces App Store Changes, and More"
-        },
-        {
-          "id": "https://www.macrumors.com/guide/ios-15-safari&post_date=1630714224/",
-          "author": "Juli Clover",
-          "description": "Apple's Safari app has undergone a number of changes during the iOS 15 beta testing process. Apple started out with a radical new design that moved the address bar from the top of the app's interface and introduced a floating tab bar, but after a multitude of complaints, there were several redesigns that culminated in an option to undo the ‌iOS 15‌ design entirely.\r\n\r\n\r\n\r\n\r\n\r\nThis guide walks through all of the features added in the ‌iOS 15‌ Safari app, including those new design options.\r\n\r\n\r\n\r\nDesign Changes\n\r\n\r\nSafari started out with a new floating tab design that moved the address bar and tabs to the bottom of the iPhone interface, but now the design change is optional.\r\n\r\n\r\n\r\n\r\n\r\nIn the Safari section of the Settings app, you can choose your tab view. The \"Tab Bar\" option moves the a…",
-          "link": "https://www.macrumors.com/guide/ios-15-safari/",
-          "publishedOn": "2021-09-03T21:10:24.000Z",
-          "wordCount": 3522,
-          "title": "Everything New With Safari in iOS 15: Redesign, Tab Groups, Live Text, Privacy Updates and More"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/09/03/arizona-vehicle-testing-site-purchased-125-million/",
-          "author": "Eric Slivka",
-          "description": "A former Chrysler proving grounds for automotive testing outside of Phoenix, Arizona, that has been rumored to be used by Apple was recently purchased for $125 million by the firm that has been leasing it for the past five years, according to AZ Big Media.\r\n\r\n\r\n\r\n\r\n\r\nBack in 2017, it was reported that a company by the name of Route 14 Investment Partners LLC had signed a lease to use the facility, with rumors suggesting Apple was behind the deal, although there was no definitive proof of the link. Route 14 is represented by the Phoenix office of law firm Greenberg Traurig, hiding the true ownership of the company.\r\n\r\n\r\n\r\nRoute 14 has now exercised an option to purchase the property, which consists of 34 separate parcels, for $125 million in cash. The purchase agreement is dated June 25, 2021, with a deed and assumption of an existing development agreement with the City of Surprise both dated July 30 and seen by MacRumors.\r\n\r\n\r\n\r\n\r\n\r\nWe have still not been able to concretely tie Apple to Route 14, but it's clear that whoever is behind the firm has deep pockets and a long-term interest in the testing facility.\r\n\r\n\r\n\r\nRumors about Apple's work on both autonomous driving systems and actual electric vehicles have ebbed and flowed over the last several years. The most recent report just this week claimed that Apple has been visiting with Toyota as it seeks to develop a supplier network with an eye toward producing an Apple-branded car starting in 2024.\r\n\r\n\r\n\r\n(Thanks, Jacob!)\nRelated Roundup: Apple Car\nRelated Forum: Apple, Inc and Tech Industry\nThis article, \"Arizona Vehicle Testing Site Rumored to Be Used by Apple Purchased for $125 Million\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/09/03/arizona-vehicle-testing-site-purchased-125-million/",
-          "publishedOn": "2021-09-03T18:35:06.000Z",
-          "wordCount": 2393,
-          "title": "Arizona Vehicle Testing Site Rumored to Be Used by Apple Purchased for $125 Million"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/09/03/macrumors-giveaway-bluetti-eb70-power-station/",
-          "author": "Juli Clover",
-          "description": "For this week's giveaway, we've teamed up with MAXOAK to offer MacRumors readers a chance to win a Bluetti portable power station and an accompanying solar panel. Bluetti makes a range of portable power station options that are useful for camping, emergencies, power outages, off-grid living, and similar situations.\r\n\r\n\r\n\r\n\r\n\r\nThe Bluetti EB70 is a solid middle of the road option that offers 716Wh and support for electronics that draw up to 700W at a $599 price point.\r\n\r\n\r\n\r\nAvailable in either red or black with a convenient carrying handle, the EB70 is equipped with a number of plug and port options. It includes four Pure Sine Wave AC outlets, two 5V/3A USB-A ports, two 100W USB-C ports, two 12V/10A DC outputs, one 12V/10A car port, and a 15W wireless charging pad right at the top.\r\n\r\n\r\n\r\n…",
-          "link": "https://www.macrumors.com/2021/09/03/macrumors-giveaway-bluetti-eb70-power-station/",
-          "publishedOn": "2021-09-03T18:13:38.000Z",
-          "wordCount": 2652,
-          "title": "MacRumors Giveaway: Win a Bluetti EB70 Portable Power Station and 200W Solar Panel"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/09/03/apple-hires-former-mercedes-engineers/",
-          "author": "Sami Fathi",
-          "description": "Apple has hired two former Mercedes engineers to join the company, likely as part of its effort to continue to build out its internal workforce as the development of an \"Apple Car\" continues.\r\n\r\n\r\n\r\n\r\n\r\nThe leading new hire previously worked at Mercedes, focusing on mass production of vehicles, vehicle steering, dynamics, and software and project management. The hire, now working as a product design engineer at Apple at its \"Special Projects Group,\" also previously worked at Porsche, undertaking similar responsibilities. A second engineer who previously worked at Mercedes has also recently been tapped by Apple to join the company, MacRumors has learned.\r\n\r\n\r\n\r\nThe ‌Apple Car‌, internally codenamed \"Project Titan,\" is one of the company's most secretive projects. Despite a myriad of rumors,…",
-          "link": "https://www.macrumors.com/2021/09/03/apple-hires-former-mercedes-engineers/",
-          "publishedOn": "2021-09-03T16:25:46.000Z",
-          "wordCount": 2234,
-          "title": "Apple Hires Two Former Mercedes Engineers to Join Special Projects Group as Apple Car Rumors Increase"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/09/03/bmw-i4-integrated-carplay-instrument-cluster/",
-          "author": "Hartley Charlton",
-          "description": "BMW's upcoming flagship electric vehicle the \"i4\" features one of the most integrated Apple CarPlay experiences yet, recent promotional material has shown.\r\n\r\n\r\n\r\n\r\n\r\nBMW describes the Apple ‌CarPlay‌ experience in the i4 as \"even more seamless.\" The i4 features two curved displays and a heads-up display. All three displays can display information from Apple ‌CarPlay‌ simultaneously.\r\n\r\n\r\n\r\nThe BMW i4 features iDrive 8, which supports wireless Apple ‌CarPlay‌, turn-by-turn Apple Maps prompts in the heads-up display, and ‌Apple Maps‌ and directions in the instrument cluster.\r\n\r\n\r\n\r\nThe new-generation BMW iDrive 8's higher degree of flexibility makes in-car use of third-party apps even simpler and more convenient in the future. BMW iDrive 8 features full integration of Apple CarPlay and Andr…",
-          "link": "https://www.macrumors.com/2021/09/03/bmw-i4-integrated-carplay-instrument-cluster/",
-          "publishedOn": "2021-09-03T14:07:03.000Z",
-          "wordCount": 2381,
-          "title": "BMW i4 Showcases Fully Integrated Apple CarPlay in Instrument Cluster"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/09/03/apple-delaying-rollout-of-child-safety-features/",
-          "author": "Hartley Charlton",
-          "description": "Apple has delayed the rollout of the Child Safety Features that it announced last month following negative feedback, the company has today announced.\r\n\r\n\r\n\r\n\r\n\r\nThe planned features include scanning users' iCloud Photos libraries for Child Sexual Abuse Material (CSAM), Communication Safety to warn children and their parents when receiving or sending sexually explicit photos, and expanded CSAM guidance in Siri and Search.\r\n\r\n\r\n\r\nApple confirmed that feedback from customers, non-profit and advocacy groups, researchers, and others about the plans has prompted the delay to give the company time to make improvements. Apple issued the following statement about its decision:\nLast month we announced plans for features intended to help protect children from predators who use communication tools to …",
-          "link": "https://www.macrumors.com/2021/09/03/apple-delaying-rollout-of-child-safety-features/",
-          "publishedOn": "2021-09-03T13:07:10.000Z",
-          "wordCount": 2244,
-          "title": "Apple Delays Rollout of Controversial Child Safety Features to Make Improvements"
         }
       ]
     },
@@ -6775,87 +6694,6 @@
           "publishedOn": "2021-09-05T16:10:07.000Z",
           "wordCount": 602,
           "title": "‘There Goes a Truly Great Drummer’"
-        },
-        {
-          "id": "https://www.nytimes.com/wirecutter/reviews/best-drip-coffee-maker/",
-          "author": null,
-          "description": "Here’s a perfect example of what I was talking about in the previous item, about The Wirecutter institutionally fetishizing price over quality. And within “quality” I include design aesthetics, which, let’s face it, almost always goes hand-in-hand with price.\nFrom their current list of “best” drip coffee makers, which is topped by OXO’s $200 Brew 9-Cup:\nYou can find a number of expensive, stylish coffee makers made in\nsmall quantities for enthusiast audiences. Clive Coffee’s Ratio\nEight and the Chemex Ottomatic are two prominent\nexamples. They’re all made for connoisseurs who are willing to\nspend a lot on a high-end machine. The main draw of these coffee\nmakers is that they brew similarly to manually making a batch of\npour-over — pre-infusing the grounds and evenly pouring the hot\nwater. F…",
-          "link": "https://www.nytimes.com/wirecutter/reviews/best-drip-coffee-maker/",
-          "publishedOn": "2021-09-03T22:32:46.000Z",
-          "wordCount": 8748,
-          "title": "Wirecutter’s ‘Best’ Drip Coffee Makers Pooh-Poohs the Two Best Drip Coffee Makers"
-        },
-        {
-          "id": "https://www.nytco.com/press/the-new-york-times-company-launches-digital-subscriptions-for-wirecutter/",
-          "author": null,
-          "description": "The New York Times:\nThe New York Times Company announced today that Wirecutter, its\nproduct recommendation service, will institute a metered paywall,\nasking its frequent users to subscribe for unlimited access to its\nresearch and recommendations. New York Times All Access digital\nand home delivery subscribers will continue to receive unlimited\naccess to Wirecutter’s 1,200+ product reviews, deals coverage and\nother guides to help them shop confidently online with their\nexisting subscription. A standalone subscription to Wirecutter is\navailable for $5 every four weeks or $40 annually.\nThis makes sense, and in my opinion, the Times’s paywall rules are among the best in the industry, in terms of offering a generous number of free reads to non-subscribers. But it’s one less “free for everyone to read” high-quality site.\n(I have always enjoyed Wirecutter, going back to when they debuted (and had a leading The), but I wish they had a rival that focused less on price. Wirecutter recommendations are very often skewed to the best low-priced product, not the best product in a category, period. I want domain experts to tell me the best products — I can make up my own mind on how much I want to spend.)\n ★",
-          "link": "https://www.nytco.com/press/the-new-york-times-company-launches-digital-subscriptions-for-wirecutter/",
-          "publishedOn": "2021-09-03T21:17:20.000Z",
-          "wordCount": 587,
-          "title": "Wirecutter Goes Behind The New York Times’s Paywall"
-        },
-        {
-          "id": "https://twitter.com/wongmjane/status/1433372120080261120",
-          "author": null,
-          "description": "Jane Manchun Wong:\nEach Super Follow is an In-App Purchase on the App Store, but\nbecause there are too many IAPs for the Twitter app, the App Store\nonly shows 10 instead of the full list.\nHer tweet includes this screenshot. The gist is, each Twitter user offering Super Follows gets its own distinct IAP. If there are 1,000 users offering Super Follows, there are 1,000 discrete IAPs in the App Store. If there are 10,000 users offering them, 10,000 IAPs. If there are 100,000, our heads explode.\nThis is incredible. Ostensibly, Twitter is doing what Apple wants them to do. Right now Super Follows payments are even exclusive to iOS. (Once you pay on iOS, you can see Super Follow content on Twitter’s Android and web clients, too, but the only way to pay is on iOS through IAP.) But Apple’s IAP system is so brittle that Twitter has to make a discrete SKU for each and every Super Follow user, and pay Apple 30 percent of the price for the privilege. (Twitter, per its published terms, takes just 3 percent of the first $50,000 in lifetime earnings, then 20 percent after that.) Also, because Apple’s IAP listings in the App Store rank IAP offerings by popularity, Twitter is being forced to reveal data that they quite likely would prefer to keep to themselves.\n ★",
-          "link": "https://twitter.com/wongmjane/status/1433372120080261120",
-          "publishedOn": "2021-09-03T20:34:22.000Z",
-          "wordCount": 196,
-          "title": "Twitter Super Follows Are Implemented as Discrete SKU’s to Work With Apple’s IAP System"
-        },
-        {
-          "id": "https://www.washingtonpost.com/technology/2021/09/03/apple-delay-csam-scanning/",
-          "author": null,
-          "description": "Reed Albergotti, reporting for The Washington Post on Apple’s postponement of the new child safety features for iMessage and iCloud Photos:\nApple spokesman Fred Sainz said he would not provide a statement\non Friday’s announcement because The Washington Post would not\nagree to use it without naming the spokesperson.\nFair enough, I suppose, but Albergotti’s blinders have become rather obvious.\n ★",
-          "link": "https://www.washingtonpost.com/technology/2021/09/03/apple-delay-csam-scanning/",
-          "publishedOn": "2021-09-03T19:46:13.000Z",
-          "wordCount": 864,
-          "title": "No-Quote Attribution of the Day"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/09/03/apple-delaying-rollout-of-child-safety-features/",
-          "author": null,
-          "description": "Apple, in a statement to the media this morning:\nLast month we announced plans for features intended to help\nprotect children from predators who use communication tools to\nrecruit and exploit them, and limit the spread of Child Sexual\nAbuse Material. Based on feedback from customers, advocacy groups,\nresearchers and others, we have decided to take additional time\nover the coming months to collect input and make improvements\nbefore releasing these critically important child safety features.\nAccepting feedback and considering that feedback is exactly why they announced these two initiatives in advance, with details, rather than just launching them. Neither of these initiatives should be rushed.\n ★",
-          "link": "https://www.macrumors.com/2021/09/03/apple-delaying-rollout-of-child-safety-features/",
-          "publishedOn": "2021-09-03T19:44:00.000Z",
-          "wordCount": 2244,
-          "title": "Apple Delays Rollout of Controversial Child Safety Features"
-        },
-        {
-          "id": "https://www.inc.com/justin-bariso/its-official-google-is-the-new-apple.html",
-          "author": null,
-          "description": "Funny how this didn’t work out, at all, because I thought that when Inc. declared something “official” it was official.\n ★",
-          "link": "https://www.inc.com/justin-bariso/its-official-google-is-the-new-apple.html",
-          "publishedOn": "2021-09-03T18:58:25.000Z",
-          "wordCount": 792,
-          "title": "Vintage 2016 Claim Chowder: ‘It’s Official: Google Is the New Apple’"
-        },
-        {
-          "id": "https://www.nj.com/weather/2021/09/nj-weather-miraculous-rescue-after-3-cops-swept-away-in-flooding-clung-to-trees-for-hours-fired-guns-to-signal-for-help.html",
-          "author": null,
-          "description": "Kevin Shea, reporting for NJ.com:\nThe call was for a vehicle in floodwaters on Route 518 in Hopewell\nTownship — one of many rescue calls in New Jersey Wednesday\nevening as storms from Hurricane Ida flooded the state. Police\nOfficer James Hoffman went to check it out.\nMoments after arriving in the area, east of Route 31 at about 8:30\np.m., Hoffman turned into a victim.\nHis patrol car started taking on water, then started floating away — sliding sideways about 100 yards into deeper water. Hoffman\nditched his bulky duty vest, climbed through a window and started\nswimming. He found a tree and held on.\nAmazing story.\n ★",
-          "link": "https://www.nj.com/weather/2021/09/nj-weather-miraculous-rescue-after-3-cops-swept-away-in-flooding-clung-to-trees-for-hours-fired-guns-to-signal-for-help.html",
-          "publishedOn": "2021-09-03T17:54:33.000Z",
-          "wordCount": 981,
-          "title": "Three New Jersey Cops Swept Away in Flooding, Clung to Trees for Hours, Fired Guns to Signal for Help"
-        },
-        {
-          "id": "https://med.stanford.edu/news/all-news/2021/09/surgical-masks-covid-19.html",
-          "author": null,
-          "description": "Stanford Medicine:\nA large, randomized trial led by researchers at Stanford Medicine\nand Yale University has found that wearing a surgical face mask\nover the mouth and nose is an effective way to reduce the\noccurrence of COVID-19 in community settings.\nIt also showed that relatively low-cost, targeted interventions to\npromote mask-wearing can significantly increase the use of face\ncoverings in rural, low-income countries. Based on the results,\nthe interventional model is being scaled up to reach tens of\nmillions of people in Southeast Asia and Latin America over the\nnext few months.\nYou might be tempted to file this under “Duh”, but it’s essential to actually study things like this rigorously. It was just 18 months ago, at the outset of the pandemic, when the CDC and other health organizations were saying people shouldn’t bother with face masks.\n(Via Taegan Goddard at Political Wire.)\n ★",
-          "link": "https://med.stanford.edu/news/all-news/2021/09/surgical-masks-covid-19.html",
-          "publishedOn": "2021-09-03T17:10:35.000Z",
-          "wordCount": 2386,
-          "title": "Surgical Masks Reduce COVID-19 Spread, Large-Scale Study Shows"
-        },
-        {
-          "id": "https://www.mcsweeneys.net/articles/oh-my-fucking-god-get-the-fucking-vaccine-already-you-fucking-fucks",
-          "author": null,
-          "description": "Wendy Molyneux, writing eloquently for McSweeney’s:\nYou think vaccines don’t fucking work? Oh, fuck off into the trash, you attention-seeking fuckworm-faced shitbutt. This isn’t even a point worth discussing, you fuck-o-rama fuck-stival of ignorance. Vaccines got rid of smallpox and polio and all the other disgusting diseases that used to kill off little fucks like you en masse. Your relatives got fucking vaccinated and let you live, and now here you are signing up to be killed by a fucking disease against which there is a ninety-nine-percent effective vaccine. You fucking moron. Go in the fucking ocean and fuck a piranha. Fuck. Fuck that. Fuck you. Get vaccinated.\n ★",
-          "link": "https://www.mcsweeneys.net/articles/oh-my-fucking-god-get-the-fucking-vaccine-already-you-fucking-fucks",
-          "publishedOn": "2021-09-03T15:14:12.000Z",
-          "wordCount": 1256,
-          "title": "‘Oh My Fucking God, Get the Fucking Vaccine Already, You Fucking Fucks’"
         }
       ]
     },
@@ -7772,15 +7610,6 @@
           "publishedOn": "2021-09-07T15:29:10.000Z",
           "wordCount": 1378,
           "title": "Microsoft Flight Simulator update out now, beautifies Germany, Austria, Switzerland"
-        },
-        {
-          "id": "https://www.polygon.com/interviews/22654011/destiny-2-witch-queen-interview-bugie-joe-blackburn-justin-truman",
-          "author": null,
-          "description": "Image: Bungie\n    \n\n\n  \nJoe Blackburn and Justin Truman talk Trace Rifles, Gjallarhorn, and Exotic Catalysts\n A little more than a week after the Destiny Showcase, we know a lot more about The Witch Queen expansion and Year 5 of Destiny 2 than we did before. And in talking to game director Joe Blackburn and general manager Justin Truman last week, we’ve gotten new information on weapon crafting and glaives, raids, Hive Guardians, and the subclass reworks. But to round out our series of interviews, it’s time to talk about the lifeblood of Destiny: weapons. \nWe spoke to the developer duo about if unique, Exotic-only weapons will stay Exotic forever, the limitations of Exotic Catalysts, and the return of Gjallarhorn.\nLegendary trace rifles could be on the horizon\n  \n        \n      Image: Bung…",
-          "link": "https://www.polygon.com/interviews/22654011/destiny-2-witch-queen-interview-bugie-joe-blackburn-justin-truman",
-          "publishedOn": "2021-09-03T17:00:00.000Z",
-          "wordCount": 1344,
-          "title": "Destiny 2’s Exotic-only weapon types could evolve into Legendaries, says Bungie"
         }
       ]
     },
@@ -8871,6 +8700,15 @@
       "siteUrl": "https://www.halfbakedharvest.com",
       "articles": [
         {
+          "id": "https://www.halfbakedharvest.com/?p=112011",
+          "author": "halfbakedharvest",
+          "description": "Nine Favorite Things.\nNine Favorite Things Happy October! The start of the holiday season is officially here. Halloween, Thanksgiving, Christmas – they’re all coming in hot. I love this time of year, but we all know that it can be busy (and often stressful too). But I’ve told myself that I’m really going to make an effort to…\nREAD: Nine Favorite Things.",
+          "link": "https://www.halfbakedharvest.com/nine-favorite-things-213/",
+          "publishedOn": "2021-10-03T08:00:00.000Z",
+          "wordCount": 4412,
+          "title": "Nine Favorite Things."
+        },
+        {
           "id": "https://www.halfbakedharvest.com/?p=111970",
           "author": "halfbakedharvest",
           "description": "“I put a Spell on You” Poison Apple Martini.\nKicking off a month of “spooky” cocktails with this “I Put a Spell on You” Poison Apple Martini. Apple cider, a small splash of pomegranate, vodka, and edible gold glitter. All combined together to make the perfect easy martini for this year’s Halloween party. It’s fun, spooky, and completely delicious! I told you guys I…\nREAD: “I put a Spell on You” Poison Apple Martini.",
@@ -9167,6 +9005,42 @@
       "feedUrl": "https://bloody-disgusting.com/feed/",
       "siteUrl": "https://bloody-disgusting.com",
       "articles": [
+        {
+          "id": "https://bloody-disgusting.com/?p=3685598",
+          "author": "Mike Wilson",
+          "description": "If you know anything about Blood Omen: Legacy of Kain, you might also know the legal quagmire that the game has been in ever since it was released back in 1996. The good news is that after an eternity, the wizards at GOG have finally managed to get the PC version on their service. Part […]",
+          "link": "https://bloody-disgusting.com/video-games/3685598/blood-omen-legacy-of-kain-added-to-gog-com-alongside-elvira-mistress-of-the-dark-and-elvira-ii-the-jaws-of-cerberus/",
+          "publishedOn": "2021-10-03T20:50:00.000Z",
+          "wordCount": 973,
+          "title": "‘Blood Omen: Legacy of Kain’ Added to GOG.com Alongside ‘Elvira: Mistress of The Dark’ And ‘Elvira II: The Jaws of Cerberus’"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3685591",
+          "author": "Mike Wilson",
+          "description": "While we won’t be seeing Vampire: The Masquerade – Swansong until next year, that’s not stopping publisher Nacon and developer Big Bad Wolf Studio from releasing a new trailer for the game that reveals a new character from the game. In this case, we’re introduced to Emem, a former Jazz diva. One of the three […]",
+          "link": "https://bloody-disgusting.com/video-games/3685591/trailer-third-playable-character-revealed-for-vampire-the-masquerade-swansong/",
+          "publishedOn": "2021-10-03T17:40:00.000Z",
+          "wordCount": 960,
+          "title": "[Trailer] Third Playable Character Revealed For ‘Vampire: The Masquerade – Swansong’"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3685588",
+          "author": "Mike Wilson",
+          "description": "It won’t be much longer for Fatal Frame fans to get their hands on the upcoming remaster of Fatal Frame: Maiden of Black Water. That being said, for those that never played the original version, you probably want some gameplay footage? Koei Tecmo has answered that with a brand-new trailer entitled “True Account – The […]",
+          "link": "https://bloody-disgusting.com/video-games/3685588/trailer-new-gameplay-trailer-for-fatal-frame-maiden-of-black-water-gives-up-the-ghosts-of-mt-hikami/",
+          "publishedOn": "2021-10-03T14:25:00.000Z",
+          "wordCount": 1013,
+          "title": "[Trailer] New Gameplay Trailer For ‘Fatal Frame: Maiden of Black Water’ Gives up The Ghosts of Mt. Hikami"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3685583",
+          "author": "Mike Wilson",
+          "description": "Ever have an idea that was just so crazy that it works? We know how Thomas the Tank Engine has haunted games like Resident Evil 2 and Sekiro, so why not give your siderodromophobia some fuel with Two Star Games’ Choo-Choo Charles? Set for release Q1 2022 on Steam, Choo-Choo Charles is rather simple: you […]",
+          "link": "https://bloody-disgusting.com/video-games/3685583/trailer-hunt-down-a-spider-train-in-upcoming-horror-game-choo-choo-charles/",
+          "publishedOn": "2021-10-03T11:01:00.000Z",
+          "wordCount": 989,
+          "title": "[Trailer] Hunt Down a Spider Train in Upcoming Horror Game ‘Choo-Choo Charles’"
+        },
         {
           "id": "https://bloody-disgusting.com/?p=3685570",
           "author": "John Squires",
@@ -13558,150 +13432,6 @@
           "publishedOn": "2021-09-05T01:30:05.000Z",
           "wordCount": 1800,
           "title": "Listing Spotted For ‘Alan Wake Remastered’ For PS4, PS5 And Xbox Series For October 5 Release"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3681563",
-          "author": "John Squires",
-          "description": "Originally released on Blu-ray back in 2015, the 1982 horror movie Trick or Treats is being repressed to Blu-ray for this year’s Halloween season, via Code Red and Kino Lorber. The Blu-ray will be re-released on October 5, 2021. Special Features include: Audio Commentary with Actors Jackie Giroux, Peter Jason, Chris Graver and Cameraman R. […]",
-          "link": "https://bloody-disgusting.com/home-video/3681563/1982s-trick-treats-coming-back-blu-ray-time-halloween/",
-          "publishedOn": "2021-09-03T20:22:50.000Z",
-          "wordCount": 1101,
-          "title": "1982’s ‘Trick or Treats’ Coming Back to Blu-ray in Time for Halloween"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3681548",
-          "author": "Marcus Shorter",
-          "description": "When it comes to race and “uncomfortable conversations,” Nia DaCosta is out of fucks to give. Before most of us hit grade school, we’re taught to fear the boogeyman and other things that go bump in the night, but DaCosta violently disagrees. For her, the scariest things are the trauma, cultural appropriation, and lack of […]",
-          "link": "https://bloody-disgusting.com/editorials/3681548/nia-dacostas-candyman-uses-centuries-trauma-loss-reframe-reclaim-candyman/",
-          "publishedOn": "2021-09-03T20:00:20.000Z",
-          "wordCount": 3337,
-          "title": "Nia DaCosta’s ‘Candyman’ Uses Centuries of Trauma and Loss to Reframe and Reclaim Candyman"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3681552",
-          "author": "John Squires",
-          "description": "The English-language debut of Suicide Club director Sion Sono, Prisoners of the Ghostland is coming to theaters and on VOD and Digital September 17, 2021 via RLJE Films, and Cage himself has described the project as being “the wildest movie I’ve ever made.” While you wait for the digital release, we’ve learned via Amazon that Image Entertainment will be bringing Prisoners of […]",
-          "link": "https://bloody-disgusting.com/home-video/3681552/prisoners-ghostland-brings-nicolas-cage-explosive-suit-blu-ray-november/",
-          "publishedOn": "2021-09-03T19:05:06.000Z",
-          "wordCount": 1108,
-          "title": "‘Prisoners of the Ghostland’ Brings Nicolas Cage in an Explosive Suit to Blu-ray in November"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3681507",
-          "author": "John Squires",
-          "description": "Director Scott Cooper‘s Antlers, produced by Guillermo del Toro, had been set for release in April 2020 via Disney’s Searchlight, but that date was of course bumped back indefinitely due to the ongoing pandemic. A new date of February 2021 was subsequently announced but then also ditched, with the most recent announcement shifting the date to October 29, 2021. […]",
-          "link": "https://bloody-disgusting.com/movie/3681507/antlers-images/",
-          "publishedOn": "2021-09-03T17:52:53.000Z",
-          "wordCount": 1277,
-          "title": "Remember ‘Antlers’? It’s Still Coming This Halloween and We’ve Got Some New Images!"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3681506",
-          "author": "John Squires",
-          "description": "Today is the day. It’s September 3, 2021, and Halloween Horror Nights has officially begun at Universal Studios Orlando! This year’s event runs on select nights straight through Halloween, with Halloween Horror Nights Hollywood beginning next week, on September 9. If you’re not able to attend, you can at least pick up some awesome Halloween […]",
-          "link": "https://bloody-disgusting.com/toys/3681506/years-halloween-horror-nights-online-shop-includes-toys-shirts-collectible-glasses/",
-          "publishedOn": "2021-09-03T17:45:55.000Z",
-          "wordCount": 1093,
-          "title": "This Year’s Halloween Horror Nights Online Shop Includes Toys, Shirts, Collectible Glasses and More!"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3681495",
-          "author": "John Squires",
-          "description": "My personal favorite horror movie of 2021 so far is Prano Bailey-Bond‘s Censor (now available on VOD), a haunting feature debut that takes you on a nightmarish descent through the lens of the “Video Nasty” panic of the 1980s. Censor is coming to DVD from Magnolia Pictures on September 14, and today we’ve learned that a […]",
-          "link": "https://bloody-disgusting.com/home-video/3681495/prano-bailey-bonds-excellent-horror-film-censor-coming-4k-ultra-hd-vinegar-syndrome-pictures/",
-          "publishedOn": "2021-09-03T16:07:25.000Z",
-          "wordCount": 1249,
-          "title": "Prano Bailey-Bond’s Excellent Horror Film ‘Censor’ Coming to 4K Ultra HD from Vinegar Syndrome Pictures"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3679850",
-          "author": "Michael Pementel",
-          "description": "The trajectory of Carnifex’s musical growth has been both promising and odd over the years. Always a band to count on when it comes to vicious sounding music, a major component that has set them apart from other deathcore acts is their approach to atmosphere. With their past few records, Carnifex has woven elements of […]",
-          "link": "https://bloody-disgusting.com/reviews/3679850/haunted-riffs-review-poetic-rage-carnifexs-graveside-confessions-plays-safe/",
-          "publishedOn": "2021-09-03T16:00:00.000Z",
-          "wordCount": 1587,
-          "title": "For All the Poetic Rage, Carnifex’s ‘Graveside Confessions’ Plays It Too Safe [Haunted Riffs]"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3681436",
-          "author": "Luiz H. C.",
-          "description": "Vampires have been lurking in the shadows of our scary stories for thousands of years, finding their way into several different cultures and eventually turning into movie stars. With so many variations of these legends, it’s only natural that some of the specifics behind this classic monster often seem silly when judged by modern standards. […]",
-          "link": "https://bloody-disgusting.com/editorials/3681436/interviews-vampires-wellington-paranormal-evolution-shadows/",
-          "publishedOn": "2021-09-03T15:26:05.000Z",
-          "wordCount": 3382,
-          "title": "From ‘Interviews With Some Vampires’ to ‘Wellington Paranormal’ – The Evolution of ‘What We Do in the Shadows’"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3681365",
-          "author": "Michael Roffman",
-          "description": "Busy times in King’s Dominion. Seems as if we’re finally over the rumor mill on a number of Stephen King-related projects, which means it’s time for the Losers to put on their shades, rev up their Plymouth Fury convertible, and head to Hollywood King. It’s a freewheelin’ news episode that finds Losers Michael Roffman, Dan […]",
-          "link": "https://bloody-disgusting.com/podcasts/3681365/stephen-king-news-september-2021-losers-club/",
-          "publishedOn": "2021-09-03T15:18:42.000Z",
-          "wordCount": 1052,
-          "title": "Stephen King News Roundup: ‘Salem’s Lot’, ‘Pet Sematary’ and ‘The Black Phone’ [The Losers’ Club Podcast]"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3681484",
-          "author": "John Squires",
-          "description": "After releasing in theaters just last month, Sony Pictures has already brought the brand new sequel Don’t Breathe 2 (read Meagan’s review) home, available On Demand as of today! To whet your appetite, Fandango has exclusively debuted the first 8-minutes from the film this morning, catching you back up with the Blind Man years after the […]",
-          "link": "https://bloody-disgusting.com/movie/3681484/dont-breathe-2-now-available-demand-watch-first-8-minutes-right/",
-          "publishedOn": "2021-09-03T15:00:05.000Z",
-          "wordCount": 1125,
-          "title": "‘Don’t Breathe 2’ is Now Available On Demand; Watch the First 8-Minutes Right Here!"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3681447",
-          "author": "Mike Wilson",
-          "description": "Switch fans will finally be getting Kazuki Shiroma’s horror adventure game Shadow Corridor this October, with NIS America bringing it to the Nintendo eShop on October 26. Currently, the game is available for the Switch and the PlayStation 4 in Japan, as well as on Steam. No word on if NIS America will be bringing the […]",
-          "link": "https://bloody-disgusting.com/video-games/3681447/trailer-japanese-survival-horror-title-shadow-corridor-headed-to-the-switch-this-october/",
-          "publishedOn": "2021-09-03T14:36:43.000Z",
-          "wordCount": 1022,
-          "title": "[Trailer] Japanese Survival Horror Title ‘Shadow Corridor’ Headed to The Switch This October"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3681472",
-          "author": "John Squires",
-          "description": "With their Tubbz line, Numskull Designs turns fan-favorite pop culture characters into unique rubber duckies, and their latest wave brings more horror icons to the tub for Halloween! The company announced this week, “Following the success of TUBBZ Bloodbath range last Halloween, Numskull is creepily delighted to announce that the original five horror characters will be […]",
-          "link": "https://bloody-disgusting.com/toys/3681472/new-rubbier-duckies-numskull-designs-include-chucky-stripe-halloween/",
-          "publishedOn": "2021-09-03T14:18:36.000Z",
-          "wordCount": 1072,
-          "title": "New Rubber Duckies from Numskull Designs Include Chucky and Stripe for Halloween!"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3681471",
-          "author": "Brad Miska",
-          "description": "Radha Mitchell, the actress who has starred in everything from Silent Hill to Rogue and Pitch Black, is topping a new thriller inspired by films like Alfred Hitchcock’s Rear Window and the more recent Disturbia. Filming is currently underway on The Girl at the Window, which is being directed by Mark Hartley, known for Not […]",
-          "link": "https://bloody-disgusting.com/movie/3681471/silent-hill-star-radha-mitchell-tops-rear-window-like-girl-window/",
-          "publishedOn": "2021-09-03T14:17:11.000Z",
-          "wordCount": 1007,
-          "title": "‘Silent Hill’ Star Radha Mitchell Tops ‘Rear Window’-Like ‘The Girl at the Window’"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3681466",
-          "author": "Brad Miska",
-          "description": "Magnet Releasing has acquired all rights to the indie horror Agnes, which hails from up-and-coming genre filmmaker Mickey Reece, director of the excellent Climate of the Hunter. In this go-around, “Reece tells the story of a young nun named Sister Agnes who shows signs of a possible demonic possession. “As the nun’s behavior gets stranger […]",
-          "link": "https://bloody-disgusting.com/movie/3681466/magnet-releasing-will-help-priests-exorcise-demon-nun-agnes/",
-          "publishedOn": "2021-09-03T14:06:39.000Z",
-          "wordCount": 1035,
-          "title": "Magnet Releasing Will Help Priests Exorcise a Demon from a Nun in ‘Agnes’"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3681459",
-          "author": "John Squires",
-          "description": "There have been countless takes on Mary Shelley’s Frankenstein over the years, and there will undoubtedly be countless more before we all shuffle off this mortal coil. It is, after all, one of the most iconic horror tales of all time, imbued with a truly timeless appeal. Up next is The Last Frankenstein, which will […]",
-          "link": "https://bloody-disgusting.com/movie/3681459/last-frankenstein-existential-slasher-take-classic-story-rises-halloween-trailer/",
-          "publishedOn": "2021-09-03T13:57:04.000Z",
-          "wordCount": 1171,
-          "title": "‘The Last Frankenstein’: An “Existential Slasher” Take on the Classic Story Rises This Halloween [Trailer]"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3681200",
-          "author": "Paul Lê",
-          "description": "Horrors Elsewhere is a recurring column that spotlights a variety of movies from all around the globe, particularly those not from the United States. Fears may not be universal, but one thing is for sure — a scream is understood, always and everywhere. Content Warning: This article discusses sexual assault. Black Christmas, The Changeling, and […]",
-          "link": "https://bloody-disgusting.com/editorials/3681200/death-weekend-canadian-exploitation-rural-revenge-horrors-elsewhere/",
-          "publishedOn": "2021-09-03T13:25:03.000Z",
-          "wordCount": 3208,
-          "title": "‘Death Weekend’: Canadian Exploitation and Rural Revenge [Horrors Elsewhere]"
         }
       ]
     },
@@ -13716,6 +13446,24 @@
       "feedUrl": "https://www.broadstreethockey.com/rss/current.xml",
       "siteUrl": "https://www.broadstreethockey.com/",
       "articles": [
+        {
+          "id": "https://www.broadstreethockey.com/2021/10/3/22706361/nhl-philadelphia-flyers-washington-capitals-cam-atkinson-martin-jones-stats-analysis",
+          "author": null,
+          "description": "Heather Barry / SB Nation\n    \n\n  \nSome observations for your morning. \n They did it! After two somewhat dicey showings to start the preseason, the Flyers were back last night with just about as close to their opening night roster as you could get against the Capitals, and with a pretty strong showing, they were able to pick up their first win of the preseason. It wasn’t perfect, but it was certainly a right direction, and if nothing else, a solid start for what very well could be that opening night lineup. It’s a bit of positivity, and we’ll certainly take it. \nAll stats via Natural Stat Trick.\nForward lines are starting to click\nIf we’re looking for one line that really stood out in last night’s game, it would once again be the top line of Claude Giroux, Sean Couturier, and Travis Konecn…",
+          "link": "https://www.broadstreethockey.com/2021/10/3/22706361/nhl-philadelphia-flyers-washington-capitals-cam-atkinson-martin-jones-stats-analysis",
+          "publishedOn": "2021-10-03T15:00:00.000Z",
+          "wordCount": 1651,
+          "title": "What we learned from the Flyers 3-1 win over the Capitals"
+        },
+        {
+          "id": "https://www.broadstreethockey.com/2021/10/2/22706359/philadelphia-flyers-preseason-win-opening-night-lineup-capitals-3-1-claude-giroux-martin-jones",
+          "author": null,
+          "description": "Heather Barry Images\n    \n\n  \nThe Flyers won their first game of the preseason with their projected opening night lineup together for the first time.\n The Philadelphia Flyers looked like, well, the Philadelphia Flyers for the first time this preseason against the Washington Capitals. \nAfter mixed lineups in their first two games with several AHL (or worse) players on the ice, Alain Vigneault sent out all of the Flyers’ big guns in this one. The Flyers lineup we saw tonight just might be the lineup that we see against the Vancouver Canucks on October 15th.\nThe Flyers were the much better team throughout the game in their 3-1 win. Claude Giroux, Cam Atkinson, and Scott Laughton lit the lamp as Martin Jones made 21 saves on 22 shots in the victory.\nThe two teams practiced a shootout after the…",
+          "link": "https://www.broadstreethockey.com/2021/10/2/22706359/philadelphia-flyers-preseason-win-opening-night-lineup-capitals-3-1-claude-giroux-martin-jones",
+          "publishedOn": "2021-10-03T01:50:43.000Z",
+          "wordCount": 1655,
+          "title": "Flyers 3, Capitals 1: Third time’s the charm"
+        },
         {
           "id": "https://www.broadstreethockey.com/2021/10/2/22705337/nhl-philadelphia-flyers-look-to-pick-up-first-preseason-win-over-capitals-preview-lineup-tv-info",
           "author": null,
@@ -14417,15 +14165,6 @@
           "publishedOn": "2021-09-07T10:00:00.000Z",
           "wordCount": 706,
           "title": "Tuesday Morning Fly By: Bring on the season"
-        },
-        {
-          "id": "https://www.broadstreethockey.com/2021/9/3/22655812/flyperbole-a-whole-lotta-coots-philadelphia-flyers-podcast",
-          "author": null,
-          "description": "Photo by Elsa/Getty Images\n    \n\n  \nHow do you say “Let’s go Flyers” in Dothraki?\n Eamon Smith joins Steve to discuss Sean Couturier’s extension, Travis Sanheim’s RFA contract, and the signing of Derick Brassard. The guys also talk about development camp, Beanboozled, number one Philadelphia Flyers fan Jason Momoa, and more!\nMake sure to follow us on twitter @Flyperbole and @GinandJuuse. Also, follow @BSH_Radio and don’t forget to rate us on iTunes! You can find the entire Broad Street Hockey audio offerings in the following places: iTunes, Stitcher, Google Podcasts, Spotify, and RSS.",
-          "link": "https://www.broadstreethockey.com/2021/9/3/22655812/flyperbole-a-whole-lotta-coots-philadelphia-flyers-podcast",
-          "publishedOn": "2021-09-03T15:34:22.000Z",
-          "wordCount": 511,
-          "title": "Flyperbole: A whole lotta Coots"
         }
       ]
     },
@@ -16449,48 +16188,6 @@
             "type": "image/jpeg",
             "length": "68875"
           }
-        },
-        {
-          "id": "https://indyweek.com/news/three-things-to-do-this-weekend-in-the-triangle/",
-          "author": "Leigh Tauss",
-          "description": "Summer is almost over. Make the most of it!",
-          "link": "https://indyweek.com/news/three-things-to-do-this-weekend-in-the-triangle/",
-          "publishedOn": "2021-09-03T19:39:19.000Z",
-          "wordCount": 703,
-          "title": "Three Things to Do This Weekend in the Triangle",
-          "enclosure": {
-            "url": "https://indyweek.com/downloads/82834/download/get%20sad%20.jpeg?cb=2e71ad75cdd83d0c1a1bb94789d39005",
-            "type": "image/jpeg",
-            "length": "130113"
-          }
-        },
-        {
-          "id": "https://indyweek.com/news/northcarolina/north-carolina-election-scammer-sentenced-to/",
-          "author": "Leigh Tauss",
-          "description": "McRae Dowless also faces charges related to ballot tampering in the 2018 Congressional race in Bladen County.",
-          "link": "https://indyweek.com/news/northcarolina/north-carolina-election-scammer-sentenced-to/",
-          "publishedOn": "2021-09-03T18:22:41.000Z",
-          "wordCount": 640,
-          "title": "Accused North Carolina Election Scammer Sentenced to Jail For Disability Fraud",
-          "enclosure": {
-            "url": "https://indyweek.com/downloads/82833/download/NO%20Dowless%20.jpeg?cb=94dfd22ecb0f30ea1b30dcb662f08415",
-            "type": "image/jpeg",
-            "length": "66588"
-          }
-        },
-        {
-          "id": "https://indyweek.com/news/longform/flooding-poses-economic-and-existential-threat-to-nc-towns/",
-          "author": "Jasmine Gallup",
-          "description": "New York Times reporter David Leonhardt describes how climate change is slowly bankrupting coastal North Carolina towns.",
-          "link": "https://indyweek.com/news/longform/flooding-poses-economic-and-existential-threat-to-nc-towns/",
-          "publishedOn": "2021-09-03T17:35:17.000Z",
-          "wordCount": 804,
-          "title": "Climate Change Poses Economic and Existential Threat to N.C. Towns",
-          "enclosure": {
-            "url": "https://indyweek.com/downloads/70482/download/Neuse%20River%20during%20Hurricane%20Florence.jpg?cb=9ba75add9c1965a9bb788fa13de3052f",
-            "type": "image/jpeg",
-            "length": "1069075"
-          }
         }
       ]
     },
@@ -17308,56 +17005,6 @@
           "wordCount": null,
           "title": "caro♡, “Heartbeats​/​Heartbreaks”",
           "itunes": {}
-        },
-        {
-          "id": "143291",
-          "author": "Arielle Gordon",
-          "description": "Despite what you may have heard, ambient music isn’t going anywhere on Bandcamp.\nRead full story on the Bandcamp Daily.",
-          "link": "https://daily.bandcamp.com/best-ambient/the-best-ambient-music-on-bandcamp-august-2021",
-          "publishedOn": "2021-09-03T17:57:20.000Z",
-          "wordCount": null,
-          "title": "The Best Ambient Music on Bandcamp: August 2021",
-          "itunes": {}
-        },
-        {
-          "id": "143430",
-          "author": "Bandcamp Daily Staff",
-          "description": "Welcome to The Shortlist, our monthly roundup of artists you need to know.\nRead full story on the Bandcamp Daily.",
-          "link": "https://daily.bandcamp.com/shortlist/the-shortlist-july-august-2021",
-          "publishedOn": "2021-09-03T17:56:15.000Z",
-          "wordCount": null,
-          "title": "The Shortlist, July/August 2021",
-          "itunes": {}
-        },
-        {
-          "id": "143467",
-          "author": "Max Bell",
-          "description": "Our monthly roundup of the best beat tapes on Bandcamp.\nRead full story on the Bandcamp Daily.",
-          "link": "https://daily.bandcamp.com/best-beat-tapes/the-best-beat-tapes-on-bandcamp-august-2021",
-          "publishedOn": "2021-09-03T13:59:52.000Z",
-          "wordCount": null,
-          "title": "The Best Beat Tapes on Bandcamp: August 2021",
-          "itunes": {}
-        },
-        {
-          "id": "143427",
-          "author": "John Morrison",
-          "description": "This new release will introduce the South Carolina disco-soul group to new audiences. \nRead full story on the Bandcamp Daily.",
-          "link": "https://daily.bandcamp.com/album-of-the-day/al-dos-band-doing-our-thing-with-pride-review",
-          "publishedOn": "2021-09-03T13:56:40.000Z",
-          "wordCount": null,
-          "title": "Al-Dos Band, “Doing Our Thing With Pride”",
-          "itunes": {}
-        },
-        {
-          "id": "143457",
-          "author": "Bandcamp Daily Staff",
-          "description": "Psychedelic metal, Cameroonian garage funk, punk rap and more.\nRead full story on the Bandcamp Daily.",
-          "link": "https://daily.bandcamp.com/seven-essential-releases/essential-releases-september-3-2021",
-          "publishedOn": "2021-09-03T13:55:44.000Z",
-          "wordCount": null,
-          "title": "Essential Releases, September 3, 2021",
-          "itunes": {}
         }
       ]
     },
@@ -17662,24 +17309,6 @@
           "publishedOn": "2021-09-08T00:54:15.045Z",
           "wordCount": 2108,
           "title": "The Story of Nagorno-Karabakh Is Incomplete"
-        },
-        {
-          "id": "https://www.cjr.org/podcast/gender-sexuality-media-podcast.php",
-          "author": null,
-          "description": "CJR · How We Got Here: Genders and Sexualities, host Prof. Alisa Solomon Gender and sexuality can feel natural, even immutable. But science and lived experience tell us that these categories are far more variable than they may seem. At a time when dozens of states around the US have passed or are considering legislation […]",
-          "link": "https://www.cjr.org/podcast/gender-sexuality-media-podcast.php",
-          "publishedOn": "2021-09-04T00:54:42.936Z",
-          "wordCount": 441,
-          "title": "How We Got Here: Genders and Sexualities"
-        },
-        {
-          "id": "https://www.cjr.org/the_media_today/supreme_court_texas_abortion.php",
-          "author": null,
-          "description": "In the spring of 2020, the Supreme Court did something unprecedented, by allowing the audio of oral arguments—which justices heard by phone, because of the pandemic—to be broadcast live. Many hailed that as a breakthrough for judicial transparency and a first step, perhaps, toward cameras in the courtroom, which justices have long opposed. Rather than […]",
-          "link": "https://www.cjr.org/the_media_today/supreme_court_texas_abortion.php",
-          "publishedOn": "2021-09-04T00:54:42.925Z",
-          "wordCount": 2571,
-          "title": "The reactive coverage of the Supreme Court and the Texas abortion law"
         }
       ]
     },
@@ -19128,6 +18757,15 @@
       "siteUrl": "https://goodguysgogrind.com",
       "articles": [
         {
+          "id": "http://goodguysgogrind.com/?p=29602",
+          "author": "goodguysgogrind",
+          "description": "Make your order HERE!",
+          "link": "https://goodguysgogrind.com/2021/10/03/huge-pack-of-merch-from-perpetual/",
+          "publishedOn": "2021-10-03T06:53:59.000Z",
+          "wordCount": 248,
+          "title": "Huge pack of merch from Perpetual!"
+        },
+        {
           "id": "http://goodguysgogrind.com/?p=29593",
           "author": "goodguysgogrind",
           "description": "Sempre Amore is a new grindcore act from Indonesia! Their debut EP will be out very soon, but you can already check the first song! Listen to it at sempredarkamore.bandcamp.com",
@@ -19423,33 +19061,6 @@
           "publishedOn": "2021-09-10T13:46:58.000Z",
           "wordCount": 264,
           "title": "New release from Mortville Noise!"
-        },
-        {
-          "id": "http://goodguysgogrind.com/?p=29387",
-          "author": "goodguysgogrind",
-          "description": "A live rec from Castle Hotel that was recorded on May 13 1995. Stocked records (AU) / Flip To Presant (AU) / RSrec & Hate Ape prod (Germany) and Haunted Hotel records (USA)",
-          "link": "https://goodguysgogrind.com/2021/09/03/rupture-youre-all-fucken-scum-live-at-the-castle-95/",
-          "publishedOn": "2021-09-03T16:24:34.000Z",
-          "wordCount": 303,
-          "title": "Rupture – You’re All Fucken Scum: Live at The Castle 95"
-        },
-        {
-          "id": "http://goodguysgogrind.com/?p=29382",
-          "author": "goodguysgogrind",
-          "description": "9 songs of sick goregrind right into your face! Check the whole material HERE!",
-          "link": "https://goodguysgogrind.com/2021/09/03/debut-ep-from-grotesque-suturation-is-ready/",
-          "publishedOn": "2021-09-03T15:07:55.000Z",
-          "wordCount": 285,
-          "title": "Debut album of Grotesque Suturation is ready!"
-        },
-        {
-          "id": "http://goodguysgogrind.com/?p=29376",
-          "author": "goodguysgogrind",
-          "description": "Event page/info",
-          "link": "https://goodguysgogrind.com/2021/09/03/krachfest-2021/",
-          "publishedOn": "2021-09-03T14:20:42.000Z",
-          "wordCount": 265,
-          "title": "Krachfest 2021!"
         }
       ]
     }
