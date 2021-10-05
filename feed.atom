@@ -2,10 +2,1486 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://davegonzalez.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-10-04T01:02:11.535Z</updated>
+    <updated>2021-10-05T00:58:05.063Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://davegonzalez.github.io/feed/index.html"/>
     <link rel="self" href="https://davegonzalez.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The colossal wreck of Ozy]]></title>
+        <id>https://www.cjr.org/analysis/ozy_ben_smith.php</id>
+        <link href="https://www.cjr.org/analysis/ozy_ben_smith.php"/>
+        <updated>2021-10-05T00:57:46.921Z</updated>
+        <summary type="html"><![CDATA[A week ago yesterday, Ben Smith, the media columnist at the New York Times, reported details of a conference call in February during which Alex Piper, a top staffer at YouTube, told representatives of Goldman Sachs who were preparing to invest in Ozy, a digital media company, that Ozy’s videos were performing well on the […]]]></summary>
+        <author>
+            <name>Columbia Journalism Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CNN public editor: the fine line between terrorism coverage and sensationalism]]></title>
+        <id>https://www.cjr.org/public_editor/cnn-public-editor-the-fine-line-between-terrorism-coverage-and-sensationalism.php</id>
+        <link href="https://www.cjr.org/public_editor/cnn-public-editor-the-fine-line-between-terrorism-coverage-and-sensationalism.php"/>
+        <updated>2021-10-05T00:57:46.893Z</updated>
+        <summary type="html"><![CDATA[Last January after thousands of Trump supporters stormed the Capitol, CNN’s audience surged. But the network had already divined the connection between terror and ratings. Studies found CNN amplified misinformation about the election by airing old Trump tweets long after he was banned from the platform. And it has consistently given airtime to proponents of […]]]></summary>
+        <author>
+            <name>Columbia Journalism Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feels Like a Movie]]></title>
+        <id>https://www.cjr.org/business_of_news/hollywood-production-adaptations.php</id>
+        <link href="https://www.cjr.org/business_of_news/hollywood-production-adaptations.php"/>
+        <updated>2021-10-05T00:57:46.866Z</updated>
+        <summary type="html"><![CDATA[Adapting an article for the screen, in-house]]></summary>
+        <author>
+            <name>Columbia Journalism Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook goes down]]></title>
+        <id>https://www.platformer.news/p/facebook-goes-down</id>
+        <link href="https://www.platformer.news/p/facebook-goes-down"/>
+        <updated>2021-10-05T00:00:19.000Z</updated>
+        <summary type="html"><![CDATA[PLUS: The Facebook Files whistleblower reveals herself]]></summary>
+        <author>
+            <name>Casey Newton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Vaccination Rate in Orange County Isn't as Good as Previously Thought]]></title>
+        <id>https://indyweek.com/news/orange/the-vaccination-rate-in-orange-county-is-not-as-good-as-previously-thought/</id>
+        <link href="https://indyweek.com/news/orange/the-vaccination-rate-in-orange-county-is-not-as-good-as-previously-thought/"/>
+        <updated>2021-10-04T23:51:06.000Z</updated>
+        <summary type="html"><![CDATA[DHHS said in a press release that information provided from the CDC from several entities was based on where people got their shots rather than on where they lived. New revisions correct that.]]></summary>
+        <author>
+            <name>Lynn Bonner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biden administration expects J&J boosters in the next few weeks]]></title>
+        <id>https://arstechnica.com/?p=1800912</id>
+        <link href="https://arstechnica.com/?p=1800912"/>
+        <updated>2021-10-04T23:20:27.000Z</updated>
+        <summary type="html"><![CDATA[FDA has scheduled an advisory meeting over the booster ahead of receiving an application.]]></summary>
+        <author>
+            <name>Beth Mole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ex-Sony exec opens up about efforts to bring PlayStation hits to PC]]></title>
+        <id>https://arstechnica.com/?p=1800685</id>
+        <link href="https://arstechnica.com/?p=1800685"/>
+        <updated>2021-10-04T23:05:40.000Z</updated>
+        <summary type="html"><![CDATA["There's no losing in this transaction," says former PlayStation Studios head Shawn Layden.]]></summary>
+        <author>
+            <name>Steve Haske</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding How Facebook Disappeared From the Internet]]></title>
+        <id>https://blog.cloudflare.com/october-2021-facebook-outage/</id>
+        <link href="https://blog.cloudflare.com/october-2021-facebook-outage/"/>
+        <updated>2021-10-04T22:21:59.000Z</updated>
+        <summary type="html"><![CDATA[Tom Strickx
+Celso Martinho
+Tom Strickx and Celso Martinho, writing for the Cloudflare blog:
+“Facebook can’t be down, can it?”, we thought, for a second.
+Today at 1651 UTC, we opened an internal incident entitled “Facebook DNS lookup returning SERVFAIL” because we were worried that something was wrong with our DNS resolver 1.1.1.1.  But as we were about to post on our public status page we realized something else more serious was going on.
+Social media quickly burst into flames, reporting what our engineers rapidly confirmed too. Facebook and its affiliated services WhatsApp and Instagram were, in fact, all down. Their DNS names stopped resolving, and their infrastructure IPs were unreachable. It was as if someone had “pulled the cables” from their data centers all at once and disconnected them from the Internet.
+How’s that even possible?
+DNS is deep dark stuff, and even at the pidgin level at which Daring Fireball operates, it terrifies me. Can’t even imagine how complicated it is at Facebook’s scale. What a fiasco.
+ ★]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Durham County Commissioners Approve Lease That Will Lead to Acquisition of Historic Black Cemetery]]></title>
+        <id>https://indyweek.com/news/durham/durham-county-commissioners-approve-lease-that-will-lead-to-acquisition-Cameron-Grove-cemetery/</id>
+        <link href="https://indyweek.com/news/durham/durham-county-commissioners-approve-lease-that-will-lead-to-acquisition-Cameron-Grove-cemetery/"/>
+        <updated>2021-10-04T22:09:23.000Z</updated>
+        <summary type="html"><![CDATA[Cameron Grove Holdings has agreed to initially lease the Cameron Grove cemetery property to the county for $1 per year with an option to purchase at the end of the two-year lease for $1.]]></summary>
+        <author>
+            <name>Thomasi McDonald</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This coffee bean will wake you up and then kick your ass]]></title>
+        <id>https://www.polygon.com/22708823/third-person-action-shooter-halloween-indie-development</id>
+        <link href="https://www.polygon.com/22708823/third-person-action-shooter-halloween-indie-development"/>
+        <updated>2021-10-04T21:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Image: Killer Bean Studios
+    
+
+  
+And some spooky skeletons to get October started
+ Indie developers continue to push the envelope with the wild and weird worlds we get to play in. A lot of the joy of this column comes from seeing what developers create, when left to their own devices — and this week it’s a third-person shooter where you’ll take on the world, fighting as a coffee bean who barrels headfirst into James Bond-level action. 
+We have dangerous coffee beans and more in Cool WIP, Polygon’s weekly roundup of eye-catching clips, and screenshots of works in progress. Each week, the Polygon staff scours the internet for the most interesting games still under construction, to give you a sampler of the coolest up-and-coming projects.
+This week we have a proper kick-off into October wi…]]></summary>
+        <author>
+            <name>Polygon -  PC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flyers go with top-heavy lineup in preseason battle with Bruins]]></title>
+        <id>https://www.broadstreethockey.com/2021/10/4/22708597/philadelphia-flyers-boston-bruins-preseason-nhl-roster-training-camp-couturier</id>
+        <link href="https://www.broadstreethockey.com/2021/10/4/22708597/philadelphia-flyers-boston-bruins-preseason-nhl-roster-training-camp-couturier"/>
+        <updated>2021-10-04T21:33:54.000Z</updated>
+        <summary type="html"><![CDATA[Photo by Len Redkoles/NHLI via Getty Images
+    
+
+  
+We want some dang goals.
+ The Philadelphia Flyers march on in their preseason and tonight will be facing the Boston Bruins at home in a matchup that might mean something and might not. It’s hump day; the fourth of six warm-up games that are meaningless because we basically know who is going to be in the final lineup. Regardless, it’s something to do.
+All we want to do is get together and clap our damn hands together as we mindlessly watch some dudes skate around on the ice with a puck. Can we just enjoy the Flyers scoring more goals than the other team as well?
+
+
+
+Three Players To Watch
+1. Ryan Ellis
+He’s here because it’s fun to watch him. Like, it’s always just so much fun. I don’t even care if he does anything but skate around looking…]]></summary>
+        <author>
+            <name>Broad Street Hockey -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding how we sense touch, temperature earns a Nobel]]></title>
+        <id>https://arstechnica.com/?p=1800669</id>
+        <link href="https://arstechnica.com/?p=1800669"/>
+        <updated>2021-10-04T21:29:47.000Z</updated>
+        <summary type="html"><![CDATA[Discoveries triggered a wave of findings about how we sense our environments.]]></summary>
+        <author>
+            <name>John Timmer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genshin Impact’s next update leans into Spooky Season]]></title>
+        <id>https://www.polygon.com/22709410/genshin-impact-mihoyo-inazuma-update</id>
+        <link href="https://www.polygon.com/22709410/genshin-impact-mihoyo-inazuma-update"/>
+        <updated>2021-10-04T20:58:29.000Z</updated>
+        <summary type="html"><![CDATA[Image: Mihoyo
+    
+
+  
+The flaming-spear-wielding Thoma also makes his debut
+ Genshin Impact’s Inazuma region continues to grow with the latest update of the game. The open-world adventure will be getting its 2.2 update, Into the Perilous Labyrinth of Fog, on Oct. 13, Mihoyo announced Monday. The addition will bring the last of the islands of Inazuma, a new playable character Thoma, and a series of new challenges and minigames to Genshin Impact. 
+Also, all players regardless of the platform can now claim Aloy from Horizon Zero Dawn, as long as they’re above adventure rank 20.
+This update builds on the Inazuma update, which brought a new story and giant Japanese-inspired region to the game. The 2.2 update will add Tsurumi Island, a dark and foreboding island filled with more powerful monsters. 
+Image: Mihoyo
+  
+Genshin Impact is a free-to-play adventure game where players use gacha mechanics to unlock characters. In addition to introducing a new character named Thoma, this update will bring back fan-favorites like Childe and Hu Tao under new banners and will once again give players a shot at unlocking them.
+As far as non-character updates go, the update will bring a new rhythm minigame as part of the Tuned to the World’s Sounds event, as well an Inazuma-themed Realm style and Furnishing Blueprints, so you can design your home based on the architectural flourishes of the region. Also, fans will now be able to use their DualSense controllers on the PC version.]]></summary>
+        <author>
+            <name>Polygon -  PC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook, Instagram, WhatsApp, Oculus back online after hours of downtime]]></title>
+        <id>https://waxy.org/?p=42497</id>
+        <link href="https://arstechnica.com/information-technology/2021/10/facebook-instagram-whatsapp-and-oculus-are-down-heres-what-we-know/"/>
+        <updated>2021-10-04T20:37:43.000Z</updated>
+        <summary type="html"><![CDATA[removed BGP routes locked out FB employees from offices, internal tools, and their own VPN, plus every site that uses FB auth #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel's Latest PC vs. Mac Ad Involves a 'Social Experiment' With Apple Fans]]></title>
+        <id>https://www.macrumors.com/2021/10/04/intel-social-experiment-pc-vs-mac-ad/</id>
+        <link href="https://www.macrumors.com/2021/10/04/intel-social-experiment-pc-vs-mac-ad/"/>
+        <updated>2021-10-04T20:35:07.000Z</updated>
+        <summary type="html"><![CDATA[Intel today shared a new ad titled Breaking the Spell: Social Experiment. In the four-minute video, Intel invites 12 supposed Apple fans to a focus group showcasing features of "upcoming devices" that were, in fact, PCs that are already on the market. The ad was spotted earlier by French website MacGeneration.
+
+
+
+
+
+
+The video starts out by saying that many Apple fans only care about Apple products, and Intel attempts to change that viewpoint. The supposed Apple fans are ushered into a room that looks similar to an Apple Store, creating the impression that they are being shown new Apple products, but the devices are actually PCs powered by Intel processors. 
+
+
+
+According to Intel's Ryan Shrout, the ad features each participant's "real" reactions instead of scripted ones. "It's surprising to see how many people that utilize tech still don't know the capabilities of the PC," he said in a tweet.
+
+
+
+The ad is part of Intel's #GoPC marketing campaign that it launched last year after Apple started transitioning to custom Apple Silicon chips in Macs. Intel even recruited former "I'm a Mac" actor Justin Long for some of the ads.
+Tag: Intel
+This article, "Intel's Latest PC vs. Mac Ad Involves a 'Social Experiment' With Apple Fans" first appeared on MacRumors.com
+Discuss this article in our forums]]></summary>
+        <author>
+            <name>Joe Rossignol</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook whistleblower on 60 Minutes]]></title>
+        <id>https://waxy.org/?p=42494</id>
+        <link href="https://www.cbsnews.com/news/facebook-whistleblower-frances-haugen-60-minutes-polarizing-divisive-content/"/>
+        <updated>2021-10-04T20:32:32.000Z</updated>
+        <summary type="html"><![CDATA["Facebook has set up a system of incentives that is pulling people apart" #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 Fall Reading Guide: 10 Horror Books Perfect for the Halloween Season]]></title>
+        <id>https://bloody-disgusting.com/?p=3685741</id>
+        <link href="https://bloody-disgusting.com/books/3685741/2021-fall-reading-guide-10-horror-reads-perfect-halloween-season/"/>
+        <updated>2021-10-04T20:31:28.000Z</updated>
+        <summary type="html"><![CDATA[The Halloween season is well underway, which likely means that you’ve already shored up your October horror watchlists and decked the halls with Halloween décor. Now, all that’s left to do is enjoy the cooler weather and curl up with a spooky story or five. Not much of a reader? Need a rec for your […]]]></summary>
+        <author>
+            <name>Meagan Navarro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Habit of Adequacy]]></title>
+        <id>https://cate.blog/?p=53412</id>
+        <link href="https://cate.blog/2021/10/04/the-habit-of-adequacy/"/>
+        <updated>2021-10-04T20:30:00.000Z</updated>
+        <summary type="html"><![CDATA[I think about habits a lot. That my word for 2021 is habit is a product of this, and a useful lens to cycle back on it. I think about habits, how to intentionally build and maintain them, and then I remind myself that I set it as a priority for the year for a […]]]></summary>
+        <author>
+            <name>Cate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet the original streamer, who ran his own public access gaming show in 1993]]></title>
+        <id>https://waxy.org/?p=42491</id>
+        <link href="https://www.pcgamer.com/meet-the-original-streamer-who-ran-his-own-public-access-gaming-show-in-1993/"/>
+        <updated>2021-10-04T20:27:38.000Z</updated>
+        <summary type="html"><![CDATA["Video Games and More" was like Twitch on TV, with kids calling in to talk to a 12-year-old gamer instead of spamming chat #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook, Instagram, WhatsApp, and Oculus are down. Here’s what we know [Updated]]]></title>
+        <id>https://arstechnica.com/?p=1800566</id>
+        <link href="https://arstechnica.com/?p=1800566"/>
+        <updated>2021-10-04T20:22:55.000Z</updated>
+        <summary type="html"><![CDATA[The root cause of the worldwide outage appears to be a flubbed BGP route update.]]></summary>
+        <author>
+            <name>Jim Salter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Garbage Day on the mystery of the “I Want To Live In This Era” photo]]></title>
+        <id>https://waxy.org/?p=42488</id>
+        <link href="https://www.garbageday.email/p/the-nostalgia-onion"/>
+        <updated>2021-10-04T20:17:12.000Z</updated>
+        <summary type="html"><![CDATA["being nostalgic for being in the early-2010s being nostalgic for the 90s" #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Pandora Papers]]></title>
+        <id>https://waxy.org/?p=42485</id>
+        <link href="https://www.washingtonpost.com/business/interactive/2021/pandora-papers-offshore-finance/"/>
+        <updated>2021-10-04T20:14:22.000Z</updated>
+        <summary type="html"><![CDATA[WaPo investigation based on 12M leaked documents reveal how the global elite shield their riches in international tax havens, including in the U.S. #]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11: The Ars Technica review]]></title>
+        <id>https://arstechnica.com/?p=1798423</id>
+        <link href="https://arstechnica.com/?p=1798423"/>
+        <updated>2021-10-04T20:00:34.000Z</updated>
+        <summary type="html"><![CDATA[Attractive new design overshadowed by regressions and high system requirements.]]></summary>
+        <author>
+            <name>Andrew Cunningham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thomas Doherty Replaces Garrett Hedlund in ‘Dracula’-Inspired Horror Movie ‘The Bride’]]></title>
+        <id>https://bloody-disgusting.com/?p=3685780</id>
+        <link href="https://bloody-disgusting.com/movie/3685780/thomas-doherty-replaces-garret-hedlund-dracula-based-horror-movie-bride/"/>
+        <updated>2021-10-04T19:56:03.000Z</updated>
+        <summary type="html"><![CDATA[Jessica M. Thompson will direct The Bride for Screen Gems, with the Dracula-inspired film being described as “a contemporary horror thriller that tells the story of a young woman who is courted and swept off her feet, only to realize a gothic conspiracy is afoot.” Nathalie Emmanuel (“Game of Thrones”) and Garrett Hedlund (The United States vs. Billie Holiday) had been set […]]]></summary>
+        <author>
+            <name>John Squires</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Gargoyles”: NECA’s Figure of Demona from the Animated Series Takes Flight With New Images]]></title>
+        <id>https://bloody-disgusting.com/?p=3685771</id>
+        <link href="https://bloody-disgusting.com/toys/3685771/gargoyles-necas-figure-demona-animated-series-takes-flight-new-images/"/>
+        <updated>2021-10-04T19:45:05.000Z</updated>
+        <summary type="html"><![CDATA[NECA recently announced that they’ve acquired the license to make action figures based on the ’90s animated series “Gargoyles,” which was produced by Walt Disney Television and centered on literal stone gargoyles that come to life and transform into protectors of NYC at night. Three seasons were produced in total, with fans frequently still begging […]]]></summary>
+        <author>
+            <name>John Squires</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Nature Conservancy’s 2021 Global Photo Contest Winners]]></title>
+        <id>https://kottke.org/21/10/the-nature-conservancys-2021-global-photo-contest-winners</id>
+        <link href="https://kottke.org/21/10/the-nature-conservancys-2021-global-photo-contest-winners"/>
+        <updated>2021-10-04T19:44:30.000Z</updated>
+        <summary type="html"><![CDATA[The Nature Conservancy is a non-profit organization focused on conservation and addressing the climate and biodiversity crises. The winners of their 2021 Global Photo Contest have interpreted the Conservancy’s mission in a number of different ways. Above are three of my favorite shots from the contest; photo credits from top to bottom: Anup Shah, Daniel De Granville Manço, Manh Cuong Vu.
+Tags: best of   best of 2021   photography]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FCC plans to rein in “gateway” carriers that bring foreign robocalls to US]]></title>
+        <id>https://arstechnica.com/?p=1800615</id>
+        <link href="https://arstechnica.com/?p=1800615"/>
+        <updated>2021-10-04T19:18:59.000Z</updated>
+        <summary type="html"><![CDATA[FCC proposes STIR/SHAKEN and call-blocking rules for gateway phone companies.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Funko’s Line of ‘Ghostbusters: Afterlife’ Toys Includes the Kids, the Ghosts, and the Mini Stay Pufts]]></title>
+        <id>https://bloody-disgusting.com/?p=3685752</id>
+        <link href="https://bloody-disgusting.com/toys/3685752/funkos-line-ghostbusters-afterlife-toys-includes-kids-ghosts-mini-stay-pufts/"/>
+        <updated>2021-10-04T19:18:42.000Z</updated>
+        <summary type="html"><![CDATA[The film is finally being released in theaters on November 19, and on the road to its release, Funko has previewed their massive line of upcoming toys based on Ghostbusters: Afterlife. First up we have human characters including Phoebe (Mckenna Grace), Podcast (Logan Kim), Lucky (Celeste O’Connor), and Mr. Grooberson (Paul Rudd), along with Finn […]]]></summary>
+        <author>
+            <name>John Squires</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Adding Its AA Battery Charger and Third-Generation Apple TV to Vintage Products List]]></title>
+        <id>https://www.macrumors.com/2021/10/04/apple-tv-3-and-apple-battery-charger-vintage/</id>
+        <link href="https://www.macrumors.com/2021/10/04/apple-tv-3-and-apple-battery-charger-vintage/"/>
+        <updated>2021-10-04T19:08:43.000Z</updated>
+        <summary type="html"><![CDATA[Apple today informed Apple Authorized Service Providers that it will be adding the third-generation Apple TV and its AA battery charger to its vintage products list on October 31, according to a memo obtained by MacRumors.
+
+
+
+
+
+The third-generation Apple TV was released in March 2012 and many third-party apps have already phased out support for the device. The third-generation model is also the last Apple TV that does not run tvOS, and thus lacks access to the App Store.
+
+
+
+Introduced in July 2010, the Apple Battery Charger was priced at $29 and included six rechargeable AA batteries for use with the original Apple Wireless Keyboard, Magic Trackpad, and Magic Mouse for the Mac. Apple discontinued the charger around 2016 and the Magic accessories now have built-in batteries that can be recharged via Lightning.
+
+
+
+In the past, vintage Apple products were no longer eligible for repairs at the Genius Bar or at Apple Authorized Service Providers, but Apple now provides service for up to seven years on vintage products, subject to parts availability.
+
+
+
+The original Apple Watch was added to Apple's vintage products list last week.
+Related Roundup: Apple TV
+Tag: vintage and obsolete
+Buyer's Guide: Apple TV (Buy Now)
+Related Forum: Apple TV and Home Theater
+This article, "Apple Adding Its AA Battery Charger and Third-Generation Apple TV to Vintage Products List" first appeared on MacRumors.com
+Discuss this article in our forums]]></summary>
+        <author>
+            <name>Joe Rossignol</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientists are still learning cool new things about gooey hagfish slime]]></title>
+        <id>https://arstechnica.com/?p=1800292</id>
+        <link href="https://arstechnica.com/?p=1800292"/>
+        <updated>2021-10-04T19:07:50.000Z</updated>
+        <summary type="html"><![CDATA[Larger hagfish produce larger, stronger thread cells to better ward off predators.]]></summary>
+        <author>
+            <name>Jennifer Ouellette</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Hocus Pocus’: Carvel Serving Up Three Different Sanderson Sisters Ice Cream Treats for Halloween!]]></title>
+        <id>https://bloody-disgusting.com/?p=3685740</id>
+        <link href="https://bloody-disgusting.com/the-further/3685740/hocus-pocus-carvel-serving-three-different-sanderson-sisters-ice-cream-treats-halloween/"/>
+        <updated>2021-10-04T19:05:28.000Z</updated>
+        <summary type="html"><![CDATA[With the 1993 movie airing all month long as part of Freeform’s 31 Nights of Halloween, Carvel is now serving up Hocus Pocus ice cream treats for the Halloween season! Carvel details, “The Sanderson Sister Shakes are served with a 31 Nights of Halloween x Hocus Pocus limited edition cup and spoon featuring one of […]]]></summary>
+        <author>
+            <name>John Squires</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[As Supreme Court Opens New Term, N.C. Women Make a Stand for Reproductive Freedom]]></title>
+        <id>https://indyweek.com/news/northcarolina/as-supreme-court-opens-new-term-north-carolina-women-stand-up-for-reproductive-freedom/</id>
+        <link href="https://indyweek.com/news/northcarolina/as-supreme-court-opens-new-term-north-carolina-women-stand-up-for-reproductive-freedom/"/>
+        <updated>2021-10-04T18:36:28.000Z</updated>
+        <summary type="html"><![CDATA[The Women’s March that drew hundreds to Bicentennial Plaza in Raleigh also brought thousands more to cities and towns around the country, including Charlotte, Durham, Washington, D.C., New York, and Chicago.]]></summary>
+        <author>
+            <name>Lynn Bonner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revealed: The secret notes of Blue Origin leaders trying to catch SpaceX]]></title>
+        <id>https://arstechnica.com/?p=1799857</id>
+        <link href="https://arstechnica.com/?p=1799857"/>
+        <updated>2021-10-04T18:26:21.000Z</updated>
+        <summary type="html"><![CDATA["They have a customer focus. We should too."]]></summary>
+        <author>
+            <name>Eric Berger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT mastermind says he created Ethereum because Warcraft nerfed his character]]></title>
+        <id>https://www.polygon.com/22709126/ethereum-creator-world-of-warcraft-nerf-nft-vitalik-buterin</id>
+        <link href="https://www.polygon.com/22709126/ethereum-creator-world-of-warcraft-nerf-nft-vitalik-buterin"/>
+        <updated>2021-10-04T18:21:53.000Z</updated>
+        <summary type="html"><![CDATA[Vitalik Buterin, creator of Ethereum, at the TechCrunch Disrupt SF 2017 Summit | Photo: Getty
+    
+
+  
+WoW patch 3.1.0 made him ‘realize what horrors centralized services can bring’
+ Maybe take this with a grain of salt, but, the creator of Ethereum — the blockchain that spawned the NFT craze — says he was driven to create decentralized money because his World of Warcraft character was cruelly nerfed.
+“I happily played World of Warcraft during 2007-2010, but one day Blizzard removed the damage component from my beloved warlock’s Siphon Life spell,” Vitalik Buterin, the programmer who developed Ethereum’s original concept in late 2013, says in a bio hosted at about.me. “I cried myself to sleep, and on that day I realized what horrors centralized services can bring. I soon decided to quit.”
+…]]></summary>
+        <author>
+            <name>Polygon -  PC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook, WhatsApp, and Instagram Down Due to DNS Outage]]></title>
+        <id>https://www.bleepingcomputer.com/news/technology/facebook-whatsapp-and-instagram-down-due-to-dns-outage/</id>
+        <link href="https://www.bleepingcomputer.com/news/technology/facebook-whatsapp-and-instagram-down-due-to-dns-outage/"/>
+        <updated>2021-10-04T18:17:58.000Z</updated>
+        <summary type="html"><![CDATA[Sergiu Gatlan, BleepingComputer:
+Users worldwide are reporting that they are unable to access
+Facebook, Instagram, and WhatsApp, instead seeing errors that the
+sites can’t be reached.
+When attempting to open any of the three sites, they are given
+DNS_PROBE_FINISHED_NXDOMAIN errors and advised to check if there
+is a typo in the domain entered in the address bar.
+DNS, man. Wheeee!
+ ★]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epic Games Store gets achievements next week—so what’s still missing?]]></title>
+        <id>https://arstechnica.com/?p=1800528</id>
+        <link href="https://arstechnica.com/?p=1800528"/>
+        <updated>2021-10-04T18:13:40.000Z</updated>
+        <summary type="html"><![CDATA[Teases long-awaited ability to customize user profiles—but plenty left on road map.]]></summary>
+        <author>
+            <name>Sam Machkovech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[M. Night Shyamalan Producing Mystery Thriller ‘The Vanishings At Caddo Lake’]]></title>
+        <id>https://bloody-disgusting.com/?p=3685734</id>
+        <link href="https://bloody-disgusting.com/movie/3685734/m-night-shyamalan-producing-mystery-thriller-vanishings-caddo-lake/"/>
+        <updated>2021-10-04T18:12:45.000Z</updated>
+        <summary type="html"><![CDATA[While we wait for his next original thriller for Universal, we’ve learned today via Deadline that M. Night Shyamalan will also be producing a thriller titled The Vanishings At Caddo Lake. Celine Held & Logan George (Topside) will be writing and directing the movie. “The plot revolves around when an 8-year-old girl mysteriously vanishes on […]]]></summary>
+        <author>
+            <name>John Squires</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Safari 15 Users Say New Tab Design is Counterintuitive]]></title>
+        <id>https://www.macrumors.com/2021/10/04/safari-15-tab-design-complaints/</id>
+        <link href="https://www.macrumors.com/2021/10/04/safari-15-tab-design-complaints/"/>
+        <updated>2021-10-04T18:05:05.000Z</updated>
+        <summary type="html"><![CDATA[Safari 15's controversial new design on the Mac has led to complaints about the way the browser indicates which tab is active.
+
+
+
+
+
+As illustrated by Daring Fireball's John Gruber, there was never any ambiguity about which tab is active in previous versions of Safari, as an active tab is shown with lighter shading that matches the browser's toolbar.
+
+
+
+In Safari 15, however, tabs have a new button-like design with a rounder and more defined appearance. Apple has also inverted its shading of tabs, with an active tab now having darker shading and inactive tabs having lighter shading. The change has annoyed Gruber and other users, as evidenced by this Reddit thread with nearly 1,000 upvotes.
+
+
+
+"The design is counterintuitive," wrote Gruber. "What sense does it make that no matter your settings, the active tab is rendered with less contrast between the tab title and the background than background tabs? The active tab should be the one that pops."
+
+
+
+In a Safari 15 window with two tabs open, especially from the same website, Gruber said determining which tab is active is basically a guessing game. Gruber acknowledged that it is easier to discern the active tab when more than two tabs are open, but he said the confusion with exactly two tabs should have been reason enough to scrap the design change.
+
+
+
+"I can't tell you how many times I closed the tab that I needed because of this," one Reddit user expressed in frustration.
+
+
+
+Unfortunately for users who do not like the new design, Apple has not made any changes to the shading of tabs in either the Safari 15.1 beta or the latest version of the experimental Safari Technology Preview browser.
+Tag: Safari
+This article, "Safari 15 Users Say New Tab Design is Counterintuitive" first appeared on MacRumors.com
+Discuss this article in our forums]]></summary>
+        <author>
+            <name>Joe Rossignol</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MacRumors Giveaway: Win an Apple-Themed T-Shirt From Throwboy]]></title>
+        <id>https://www.macrumors.com/2021/10/04/macrumors-giveaway-throwboy-tshirt/</id>
+        <link href="https://www.macrumors.com/2021/10/04/macrumors-giveaway-throwboy-tshirt/"/>
+        <updated>2021-10-04T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We've teamed up with Throwboy to offer MacRumors readers a chance to win an Apple-themed T-Shirt. Throwboy is well-known for its pillows that look like classic Apple products, but the company also has a popular line of T-shirts that feature designs immediately recognizable by Apple fans.
+
+
+
+
+
+The 9:41 shirt highlights the exact time that Steve Jobs unveiled the original iPhone, and a "Think Different (again)" shirt pairs the famous phrasing with rainbow coloring.
+
+
+
+
+
+There's a "1984" design featuring a mouse pointer and Apple's iconic typeface, along with a "Command" shirt, which is Throwboy's most popular. It has the same iconic Command logo featured on all of Apple's Macs. 
+
+
+
+
+
+Apple fans will recognize the "Hello" logo shirt in with bright, colorful letters, and the …]]></summary>
+        <author>
+            <name>Juli Clover</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android 12 gets a source code release—but not a Pixel release]]></title>
+        <id>https://arstechnica.com/?p=1800497</id>
+        <link href="https://arstechnica.com/?p=1800497"/>
+        <updated>2021-10-04T17:59:46.000Z</updated>
+        <summary type="html"><![CDATA[Google holds back Pixel release of Android 12, also announces a show for 10/27.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[18 New Horror Movies and Shows Releasing This Week, Including ‘V/H/S/94’!]]></title>
+        <id>https://bloody-disgusting.com/?p=3685650</id>
+        <link href="https://bloody-disgusting.com/movie/3685650/18-new-horror-movies-shows-releasing-week-including-v-h-s-94/"/>
+        <updated>2021-10-04T17:53:57.000Z</updated>
+        <summary type="html"><![CDATA[For daily release updates delivered straight to your feed, follow @HorrorCalendar. It’s the first full week of October, and nearly TWENTY brand new horror movies and shows are on the way. Perhaps we’re a little biased here, as it is after all a Bloody Disgusting project, but we’re absolutely thrilled to unleash the wild V/H/S/94 […]]]></summary>
+        <author>
+            <name>John Squires</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alain Vigneault responds to Robin Lehner’s claims of Flyers distributing pills to players]]></title>
+        <id>https://www.broadstreethockey.com/2021/10/4/22706589/alain-vigneault-responds-robin-lehner-claims-flyers-distributing-pills-players-golden-knights</id>
+        <link href="https://www.broadstreethockey.com/2021/10/4/22706589/alain-vigneault-responds-robin-lehner-claims-flyers-distributing-pills-players-golden-knights"/>
+        <updated>2021-10-04T17:52:21.000Z</updated>
+        <summary type="html"><![CDATA[Photo by David Kirouac/Icon Sportswire via Getty Images
+    
+
+  
+Golden Knights goaltender Robin Lehner put Alain Vigneault and the Flyers on blast with the belief that the team is distributing highly addictive drugs to its players.
+ The big story from Saturday night should have been the Flyers’ 3-1 win over the Washington Capitals. However, the hockey community was buzzing after Vegas Golden Knights goaltender Robin Lehner made some pretty gargantuan accusations about the Flyers and their medical practices.
+Minutes after the Flyers’ first victory of the preseason, Lehner took to Twitter to accuse the Flyers of giving benzodiazepines (benzos) and Ambien — highly addictive drugs used to treat anxiety and insomnia — to its players.
+He then demanded that the Flyers fire head coach Alain Vigne…]]></summary>
+        <author>
+            <name>Broad Street Hockey -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waiting for a Signal or a Sound: TV on the Radio’s “Young Liars”]]></title>
+        <id>144028</id>
+        <link href="https://daily.bandcamp.com/resonance/tv-on-the-radio-young-liars-essay"/>
+        <updated>2021-10-04T17:52:04.000Z</updated>
+        <summary type="html"><![CDATA[The Strokes taught me you can get away with wearing the same clothes for four days straight; TV on the Radio taught me something much more valuable.
+Read full story on the Bandcamp Daily.]]></summary>
+        <author>
+            <name>Martin Douglas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waiting for a Signal or a Sound: TV on the Radio’s “Young Liars”]]></title>
+        <id>144028</id>
+        <link href="https://daily.bandcamp.com/resonance/tv-on-the-radio-young-liars-essay"/>
+        <updated>2021-10-04T17:52:04.000Z</updated>
+        <summary type="html"><![CDATA[The Strokes taught me you can get away with wearing the same clothes for four days straight; TV on the Radio taught me something much more valuable.
+Read full story on the Bandcamp Daily.]]></summary>
+        <author>
+            <name>Luis Mazon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Company That Routes Billions of Text Messages Quietly Says It Was Hacked]]></title>
+        <id>https://www.vice.com/en/article/z3xpm8/company-that-routes-billions-of-text-messages-quietly-says-it-was-hacked</id>
+        <link href="https://www.vice.com/en/article/z3xpm8/company-that-routes-billions-of-text-messages-quietly-says-it-was-hacked"/>
+        <updated>2021-10-04T17:38:09.000Z</updated>
+        <summary type="html"><![CDATA[Lorenzo Franceschi-Bicchierai, reporting for Motherboard:
+A company that is a critical part of the global telecommunications
+infrastructure used by AT&T, T-Mobile, Verizon and several others
+around the world such as Vodafone and China Mobile, quietly
+disclosed that hackers were inside its systems for years,
+impacting more than 200 of its clients and potentially millions of
+cellphone users worldwide.
+The company, Syniverse, revealed in a filing dated September 27
+with the U.S. Security and Exchange Commission that an
+unknown “individual or organization gained unauthorized access to
+databases within its network on several occasions, and that login
+information allowing access to or from its Electronic Data
+Transfer (EDT) environment was compromised for approximately 235
+of its customers.”
+For a moment I thought, 235 customers — that’s not too bad. Then I realized that Syniverse’s “customers” are entire carriers, not individual people. So, yeah, this is bad.
+Syniverse repeatedly declined to answer specific questions from
+Motherboard about the scale of the breach and what specific data
+was affected, but according to a person who works at a telephone
+carrier, whoever hacked Syniverse could have had access to
+metadata such as length and cost, caller and receiver’s numbers,
+the location of the parties in the call, as well as the content of
+SMS text messages. […]
+The company wrote that it discovered the breach in May 2021, but
+that the hack began in May of 2016.
+Not what you want.
+ ★]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ridley Scott Producing True Crime Feature ‘The Boston Strangler’ With Keira Knightley Starring]]></title>
+        <id>https://bloody-disgusting.com/?p=3685724</id>
+        <link href="https://bloody-disgusting.com/movie/3685724/ridley-scott-producing-true-crime-feature-boston-strangler-keira-knightley-starring/"/>
+        <updated>2021-10-04T17:36:27.000Z</updated>
+        <summary type="html"><![CDATA[The true story of the Boston Strangler will come to the screen in an upcoming feature being produced by Ridley Scott for 20th Century Studios, The Wrap reports today. Matt Ruskin (“Crown Heights”) will write and direct, with Keira Knightley set to star. The Wrap details, “Knightley will portray Loretta McLaughlin, who was the first reporter […]]]></summary>
+        <author>
+            <name>John Squires</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Phasmophobia ghosts are on their way to haunt and murder you]]></title>
+        <id>https://www.polygon.com/22709135/phasmophobia-new-ghosts-twitter-teaser-october</id>
+        <link href="https://www.polygon.com/22709135/phasmophobia-new-ghosts-twitter-teaser-october"/>
+        <updated>2021-10-04T17:34:32.000Z</updated>
+        <summary type="html"><![CDATA[Image: Kinetic Games
+    
+
+  
+Just in time for Halloween!
+ Ghosts are very scary, and this is why Phasmophobia is an exciting game. Players take the role of amateur ghost hunters, plumbing the depths of suburban homes and abandoned high schools in search of specters. It looks like a new kind of ghoul is coming to the game, according to a post on Kinetic Games’ social media.
+The teaser image shows two new ghost types, although their names and the specifics are blurred out. This brings the total number of ghosts in the game to 18. Previous updates have included new types like the Yokai and the Hantu, who hail from different regions around the world
+What could they be? Very spooky   #Phasmophobia pic.twitter.com/rmo9mXehtL
+— Phasmophobia (@KineticGame) October 4, 2021
+
+
+
+These two new mysterious ghost friends appear to be part of the Halloween Update, which is currently listed as “In Progress” on the developer’s public Trello board. In addition, there is an upcoming Nightmare Difficulty option for particularly hardy hunters, some features that are simply marked as REDACTED, and more.
+More details about Phasmophobia’s next update will be released closer to Halloween, but it looks like it’ll be a great time to pick the flashlight back up and explore what the early access title has to offer. Since launch, Kinetic Games has continued to add features to the game that help make it a mainstay on Twitch, with features like new ghosts and levels, or the ability to scare your friends by throwing things at them as a ghost after you’ve died.]]></summary>
+        <author>
+            <name>Polygon -  PC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Reluctant Queer at the Center of ‘Dracula’s Daughter’ [Horror Queers Podcast]]]></title>
+        <id>https://bloody-disgusting.com/?p=3683043</id>
+        <link href="https://bloody-disgusting.com/podcasts/3683043/draculas-daughter-horror-queers-podcast/"/>
+        <updated>2021-10-04T17:28:47.000Z</updated>
+        <summary type="html"><![CDATA[Dracula’s Daughter Said ACAB. After getting anxious with the frightening apparition in It Follows, we got campy with the much-maligned late franchise entry Freddy’s Dead: The Final Nightmare. After that we toured the streets of Los Angeles in David Lynch’s masterpiece Mulholland Drive, but now we’re going all the way back to the ’30s to check […]]]></summary>
+        <author>
+            <name>Trace Thurman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Short Horror Film Hidden in Spider-Man 2]]></title>
+        <id>https://kottke.org/21/10/the-short-horror-film-hidden-in-spider-man-2</id>
+        <link href="https://kottke.org/21/10/the-short-horror-film-hidden-in-spider-man-2"/>
+        <updated>2021-10-04T17:24:43.000Z</updated>
+        <summary type="html"><![CDATA[I love Evan Puschak’s short analysis of a two-and-a-half minute scene from Sam Raimi’s 2004 film, Spider-Man 2. Raimi, a horror movie veteran, basically snuck a tight horror sequence into a PG-13 superhero movie — it’s a little cheesy, bloodless, and terrifying.
+Tags: Evan Puschak   film school   movies   Sam Raimi   Spider-Man   video]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[virodome17 Is A Gmail Scammer]]></title>
+        <id>https://waxy.org/?p=42463</id>
+        <link href="https://waxy.org/2021/10/virodome17-is-a-gmail-scammer/"/>
+        <updated>2021-10-04T17:17:45.000Z</updated>
+        <summary type="html"><![CDATA[Pardon the extremely-specific post, but I’ve found myself at the center of a bizarre case of mistaken identity and writing publicly about it seemed like the best option to stop it. Someone with the email address ‘virodome17@gmail.com’ is emailing small independent online product manufacturers with an identical scam: they’re a huge fan of their products, […]]]></summary>
+        <author>
+            <name>Andy Baio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Apple Watch Series 7 release date is October 15]]></title>
+        <id>https://arstechnica.com/?p=1800532</id>
+        <link href="https://arstechnica.com/?p=1800532"/>
+        <updated>2021-10-04T17:12:15.000Z</updated>
+        <summary type="html"><![CDATA[Orders start this Friday, October 8.]]></summary>
+        <author>
+            <name>Samuel Axon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ernie Hudson Reflects on the Frustration of His ‘Ghostbusters’ Role in Clip from ‘Cleanin’ Up the Town’ Documentary [Exclusive]]]></title>
+        <id>https://bloody-disgusting.com/?p=3685712</id>
+        <link href="https://bloody-disgusting.com/movie/3685712/ernie-hudson-reflects-frustration-ghostbusters-role-clip-cleanin-town-documentary-exclusive/"/>
+        <updated>2021-10-04T16:43:09.000Z</updated>
+        <summary type="html"><![CDATA[Screen Media is bringing an extended version of the definitive Ghostbusters doc, Cleanin’ Up the Town: Remembering Ghostbusters, to VOD platforms this coming Friday. The documentary recounts the story behind the classic 1984 comedy that starred Dan Aykroyd, Harold Ramis, Ernie Hudson, Sigourney Weaver and Bill Murray. Ernie Hudson takes center stage in this exclusive clip from Anthony […]]]></summary>
+        <author>
+            <name>John Squires</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Escape Room: Tournament of Champions’ – Exclusive Clip Looks at the Electrifying Production Design of the Subway Room]]></title>
+        <id>https://bloody-disgusting.com/?p=3685706</id>
+        <link href="https://bloody-disgusting.com/movie/3685706/escape-room-tournament-champions-exclusive-clip-looks-electrifying-production-design-subway-room/"/>
+        <updated>2021-10-04T16:30:29.000Z</updated>
+        <summary type="html"><![CDATA[Adam Robitel‘s sequel Escape Room: Tournament of Champions is coming home for Halloween, and a brand new alternate version is included with the home video release. With both Theatrical and Extended cuts, Tournament of Champions was released digitally on September 21st, and it’s next coming to Blu-ray on October 5th. This week we’re exclusively debuting snippets from […]]]></summary>
+        <author>
+            <name>John Squires</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VR, AR, wearables, and smart home tech are now mainstream, research says]]></title>
+        <id>https://arstechnica.com/?p=1800511</id>
+        <link href="https://arstechnica.com/?p=1800511"/>
+        <updated>2021-10-04T16:21:33.000Z</updated>
+        <summary type="html"><![CDATA[42 percent growth expected from 2021 to 2025.]]></summary>
+        <author>
+            <name>Scharon Harding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epic Games Store is getting an upgraded achievement system]]></title>
+        <id>https://www.polygon.com/22708759/epic-games-store-achievements-rocket-league-hades</id>
+        <link href="https://www.polygon.com/22708759/epic-games-store-achievements-rocket-league-hades"/>
+        <updated>2021-10-04T15:56:00.000Z</updated>
+        <summary type="html"><![CDATA[Image: Supergiant Games
+    
+
+  
+Hades and Rocket League will be among the first to get Epic Achievements
+ The Epic Games Store is finally getting a unified achievement system. The system is called Epic Achievements, and it will be added to a few games starting next week, Epic announced Monday. 
+Epic Achievements will be available first for Rocket League, Hades, Pillars of Eternity, Humankind, Zombie Army 4, Defense Grid, and a few more titles that Epic hasn’t announced yet. Other developers will get access to the tools soon, which means that even more games should be getting their official Epic Achievements before the end of the year. 
+The details page of each game with Epic Achievements will display all achievements, as well as progress toward unlocking them. The achievements will also give XP that will level up Epic accounts, letting players show off their feats to their friends. The rarer — and more difficult — the achievement, the more experience it will give. Here’s a list of the achievement tiers and how much XP they can grant.
+Bronze — 5-45 XP
+Silver — 50-95 XP
+Gold — 100-200 XP   
+Platinum — 250 XP
+This isn’t the first time that games on the Epic Games Store have had achievements, but it is the first time those achievements will be part of a unified system that will be tracked outside of each individual game. Thankfully, all of the developer achievements, which were exclusive to specific games before, will still be available in any game they were a part of. 
+In fact, according to Epic, if a game previously had developer achievements and switches over to the new Epic Achievements, all progress will carry over right away, and you’ll get the XP you already earned.]]></summary>
+        <author>
+            <name>Polygon -  PC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Problem With ‘The Problem With Jon Stewart’]]></title>
+        <id>https://www.wsj.com/articles/jon-stewart-apple-tv-the-problem-11632935715</id>
+        <link href="https://www.wsj.com/articles/jon-stewart-apple-tv-the-problem-11632935715"/>
+        <updated>2021-10-04T15:48:50.000Z</updated>
+        <summary type="html"><![CDATA[John Jurgensen, writing for The Wall Street Journal (News+):
+Now he’s attempting to re-engage with a show that offers fewer
+jokes and a more earnest agenda. With his new biweekly series,
+“The Problem With Jon Stewart,” his first challenge is getting
+people to notice it at all. Apple TV+ is decidedly more plush but
+less entrenched than basic cable.
+Fans will find aspects of “The Problem With Jon Stewart” familiar.
+In front of an audience, he sits at a table for an opening
+monologue (now wearing a T-shirt and bomber jacket instead of a
+suit and tie). He twirls his pen, pauses for deadpan stares into
+the camera, stifles giggles behind his fist and makes
+self-deprecating cracks like, “I am what’s left of Jon Stewart.”
+Breaking from his previous format, the show includes unscripted
+segments in the show’s writers’ room, where Mr. Stewart and his
+staff banter over each episode’s topic (expanded on in a weekly
+companion podcast). A separate panel discussion captures the
+show’s sober tone.
+I watched the first episode and was bored to tears. I certainly sympathize with the plight of U.S. veterans who’ve been gravely harmed by the burning of toxic waste, but the show itself felt like a droll hour-long lecture — not a good sign when the show was in fact only 40 minutes long. Strong “When is this going to be over?” vibes. It was like being stuck back in school.
+I’m not saying Stewart can or should only do comedy. I like serious issue-based shows, too, but the good ones, like 60 Minutes, move along at a fast clip. John Oliver’s Last Week Tonight devotes itself to the most serious issues in the world today, but the show is entertaining, fast-paced, and funny as hell. It moves. The premiere of The Problem With Jon Stewart can only be described as “plodding”. I’ll give it another shot this week, but one more like last week’s and I’m out.
+ ★]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jony Ive Writes Touching Letter About Steve Jobs a Decade After His Passing]]></title>
+        <id>https://www.macrumors.com/2021/10/04/jony-ive-shares-remembrance-of-steve-jobs/</id>
+        <link href="https://www.macrumors.com/2021/10/04/jony-ive-shares-remembrance-of-steve-jobs/"/>
+        <updated>2021-10-04T15:42:16.000Z</updated>
+        <summary type="html"><![CDATA[Steve Jobs passed away 10 years ago tomorrow, and in commemoration, Apple's former design chief Jony Ive has penned a remembrance of his friend and colleague for WSJ. Magazine. In his first public comments about Jobs since delivering his eulogy in 2011, Ive reflected on his memories of Jobs across nearly 15 years of working together.
+
+
+
+
+
+"We had lunch together most days and spent our afternoons in the sanctuary of the design studio," wrote Ive. "Those were some of the happiest, most creative and joyful times of my life. I loved how he saw the world. The way he thought was profoundly beautiful."
+
+
+
+Ive said that he and Jobs had a shared curiosity that formed the basis of a joyful collaboration. "He was without doubt the most inquisitive human I have ever met," wrote Ive.
+
+
+
+"…]]></summary>
+        <author>
+            <name>Joe Rossignol</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Game developer turns nice train into horrible flesh-eating spider monster]]></title>
+        <id>https://www.polygon.com/22708667/horror-train-game-choo-choo-charles-steam-release-date</id>
+        <link href="https://www.polygon.com/22708667/horror-train-game-choo-choo-charles-steam-release-date"/>
+        <updated>2021-10-04T15:34:32.000Z</updated>
+        <summary type="html"><![CDATA[Image: Two Star Games
+    
+
+  
+Choo-Choo Charles is a terrifying concept
+ Survival horror train game Choo-Choo Charles looks like the unusual combination of Blair Witch and The Legend of Zelda: Spirit Tracks, with a Thomas the Tank Engine-fueled nightmare for extra spice. It’s the logical conclusion of nearly a decade of Thomas the Tank Engine video game mods, only the locomotive here isn’t a stand-in for a Skyrim dragon, but a bloodthirsty, spider-legged monstrosity named Charles.
+Two Star Games’ announced Choo-Choo Charles on Friday, and a viral tweet from the developer quickly illustrated the appeal of this unique horror game. Turns out no one wants to be chased by a hungry-for-human-flesh spider-train-beast, but they do want to play a video game where you can upgrade a modest train with a mounted machine gun and kill that kind of creature.
+According to Choo-Choo Charles’ official description, Charles is terrifying a local village and it’s up to you to destroy him. You’ll complete missions for local townsfolk, loot for scraps to upgrade your train’s armor, mobility, and damage, and ultimately take down Charles.
+While Two Star Games’ newest release seems perfect for Spooky Month, Choo-Choo Charles won’t be out until the first quarter of 2022, according to its Steam listing. In the meantime, Two Star Games has three free horror games on Steam you can try: Cloud Climber, My Friend is a Raven, and Night in Riverager.]]></summary>
+        <author>
+            <name>Polygon -  PC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Watch Series 6 vs. Apple Watch Series 7: Should You Upgrade?]]></title>
+        <id>https://www.macrumors.com/guide/apple-watch-series-6-vs-apple-watch-series-7&amp;post_date=1633372144/</id>
+        <link href="https://www.macrumors.com/guide/apple-watch-series-6-vs-apple-watch-series-7/"/>
+        <updated>2021-10-04T15:29:04.000Z</updated>
+        <summary type="html"><![CDATA[At its September special event, Apple introduced the Apple Watch Series 7. The Series 7 replaces the Apple Watch Series 6, which was announced in September of 2020, as the company's flagship wearable.
+
+
+
+
+
+The Apple Watch Series 7 offers a number of upgrades and improvements on last year's Series 6, offering a larger display with bigger casing sizes, faster charging, and the S7 chip, for a price starting at $399. 
+
+
+
+Although the Apple Watch Series 6 has now been discontinued by Apple, it continues to be available at many third-party resellers. If you already have an Apple Watch Series 6, you may be wondering if it is worth upgrading to the Series 7. You may also be using an older Apple Watch and are looking to upgrade, but cannot decide if you should buy the Series 6 or the Seri…]]></summary>
+        <author>
+            <name>Hartley Charlton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FCC filing shows Dyson is prepping next Roomba rival]]></title>
+        <id>https://arstechnica.com/?p=1800447</id>
+        <link href="https://arstechnica.com/?p=1800447"/>
+        <updated>2021-10-04T15:27:27.000Z</updated>
+        <summary type="html"><![CDATA[Current robot vacuum is out of stock, and FCC filings point to Dyson’s next move.]]></summary>
+        <author>
+            <name>Scharon Harding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LevelK Boards ‘The Passenger’ Ahead of Spanish Horror Movie’s Premiere at Sitges]]></title>
+        <id>https://bloody-disgusting.com/?p=3685687</id>
+        <link href="https://bloody-disgusting.com/movie/3685687/levelk-boards-passenger-ahead-spanish-horror-movies-premiere-sitges/"/>
+        <updated>2021-10-04T15:26:31.000Z</updated>
+        <summary type="html"><![CDATA[On the road to the film’s World Premiere at Sitges, LevelK has “boarded international sales rights” to Spanish horror movie The Passenger (La pasajera), Variety is reporting today. LevelK will be kicking off sales at Sitges. Fernando Gonzalez directed the “high concept” horror film, which “follows a group of strangers on a road trip who […]]]></summary>
+        <author>
+            <name>John Squires</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Simple Physics Trick That Helps Trains Stay on Their Tracks]]></title>
+        <id>https://kottke.org/21/10/the-simple-physics-trick-that-helps-trains-stay-on-their-tracks</id>
+        <link href="https://kottke.org/21/10/the-simple-physics-trick-that-helps-trains-stay-on-their-tracks"/>
+        <updated>2021-10-04T15:21:29.000Z</updated>
+        <summary type="html"><![CDATA[Train wheels do not sit completely flat on the tracks — they’re designed with a slight taper that increases the stability of the train and allows the train to go around curves without any of the wheels skidding. In this short video, Tadashi Tokieda explains how those conical wheels keep trains on track.
+See also Richard Feynman’s explanation of this and this science project at Scientific American. (via the prepared)
+Tags: physics   science   Tadashi Tokieda   video]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raleigh Settles Drug Framing Lawsuit for $2 Million]]></title>
+        <id>https://indyweek.com/news/wake/raleigh-settles-drug-framing-lawsuit-%242-million/</id>
+        <link href="https://indyweek.com/news/wake/raleigh-settles-drug-framing-lawsuit-%242-million/"/>
+        <updated>2021-10-04T15:10:51.000Z</updated>
+        <summary type="html"><![CDATA[Under the management of an RPD detective, a confidential informant framed 15 Black men with fake drugs, leading to their false arrests, thousands in legal fees, and months of incarceration.]]></summary>
+        <author>
+            <name>Jane Porter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deals: Get $10 Amazon Credit When Purchasing a $100 Apple Gift Card]]></title>
+        <id>https://www.macrumors.com/2021/10/04/deals-100-apple-gift-card/</id>
+        <link href="https://www.macrumors.com/2021/10/04/deals-100-apple-gift-card/"/>
+        <updated>2021-10-04T14:52:39.000Z</updated>
+        <summary type="html"><![CDATA[Amazon today is offering $10 in Amazon credit when you spend $100 or more on the Apple Gift Card. This card is digital and will be delivered to you via email, and the offer will automatically be applied at the checkout screen.
+
+
+
+Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.
+
+
+
+Amazon's wording on the sale is somewhat confusing, so if you don't see the sale automatically applied at checkout, you can use the code APPLEOCT at the checkout screen to get the deal. For most shoppers, however, the deal should apply automatically.
+
+
+
+It's been just over a year since we last tracked deals on iTunes gift cards, because Apple phased those out in favor of the new Apple Gift Card. This makes Amazon's sale today of particular note, since you won't find a straight cash discount on these cards again, but can at least get credit added to your Amazon account.
+
+
+
+
+$10 CREDIT
+$100 Apple Gift Card at Amazon
+
+
+
+
+
+All of the Apple Gift Cards on this page are supported under the new promotion, as long as you customize one to be worth $100 or more. The gift cards are sold by ACI Gift Cards, LLC, which is owned by Amazon and was related to iTunes gift card discounts in the past.
+
+
+
+If you're on the hunt for more discounts, be sure to visit our Apple Deals roundup where we recap the best Apple-related bargains of the past week.
+Related Roundup: Apple Deals
+This article, "Deals: Get $10 Amazon Credit When Purchasing a $100 Apple Gift Card" first appeared on MacRumors.com
+Discuss this article in our forums]]></summary>
+        <author>
+            <name>Mitchel Broussard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kevin Roose: ‘Facebook Is Weaker Than We Knew’]]></title>
+        <id>https://www.nytimes.com/2021/10/04/technology/facebook-files.html</id>
+        <link href="https://www.nytimes.com/2021/10/04/technology/facebook-files.html"/>
+        <updated>2021-10-04T14:52:25.000Z</updated>
+        <summary type="html"><![CDATA[Kevin Roose’s take on the inside look at Facebook revealed by The Wall Street Journal’s “Facebook Files” series, which in turn is based on Frances Haugen’s whistleblower leaks:
+It’s far too early to declare Facebook dead. The company’s stock
+price has risen nearly 30 percent in the past year, lifted by
+strong advertising revenue and a spike in use of some products
+during the pandemic. Facebook is still growing in countries
+outside the United States, and could succeed there even if it
+stumbles domestically. And the company has invested heavily in
+newer initiatives, like augmented and virtual reality products,
+that could turn the tide if they’re successful.
+But Facebook’s research tells a clear story, and it’s not a happy
+one. Its younger users are flocking to Snapchat and TikTok, and
+its older users are posting anti-vaccine memes and arguing about
+politics. Some Facebook products are actively shrinking, while
+others are merely making their users angry or self-conscious.
+Facebook’s declining relevance with young people shouldn’t
+necessarily make its critics optimistic. History teaches us that
+social networks rarely age gracefully, and that tech companies can
+do a lot of damage on the way down.
+ ★]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inspired by ‘Devil May Cry’, Futuristic Action Game ‘Wanted: Dead’ Has You Severing Limbs And Battling Cyborgs]]></title>
+        <id>https://bloody-disgusting.com/?p=3685627</id>
+        <link href="https://bloody-disgusting.com/video-games/3685627/inspired-by-devil-may-cry-futuristic-action-game-wanted-dead-has-you-severing-limbs-and-battling-cyborgs/"/>
+        <updated>2021-10-04T14:51:31.000Z</updated>
+        <summary type="html"><![CDATA[For those who enjoyed Metal Gear Rising: Revengeance‘s dismemberment and full-on cybernetic swordplay, developer Soleil and publisher 110 Industries have a little something for you. Announced during the Tokyo Game Show is Wanted: Dead, an over-the-shoulder action game for the PlayStation 5, Xbox Series and PC that will have you ripping off cyborg heads while […]]]></summary>
+        <author>
+            <name>Mike Wilson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today Marks the 10th Anniversary of Apple Introducing the iPhone 4S With Siri]]></title>
+        <id>https://www.macrumors.com/2021/10/04/siri-turns-10/</id>
+        <link href="https://www.macrumors.com/2021/10/04/siri-turns-10/"/>
+        <updated>2021-10-04T14:36:14.000Z</updated>
+        <summary type="html"><![CDATA[Today marks the 10th anniversary of Apple's marketing chief Phil Schiller and former iOS chief Scott Forstall introducing the iPhone 4S with an all-new voice assistant, Siri.
+
+
+
+
+
+"For decades, technologists have teased us with this dream that you're going to be able to talk to technology and it'll do things for us," said Schiller, at a small press conference at Apple's former Infinite Loop headquarters.
+
+
+
+Schiller then invited Forstall on stage to provide a live demo of Siri. The crowd applauded as he demonstrated what are now basic Siri tasks such as checking the weather, setting an alarm, and searching the web, as Siri was the first system-level voice assistant on a smartphone. A decade later, however, it is a commonly held opinion that Siri has fallen behind competitors like…]]></summary>
+        <author>
+            <name>Joe Rossignol</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reebok and ‘Ghostbusters’ Join Forces for Shoes Inspired By the Terror Dogs, the Pink Slime and More!]]></title>
+        <id>https://bloody-disgusting.com/?p=3685671</id>
+        <link href="https://bloody-disgusting.com/the-further/3685671/reebok-ghostbusters-join-forces-shoes-inspired-terror-dogs-pink-slime/"/>
+        <updated>2021-10-04T14:25:51.000Z</updated>
+        <summary type="html"><![CDATA[While we wait for the November release of Ghostbusters: Afterlife, a sequel to the original classics, Reebok has just announced an official partnership with the Ghostbusters brand. The press release explains, “Reebok, in collaboration with Sony Pictures Consumer Products, unveils a full-family footwear and apparel collection inspired by the Ghostbusters franchise. Following the successful first line […]]]></summary>
+        <author>
+            <name>John Squires</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frances Haugen, Facebook Whistleblower, on 60 Minutes]]></title>
+        <id>https://www.cbsnews.com/news/facebook-whistleblower-frances-haugen-60-minutes-polarizing-divisive-content/</id>
+        <link href="https://www.cbsnews.com/news/facebook-whistleblower-frances-haugen-60-minutes-polarizing-divisive-content/"/>
+        <updated>2021-10-04T14:14:09.000Z</updated>
+        <summary type="html"><![CDATA[Keith Zubrow, writing for 60 Minutes Overtime:
+Haugen stated that some of Facebook’s own research found that
+“angry content” is more likely to receive engagement, something
+that content producers and political parties are aware of.
+“One of the most shocking pieces of information that I brought out
+of Facebook that I think is essential to this disclosure is
+political parties have been quoted, in Facebook’s own research,
+saying, we know you changed how you pick out the content that goes
+in the home feed,” said Haugen. “And now if we don’t publish
+angry, hateful, polarizing, divisive content, crickets. We don’t
+get anything. And we don’t like this. We know our constituents
+don’t like this. But if we don’t do these stories, we don’t get
+distributed. And so it used to be that we did very little of it,
+and now we have to do a lot of it, because we have jobs to do. And
+if we don’t get traffic and engagement, we’ll lose our jobs.”
+Haugen’s whistleblowing jibes exactly with my theory all along: Facebook prioritizes growth and engagement over all else, and when they discovered that polarizing angering content drives engagement more than anything else, they let it fly. It’s that simple.
+ ★]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researcher refuses Telegram’s bounty award, discloses auto-delete bug]]></title>
+        <id>https://arstechnica.com/?p=1800367</id>
+        <link href="https://arstechnica.com/?p=1800367"/>
+        <updated>2021-10-04T14:12:18.000Z</updated>
+        <summary type="html"><![CDATA[Telegram took months to fix "self-destruct" message bug. Then requested silence.]]></summary>
+        <author>
+            <name>Ax Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“We’re a Long Way From Giving Up” – Jason Blum Updates On the ‘Five Nights at Freddy’s’ Movie]]></title>
+        <id>https://bloody-disgusting.com/?p=3685661</id>
+        <link href="https://bloody-disgusting.com/movie/3685661/long-way-giving-jason-blum-updates-five-nights-freddys-movie/"/>
+        <updated>2021-10-04T14:11:20.000Z</updated>
+        <summary type="html"><![CDATA[As we’ve now reported several times over the years, Blumhouse and Five Nights at Freddy’s creator Scott Cawthon have been developing a film adaptation of the games for quite a while now, with Gremlins writer Chris Columbus (Home Alone, Harry Potter and the Sorcerer’s Stone) most recently attached to direct. Columbus is now off the project, alas. “Chris Columbus […]]]></summary>
+        <author>
+            <name>John Squires</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stay Home, Watch Horror: 5 Horror Movies to Stream This Week That Spotlight Trick or Treaters]]></title>
+        <id>https://bloody-disgusting.com/?p=3685555</id>
+        <link href="https://bloody-disgusting.com/editorials/3685555/stay-home-watch-horror-5-halloween-horror-movies-stream-week-celebrate-trick-treaters/"/>
+        <updated>2021-10-04T14:00:50.000Z</updated>
+        <summary type="html"><![CDATA[It’s October! That means no one can deny that it’s officially Halloween. It also means the first week of many that will offer streaming picks themed around the best holiday of the year. This week belongs to the trick or treater; the costumed denizens roaming the streets on Halloween night are a holiday fixture. These […]]]></summary>
+        <author>
+            <name>Meagan Navarro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Watch Series 7 Orders Start This Friday, and a Bonus Spitball Theory About the Much-Rumored Flat-Sided Design]]></title>
+        <id>https://www.apple.com/newsroom/2021/10/apple-watch-series-7-orders-start-friday-october-8/</id>
+        <link href="https://www.apple.com/newsroom/2021/10/apple-watch-series-7-orders-start-friday-october-8/"/>
+        <updated>2021-10-04T13:57:20.000Z</updated>
+        <summary type="html"><![CDATA[Apple Newsroom:
+Apple today announced Apple Watch Series 7, featuring the largest
+and most advanced Apple Watch display ever — and a reengineered
+Always-On Retina display with significantly more screen area and
+thinner borders — will be available to order beginning Friday,
+October 8, at 5 a.m. PDT and available in stores starting Friday,
+October 15.
+So the Series 7 watches are only shipping three weeks after the iPhones 13. Not bad, but let’s see how supply-constrained they are.
+While I’m writing about Apple Watch, let me put on the record my theory about the flat-sides industrial design that a slew of rumor guys claimed was coming for Series 7, but in fact, did not. (I put forth this theory on the latest episode of The Talk Show, with guest Jason Snell.)
+My guess is that the flat-sided de…]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deals: New Sales Hit Every AirPods Model, Starting at $109 for Regular AirPods]]></title>
+        <id>https://www.macrumors.com/2021/10/04/deals-every-airpods-model/</id>
+        <link href="https://www.macrumors.com/2021/10/04/deals-every-airpods-model/"/>
+        <updated>2021-10-04T13:49:16.000Z</updated>
+        <summary type="html"><![CDATA[Today we're tracking new sales on every model of Apple's AirPods, starting with a return of the lowest-ever price on the AirPods with Wireless Charging Case on Amazon, priced at $129.00, down from $199.00. Below you'll also find sales on the AirPods with Wired Charging Case, AirPods Pro, and AirPods Max.
+
+
+
+Note: MacRumors is an affiliate partner with these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.
+
+
+
+We've seen this sale about three times total throughout 2021, making it a somewhat rare discount on top of being the lowest we've ever tracked for the AirPods with Wireless Charging Case. Walmart is also offering this deal to its shoppers, with the option of free in-store pick-up.
+
+
+
+
+$70 OFF
+AirPods w…]]></summary>
+        <author>
+            <name>Mitchel Broussard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook “is tearing our societies apart,” whistleblower says in interview]]></title>
+        <id>https://arstechnica.com/?p=1800340</id>
+        <link href="https://arstechnica.com/?p=1800340"/>
+        <updated>2021-10-04T13:46:09.000Z</updated>
+        <summary type="html"><![CDATA["Facebook, over and over again, chose to optimize for its own interests."]]></summary>
+        <author>
+            <name>Tim De Chant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jett: The Far Shore puts the majesty back in space travel]]></title>
+        <id>https://www.polygon.com/reviews/22704379/jett-the-far-shore-review-epic-games-store-playstation-5</id>
+        <link href="https://www.polygon.com/reviews/22704379/jett-the-far-shore-review-epic-games-store-playstation-5"/>
+        <updated>2021-10-04T13:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Image: Superbrothers/Pine Scented
+    
+
+  
+An awe-inspiring odyssey
+ I don’t function well under pressure. So when my parents and teachers told me that I’m the last hope of my people, I was prepared to be pretty stressed about the next steps. Then, a couple of hours later, I’m chasing a pink light known as a brine wisp above beautiful crystal waters, doing donuts above the ocean while playing with this new life form.
+Jett: The Far Shore delights in these contrasts.  
+We’ve all been to space before — I personally love dabbling (and, occasionally, dying horrifically) in games like No Man’s Sky and Hardspace Shipbreaker. But while other games focus on the danger or the adventure of interstellar travel, Jett places all of its emphasis on the unsettling, awe-inspiring, and utterly alien beauty …]]></summary>
+        <author>
+            <name>Polygon -  PC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seven Essential Marc Cary Albums on Bandcamp]]></title>
+        <id>144438</id>
+        <link href="https://daily.bandcamp.com/lists/marc-cary-discography-list"/>
+        <updated>2021-10-04T13:38:45.000Z</updated>
+        <summary type="html"><![CDATA[A guide to the jazz and electronic artist's rich body of work.
+Read full story on the Bandcamp Daily.]]></summary>
+        <author>
+            <name>Michael J. West</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“I Shall Wear a Crown” Introduces Pastor T.L. Barrett To a New Generation]]></title>
+        <id>144432</id>
+        <link href="https://daily.bandcamp.com/features/pastor-t-l-barrett-i-shall-wear-a-crown-interview"/>
+        <updated>2021-10-04T13:38:33.000Z</updated>
+        <summary type="html"><![CDATA[This reissue of the legendary gospel singer's two decades of recordings will bring his music to new listeners.
+Read full story on the Bandcamp Daily.]]></summary>
+        <author>
+            <name>Brittny Pierre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“I Shall Wear a Crown” Introduces Pastor T.L. Barrett To a New Generation]]></title>
+        <id>144432</id>
+        <link href="https://daily.bandcamp.com/features/pastor-t-l-barrett-i-shall-wear-a-crown-interview"/>
+        <updated>2021-10-04T13:38:33.000Z</updated>
+        <summary type="html"><![CDATA[This reissue of the legendary gospel singer's two decades of recordings will bring his music to new listeners.
+Read full story on the Bandcamp Daily.]]></summary>
+        <author>
+            <name>Bradley Murray</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Black Dice, “Mod Prog Sic”]]></title>
+        <id>144453</id>
+        <link href="https://daily.bandcamp.com/album-of-the-day/black-dice-mod-prog-sic"/>
+        <updated>2021-10-04T13:38:18.000Z</updated>
+        <summary type="html"><![CDATA[After a 10-year absence, Black Dice return with another shapeshifting LP.
+Read full story on the Bandcamp Daily.]]></summary>
+        <author>
+            <name>Miles Bowe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Letters to the Future]]></title>
+        <id>https://kottke.org/21/10/letters-to-the-future</id>
+        <link href="https://kottke.org/21/10/letters-to-the-future"/>
+        <updated>2021-10-04T13:13:47.000Z</updated>
+        <summary type="html"><![CDATA[To raise awareness around plastic’s resistance to decomposition (it won’t break down for 1000 years), Vietnamese creative agency Ki Saigon has designed a book out of recycled plastic containing letters to read a millennium from now.
+“There was a lot of trial and error” when putting the book together, says Kumkum. For starters, what does one say to their future family members? Ki Saigon decided to provide a guide for the letters, asking each participant to imagine what they would like to hear from them, given the fact the book will still be around in 1000 years. Each letter is also hand written, adding another dimension to the project while “staying true to the spirit of the project.”
+
+
+A time capsule with no container needed.
+Tags: books]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Watch Series 7 Pre-Orders to Start This Friday, Available on October 15]]></title>
+        <id>https://www.macrumors.com/2021/10/04/apple-watch-series-7-pre-orders/</id>
+        <link href="https://www.macrumors.com/2021/10/04/apple-watch-series-7-pre-orders/"/>
+        <updated>2021-10-04T13:02:46.000Z</updated>
+        <summary type="html"><![CDATA[Apple today announced that pre-orders for the new Apple Watch Series 7 will start on Friday, October 8, with availability on Friday, October 15. 
+
+
+
+
+
+While Apple announced the Series 7 alongside the iPhone 13 last month, the company didn't provide any information on availability besides saying it will be available "later this fall." The new Apple Watch will officially be available for pre-orders at 5 a.m. PDT on Friday, October 8, and will start shipping a week later on Friday, October 15.
+
+
+
+The Series 7, compared to the Series 6, features a larger display with slightly more rounded corners, which allows the display to appear to curve on the sides. The new Series 7 also sports improved IP6X certification for dust resistance in addition to WR50 water resistance. The new watch, however, keeps the same CPU as the Series 6. 
+
+
+
+The Series 7 comes in five aluminum case finishes, including a refined blue case, (PRODUCT)RED, midnight, starlight, and green. Stainless steel options in silver, graphite, and gold stainless steel alongside "Apple Watch Edition" in titanium and black titanium will also be available. The Series 7 starts at $399 and joins the Apple Watch SE and the Apple Watch Series 3 in the lineup. 
+
+
+
+To learn more about the ‌Apple Watch Series 7‌, including on whether you should upgrade or not, be sure to check out our comprehensive roundup.  
+Related Roundup: Apple Watch Series 7
+Buyer's Guide: Apple Watch (Buy Now)
+Related Forum: Apple Watch
+This article, "Apple Watch Series 7 Pre-Orders to Start This Friday, Available on October 15" first appeared on MacRumors.com
+Discuss this article in our forums]]></summary>
+        <author>
+            <name>Sami Fathi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Review] ‘Alan Wake Remastered’ Shines Fresh Light on Remedy’s Intoxicating Horror Game Classic]]></title>
+        <id>https://bloody-disgusting.com/?p=3685631</id>
+        <link href="https://bloody-disgusting.com/video-games/3685631/review-alan-wake-remastered-shines-fresh-light-remedys-intoxicating-horror-game-classic/"/>
+        <updated>2021-10-04T13:01:22.000Z</updated>
+        <summary type="html"><![CDATA[Alan Wake re-emerges from the darkness looking better than ever, and at the perfect time for reappraisal. It’s been 11 years since Remedy took us to Bright Falls and led us down the kind of deliciously demented path the developer has since become synonymous with. Now, with Control pushing Remedy to new heights (not to […]]]></summary>
+        <author>
+            <name>Neil Bolt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alan Wake: Remastered revives the frustrating masterpiece]]></title>
+        <id>https://www.polygon.com/reviews/22703172/alan-wake-remastered-review-impressions-playstation</id>
+        <link href="https://www.polygon.com/reviews/22703172/alan-wake-remastered-review-impressions-playstation"/>
+        <updated>2021-10-04T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Image: Remedy Entertainment/Epic Games
+    
+
+
+  
+Remedy’s Alan Wake: Remastered doesn’t add much, but it’s a great excuse to replay a classic
+ Alan Wake is a frustrating masterpiece. It’s rife with charm, and overflowing with a mysterious atmosphere, and both are on display in Alan Wake: Remastered more than ever before. However, its issues are still as glaring as they were 11 years ago, and this remaster does nothing to mitigate them.
+Let’s get this out of the way up front: The actual act of playing Alan Wake was already boring in 2010. By today’s standards, it’s a legitimate slog. A good 40% of certain levels consist of just jogging through the woods or down a road, and Alan can only run for about five seconds without slowing down and huffing for air — a relatable trait, from one writer …]]></summary>
+        <author>
+            <name>Polygon -  PC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Venom: Let There Be Carnage’ Devours the Box Office With $90 Million Domestic Opening]]></title>
+        <id>https://bloody-disgusting.com/?p=3685636</id>
+        <link href="https://bloody-disgusting.com/movie/3685636/venom-let-carnage-devours-box-office-90-million-domestic-opening/"/>
+        <updated>2021-10-04T12:46:24.000Z</updated>
+        <summary type="html"><![CDATA[Almost exactly one year after it was originally supposed to be unleashed in theaters, Sony’s Venom: Let There Be Carnage finally came to the big screen over the weekend, and it looks like Venom is pandemic proof because the Andy Serkis-directed sequel managed to scare up even more money in its domestic opening weekend than […]]]></summary>
+        <author>
+            <name>John Squires</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let’s make a deal: Entrepreneur wants to trade Buran shuttle for a skull]]></title>
+        <id>https://arstechnica.com/?p=1800165</id>
+        <link href="https://arstechnica.com/?p=1800165"/>
+        <updated>2021-10-04T12:45:13.000Z</updated>
+        <summary type="html"><![CDATA["It is not water that flows in our veins, but blood."]]></summary>
+        <author>
+            <name>Eric Berger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Report a Problem' App Store Option Returns to Combat Scams]]></title>
+        <id>https://www.macrumors.com/2021/10/04/report-a-problem-app-store-option-returns/</id>
+        <link href="https://www.macrumors.com/2021/10/04/report-a-problem-app-store-option-returns/"/>
+        <updated>2021-10-04T12:04:45.000Z</updated>
+        <summary type="html"><![CDATA[After being removed several years ago, Apple has restored the "Report a Problem" option on the App Store in an effort to flag issues and combat scams.
+
+
+
+
+
+Spotted by Richard Mazkewich and Kosta Eleftheriou and highlighted by The Verge, the option allows users to report individual ‌App Store‌ listings in iOS 15. When selected, the option directs users to a website with a drop-down menu to report ‌App Store‌ violations, including a specific option to "Report a scam or fraud."
+
+
+
+The previous option, which was difficult to access, allowed users to "Report suspicious activity" redirected to Apple Support. Users were only able to report "a quality issue" with apps if they had actually paid for a scam app or in-app purchase, meaning that there was no ability to easily report obvious scams.
+
+
+
+
+In a major reversal, Apple quietly added back the “Report a Problem” @AppStore button in iOS 15: pic.twitter.com/UopiPDEV7e
+— Kosta Eleftheriou (@keleftheriou) October 3, 2021
+ 
+
+
+
+
+The "Report a Problem" option appears to be rolling out slowly, starting with free apps with in-app purchases on the ‌App Store‌ in the United States. The addition comes just days after Apple added the ability for users to rate their own apps on the ‌App Store‌.
+Tag: App Store
+This article, "'Report a Problem' App Store Option Returns to Combat Scams" first appeared on MacRumors.com
+Discuss this article in our forums]]></summary>
+        <author>
+            <name>Hartley Charlton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Illfonic Working on New ‘Ghostbusters’ Game?]]></title>
+        <id>https://bloody-disgusting.com/?p=3685623</id>
+        <link href="https://bloody-disgusting.com/video-games/3685623/illfonic-working-on-new-ghostbusters-game/"/>
+        <updated>2021-10-04T11:45:17.000Z</updated>
+        <summary type="html"><![CDATA[With Ghostbusters: Afterlife busting into theatres very soon (for reals, this time), it would seem that we’re also in for another Ghostbusters video game. At least, that’s according to singer/songwriter/record producer Raphael Saadiq, of all people. Snagged by PCGamesN, while on the Questlove Supreme podcast, Saadiq dropped news about an hour into the episode that […]]]></summary>
+        <author>
+            <name>Mike Wilson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jinjer – Wallflowers]]></title>
+        <id>https://www.teethofthedivine.com/?p=56922</id>
+        <link href="https://www.teethofthedivine.com/featured/jinjer-wallflowers/"/>
+        <updated>2021-10-04T11:22:14.000Z</updated>
+        <summary type="html"><![CDATA[I know, I know. Jinjer. Despite their hype and relative fame based on the seemingly hundreds of YouTube “reaction” videos, they’re still worth a listen. Or several. They’re more deserving of mainstream metal acclaim than a lot the bands who receive it. They write great, memorable songs, and have one of the most talented and […]]]></summary>
+        <author>
+            <name>J Mays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Ramps Up iPhone 13 Chip Orders, Scales Down Orders for Older iPhones]]></title>
+        <id>https://www.macrumors.com/2021/10/04/apple-ramps-up-iphone-13-chip-orders/</id>
+        <link href="https://www.macrumors.com/2021/10/04/apple-ramps-up-iphone-13-chip-orders/"/>
+        <updated>2021-10-04T10:57:16.000Z</updated>
+        <summary type="html"><![CDATA[Apple has managed to ramp up chip orders for its new iPhone 13 lineup by reducing equivalent orders for the older-generation iPhone models that the company still sells, according to a new DigiTimes report.
+
+
+
+
+Apple has scaled down its chip orders for older-generation iPhones, while ramping up wafer starts at TSMC for its iPhone 13, the sources said. Apple has also not made any changes to its chip orders placed with TSMC for 2021, the sources noted.
+Apple continues to sell the iPhone 12, iPhone 12 mini, and iPhone 11 on its online store, and also offers the iPhone SE 2 for users who prefer an affordable ‌iPhone‌ with a Home button. Apple discontinued the ‌iPhone‌ XR, ‌iPhone 12‌ Pro and iPhone 12 Pro Max when it launched the ‌iPhone 13‌ series in September. 
+
+
+
+Apple is currently s…]]></summary>
+        <author>
+            <name>Tim Hardwick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monday Morning Fly By: One in the win column]]></title>
+        <id>https://www.broadstreethockey.com/2021/10/4/22707685/monday-morning-fly-by-one-in-the-win-column</id>
+        <link href="https://www.broadstreethockey.com/2021/10/4/22707685/monday-morning-fly-by-one-in-the-win-column"/>
+        <updated>2021-10-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Bob DeChiara-USA TODAY Sports
+    
+
+  
+Today’s open discussion thread, complete with your daily dose of Flyers news and notes…  
+ *After two lackluster performances by a mostly-AHL roster, the big boys hit the ice Saturday night against the Capitals and took home their first win of the preseason. Exciting!! Here’s what we learned. [BSH]
+*It was really our first experience with the new-look Flyers and the result was favorable. Which seems good! [NBC Sports Philly]
+*While it was definitely a lineup that seemed like what we might see opening night, there are still roster battles happening as we head into this week’s games. [Inquirer]
+*In that vein, Charlie take a look at which players have locked themselves into a spot and who still has something to prove. [The Athletic]
+*One of those roster locks, Joel Farabee, is already looking impressive, even in the games that don’t count. [BSH]
+*One of the healthy, peak-condition professional hockey players who had Covid over the summer will miss the season because, well, death isn’t the only negative outcome, folks. [ProHockeyTalk]
+*Let’s look at ten things we should expect to happen as we head into opening night. [Sportsnet]
+*The Metro Division gets the preview treatment. [The Hockey News]
+*If you aren’t on Twitter, you missed quite a... thing over the weekend. Involving, allegedly, you’re Flyers. [ESPN]
+*The league hopes to speak with Robin Lehner about this but as of now, no idea what is going on. What a mess, if even partly true. [Sportsnet]
+*And finally, to leave you on a lighter note, amid the search for a new goal song, some Flyers players have revealed their own choices. Some interesting ones. [NBC Sports Philly]]]></summary>
+        <author>
+            <name>Broad Street Hockey -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 13 Pro Costs Around $20 More to Build Compared to the iPhone 12 Pro, Despite Being the Same Price for the Customer]]></title>
+        <id>https://www.macrumors.com/2021/10/04/iphone-13-pro-costs-breakdown-iphone-12-pro/</id>
+        <link href="https://www.macrumors.com/2021/10/04/iphone-13-pro-costs-breakdown-iphone-12-pro/"/>
+        <updated>2021-10-04T09:22:07.000Z</updated>
+        <summary type="html"><![CDATA[The iPhone 13 Pro costs Apple around $20 more to build compared to last year's iPhone 12 Pro, but despite the lower margin of revenue for the company, the ‌iPhone 13 Pro‌ still starts at the same $999 price point as last year's entry-level Pro iPhone.
+
+
+
+
+
+TechInsights did a costs analysis breakdown of the new ‌iPhone 13 Pro‌, finding that due to higher component costs related to the improved camera, A15 Bionic chip, ProMotion displays, and presumably the large battery, the newest ‌iPhone‌ costs $570 to build, while the ‌iPhone 12‌ Pro cost merely $548. Compared to the Samsung Galaxy S21+, both iPhones are however significantly more expensive to build.
+
+
+
+
+
+The increase in build costs from the ‌iPhone 12‌ Pro to the ‌iPhone 13 Pro‌ is notable but not as pronounced as last year's increase from the iPhone 11. The ‌iPhone 12‌ introduced 5G support, a new 5nm chip, and the return of flat edges. Those changes resulted in the iPhone 12 being 21% more expensive for Apple to build than the ‌iPhone 11‌.
+
+
+
+In the run-up to the launch of the iPhone 13 and ‌iPhone 13 Pro‌ last month, a report suggested that due to increased costs for chip production, Apple would increase the price of the iPhone 13 as a means of compensating. That did not occur, and Apple instead kept the same price points for the ‌iPhone 13‌, on top of introducing more aggressive carrier subsidies. Another report suggested that Apple was looking at new ways to assemble the cameras in an ‌iPhone‌ to save costs.
+Related Roundup: iPhone 13 Pro
+Tag: iPhone 13
+Buyer's Guide: iPhone 13 Pro (Buy Now)
+Related Forum: iPhone
+This article, "iPhone 13 Pro Costs Around $20 More to Build Compared to the iPhone 12 Pro, Despite Being the Same Price for the Customer" first appeared on MacRumors.com
+Discuss this article in our forums]]></summary>
+        <author>
+            <name>Sami Fathi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making sense of Mazda’s MX-30 electric commuter car]]></title>
+        <id>https://arstechnica.com/?p=1800281</id>
+        <link href="https://arstechnica.com/?p=1800281"/>
+        <updated>2021-10-04T09:00:04.000Z</updated>
+        <summary type="html"><![CDATA[This compliance car might be aimed at regulators, not regular people.]]></summary>
+        <author>
+            <name>Jonathan M. Gitlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Makes iCloud Safari Bookmarks End-To-End Encrypted]]></title>
+        <id>https://www.macrumors.com/2021/10/04/apple-safari-bookmarks-end-to-end-encrypted/</id>
+        <link href="https://www.macrumors.com/2021/10/04/apple-safari-bookmarks-end-to-end-encrypted/"/>
+        <updated>2021-10-04T08:28:55.000Z</updated>
+        <summary type="html"><![CDATA[Apple has toggled end-to-end encryption for Safari bookmarks in iCloud, further expanding the type of user data that the company fully encrypts, offering the highest level of privacy and data protection.
+
+
+
+
+
+Spotted on Reddit, an update to Apple's "iCloud security overview" page has indicated that alongside Safari tabs and history, Safari bookmarks are now end-to-end encrypted, meaning no one, not even Apple, can access users' saved Safari bookmarks. Based on the timing of the update, Apple likely did this change around the release of iOS and iPadOS 15. Apple didn't respond to a request for comment.
+
+
+
+With Safari bookmarks now an added data point that's end-to-end encrypted, what remains not end-to-end encrypted is worth noting. ‌iCloud‌ backups, for example, are only protected using 128-bit AES encryption, alongside Photos, Reminders, Notes, and more. In recent months, Apple has come under pressure to make iCloud Photos and ‌iCloud‌ backups fully end-to-end encrypted, but the company has yet to make those changes.
+Tag: Apple privacy
+This article, "Apple Makes iCloud Safari Bookmarks End-To-End Encrypted" first appeared on MacRumors.com
+Discuss this article in our forums]]></summary>
+        <author>
+            <name>Sami Fathi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sage Butter Pumpkin Cheese Ravioli.]]></title>
+        <id>https://www.halfbakedharvest.com/?p=112031</id>
+        <link href="https://www.halfbakedharvest.com/sage-butter-pumpkin-cheese-ravioli/"/>
+        <updated>2021-10-04T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sage Butter Pumpkin Cheese Ravioli.
+The coziest bowl of Sage Butter Pumpkin Cheese Ravioli for all the chilly nights ahead. Pumpkin cheese ravioli tossed in a simple but delicious sage butter sauce with wine and garlic. Finish off each bowl of saucy ravioli with nutty manchego cheese. When you’re in need of an easy 30-minute dinner, make this pumpkiny ravioli.…
+READ: Sage Butter Pumpkin Cheese Ravioli.]]></summary>
+        <author>
+            <name>halfbakedharvest</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steve Jobs Once Tossed the Original iPhone Across a Room to Impress Journalists]]></title>
+        <id>https://www.macrumors.com/2021/10/03/steve-jobs-tossed-iphone-story/</id>
+        <link href="https://www.macrumors.com/2021/10/03/steve-jobs-tossed-iphone-story/"/>
+        <updated>2021-10-04T03:13:52.000Z</updated>
+        <summary type="html"><![CDATA[Tuesday marks 10 years since Apple co-founder Steve Jobs passed away, and those who met him have begun to share stories about his life.
+
+
+
+
+
+CNET's Roger Cheng today recounted his memory of Jobs visiting The Wall Street Journal's headquarters in New York to offer him and a small group of other reporters an early look at a prototype iPhone, shortly after the device was unveiled in 2007.
+
+
+
+Cheng revealed that when one reporter asked about the iPhone's durability, Jobs reacted by tossing the prototype he was holding into the air toward the center of the room, resulting in a small gasp followed by immediate silence as the device hit the carpeted floor. Cheng said the iPhone survived unscathed, adding that the move was the kind of calculated risk that Jobs was known to take as a showman.
+
+
+
+"The memory underscores the kind of lengths Jobs went to in order to make an impression," wrote Cheng. "Imagine how disastrous it would've been if that iPhone had broken or shut down in front of so many journalists."
+
+
+
+
+
+
+Jobs famously introduced the original iPhone as if it were three separate products: a widescreen iPod with touch controls, a revolutionary mobile phone, and a breakthrough internet communications device. The crowd at Macworld San Francisco erupted with cheerful applause upon realizing that Jobs was referring to a single device.
+
+
+
+Jobs passed away October 5, 2011 at the age of 56. Apple maintains a Remembering Steve page on its website with messages from people all over the world.
+Tag: Steve Jobs
+This article, "Steve Jobs Once Tossed the Original iPhone Across a Room to Impress Journalists" first appeared on MacRumors.com
+Discuss this article in our forums]]></summary>
+        <author>
+            <name>Joe Rossignol</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Elizabeth Holmes’ defense strikes back in cross-examination of lab director]]></title>
         <id>https://arstechnica.com/?p=1800306</id>
@@ -29473,107 +30949,6 @@ According to Gurman, Apple will announce the Apple Watch Series 7 alongside the 
         <summary type="html"><![CDATA[It's a great release for fidgety energy, and it's surprisingly comfortable.]]></summary>
         <author>
             <name>Corey Gaskin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[War Stories: How Crash Bandicoot hacked the original PlayStation]]></title>
-        <id>https://arstechnica.com/?p=1656632</id>
-        <link href="https://arstechnica.com/?p=1656632"/>
-        <updated>2021-09-05T12:45:49.000Z</updated>
-        <summary type="html"><![CDATA[Naughty Dog's Andy Gavin reveals mid-'90s memory management and 3D animation tricks.]]></summary>
-        <author>
-            <name>Kyle Orland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I saved money on HomeKit smartbulbs with Philips Wiz and a Raspberry Pi]]></title>
-        <id>https://arstechnica.com/?p=1790941</id>
-        <link href="https://arstechnica.com/?p=1790941"/>
-        <updated>2021-09-05T12:30:54.000Z</updated>
-        <summary type="html"><![CDATA[Wiz bulbs look great and cost way less than Hue but need some HomeKit help.]]></summary>
-        <author>
-            <name>Andrew Cunningham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sunday Reading: ESPN Details Durham Bulls' Pitcher Tyler Zombro's Recovery]]></title>
-        <id>https://indyweek.com/news/longform/sunday-reading-espn-details-durham-bulls-tyler-zombro-recovery/</id>
-        <link href="https://indyweek.com/news/longform/sunday-reading-espn-details-durham-bulls-tyler-zombro-recovery/"/>
-        <updated>2021-09-05T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In a sensitive but straightforward piece, ESPN writer Tonya Simpson and columnist Jeff Passan reveal the specifics of Zombro’s injury and talk about who he is as a player, husband, and pitching coach.]]></summary>
-        <author>
-            <name>Jasmine Gallup</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why ransomware hackers love a holiday weekend]]></title>
-        <id>https://arstechnica.com/?p=1791952</id>
-        <link href="https://arstechnica.com/?p=1791952"/>
-        <updated>2021-09-05T11:00:47.000Z</updated>
-        <summary type="html"><![CDATA[Looking forward to Labor Day? So are ruthless gangs of cybercriminals.]]></summary>
-        <author>
-            <name>WIRED</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nine Favorite Things.]]></title>
-        <id>https://www.halfbakedharvest.com/?p=111129</id>
-        <link href="https://www.halfbakedharvest.com/nine-favorite-things-209/"/>
-        <updated>2021-09-05T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Nine Favorite Things.
-(Grace Rose Farm – photo by Kristen Kilpatrick) Nine Favorite Things September is here! One of my favorite months of the year. And though I’m aware that I sound like a broken record, I think we all know how much I love (and thrive) over the next few months. I love summer just as much…
-READ: Nine Favorite Things.]]></summary>
-        <author>
-            <name>halfbakedharvest</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Listing Spotted For ‘Alan Wake Remastered’ For PS4, PS5 And Xbox Series For October 5 Release]]></title>
-        <id>https://bloody-disgusting.com/?p=3681581</id>
-        <link href="https://bloody-disgusting.com/video-games/3681581/listing-spotted-for-alan-wake-remastered-for-ps4-ps5-and-xbox-series-for-october-5-release/"/>
-        <updated>2021-09-05T01:30:05.000Z</updated>
-        <summary type="html"><![CDATA[As with everything of this nature, take it with a grain of salt. But oh boy, does it sound juicy if it turns out to be real. Remember that listing on the Epic Games Store back end with Alan Wake? Well, as spotted by Wario64 on Twitter, a listing for Alan Wake Remastered has been […]]]></summary>
-        <author>
-            <name>Mike Wilson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Watch Series 7: Rumors, Features, Possible Release Date and More]]></title>
-        <id>https://www.macrumors.com/guide/apple-watch-series-7&amp;post_date=1630785780/</id>
-        <link href="https://www.macrumors.com/guide/apple-watch-series-7/"/>
-        <updated>2021-09-04T17:03:00.000Z</updated>
-        <summary type="html"><![CDATA[Apple is expected to introduce the Apple Watch Series 7 at an event in September, and the Series 7 is an exciting update because it features the first significant redesign to the Apple Watch that we've seen in years.
-
-
-
-
-
-This guide covers everything we know about the Apple Watch Series 7, ranging from design changes to launch date to production issues.
-
-
-
-Design and Display
-
-
-The Apple Watch has looked largely the same since it was released in 2015, though it did get a display overhaul with the launch of the Apple Watch Series 4. The Apple Watch Series 7 will feature a much more dramatic design change that will make it clearly distinguishable from prior Apple Watch models.
-
-
-
-
-
-First of all, it will come in new 41mm and 45mm size options, up from 40 and 44mm. The larger …]]></summary>
-        <author>
-            <name>Juli Clover</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How a flight-sim cockpit helps me get away from it all (figuratively)]]></title>
-        <id>https://arstechnica.com/?p=1791282</id>
-        <link href="https://arstechnica.com/?p=1791282"/>
-        <updated>2021-09-04T14:00:50.000Z</updated>
-        <summary type="html"><![CDATA[Ars Senior Tech Editor Lee Hutchinson flies us down a flight-sim rabbit hole.]]></summary>
-        <author>
-            <name>Andrew Cunningham</name>
         </author>
     </entry>
 </feed>
