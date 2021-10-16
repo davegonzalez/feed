@@ -2,10 +2,1107 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://davegonzalez.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-10-15T01:02:18.632Z</updated>
-    <generator>osmosfeed 1.11.2</generator>
+    <updated>2021-10-16T01:03:10.970Z</updated>
+    <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://davegonzalez.github.io/feed/index.html"/>
     <link rel="self" href="https://davegonzalez.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ted Lasso, the Jon Gruden story, and ethics in sports media]]></title>
+        <id>https://www.cjr.org/the_media_today/ted_lasso_gruden_nfl_schefter.php</id>
+        <link href="https://www.cjr.org/the_media_today/ted_lasso_gruden_nfl_schefter.php"/>
+        <updated>2021-10-16T01:02:56.976Z</updated>
+        <summary type="html"><![CDATA[On October 1, the penultimate episode of the second season of Ted Lasso—a hit fictional show about an American football coach who moves to London to coach football of the English variety—ended (spoiler alert) on a cliffhanger. Trent Crimm—a lion-maned journalist character whose shtick is standing up at press conferences, removing his glasses, and introducing […]]]></summary>
+        <author>
+            <name>Columbia Journalism Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NECA Reveals Ultimate Ash Figure from Sam Raimi’s 1981 ‘The Evil Dead’!]]></title>
+        <id>https://bloody-disgusting.com/?p=3687593</id>
+        <link href="https://bloody-disgusting.com/toys/3687593/neca-reveals-ultimate-ash-figure-sam-raimis-1981-evil-dead/"/>
+        <updated>2021-10-16T00:55:53.000Z</updated>
+        <summary type="html"><![CDATA[Celebrating the film’s 40th anniversary, NECA has revealed a brand new Ultimate Ash action figure based on Sam Raimi‘s pinnacle indie classic The Evil Dead (1981). This is a pretty big deal considering previous Ash Williams figures were always based on the sequels and the TV series. It’s crazy how young Bruce Campbell looks, especially in […]]]></summary>
+        <author>
+            <name>Brad Miska</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.11.3]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.3</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.3"/>
+        <updated>2021-10-16T00:01:47.000Z</updated>
+        <summary type="html"><![CDATA[Fixed: broken links in documentation
+Chore: Dependency updates
+Thank you: @hirdot]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FDA advisors recommend J&J boosters for all as agency eyes mix-and-match doses]]></title>
+        <id>https://arstechnica.com/?p=1804634</id>
+        <link href="https://arstechnica.com/?p=1804634"/>
+        <updated>2021-10-15T21:45:29.000Z</updated>
+        <summary type="html"><![CDATA[FDA advisors recommend a second J&J dose for everyone ages 18 and up.]]></summary>
+        <author>
+            <name>Beth Mole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What to Expect From October 18 'Unleashed' Apple Event: New MacBook Pros, AirPods 3 and More]]></title>
+        <id>https://www.macrumors.com/guide/october-18-apple-event-what-to-expect&amp;post_date=1634343049/</id>
+        <link href="https://www.macrumors.com/guide/october-18-apple-event-what-to-expect/"/>
+        <updated>2021-10-15T21:10:49.000Z</updated>
+        <summary type="html"><![CDATA[Apple's first fall event of 2021 focused on the iPhone and the Apple Watch, but the second, set to be held on Monday, October 18, is expected to be Mac-centric. The upcoming event will see the debut of the highly anticipated 14 and 16-inch MacBook Pro models, plus we could also get refreshed AirPods and a new Mac mini.
+
+
+
+
+Subscribe to the MacRumors YouTube channel for more videos.
+
+
+This guide highlights everything that we might see at the October event based on the rumors that we've heard so far.
+
+
+
+14 and 16-inch MacBook Pro Models
+
+
+It's been two years since the 16-inch MacBook Pro models last saw a refresh, and we're long overdue for an update. We've been hearing rumors about significantly redesigned 14 and 16-inch MacBook Pro models for many months now, making this one of…]]></summary>
+        <author>
+            <name>Juli Clover</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google’s Self-Driving Car Gyre]]></title>
+        <id>https://kottke.org/21/10/googles-self-driving-car-gyre</id>
+        <link href="https://kottke.org/21/10/googles-self-driving-car-gyre"/>
+        <updated>2021-10-15T20:31:43.000Z</updated>
+        <summary type="html"><![CDATA[Folks who live on 15th Street in the Richmond district of San Francisco report that an abnormal number of Google’s self-driving cars are ending up swirling around at the end of their street.
+“I noticed it while I was sleeping,” says Jennifer King. “I awoke to a strange hum and I thought there was a spacecraft outside my bedroom window.”
+The visitors Jennifer King is talking about don’t just come at night. They come all day, right to the end of 15th Avenue, where there’s nothing else to do but make some kind of multi-point turn and head out the way they came in. Not long after that car is gone, there will be another, which will make the same turn and leave, before another car shows up and does the exact same thing. And while there are some pauses, it never really stops.
+“There are some days where it can be up to 50,” King says of the Waymo count. “It’s literally every five minutes. And we’re all working from home, so this is what we hear.”
+
+
+(via geoff manaugh)
+Tags: driverless cars   Google]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple's $129 MagSafe Duo Charger Can't Fast Charge Apple Watch Series 7]]></title>
+        <id>https://www.macrumors.com/2021/10/15/magsafe-duo-apple-watch-series-7-no-fast-charge/</id>
+        <link href="https://www.macrumors.com/2021/10/15/magsafe-duo-apple-watch-series-7-no-fast-charge/"/>
+        <updated>2021-10-15T20:29:39.000Z</updated>
+        <summary type="html"><![CDATA[With the launch of the iPhone 12 models last year, Apple introduced a $129 MagSafe Duo Charger that's able to charge an iPhone and an Apple Watch at the same time, but it's unfortunately already outdated.
+
+
+
+
+
+The Apple Watch Series 7 has a new fast charging feature that requires an updated charging puck, and that means the ‌Apple Watch Series 7‌ does not fast charge when connected to the ‌MagSafe‌ Duo as it uses a standard non-fast charge puck.
+
+
+
+Apple confirmed that the ‌MagSafe‌ Duo is not able to fast charge an ‌Apple Watch Series 7‌ in a support document updated this afternoon.
+MagSafe Duo Charger doesn't support fast charging with Apple Watch Series 7. To fast charge your Apple Watch Series 7, use the Apple USB-C Magnetic Fast Charging Cable.
+Apple may have an updated version of the ‌MagSafe‌ Duo that supports Apple Watch fast charging coming in the future, but ‌Apple Watch Series 7‌ owners who already own the current version will need to settle for standard charging speeds.
+Related Roundup: Apple Watch Series 7
+Tags: MagSafe, MagSafe Accessories
+Buyer's Guide: Apple Watch (Buy Now)
+Related Forum: Apple Watch
+This article, "Apple's $129 MagSafe Duo Charger Can't Fast Charge Apple Watch Series 7" first appeared on MacRumors.com
+Discuss this article in our forums]]></summary>
+        <author>
+            <name>Juli Clover</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Continuous scrolling comes to mobile Google Search]]></title>
+        <id>https://arstechnica.com/?p=1804467</id>
+        <link href="https://arstechnica.com/?p=1804467"/>
+        <updated>2021-10-15T20:23:35.000Z</updated>
+        <summary type="html"><![CDATA[The mobile site and app will soon let you scroll and scroll.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Review] Restored Cult Film ‘Arrebato’ Offers Surreal Descent Into Vampiric Nature of Addiction]]></title>
+        <id>https://bloody-disgusting.com/?p=3687566</id>
+        <link href="https://bloody-disgusting.com/reviews/3687566/review-restored-cult-film-arrebato-offers-surreal-descent-vampiric-nature-addiction/"/>
+        <updated>2021-10-15T20:22:04.000Z</updated>
+        <summary type="html"><![CDATA[Late Spanish director Iván Zulueta’s lost cult horror film Arrebato, or Rapture, is currently in its first theatrical run stateside after opening abroad in 1980. Cited a favorite by filmmaker Pedro Almodóvar (The Skin I Live In), the new 4K restoration of Arrebato delivers arthouse psychological horror to the masses; only the horror here is more on the phantasmagorical, meditative […]]]></summary>
+        <author>
+            <name>Meagan Navarro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pulmonary Fibrosis, Swallow Mucus Diarrhea & Buffet Froid!]]></title>
+        <id>http://goodguysgogrind.com/?p=29803</id>
+        <link href="https://goodguysgogrind.com/2021/10/15/pulmonary-fibrosis-swallow-mucus-diarrhea-buffet-froid/"/>
+        <updated>2021-10-15T19:58:38.000Z</updated>
+        <summary type="html"><![CDATA[3-way split is out! 3 nasty gore bands in 1 CD, tons of putrid riffs, and blast beats! Released by Cataleptic Remains Prod!]]></summary>
+        <author>
+            <name>goodguysgogrind</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixes for AMD Ryzen performance, other Windows 11 issues rolling out to testers now]]></title>
+        <id>https://arstechnica.com/?p=1804570</id>
+        <link href="https://arstechnica.com/?p=1804570"/>
+        <updated>2021-10-15T19:20:31.000Z</updated>
+        <summary type="html"><![CDATA[Update is reportedly being prepared for public release early next week.]]></summary>
+        <author>
+            <name>Andrew Cunningham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wake County Releases Map Of Proposed District Changes]]></title>
+        <id>https://indyweek.com/news/wake/wake-county-releases-map-of-proposed-district-changes/</id>
+        <link href="https://indyweek.com/news/wake/wake-county-releases-map-of-proposed-district-changes/"/>
+        <updated>2021-10-15T19:20:06.000Z</updated>
+        <summary type="html"><![CDATA[The redistricting process is underway.]]></summary>
+        <author>
+            <name>Jasmine Gallup</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A New Island Awaits This December in “Jurassic World: Camp Cretaceous” Season 4! [Video]]]></title>
+        <id>https://bloody-disgusting.com/?p=3687572</id>
+        <link href="https://bloody-disgusting.com/tv/3687572/new-island-awaits-december-jurassic-world-camp-cretaceous-season-4-video/"/>
+        <updated>2021-10-15T19:17:09.000Z</updated>
+        <summary type="html"><![CDATA[A fourth season of Netflix‘s animated series “Jurassic World: Camp Cretaceous” is on the way, and DreamWorks Animation has announced this afternoon that it’s coming this year. A new island awaits, a teaser video reveals, on December 3, 2021! The third season of “Camp Cretaceous” ended with the tease that the kids have finally made […]]]></summary>
+        <author>
+            <name>John Squires</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One Day In Fukushima just finisher a new EP!]]></title>
+        <id>http://goodguysgogrind.com/?p=29799</id>
+        <link href="https://goodguysgogrind.com/2021/10/15/one-day-in-fukushima-just-finisher-a-new-ep/"/>
+        <updated>2021-10-15T19:09:54.000Z</updated>
+        <summary type="html"><![CDATA[The EP “Permanence” is due to be released on December 3rd, 2021! More info soon!]]></summary>
+        <author>
+            <name>goodguysgogrind</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[News from Agathocles!]]></title>
+        <id>http://goodguysgogrind.com/?p=29794</id>
+        <link href="https://goodguysgogrind.com/2021/10/15/news-from-agathocles/"/>
+        <updated>2021-10-15T19:06:37.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>goodguysgogrind</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hands-On With the Apple Watch Series 7]]></title>
+        <id>https://www.macrumors.com/2021/10/15/apple-watch-series-7-hands-on/</id>
+        <link href="https://www.macrumors.com/2021/10/15/apple-watch-series-7-hands-on/"/>
+        <updated>2021-10-15T19:05:04.000Z</updated>
+        <summary type="html"><![CDATA[It's Apple Watch Series 7 launch day, which means customers who pre-ordered last Friday are receiving their deliveries. We picked up one of the new Series 7 models and thought we'd go over the features and compare it to the Series 6 for those who are still awaiting their own devices or who are on the fence about purchasing.
+
+
+
+
+Subscribe to the MacRumors YouTube channel for more videos.
+
+
+Compared to the Series 6, there's not a whole lot new with the Series 7. You're not getting new health features, and even the design is largely the same. The casing sizes are larger, though, coming in at 41mm and 45mm, and there's a noticeably larger display.
+
+
+
+Apple has cut down on the size of the display bezels and it's a change that looks nice, plus the expanded size allows for features like…]]></summary>
+        <author>
+            <name>Juli Clover</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debut album of Lair Of The White Worm is out!]]></title>
+        <id>http://goodguysgogrind.com/?p=29789</id>
+        <link href="https://goodguysgogrind.com/2021/10/15/debut-album-of-lair-of-the-white-worm-is-out/"/>
+        <updated>2021-10-15T18:35:06.000Z</updated>
+        <summary type="html"><![CDATA[UK industrial/noise freaks Lair Of The White Worm just released their first material! This massive work contains 6 songs that are full of hate and heavy tunes! Check the album at lairofthewhiteworm.bandcamp.com]]></summary>
+        <author>
+            <name>goodguysgogrind</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The North Carolina State Fair Is Back, But Is It Safe?]]></title>
+        <id>https://indyweek.com/news/wake/the-nc-state-fair-is-back-but-is-it-safe/</id>
+        <link href="https://indyweek.com/news/wake/the-nc-state-fair-is-back-but-is-it-safe/"/>
+        <updated>2021-10-15T18:27:05.000Z</updated>
+        <summary type="html"><![CDATA[Thousands are flocking to this year's state fair, but unlike some other large outdoor festivals, there's no mask or vaccine mandate in place.]]></summary>
+        <author>
+            <name>Jasmine Gallup</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Review] Cradle of Filth Bring Spectacular Thrill and Despair on ‘Existence Is Futile’]]></title>
+        <id>https://bloody-disgusting.com/?p=3680941</id>
+        <link href="https://bloody-disgusting.com/music/3680941/review-cradle-filth-bring-spectacular-thrill-despair-existence-futile/"/>
+        <updated>2021-10-15T18:26:12.000Z</updated>
+        <summary type="html"><![CDATA[Within black metal, Cradle of Filth has always been an (ahem), black sheep of sorts. Yet in taking parts of the genre’s conventional sound, they’ve carved out an exciting path for their material. In providing a symphonic edge to their blackened speed, the band’s exploration of the occult and fantastical is nothing short of theatrically […]]]></summary>
+        <author>
+            <name>Michael Pementel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trumpist county clerk barred after leak of voting-system passwords to QAnon]]></title>
+        <id>https://arstechnica.com/?p=1804525</id>
+        <link href="https://arstechnica.com/?p=1804525"/>
+        <updated>2021-10-15T18:25:03.000Z</updated>
+        <summary type="html"><![CDATA[Peters lied about "consultant" who copied data; deputy clerk had cameras disabled.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Hellraiser’ Writers Ben Collins and Luke Piotrowski Carve into the ‘Halloween’ Reboot They Pitched in 2012 [Phantom Limbs]]]></title>
+        <id>https://bloody-disgusting.com/?p=3687486</id>
+        <link href="https://bloody-disgusting.com/exclusives/3687486/hellraiser-writers-ben-collins-luke-piotrowski-carve-halloween-reboot-pitched-2012-phantom-limbs/"/>
+        <updated>2021-10-15T18:21:01.000Z</updated>
+        <summary type="html"><![CDATA[phantom limb /ˈfan(t)əm’lim/ n. an often painful sensation of the presence of a limb that has been amputated. Welcome to Phantom Limbs, a recurring feature which will take a look at intended yet unproduced horror sequels and remakes – extensions to genre films we love, appendages to horror franchises that we adore – that were sadly […]]]></summary>
+        <author>
+            <name>Jason Jenkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grand за**ісь Party # 11! 23 of October / Kyiv!]]></title>
+        <id>http://goodguysgogrind.com/?p=29783</id>
+        <link href="https://goodguysgogrind.com/2021/10/15/grand-%d0%b7%d0%b0%d1%96%d1%81%d1%8c-party-11-23-of-october-kyiv/"/>
+        <updated>2021-10-15T18:19:10.000Z</updated>
+        <summary type="html"><![CDATA[Here is a full lineup of Grand за**ісь Party # 11! Check the event page!]]></summary>
+        <author>
+            <name>goodguysgogrind</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stheno (15.10.21)]]></title>
+        <id>http://goodguysgogrind.com/?p=29767</id>
+        <link href="https://goodguysgogrind.com/2021/10/15/stheno-15-10-21/"/>
+        <updated>2021-10-15T18:12:38.000Z</updated>
+        <summary type="html"><![CDATA[Well, 3, 2, 1… Go! Good day my friend, it was a long time ago since we talked last time, how are you been and the things in Stheno are going? Hello, my brother! Yes been few years since the last time! Things are cool during this covid madness, but we use this lockdown shit to make our best record! So for Stheno things are great I must say. My congrats on the new album “Wardance” is really awesome! It’s really a kick in the teeth. How was it accepted by the world of underground music? Got great feedback? Was …]]></summary>
+        <author>
+            <name>goodguysgogrind</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Star Wars Oil Paintings]]></title>
+        <id>https://kottke.org/21/10/star-wars-oil-paintings</id>
+        <link href="https://kottke.org/21/10/star-wars-oil-paintings"/>
+        <updated>2021-10-15T18:11:39.000Z</updated>
+        <summary type="html"><![CDATA[Check out these expressive impressionist oil paintings of scenes from Star Wars by Naci Caba. (He also does paintings of Lord of the Rings and Harry Potter.) Seeing futuristic sci-fi rendered in this medium is giving me a bit of cognitive dissonance.
+You can buy prints and even the original oil paintings in his shop or at Etsy. (via digg)
+Tags: art   movies   Naci Caba   remix   Star Wars]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MacRumors Giveaway: Win a Leather Tech Organizer From Woolnut]]></title>
+        <id>https://www.macrumors.com/2021/10/15/macrumors-giveaway-woolnut-tech-organizer/</id>
+        <link href="https://www.macrumors.com/2021/10/15/macrumors-giveaway-woolnut-tech-organizer/"/>
+        <updated>2021-10-15T18:04:41.000Z</updated>
+        <summary type="html"><![CDATA[For this week's giveaway, we've teamed up with Woolnut to offer MacRumors readers a chance to win a Leather Tech Organizer, which is perfect for wrangling all kinds of accessories like power adapters, cables, power banks, AirPods, AirTags, SD cards, Apple Pencil, and anything else you might like to carry alongside an iPad or a MacBook.
+
+
+
+
+
+Priced at 105 euros (~$121), the Tech Organizer comes in Black, Cognac, Green, and Blue leather options, and it uses full-grain leather from Scandinavia that will age over time and develop a unique patina. The Tech Organizer opens up folio style, and both halves are rife with straps and pockets for holding various accessories.
+
+
+
+
+
+There are two main stretch mesh straps that can hold a power adapter big enough for the 16-inch MacBook Pro alo…]]></summary>
+        <author>
+            <name>Juli Clover</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The proof’s in the poop: Austrians have loved beer, blue cheese for 2,700 years]]></title>
+        <id>https://arstechnica.com/?p=1803534</id>
+        <link href="https://arstechnica.com/?p=1803534"/>
+        <updated>2021-10-15T18:03:30.000Z</updated>
+        <summary type="html"><![CDATA[They also ate primarily cereal grains, supplemented with beans, fruits, nuts, or meat.]]></summary>
+        <author>
+            <name>Jennifer Ouellette</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple's Unleashed Event]]></title>
+        <id>https://shapeof.com/archives/2021/10/apples_unleashed_event.html</id>
+        <link href="https://shapeof.com/archives/2021/10/apples_unleashed_event.html"/>
+        <updated>2021-10-15T18:02:10.000Z</updated>
+        <summary type="html"><![CDATA[This coming Monday, Apple is having an event they are referring to as "Unleashed". The general rumor is this will be an announcement of new MacBook Pros with faster M1 based processors.
+That'd be great, but what I really want is some sort of M1/M1X/M2 based iMac Pro with a big display. It's been a while since I've bought a new desktop (I'm still rocking a late 2015 iMac for some reason), and I'm eager for something newer and faster. Hopefully we'll also get a release day for MacOS Monterey.
+One thing that I haven't seen remarked upon much, is that it's been few weeks since a new beta of Xcode 13 dropped with a Monterey SDK to build against. This makes me think that there will be new APIs for dealing with some sort of new hardware in whatever is coming out Monday. So whatever we're getting, I bet it's going to be a little more involed than just a standard hardware upgrade.]]></summary>
+        <author>
+            <name>The Shape of Everything</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Five Heavy Artists Inspired By “The Legend of Zelda”]]></title>
+        <id>144801</id>
+        <link href="https://daily.bandcamp.com/lists/zelda-metal-list"/>
+        <updated>2021-10-15T18:01:16.000Z</updated>
+        <summary type="html"><![CDATA[The beloved video game series, which recently celebrated its 35th anniversary, has spawned blackened ambient, power metal, dark symphonies, and more.
+Read full story on the Bandcamp Daily.]]></summary>
+        <author>
+            <name>Zoe Camp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Five Heavy Artists Inspired By “The Legend of Zelda”]]></title>
+        <id>144801</id>
+        <link href="https://daily.bandcamp.com/lists/zelda-metal-list"/>
+        <updated>2021-10-15T18:01:16.000Z</updated>
+        <summary type="html"><![CDATA[The beloved video game series, which recently celebrated its 35th anniversary, has spawned blackened ambient, power metal, dark symphonies, and more.
+Read full story on the Bandcamp Daily.]]></summary>
+        <author>
+            <name>Viorie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flyers vs Canucks Preview: Canuck if you buck]]></title>
+        <id>https://www.broadstreethockey.com/2021/10/15/22727633/flyers-vs-canucks-preview-let-the-madness-begin-philadelphia-vancouver-analysis-nhl-carter-hart</id>
+        <link href="https://www.broadstreethockey.com/2021/10/15/22727633/flyers-vs-canucks-preview-let-the-madness-begin-philadelphia-vancouver-analysis-nhl-carter-hart"/>
+        <updated>2021-10-15T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo by Len Redkoles/NHLI via Getty Images
+    
+
+  
+The games count; time to get stressed.
+ It’s that time of the year again. Your Philadelphia Flyers are finally playing meaningful NHL hockey again, opening the season at home (wait, you can do that?) against the Vancouver Canucks. We’re excited to bring you yet another season of high-quality coverage, jokes, and pre/post-game jams, starting with this preview. Let’s dive in.
+
+
+
+The Canucks
+After going 2-5 in the preseason and starting off their regular season with a 3-2 loss in the shootout to Connor McDavid’s Edmonton Oilers, the Canucks travel to Philly in search of their first win. This is a weird Vancouver team from all angles, with a few stars and not much else providing hope for a big rebound season after a dismal follow-up to their…]]></summary>
+        <author>
+            <name>Broad Street Hockey -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Review] SYFY’s “Day of the Dead” Is One Zombie Series That’s Especially Rotten and Lifeless]]></title>
+        <id>https://bloody-disgusting.com/?p=3687508</id>
+        <link href="https://bloody-disgusting.com/reviews/3687508/review-syfys-day-dead-one-zombie-series-thats-especially-rotten-lifeless/"/>
+        <updated>2021-10-15T17:46:16.000Z</updated>
+        <summary type="html"><![CDATA[SYFY’s revamp of Romero’s zombie classic adds little to the overcrowded corner of horror and loses itself in generic melodrama and scares. Do we need another zombie television show? That’s the question that’s inherently on everyone’s minds when they even hear about a new zombie television series that pulls from George A. Romero’s Day of […]]]></summary>
+        <author>
+            <name>Daniel Kurland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MacBook Pros, an “M1X” chip, and other stuff to expect at Apple’s October event]]></title>
+        <id>https://arstechnica.com/?p=1804464</id>
+        <link href="https://arstechnica.com/?p=1804464"/>
+        <updated>2021-10-15T17:41:08.000Z</updated>
+        <summary type="html"><![CDATA[New Macs, an "M1X" chip, and even new AirPods could all be on offer.]]></summary>
+        <author>
+            <name>Andrew Cunningham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proprietary Dock Apple Uses to Wirelessly Troubleshoot Apple Watch Series 7 Surfaces in Regulatory Database]]></title>
+        <id>https://www.macrumors.com/2021/10/15/apple-watch-series-7-internal-dock-images/</id>
+        <link href="https://www.macrumors.com/2021/10/15/apple-watch-series-7-internal-dock-images/"/>
+        <updated>2021-10-15T17:26:30.000Z</updated>
+        <summary type="html"><![CDATA[The Apple Watch Series 7 models lack a diagnostic port under the band, which means Apple has to use another means to troubleshoot and restore Apple Watches that come in for repair.
+
+
+
+
+
+‌Apple Watch Series 7‌ models are equipped with a module that enables 60.5GHz wireless data transfer as we discovered in FCC documents in September, with that data transfer capability designed to be used with a proprietary magnetic dock.
+
+
+
+The dock was mentioned in one of the FCC filings, but we didn't have a clear visual of it until now. Brazilian regulatory agency Anatel has approved the ‌Apple Watch Series 7‌ models and provided photos of the dock that Apple is using internally, with the information shared by Brazilian site <a href="https://macmagazine.com.br/post/2021/10/15/anatel-homologa-versoes-celular-do-apple-watch-series-7/
+
+">MacMagazine.
+
+
+
+The ‌Apple Watch Series 7‌ dock is clearly designed for diagnostics, and it has a two piece construction. An Apple Watch charging puck fits into the bottom piece, and then a second piece housing the Apple Watch itself fits over that and aligns with bolts.
+
+
+
+
+
+Prior to the ‌Apple Watch Series 7‌, Apple included a diagnostic port on Apple Watch models, with the port hidden under the band. It's not clear why Apple has shifted to wireless diagnostics, and it's also not known how fast the wireless data transfer is. It likely uses USB 2.0 with speeds up to 480Mb/s.
+
+
+
+
+The diagnostic port on Apple Watch Series 6 models and older
+
+
+There is no word on whether the wireless data module added to the ‌Apple Watch Series 7‌ could ever have a consumer-facing application, but for now, it's for Apple's internal use only.
+Related Roundup: Apple Watch Series 7
+Buyer's Guide: Apple Watch (Buy Now)
+Related Forum: Apple Watch
+This article, "Proprietary Dock Apple Uses to Wirelessly Troubleshoot Apple Watch Series 7 Surfaces in Regulatory Database" first appeared on MacRumors.com
+Discuss this article in our forums]]></summary>
+        <author>
+            <name>Juli Clover</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deals: Get an AirTag 4-Pack for New Low Price of $89 ($10 Off)]]></title>
+        <id>https://www.macrumors.com/2021/10/15/deals-get-an-airtag-4-pack/</id>
+        <link href="https://www.macrumors.com/2021/10/15/deals-get-an-airtag-4-pack/"/>
+        <updated>2021-10-15T17:20:26.000Z</updated>
+        <summary type="html"><![CDATA[DailySteals today has a notable sale on the AirTag 4-Pack, available for $89.00 with code ADSTAG, down from $99.00. This is just the second deal we've ever tracked on the AirTag 4-Pack, and it's beating Woot's sale from earlier this month by about $5.
+
+
+
+Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.
+
+
+
+You'll need to add the accessory pack to your cart and then enter the code ADSTAG at the checkout screen to see this deal. The AirTag 4-Pack is in stock today and ready to ship, and DailySteals is offering free shipping (3-7 business days). 
+
+
+
+
+$10 OFF
+AirTag 4-Pack for 89.00
+
+
+
+
+
+Additionally, these are brand new AirTags and are not used or refurbished. Be sure to visit our full Deals Roundup to shop for even more Apple-related products and accessories.
+Related Roundup: Apple Deals
+This article, "Deals: Get an AirTag 4-Pack for New Low Price of $89 ($10 Off)" first appeared on MacRumors.com
+Discuss this article in our forums]]></summary>
+        <author>
+            <name>Mitchel Broussard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Destiny 2 Xur location and items, Oct. 15-19]]></title>
+        <id>https://www.polygon.com/destiny-2-guide-walkthrough/22728511/destiny-2-xur-location-items-oct-15-19</id>
+        <link href="https://www.polygon.com/destiny-2-guide-walkthrough/22728511/destiny-2-xur-location-items-oct-15-19"/>
+        <updated>2021-10-15T17:16:08.000Z</updated>
+        <summary type="html"><![CDATA[Image: Bungie
+    
+
+  
+Head to the Tower for some Exotics
+ The weekly Exotic item merchant, Xur, hangs out in random locations around the world of Destiny. In Destiny 2, he can appear all over the map, as well as inside the Tower. This week, you can find Xur in the Tower, standing on the back stairs in the Hangar.
+Image: Bungie via Polygon
+  
+Xur’s inventory this week consists of the following:
+DARCI, Arc sniper rifle: 29 Legendary Shards
+St0mp-EE5, Hunter legs: 23 Legendary Shards
+Synthoceps, Titan arms: 23 Legendary Shards
+Transversive Steps, Warlock legs: 23 Legendary Shards
+Exotic Engram: 97 Legendary Shards (you can now purchase a second with an Exotic Cipher)
+Exotic Cipher quest: free
+As of Season of the Lost, Xur also sells a collection of old armor and weapons — similar to Banshee-…]]></summary>
+        <author>
+            <name>Polygon -  PC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You may soon be able to answer phone calls on your Chromebook]]></title>
+        <id>https://arstechnica.com/?p=1804493</id>
+        <link href="https://arstechnica.com/?p=1804493"/>
+        <updated>2021-10-15T17:07:37.000Z</updated>
+        <summary type="html"><![CDATA[Update would give Chrome OS a feature Windows and macOS already offer.]]></summary>
+        <author>
+            <name>Scharon Harding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Scariest Scene in John Carpenter’s ‘Halloween’ Touched Upon a Real Suburban Nightmare]]></title>
+        <id>https://bloody-disgusting.com/?p=3687547</id>
+        <link href="https://bloody-disgusting.com/editorials/3687547/scariest-scene-john-carpenters-halloween-touched-upon-real-suburban-nightmare/"/>
+        <updated>2021-10-15T17:07:04.000Z</updated>
+        <summary type="html"><![CDATA[The scariest scene in Halloween doesn’t involve a knife or a gruesome death. In fact, the most terrifying scene in the movie doesn’t even involve Michael Myers. John Carpenter’s 1978 classic about the boogeyman come to life explores the nature of evil in an ordinary town where gunshots triggered track meets, not sirens. Haddonfield, Illinois […]]]></summary>
+        <author>
+            <name>Marcus Shorter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Appears to Be in a Standoff With South Korea Over New App Store Regulations]]></title>
+        <id>https://www.reuters.com/technology/skorea-targets-apple-over-new-app-store-regulation-2021-10-15/</id>
+        <link href="https://www.reuters.com/technology/skorea-targets-apple-over-new-app-store-regulation-2021-10-15/"/>
+        <updated>2021-10-15T16:59:42.000Z</updated>
+        <summary type="html"><![CDATA[Reuters:
+Apple Inc was on a collision course with South Korea on Friday
+over new requirements that it stop forcing app developers to use
+its payment systems, with a government official warning of a
+possible investigation into the iPhone maker’s compliance. […]
+The law went into effect last month but Apple had told the South
+Korean government that it was already complying and did not need
+to change its app store policy, a Korea Communications Commission
+(KCC) official in charge of the matter told Reuters.
+“This goes against the purpose of the amended law,” the official
+said, requesting anonymity as the KCC was still in talks with
+Apple on compliance. […]
+Google had informed the KCC that it planned to comply with the
+law, including allowing third-party payment systems, and would
+discuss the matter with the regulator starting next week, the KCC
+official said.
+Apple telling South Korea that they’re already in compliance reminds of the “I told them we’ve already got one” bit from Monty Python and the Holy Grail.
+ ★]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Podcast] Knight Light: A Horror Movie Podcast Closes Out Stephen King Month With Kubrick’s ‘The Shining’]]></title>
+        <id>https://bloody-disgusting.com/?p=3687316</id>
+        <link href="https://bloody-disgusting.com/podcasts/3687316/podcast-knight-light-horror-movie-podcast-prepared-use-shining/"/>
+        <updated>2021-10-15T16:51:57.000Z</updated>
+        <summary type="html"><![CDATA[Here’s Johnny! Knight Light: A Horror Movie Podcast is back posting again on Bloody Disgusting to celebrate the closing of our Stephen King month with Stanley Kubrick’s The Shining! I am sure we all know the tale, but for those who don’t, we follow the Torrance family spending a long Winter in the Overlook Hotel […]]]></summary>
+        <author>
+            <name>Prince Jackson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Halloween Kills’ Is Either a Camp Classic or the Worst of the Franchise [Halloweenies Podcast]]]></title>
+        <id>https://bloody-disgusting.com/?p=3687517</id>
+        <link href="https://bloody-disgusting.com/podcasts/3687517/halloween-kills-halloweenies-podcast/"/>
+        <updated>2021-10-15T16:35:07.000Z</updated>
+        <summary type="html"><![CDATA[“Evil dies tonight.” Indeed it does. The Halloweenies have returned to the streets of Haddonfield, Illinois, where the heat is on, and not in a Glenn Frey sort of way. No, there is rage in the air, fuming from the souls of this Midwestern town who have just been notified of Michael Myers’ Halloween homecoming. […]]]></summary>
+        <author>
+            <name>Michael Roffman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA’s Lucy mission will soon be in the sky, with a launch set for Saturday]]></title>
+        <id>https://arstechnica.com/?p=1804455</id>
+        <link href="https://arstechnica.com/?p=1804455"/>
+        <updated>2021-10-15T16:29:12.000Z</updated>
+        <summary type="html"><![CDATA["Each one of these tells us a chapter of the story that we're all a part of."]]></summary>
+        <author>
+            <name>Eric Berger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flyers Flashback: John LeClair scores four against Canucks]]></title>
+        <id>https://www.broadstreethockey.com/2021/10/15/22726098/flyers-flashback-john-leclair-scores-four-against-canucks-nhl-philadelphia-flyers-vancouver</id>
+        <link href="https://www.broadstreethockey.com/2021/10/15/22726098/flyers-flashback-john-leclair-scores-four-against-canucks-nhl-philadelphia-flyers-vancouver"/>
+        <updated>2021-10-15T16:17:39.000Z</updated>
+        <summary type="html"><![CDATA[Getty Images
+    
+
+  
+It’s the first trip down memory lane of the season, and it begins with a bang.
+ As we dawn on another season of Flyers hockey and look towards the future, we take a brief moment to look into the past. This will be the first time the two teams have faced off since November 2019, almost two full years. There aren’t a ton of memorable moments between the Flyers and the Canucks considering they play in opposite conferences, but there are a few gems here and there.
+One being a late November night in 1998 when one of the greatest goal scorers in Flyers history lit the lamp 4 times in one game, part of his fourth consecutive 40 goal season. Through the first two periods though, no one would have guessed this was coming. Vancouver took an early lead with a shorthanded goal fr…]]></summary>
+        <author>
+            <name>Broad Street Hockey -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Batman and the Riddler Take Center Stage in Two Blood Red Posters for ‘The Batman’]]></title>
+        <id>https://bloody-disgusting.com/?p=3687533</id>
+        <link href="https://bloody-disgusting.com/movie/3687533/batman-riddler-take-center-stage-two-blood-red-posters-batman/"/>
+        <updated>2021-10-15T16:14:20.000Z</updated>
+        <summary type="html"><![CDATA[Much like last year’s event, this year’s virtual DC FanDome celebration on Saturday, October 16 will host a brand new trailer for director Matt Reeves‘ The Batman, and today brings two brand new official posters ahead of the event. Robert Pattinson‘s Batman and Paul Dano‘s Riddler each get the solo spotlight here, both iconic characters bathed in an eerie […]]]></summary>
+        <author>
+            <name>John Squires</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sam Raimi’s Horror Anthology Series “50 States of Fright” is Now Streaming on The Roku Channel]]></title>
+        <id>https://bloody-disgusting.com/?p=3687528</id>
+        <link href="https://bloody-disgusting.com/tv/3687528/sam-raimis-horror-anthology-series-50-states-fright-now-streaming-roku-channel/"/>
+        <updated>2021-10-15T16:07:26.000Z</updated>
+        <summary type="html"><![CDATA[Quibi is no more but the good news is that Roku has been picking up Quibi’s original projects, and as of today, Sam Raimi’s “50 States of Fright” is now a Roku Original Series! As part of a “Freakout Friday” campaign to bring streamers thrilling new horror content on The Roku Channel all month long, the platform […]]]></summary>
+        <author>
+            <name>John Squires</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An HD Walking Tour of the Giza Pyramids]]></title>
+        <id>https://kottke.org/21/10/an-hd-walking-tour-of-the-giza-pyramids</id>
+        <link href="https://kottke.org/21/10/an-hd-walking-tour-of-the-giza-pyramids"/>
+        <updated>2021-10-15T16:02:08.000Z</updated>
+        <summary type="html"><![CDATA[If you, like me, haven’t had the opportunity to visit the Giza Pyramid Complex outside of Cairo, Egypt, this 2-hour HD walking tour is probably the next best thing — it feels like walking around about as much as a video can. Strap on those headphones for the full immersive experience. (via open culture)
+Tags: architecture   Egypt   travel   video]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New MacBook Pro Could Have a Notch, Says Sketchy Last-Minute Rumor]]></title>
+        <id>https://www.macrumors.com/2021/10/15/new-macbook-pro-could-have-a-notch/</id>
+        <link href="https://www.macrumors.com/2021/10/15/new-macbook-pro-could-have-a-notch/"/>
+        <updated>2021-10-15T15:22:29.000Z</updated>
+        <summary type="html"><![CDATA[Apple's redesigned MacBook Pro models could feature a notch containing the webcam, according to a sketchy last-minute rumor that is circulating online.
+
+
+
+MacRumors' render of a next-generation MacBook Pro with a notch.
+
+
+The rumor appears to have originated from a Weibo user in China, who stipulates that the redesigned MacBook Pro will feature a notch. It apparently has a size "similar to iPhone 12." The Twitter user known as "DuanRui," who often shares information about Apple's plans from Weibo, suggested that the rumor could simply be a joke. That being said, a Reddit user with no track-record, who professes to have spoken with supply chain sources, has now made the same claim.
+
+
+
+The Reddit post says that the new MacBook Pro will feature a standard-sized notch rather than the…]]></summary>
+        <author>
+            <name>Hartley Charlton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Safari 15 Watch: Favorites Bar Edition]]></title>
+        <id>https://sixcolors.com/post/2021/10/safari-15-watch-favorites-bar-edition/</id>
+        <link href="https://sixcolors.com/post/2021/10/safari-15-watch-favorites-bar-edition/"/>
+        <updated>2021-10-15T15:18:58.000Z</updated>
+        <summary type="html"><![CDATA[Jason Snell, Six Colors:
+And then macOS Monterey beta 10 dropped this week, and would you
+look at this:
+Yep, that’s the Safari Favorites Bar, now located above
+the tabs.
+Apple similarly moved the Favorites Bar above the tabs in Safari on iPadOS 15.1 beta 4, too.
+The full Bookmarks menu on iPad, alas, still remains hidden in the sidebar. That’s a weird one. In the initial WWDC previews, the Bookmarks toolbar button was removed in Safari on both iOS and iPadOS. In the late summer redesign of Safari 15 for iOS, the Bookmarks toolbar button (which you tap to access a hierarchical menu showing all your bookmarks, and which, crucially, remembers which folder you were in the next time you use it) was back where it belongs: in Safari’s bottom-of-the-screen toolbar.
+Yet on iPad — which has much more room for toolbar buttons than iPhone — Bookmarks are still squirreled away in the sidebar that is primarily intended for creating, managing, and switching between Tab Groups. Tab Groups are a clever and I think useful new feature. Bookmarks do not belong over there though. Worse, every time you use the Bookmarks menu over in the sidebar on iPadOS 15, you have to navigate from the root level of your bookmarks each time. It doesn’t remember which folder you were in.
+Here’s hoping that more changes to Safari 15 are coming, on both Mac and iPad.
+ ★]]></summary>
+        <author>
+            <name>Daring Fireball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Halloween Kills’ Scares Up $4.9 Million from Thursday Night Previews]]></title>
+        <id>https://bloody-disgusting.com/?p=3687505</id>
+        <link href="https://bloody-disgusting.com/movie/3687505/halloween-kills-scares-4-9-million-thursday-night-previews/"/>
+        <updated>2021-10-15T15:05:49.000Z</updated>
+        <summary type="html"><![CDATA[David Gordon Green’s Halloween was a massive hit back in 2018, the return of Michael Myers and Laurie Strode scaring up $159 million domestically and $255 million worldwide. The success of that film has led to two sequels, Halloween Kills and next year’s Halloween Ends, with Halloween Kills released into theaters and at home via […]]]></summary>
+        <author>
+            <name>John Squires</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deals: Take Up to $100 Off 2021 iPad Pro Models in Wi-Fi and Cellular]]></title>
+        <id>https://www.macrumors.com/2021/10/15/deals-100-off-ipad-pro-3/</id>
+        <link href="https://www.macrumors.com/2021/10/15/deals-100-off-ipad-pro-3/"/>
+        <updated>2021-10-15T14:59:38.000Z</updated>
+        <summary type="html"><![CDATA[Today we're tracking solid discounts on the 2021 iPad Pro in both 11-inch and 12.9-inch configurations. You'll have a chance to save up to $100 on these models, and this sale includes both Wi-Fi only tablets and cellular models.
+
+
+
+Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.
+
+
+
+Starting with the 256GB Wi-Fi 11-inch iPad Pro, you can get this tablet for $799.99, down from $899.00. This is a match of the record low price on this model of the 2021 11-inch iPad Pro, and it's only available on Amazon this week.
+
+
+
+
+$99 OFF
+256GB Wi-Fi 11-inch iPad Pro for $799.99
+
+
+
+
+
+Secondly, the 512GB Wi-Fi 11-inch iPad Pro is priced at $999.99, down from $1,099.00. This i…]]></summary>
+        <author>
+            <name>Mitchel Broussard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Doom’ Now Plays on Twitter]]></title>
+        <id>https://bloody-disgusting.com/?p=3687447</id>
+        <link href="https://bloody-disgusting.com/video-games/3687447/doom-now-plays-on-twitter/"/>
+        <updated>2021-10-15T14:51:47.000Z</updated>
+        <summary type="html"><![CDATA[Just when you think the running joke of making Doom run on everything has reached its zenith, along comes something else. Case in point: Doom now runs on Twitter. Okay, while it’s not quite the experience you might be thinking, it’s still pretty cool. The Tweet2Doom bot allows you (if you have the patience) to […]]]></summary>
+        <author>
+            <name>Mike Wilson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Freddy Krueger and Jason Voorhees Sneakers Now Available Exclusively from Fun.com!]]></title>
+        <id>https://bloody-disgusting.com/?p=3687490</id>
+        <link href="https://bloody-disgusting.com/the-further/3687490/new-freddy-krueger-jason-voorhees-sneakers-now-available-exclusively-fun-com/"/>
+        <updated>2021-10-15T14:29:12.000Z</updated>
+        <summary type="html"><![CDATA[If you missed out on grabbing a pair of those sweet Freddy Krueger shoes from Vans, another option has popped up, with similar Freddy shoes now available for pre-order from Fun.com. Both Freddy Krueger and Jason Voorhees get their own sneakers from the online retailer, each pair selling for $49.99 and shipping out later this […]]]></summary>
+        <author>
+            <name>John Squires</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AirPods 3 Ready to Launch and Likely to Be Announced at Apple Event Next Week, Analyst Says]]></title>
+        <id>https://www.macrumors.com/2021/10/15/airpods-3-likely-at-unleashed-apple-event/</id>
+        <link href="https://www.macrumors.com/2021/10/15/airpods-3-likely-at-unleashed-apple-event/"/>
+        <updated>2021-10-15T14:09:35.000Z</updated>
+        <summary type="html"><![CDATA[Apple is hosting a virtual event on Monday at 10 a.m. Pacific Time, with rumors widely suggesting the event will be focused on redesigned 14-inch and 16-inch MacBook Pro models with a faster version of the M1 chip, brighter mini-LED displays, and more.
+
+
+
+
+
+In an investor note with Wedbush today, shared with MacRumors, analyst Dan Ives said third-generation AirPods will likely be announced at the event as well. The new AirPods are rumored to feature a similar design as the AirPods Pro, but without Active Noise Cancellation, and they could have improved sound quality and some other new features.
+
+
+
+The third-generation AirPods have already been manufactured and are ready to launch, according to Wedbush's supply chain checks, which increases the likelihood that they will be announced during the Apple Event next week.
+
+
+
+Earlier this week, an account on Chinese social media platform Weibo known as @PandaIsBald also claimed that third-generation AirPods will be announced at the Apple Event next week. Last month, the same account accurately revealed that Apple would announce the ninth-generation iPad at its September event.
+
+
+
+This would be the first update to the standard AirPods since the second-generation AirPods were released in March 2019. The second-generation AirPods are priced at $159 with a wired charging case and at $199 with a wireless charging case.
+
+
+
+An update to the AirPods Pro is not expected until next year.
+Related Roundup: AirPods
+Tag: October 2021 Apple Event
+Buyer's Guide: AirPods (Don't Buy)
+Related Forum: AirPods
+This article, "AirPods 3 Ready to Launch and Likely to Be Announced at Apple Event Next Week, Analyst Says" first appeared on MacRumors.com
+Discuss this article in our forums]]></summary>
+        <author>
+            <name>Joe Rossignol</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ray Bradbury’s “Something Wicked This Way Comes” Ages the Same Way We Do [The Losers’ Club Podcast]]]></title>
+        <id>https://bloody-disgusting.com/?p=3687381</id>
+        <link href="https://bloody-disgusting.com/podcasts/3687381/something-wicked-this-way-comes-demands-to-be-reread-the-losers-club-podcast/"/>
+        <updated>2021-10-15T14:00:34.000Z</updated>
+        <summary type="html"><![CDATA[“And if it’s around October 20th and everything smoky-smelling and the sky orange and ash grey at twilight, it seems Hallowe’en will never come in a fall of broomsticks and a soft flap of bedsheets around corners. But one strange wild dark long year, Hallowe’en came early.” With Danse Macabre, The Losers’ Club journeys through […]]]></summary>
+        <author>
+            <name>Michael Roffman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BendyFigs Brings Universal Monsters Figures from the Parks to a Retailer Near You!]]></title>
+        <id>https://bloody-disgusting.com/?p=3687472</id>
+        <link href="https://bloody-disgusting.com/toys/3687472/bendyfigs-brings-universal-monsters-figures-parks-retailer-near/"/>
+        <updated>2021-10-15T13:58:50.000Z</updated>
+        <summary type="html"><![CDATA[Yesterday we told you about new Universal Monsters action figures from Jada Toys, and today we learned that BendyFigs also has its own interpretations that have hit retailers across the country. I first caught wind of BendyFigs, finely crafted collectible figures from The Noble Collection, while attending this year’s Halloween Horror Nights at Universal Studios […]]]></summary>
+        <author>
+            <name>Brad Miska</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Guide to the Eclectic Funk Music of Bernie Worrell]]></title>
+        <id>144884</id>
+        <link href="https://daily.bandcamp.com/lists/bernie-worrell-discography-list"/>
+        <updated>2021-10-15T13:53:59.000Z</updated>
+        <summary type="html"><![CDATA[Known as the "Wizard of Woo" the legendary keyboard artist's discography is rich and innovative.
+Read full story on the Bandcamp Daily.]]></summary>
+        <author>
+            <name>John Morrison</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Essential Releases, October 15, 2021]]></title>
+        <id>144855</id>
+        <link href="https://daily.bandcamp.com/seven-essential-releases/essential-releases-october-15-2021"/>
+        <updated>2021-10-15T13:53:20.000Z</updated>
+        <summary type="html"><![CDATA[Cumbia, dance pop, experimental metal, and more.
+Read full story on the Bandcamp Daily.]]></summary>
+        <author>
+            <name>Bandcamp Daily Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vanishing Twin, “Ookii Gekkou”]]></title>
+        <id>144839</id>
+        <link href="https://daily.bandcamp.com/album-of-the-day/vanishing-twin-ookii-gekkou-review"/>
+        <updated>2021-10-15T13:52:11.000Z</updated>
+        <summary type="html"><![CDATA[The London band's second album is a psychedelic pop jam that showcases a colorful approach to rhythm.
+Read full story on the Bandcamp Daily.]]></summary>
+        <author>
+            <name>Matthew Schnipper</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Juan Piquer Simón’s ‘Slugs’ Still Has Us Squirming from Head to Toe [Horrors Elsewhere]]]></title>
+        <id>https://bloody-disgusting.com/?p=3687068</id>
+        <link href="https://bloody-disgusting.com/movie/3687068/slugs-still-makes-think-twice-salads-horrors-elsewhere/"/>
+        <updated>2021-10-15T13:45:41.000Z</updated>
+        <summary type="html"><![CDATA[Horrors Elsewhere is a recurring column that spotlights a variety of movies from all around the globe, particularly those not from the United States. Fears may not be universal, but one thing is for sure — a scream is understood, always and everywhere. Over the years, horror has turned the most innocuous creatures into rabid […]]]></summary>
+        <author>
+            <name>Paul Lê</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[David Gordon Green Teases a ‘Halloween Kills’ Extended Version With a Different Ending for Blu-ray]]></title>
+        <id>https://bloody-disgusting.com/?p=3687464</id>
+        <link href="https://bloody-disgusting.com/home-video/3687464/david-gordon-green-teases-halloween-kills-extended-version-different-ending-blu-ray/"/>
+        <updated>2021-10-15T13:39:17.000Z</updated>
+        <summary type="html"><![CDATA[Director David Gordon Green is back in Haddonfield with brand new sequel Halloween Kills, now available in theaters and streaming via Peacock. We’re of course not going to spoil anything about the movie, but it’s interesting to note that Gordon Green is teasing an “extended version” of the movie on the upcoming Blu-ray, with a […]]]></summary>
+        <author>
+            <name>John Squires</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eight Hours of Floating in Space]]></title>
+        <id>https://kottke.org/21/10/eight-hours-of-floating-in-space</id>
+        <link href="https://kottke.org/21/10/eight-hours-of-floating-in-space"/>
+        <updated>2021-10-15T13:38:36.000Z</updated>
+        <summary type="html"><![CDATA[This is 8 hours of an astronaut floating in a colorful galactic sea accompanied by ambient music, i.e. the sort of thing you would have experienced in the chill-out room at a rave in the 90s but is now selling for $70K even though it’s free? Anyway, it’s relaxing and mesmerizing. See also Hours and Hours of Relaxing & Meditative Videos. (via moss & fog)
+Tags: meditative   video]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Just Under One Million People Tuned In to Watch “Chucky” Slash Up the Small Screen This Week]]></title>
+        <id>https://bloody-disgusting.com/?p=3687450</id>
+        <link href="https://bloody-disgusting.com/tv/3687450/just-one-million-people-tuned-watch-chucky-slash-small-screen-week/"/>
+        <updated>2021-10-15T13:22:12.000Z</updated>
+        <summary type="html"><![CDATA[The Child’s Play franchise made its debut on the small screen this week with the premiere of Don Mancini’s “Chucky,” which is airing on both USA and SYFY. Both networks were all-in on promoting the series premiere, with Chucky making appearances on everything from “Maury” to WWE’s Monday Night Raw. He even joined forces with […]]]></summary>
+        <author>
+            <name>John Squires</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Theranos’ second lab director got $5K a month to rubber-stamp forms]]></title>
+        <id>https://arstechnica.com/?p=1804451</id>
+        <link href="https://arstechnica.com/?p=1804451"/>
+        <updated>2021-10-15T13:08:38.000Z</updated>
+        <summary type="html"><![CDATA[COO Balwani hired his longtime dermatologist to run Theranos’ lab.]]></summary>
+        <author>
+            <name>Tim De Chant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Michael Kills: AMC FearFest is Hosting an All-Day ‘Halloween’ Franchise Marathon Today]]></title>
+        <id>https://bloody-disgusting.com/?p=3687452</id>
+        <link href="https://bloody-disgusting.com/movie/3687452/michael-kills-amc-fearfest-hosting-day-halloween-franchise-marathon-today/"/>
+        <updated>2021-10-15T13:05:14.000Z</updated>
+        <summary type="html"><![CDATA[With Halloween Kills now playing in theaters and now streaming on Peacock, AMC FearFest is celebrating the occasion with an all-day marathon of the Halloween movies. It’s 9am EST on Friday, October 15 at the time of writing this article, and the marathon is currently underway with a showing of one of the franchise’s most […]]]></summary>
+        <author>
+            <name>John Squires</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Walter Hussman Returns as UNC's Journalism School Faces Crisis of Values, Diversity]]></title>
+        <id>https://indyweek.com/news/orange/walter-hussman-returns-as-unc-journalism-school-faces-crisis-of-values-diversity/</id>
+        <link href="https://indyweek.com/news/orange/walter-hussman-returns-as-unc-journalism-school-faces-crisis-of-values-diversity/"/>
+        <updated>2021-10-15T12:55:57.000Z</updated>
+        <summary type="html"><![CDATA[The mega-donor’s ‘hush-hush homecoming’ reignites concern among faculty members.]]></summary>
+        <author>
+            <name>Joe Killian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Tweet Asking Why Former Mac Users Switched to PC Backfires]]></title>
+        <id>https://www.macrumors.com/2021/10/15/intel-tweet-for-mac-users-backfires/</id>
+        <link href="https://www.macrumors.com/2021/10/15/intel-tweet-for-mac-users-backfires/"/>
+        <updated>2021-10-15T12:39:02.000Z</updated>
+        <summary type="html"><![CDATA[Ahead of Monday's Apple event, which is expected to include the much-awaited launch of brand new 14 and 16-inch MacBook Pros, Intel is continuing its long-running campaign to try and convince Mac users to switch to Intel-based PCs.
+
+
+
+
+
+Last week, Intel released a video as part of its PC vs. Mac campaign that featured "Apple fans" introduced to different Intel computers and all of their features. During the four-minute video, Intel attempted to paint Apple consumers as oblivious to "innovations" made by companies besides Apple, including "touch screen" laptops.
+
+
+
+Continuing its streak, yesterday, the official Intel account tweeted out, "Confessions of former Mac users. What made you #GoPC?" Instead of former Mac users engaging with the tweet on reasons they switched to PC, the t…]]></summary>
+        <author>
+            <name>Sami Fathi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inferi – Vile Genesis]]></title>
+        <id>https://www.teethofthedivine.com/?p=56954</id>
+        <link href="https://www.teethofthedivine.com/reviews/inferi-vile-genesis/"/>
+        <updated>2021-10-15T11:48:32.000Z</updated>
+        <summary type="html"><![CDATA[I’ve been covering Inferi since 2009s End of an Era, and since then they have become The Artisan Era’s flagship band and one of the mainstays of the melodic/shredding technical death metal genre in the US scene. They have not been super prolific, with 2 more albums, an EP and a redo of End of […]]]></summary>
+        <author>
+            <name>Erik T</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Puppet Combo Has Brought Their Throwback Slasher ‘Murder House’ to Consoles]]></title>
+        <id>https://bloody-disgusting.com/?p=3687437</id>
+        <link href="https://bloody-disgusting.com/video-games/3687437/puppet-combo-has-brought-their-throwback-slasher-murder-house-to-consoles/"/>
+        <updated>2021-10-15T11:47:50.000Z</updated>
+        <summary type="html"><![CDATA[Console gamers are no longer left out when it comes to Puppet Combo’s follow-up to Babysitter Bloodbath in Murder House. Originally released last year on Steam, the throwback PS1-styled slasher is now available on PlayStation 4, Xbox One and the Nintendo Switch. Earlier in the week, a listing appeared on the Microsoft Store page, with an October […]]]></summary>
+        <author>
+            <name>Mike Wilson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rocket Report: Virgin Galactic stands down, SpaceX faces environmental lawsuit]]></title>
+        <id>https://arstechnica.com/?p=1804402</id>
+        <link href="https://arstechnica.com/?p=1804402"/>
+        <updated>2021-10-15T11:00:42.000Z</updated>
+        <summary type="html"><![CDATA["Will I be able to break ground tomorrow? No. Do I want to break ground tomorrow? Yeah."]]></summary>
+        <author>
+            <name>Eric Berger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metroid Dread developer leaves names out of credits, ex-staffers say]]></title>
+        <id>https://arstechnica.com/?p=1804368</id>
+        <link href="https://arstechnica.com/?p=1804368"/>
+        <updated>2021-10-15T10:15:09.000Z</updated>
+        <summary type="html"><![CDATA["Why do I not appear on the game's credits? Is it some kind of mistake?"]]></summary>
+        <author>
+            <name>Steve Haske</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parallels 17.1 Update Improves Windows 11 Support on Intel and M1 Macs, Compatibility With macOS Monterey]]></title>
+        <id>https://www.macrumors.com/2021/10/15/parallels-17-1-update-windows-11-vtpm-support/</id>
+        <link href="https://www.macrumors.com/2021/10/15/parallels-17-1-update-windows-11-vtpm-support/"/>
+        <updated>2021-10-15T10:12:21.000Z</updated>
+        <summary type="html"><![CDATA[Parallels Desktop 17.1 for Mac has just been released, offering improved support for Windows 11 virtual machines and added stability via the default implementation of Virtual Trusted Platform Modules (vTPMs) for "all future and past Windows 11 VMs." Parallels 17.1 also fully supports macOS Monterey as a host OS and improves the user experience when running ‌macOS Monterey‌ in a VM on M1 Macs.  
+
+
+
+
+
+Windows 11 requires a hardware-based TPM chip to run, which limits the software's compatibility with older PC computers and prevents it from running via Boot Camp on Intel Macs. Meanwhile there is no Boot Camp feature on Macs with Apple silicon, and the ARM-based version of Windows 11 is not natively supported. 
+
+
+
+By introducing default support for vTPMs, Parallels offers automatic W…]]></summary>
+        <author>
+            <name>Tim Hardwick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Friday Morning Fly By: Let’s go!!]]></title>
+        <id>https://www.broadstreethockey.com/2021/10/15/22727369/friday-morning-fly-by-lets-go</id>
+        <link href="https://www.broadstreethockey.com/2021/10/15/22727369/friday-morning-fly-by-lets-go"/>
+        <updated>2021-10-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Eric Hartline-USA TODAY Sports
+    
+
+  
+Today’s open discussion thread, complete with your daily dose of Flyers news and notes…  
+ *Folks, we did it! We made it to opening day 2021-22, which to be honest is a victory in and of itself. Unfortunately, not all the Flyers made it. Did you think any of this would be easy you silly goose?! Anyway, no Rasmus tonight. Several Phantoms. Let’s get wild. [Inquirer]
+*Several things have gone wrong over the last week or so and it’s a little annoying! [NBC Sports Philly]
+*At the end of the day, though, we need Carter Hart to be Carter Hart. That’s the whole deal here. [Inquirer]
+*Charlie’s made his bold predictions for the season ahead of tonight’s game. [The Athletic]
+*We made some predictions too, about the Flyers’ team awards. [BSH]
+*Patrick Brown won’t be in the lineup tonight (Covid protocol), but he seems psyched to be in Philly so that’s nice. [NBC Sports Philly]
+*Did you catch our interview with Alain Vigneault? If not, you should. [BSH]
+*And finally, no better way to kill the time until the Flyers hit the ice than a brand new Flyperbole! The boys preview the season. It’s great. [BSH]]]></summary>
+        <author>
+            <name>Broad Street Hockey -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Outre-Tombe – Abysse Mortifère Review]]></title>
+        <id>https://yourlastrites.com/?p=37813</id>
+        <link href="https://yourlastrites.com/2021/10/15/outre-tombe-abysse-mortifere-review/"/>
+        <updated>2021-10-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[[Album artwork by Matt “Putrid” Carr] There’s something magical concerning the way a number of us grew to accept brutality as a positive force in life. If you’re lucky enough to have the spectre of death lurking within eyeshot as I do, you remember an introduction by way of animated anvil drops, impossible amounts of ...]]></summary>
+        <author>
+            <name>Captain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WhatsApp's End-to-End Encrypted Chat Backups Feature Now Rolling Out]]></title>
+        <id>https://www.macrumors.com/2021/10/15/whatsapp-encrypted-chat-backups-rolling-out/</id>
+        <link href="https://www.macrumors.com/2021/10/15/whatsapp-encrypted-chat-backups-rolling-out/"/>
+        <updated>2021-10-15T08:09:31.000Z</updated>
+        <summary type="html"><![CDATA[WhatsApp end-to-end encrypted backups are now rolling out for iPhone users, Facebook has announced. Until now, WhatsApp let users back up their chat history to ‌‌iCloud‌‌, but the messages and media contained in the backups weren't protected by WhatsApp's end-to-end encryption while in ‌‌Apple's cloud servers‌. 
+
+
+
+
+
+Since Apple holds the encryption keys for ‌‌iCloud‌‌ Backup, a subpoena of Apple or an unauthorized ‌‌iCloud‌‌ hack could have potentially allowed access to WhatsApp messages backed up there. Apple was reportedly pressured to not add encryption to ‌‌iCloud‌‌ Backups after the FBI complained.
+
+
+
+Going forward, however, users can create a password or 64-bit key to protect their backup in cloud-based storage, whether they're saved in ‌iCloud‌ or Google Drive.
+
+
+
+Fac…]]></summary>
+        <author>
+            <name>Tim Hardwick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pretzel Snickers Chocolate Chip Cookie Bars.]]></title>
+        <id>https://www.halfbakedharvest.com/?p=112461</id>
+        <link href="https://www.halfbakedharvest.com/pretzel-snickers-chocolate-chip-cookie-bars/"/>
+        <updated>2021-10-15T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Pretzel Snickers Chocolate Chip Cookie Bars.
+Salty-sweet Pretzel Snickers Chocolate Chip Cookie Bars. Homemade chocolate chip cookies, swirled with salted pretzels, and chewy caramel Snickers bars. There’s nothing not to love about these sweet cookie bars. Each bite is slightly crisp on top, but soft and gooey inside…with pockets of melted chocolate and sweet caramel. Sprinkle a pinch of sea salt…
+READ: Pretzel Snickers Chocolate Chip Cookie Bars.]]></summary>
+        <author>
+            <name>halfbakedharvest</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple's Proposed Phone-Scanning Child Safety Features 'Invasive, Ineffective, and Dangerous,' Say Cybersecurity Researchers in New Study]]></title>
+        <id>https://www.macrumors.com/2021/10/15/cybersecurity-experts-criticize-apple-csam/</id>
+        <link href="https://www.macrumors.com/2021/10/15/cybersecurity-experts-criticize-apple-csam/"/>
+        <updated>2021-10-15T07:23:12.000Z</updated>
+        <summary type="html"><![CDATA[More than a dozen prominent cybersecurity experts hit out at Apple on Thursday for relying on "dangerous technology" in its controversial plan to detect child sexual abuse images on iPhones (via The New York Times).
+
+
+
+
+
+The damning criticism came in a new 46-page study by researchers that looked at plans by Apple and the European Union to monitor people's phones for illicit material, and called the efforts ineffective and dangerous strategies that would embolden government surveillance.
+
+
+
+Announced in August, the planned features include client-side (i.e. on-device) scanning of users' iCloud Photos libraries for Child Sexual Abuse Material (CSAM), Communication Safety to warn children and their parents when receiving or sending sexually explicit photos, and expanded CSAM guidan…]]></summary>
+        <author>
+            <name>Tim Hardwick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Watch Series 7 Fast Charging Requires 5W or Greater USB-C PD Adapter]]></title>
+        <id>https://www.macrumors.com/2021/10/14/apple-watch-series-7-fast-charge-adapter/</id>
+        <link href="https://www.macrumors.com/2021/10/14/apple-watch-series-7-fast-charge-adapter/"/>
+        <updated>2021-10-15T02:47:01.000Z</updated>
+        <summary type="html"><![CDATA[The Apple Watch Series 7 includes a new charging architecture that allows it to refuel up to 33% faster than the Series 6, charging from 0 to 80% in 45 minutes.
+
+
+
+
+
+The fast-charging capability requires a new USB-C charging cable that Apple includes in the box with the watch and also sells separately, but until now Apple hasn't provided details on what wattage of power adapter is required for fast charging. Apple no longer includes a power adapter in the box with the Apple Watch, so users will need to provide their own.
+
+
+
+In a new support document published today just as the first Apple Watch Series 7 orders have started arriving, Apple reveals that any of its USB-C power adapters rated at 18 watts or higher will support fast charging on the new watch. In addition, third-party USB-C adapters rated at 5 watts or higher will allow for fast charging as long as they support the USB Power Delivery (USB-PD) protocol.
+Fast charging requires an Apple USB-C Magnetic Fast Charging Cable. This cable has aluminum around the magnetic charger and a USB-C connector.
+
+
+
+You also need one of these power adapters:
+
+
+Apple 18W, 20W, 29W, 30W, 61W, 87W, or 96W USB-C Power Adapter
+
+
+A comparable third-party USB-C power adapter that supports USB Power Delivery (USB-PD) of 5W or greater
+
+Apple says that fast charging is not available in Argentina, India, or Vietnam, but the company has not offered a reason for this limitation.
+Related Roundup: Apple Watch Series 7
+Buyer's Guide: Apple Watch (Buy Now)
+Related Forum: Apple Watch
+This article, "Apple Watch Series 7 Fast Charging Requires 5W or Greater USB-C PD Adapter" first appeared on MacRumors.com
+Discuss this article in our forums]]></summary>
+        <author>
+            <name>Eric Slivka</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The circular reckoning over ‘missing white woman syndrome’]]></title>
         <id>https://www.cjr.org/the_media_today/gabby_petito_missing_white_woman_syndrome.php</id>
@@ -14,6 +1111,16 @@
         <summary type="html"><![CDATA[On Tuesday night, Chris Cuomo opened his show on CNN with an update on the case of Gabby Petito, a twenty-two-year-old travel blogger who went missing and whose body was found last month in Grand Teton National Park, in Wyoming. Brent Blue, a coroner in the case, had just ruled that Petito was strangled three […]]]></summary>
         <author>
             <name>Columbia Journalism Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ed Gray, Apex Town Council]]></title>
+        <id>https://indyweek.com/elections-2021/wake-county/ed-gray-apex-town-council-candidate-questionnaire/</id>
+        <link href="https://indyweek.com/elections-2021/wake-county/ed-gray-apex-town-council-candidate-questionnaire/"/>
+        <updated>2021-10-15T00:27:47.000Z</updated>
+        <summary type="html"><![CDATA[Gray is one of six candidates running for three seats on the council.]]></summary>
+        <author>
+            <name>Ed Gray</name>
         </author>
     </entry>
     <entry>
@@ -31640,1520 +32747,6 @@ In which it’s a goal song extravaganza! 
  The Flyers did well to turn the eyes of a whole big chunk of the Philly sports fandom in their direction by declaring that, finally, a new goal song was going to be chosen. Naturally, the gang has to weigh in on what makes a good goal song and what direction the Flyers should ultimately go in.  Oh yeah, and then there’s rookie camp, and then training camp, and then the start of the BSH Top 25 Under 25 ranking. It’s a packed hour, folks.]]></summary>
         <author>
             <name>Broad Street Hockey -  All Posts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Review] ‘SPOOKWARE’ Takes You On a Delirious Microgame-Filled Road Trip Through the Afterlife]]></title>
-        <id>https://bloody-disgusting.com/?p=3683284</id>
-        <link href="https://bloody-disgusting.com/video-games/3683284/review-spookware-takes-delirious-microgame-filled-road-trip-afterlife/"/>
-        <updated>2021-09-16T12:35:56.000Z</updated>
-        <summary type="html"><![CDATA[Perhaps my favorite thing about BEESWAX’ GAMES’ SPOOKWARE is how it takes the crumb of an idea (Wario Ware but spooky) and runs with it to the point that it becomes something else entirely. SPOOKWARE started life as a brief microgame collection on itch.io, grew into a whole segment in one of DreadXP’s  Dread X Collections, […]]]></summary>
-        <author>
-            <name>Neil Bolt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lucid gets its official EPA range ratings, and they’re astounding]]></title>
-        <id>https://arstechnica.com/?p=1795568</id>
-        <link href="https://arstechnica.com/?p=1795568"/>
-        <updated>2021-09-16T12:30:13.000Z</updated>
-        <summary type="html"><![CDATA[The Air Dream Edition is rated at 520 miles on a full charge.]]></summary>
-        <author>
-            <name>Jonathan M. Gitlin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experience the full Power Violence metal havoc…of GAAWK “Selfish Birth”]]></title>
-        <id>https://cvltnation.com/?p=284850</id>
-        <link href="https://cvltnation.com/experience-the-full-power-violence-metal-havoc-of-gaawk-selfish-birth/"/>
-        <updated>2021-09-16T12:00:20.000Z</updated>
-        <summary type="html"><![CDATA[WTF let’s get it GAAWK is the shit! All you got to do is press play below for y’all to find OUT! This band is a total mind fuck in a positive way straight up! Listening to them is like being blasted back into pre-historic times and the cave humans have decided to start a […]
-The post Experience the full Power Violence metal havoc…of GAAWK “Selfish Birth” first appeared on CVLT Nation.]]></summary>
-        <author>
-            <name>Sean Reveron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flotsam and Jetsam – Blood In the Water]]></title>
-        <id>https://www.teethofthedivine.com/?p=56748</id>
-        <link href="https://www.teethofthedivine.com/reviews/flotsam-and-jetsam-blood-in-the-water/"/>
-        <updated>2021-09-16T11:25:18.000Z</updated>
-        <summary type="html"><![CDATA[I know what you’re thinking, “Why the hell is Flotsam and Jetsam‘s latest full-length, Blood in the Water, being reviewed now, months after the album’s release in June”? Well, I can give you two reasons for this. First, and this is the most important reason, Blood in the Water is 100% THE SHIT. This album […]]]></summary>
-        <author>
-            <name>Kristofor Allred</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Trailer] Surrealist Lo-Fi Horror Title ‘Chasing Static’ Arrives October 14 For PC]]></title>
-        <id>https://bloody-disgusting.com/?p=3683288</id>
-        <link href="https://bloody-disgusting.com/video-games/3683288/trailer-surrealist-lo-fi-horror-title-chasing-static-arrives-october-14-for-pc/"/>
-        <updated>2021-09-16T11:24:11.000Z</updated>
-        <summary type="html"><![CDATA[Lynchian-style horror gaming comes home next month when Headware Games’ throwback PS1 title Chasing Static arrives for PC via Steam on October 14. The PlayStation 5, Xbox Series, PlayStation 4, Xbox One, and the Nintendo Switch versions are expected later in 2022. Accompanying the release date announcement is a new trailer, which continues the themes of […]]]></summary>
-        <author>
-            <name>Mike Wilson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fly to a new Space & Time! LEHNEN “Negative Space” streaming in Full]]></title>
-        <id>https://cvltnation.com/?p=284831</id>
-        <link href="https://cvltnation.com/fly-to-a-new-space-time-lehnens-negative-space-streaming-in-full/"/>
-        <updated>2021-09-16T11:00:14.000Z</updated>
-        <summary type="html"><![CDATA[It’s a daily battle to keep my mind in a positive space where only PMA reigns supreme. Music is my go-to tool to keep my mind right. This is where the new Lehnen album Negative Space comes into play because the sonic dreamscapes that this band creates keep my mind right. Any darkness that might […]
-The post Fly to a new Space & Time! LEHNEN “Negative Space” streaming in Full first appeared on CVLT Nation.]]></summary>
-        <author>
-            <name>Sean Reveron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PSA: Apple's iPhone 13 Pre-Order Setup Process Is Sending 'Expired Pre-Order' Messages to Some Users, But It's Likely Just a Glitch [Update: Fixed]]]></title>
-        <id>https://www.macrumors.com/2021/09/16/expired-phone-13-pre-order-message-glitch/</id>
-        <link href="https://www.macrumors.com/2021/09/16/expired-phone-13-pre-order-message-glitch/"/>
-        <updated>2021-09-16T10:56:50.000Z</updated>
-        <summary type="html"><![CDATA[Update: As of 5:30 a.m. Pacific Time, the "Expired Pre-Order" issue appears to have been fixed for many Apple customers.
-
-
-
-
-
-
-
-Some Apple customers who went through the pre-approval steps to purchase a new iPhone 13 on Apple's website or Apple Store app are seeing the message "Your iPhone pre-order has expired" when subsequently checking their order status page.
-
-
-
-
-
-Apple customers can use the ‌Apple Store‌ app on the ‌iPhone‌ or Apple's website to go through all of the pre-approval steps to get ready to purchase a new ‌‌iPhone‌‌, including checking upgrade eligibility if going through the ‌iPhone‌ Upgrade Program, choosing an AppleCare+ plan, browsing accessories, and confirming payment information. 
-
-
-
-The idea is that they can then pre-order their devices with the ta…]]></summary>
-        <author>
-            <name>Tim Hardwick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Back to the Drawing Board: An FAQ on Redistricting in N.C. in 2021]]></title>
-        <id>https://indyweek.com/news/northcarolina/back-to-the-drawing-board-an-faq-on-redistricting-in-n-c-in-2021/</id>
-        <link href="https://indyweek.com/news/northcarolina/back-to-the-drawing-board-an-faq-on-redistricting-in-n-c-in-2021/"/>
-        <updated>2021-09-16T10:51:54.000Z</updated>
-        <summary type="html"><![CDATA[Redistricting will dominate the news and political discourse for months to come. In this FAQ, we cover the basics you need to know to follow along and participate in the process.]]></summary>
-        <author>
-            <name>Jordan Wilkie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exanimatvm – Sollvm Ipsa Mor Review]]></title>
-        <id>https://yourlastrites.com/?p=37592</id>
-        <link href="https://yourlastrites.com/2021/09/16/exanimatvm-sollvm-ipsa-mor-review/"/>
-        <updated>2021-09-16T10:00:18.000Z</updated>
-        <summary type="html"><![CDATA[There is death metal, and then there is evil death metal. Don’t get me wrong, death metal of all types is awesome, but I find I get entirely different moods from listening to, say, Cannibal Corpse or Mortician or Bolt Thrower than I do from the unholy symphonies composed by the likes of Morbid Angel ...]]></summary>
-        <author>
-            <name>Ryan Tysinger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thursday Morning Fly By: Camping, again]]></title>
-        <id>https://www.broadstreethockey.com/2021/9/16/22676191/thursday-morning-fly-by-camping-again</id>
-        <link href="https://www.broadstreethockey.com/2021/9/16/22676191/thursday-morning-fly-by-camping-again"/>
-        <updated>2021-09-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Photo by Len Redkoles/NHLI via Getty Images
-    
-
-  
-Today’s open discussion thread, complete with your daily dose of Flyers news and notes…  
- Editor’s note: a friendly reminder that as part of SB Nation’s new comment platform launch, all comments as they appear now on this article and others will disappear at or around 3pm EST when the new system takes effect — thank you for your patience as the new system is implemented.
-*There are Flyers (practice) jerseys back on the ice today, this time for rookie camp. Like development camp, but closer to real NHL hockey! [Flyers]
-*Rookie camp will feature a few guys really gunning for spots on the opening night roster, so it could be really interesting to watch. [Inquirer]
-*The 25 Under 25s are coming hard and fast as we get ever-closer to real hockey; up at 21, The Hog. [BSH]
-*At 20th overall, we’ve got big boy Isaac Ratcliffe. [BSH]
-*Rounding out yesterday’s reveals at number 19, Ronnie Attard. [BSH]
-*Fans will be back in the stands for Flyers games this season, and the difference that will make to the guys on the ice isn’t lost on the front office. [NBC Sports Philly]
-*Charlie looks back at Oskar Lindblom’s season and asks what we might expect of him this year. [The Athletic]
-*New Flyperbole dropped yesterday! It features Steve’s new permanent co-host. Very exciting. [BSH]
-*And finally, longtime member of our BSH community, Douglas Campbell (DCamp), is doing a charity bike ride soon, benefitting the fight against MS. If you can, consider donating! Just use the handy link here to make your pledge.]]></summary>
-        <author>
-            <name>Broad Street Hockey -  All Posts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experience the Decimating Thrash of WRAITH “Gatemaster”]]></title>
-        <id>https://cvltnation.com/?p=284855</id>
-        <link href="https://cvltnation.com/experience-the-decimating-thrash-of-wraith-gatemaster/"/>
-        <updated>2021-09-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Music is a tool for maintaining sanity; I don’t care what the Parents Music Resource Center says. When I throw on some quality thrash riffage like WRAITH‘s Undo the Chains LP it’s like finding an island of tranquility from the culture noise constantly banging on my mental door. The new album comes out on September […]
-The post Experience the Decimating Thrash of WRAITH “Gatemaster” first appeared on CVLT Nation.]]></summary>
-        <author>
-            <name>Meghan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Through The Lens Of Isolation: KIRSTEN THOEN]]></title>
-        <id>https://cvltnation.com/?p=284859</id>
-        <link href="https://cvltnation.com/through-the-lens-of-isolation-kirsten-thoen/"/>
-        <updated>2021-09-16T09:00:31.000Z</updated>
-        <summary type="html"><![CDATA[Kirsten Thoen IG Daggers for Eyes Website How old were you when you first picked up a camera?  I was a teenager, did some snapping in high school of crushes. Also, my first couple of relationships were with camera bearers so I would borrow their Canon AE1’s to shoot self portraits or we would take […]
-The post Through The Lens Of Isolation: 
-KIRSTEN THOEN first appeared on CVLT Nation.]]></summary>
-        <author>
-            <name>Sean Reveron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debugging by starting a REPL at a breakpoint is fun]]></title>
-        <id>https://jvns.ca/blog/2021/09/16/debugging-in-a-repl-is-fun/</id>
-        <link href="https://jvns.ca/blog/2021/09/16/debugging-in-a-repl-is-fun/"/>
-        <updated>2021-09-16T08:48:58.000Z</updated>
-        <summary type="html"><![CDATA[Hello! I was talking to a Python programmer friend yesterday about debugging,
-and I mentioned that I really like debugging using a REPL. He said he’d never
-tried it and that it sounded fun, so I thought I’d write a quick post about it.
-This debugging method doesn’t work in a lot of languages, but it does work in
-Python and Ruby and kiiiiiind of in C (via gdb).
-what’s a REPL?
-REPL stands for “read eval print loop”. A REPL is a program that:
-reads some input from you like print(f"2 + 2 = {2+2}") (read)
-evaluates the input (eval)
-print out the result (print)
-and then goes back to step 1 (loop)
-Here’s an example of me using the IPython REPL to run a print statement. (also
-it demonstrates f-strings, my favourite Python 3 feature)
-$ ipython3
-Python 3.9.5 (default, May 24 2021, 12:50:35) 
-Type 'c…]]></summary>
-        <author>
-            <name>Julia Evans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cellular iPad Mini Doesn’t Feature mmWave 5G Support, Unlike iPad Pro]]></title>
-        <id>https://www.macrumors.com/2021/09/16/ipad-mini-5g-does-not-support-mmwave/</id>
-        <link href="https://www.macrumors.com/2021/09/16/ipad-mini-5g-does-not-support-mmwave/"/>
-        <updated>2021-09-16T08:12:17.000Z</updated>
-        <summary type="html"><![CDATA[Apple this week debuted the sixth-generation iPad mini, cellular models of which can connect to 5G for the first time. However, it's worth noting that cellular connectivity on the new ‌iPad mini‌ does not extend to support for faster mmWave 5G.
-
-
-
-
-
-Apple doesn't maintain a cellular compatibility page for iPad models like it does for its iPhones, so the lack of mmWave 5G support on the ‌iPad mini‌ could surprise some Apple customers. Currently, Apple's mmWave 5G support is limited to the iPhone 13 lineup, iPhone 12 lineup, and the cellular variants of the 11-inch and 12.9-inch iPad Pro.
-
-
-
-On the plus side, like the new ‌iPhone 13‌ models, the ‌iPad mini‌ does support more 5G bands overall than ‌iPhone 12‌ and cellular ‌iPad Pro‌ models, according to Apple, so the ‌iPad mini‌ doe…]]></summary>
-        <author>
-            <name>Tim Hardwick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best!!! ’80s UK Punk Documentary You Will See This Week!]]></title>
-        <id>http://www.cvltnation.com/?p=215235</id>
-        <link href="https://cvltnation.com/soap-stamps-80s-uk-hardcore-documentary/"/>
-        <updated>2021-09-16T08:00:22.000Z</updated>
-        <summary type="html"><![CDATA[1984 going into 1985 was an interesting time for me and the way I saw hardcore. I was starting to get into reggae heavily, as well as post-punk. During this time, I was still an avid reader of MMR – my favorite sections were their international coverage. One band from the UK that really sparked […]
-The post Best!!! ’80s UK Punk Documentary You Will See This Week! first appeared on CVLT Nation.]]></summary>
-        <author>
-            <name>Sean Reveron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 40 Most Popular Fall Recipes.]]></title>
-        <id>https://www.halfbakedharvest.com/?p=111478</id>
-        <link href="https://www.halfbakedharvest.com/the-40-most-popular-fall-recipes/"/>
-        <updated>2021-09-16T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The 40 Most Popular Fall Recipes.
-The 40 Most Popular Fall Recipes. And we’re back! It’s everyone’s favorite post to kick off the fall season, which crazy enough starts in less than a week! If you read daily then you know that around here we’re already into our fall season. We’ve got slightly cooler temperatures and our leaves already turning. It’s…
-READ: The 40 Most Popular Fall Recipes.]]></summary>
-        <author>
-            <name>halfbakedharvest</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Step into the Utterly Evil World of Yasushi Nirasawa]]></title>
-        <id>https://cvltnation.com/?p=284876</id>
-        <link href="https://cvltnation.com/step-into-the-utterly-evil-world-of-yasushi-nirasawa/"/>
-        <updated>2021-09-16T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Yasushi Nirasawa (1963–2016) was an artist, sculptor, and model-maker known best for his character design. He worked extensively in television and film on series like Kamen Rider and Garo to create the villains and looking through his portfolio of work it’s clear he had a talent for taking the worst of humanity and making it […]
-The post Step into the Utterly Evil World of Yasushi Nirasawa first appeared on CVLT Nation.]]></summary>
-        <author>
-            <name>Meghan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Quietly Removes 256GB iPhone SE Model From Online Store]]></title>
-        <id>https://www.macrumors.com/2021/09/16/apple-discontinues-256gb-iphone-se-model/</id>
-        <link href="https://www.macrumors.com/2021/09/16/apple-discontinues-256gb-iphone-se-model/"/>
-        <updated>2021-09-16T06:53:01.000Z</updated>
-        <summary type="html"><![CDATA[Following updates to its product lineups this week, Apple has quietly discontinued the 256GB capacity option for the iPhone SE. 
-
-
-
-
-
-Prior to this week, the ‌iPhone SE‌ was available in 64GB, 128GB, and 256GB configurations, but since Tuesday's "California streaming" event and subsequent product lineup rejig, only the first and second of those capacities are listed on Apple's online store. Pricing for the 64GB and 128GB ‌iPhone SE‌ options remains the same.
-
-
-
-According to Apple analyst Ming-Chi Kuo, Apple is planning an update to the ‌iPhone SE‌ for the first half of 2022. The current model was launched in April 2020, so the removal of the 256GB variant could be a sign that Apple is beginning to ramp down production of this particular model.
-
-
-
-During its virtual event, Apple announced that the iPhone 13 and ‌iPhone 13‌ mini start with 128GB of storage, which is double the base 64GB offered for the iPhone 12 and iPhone 12 mini.
-
-
-
-The storage capacities available for the ‌iPhone 13‌ and ‌iPhone 13‌ mini include 128GB, 256GB, and 512GB, while the iPhone 13 Pro and ‌iPhone 13 Pro‌ Max also have a new 1TB storage option. 
-
-
-
-Pricing continues to start at $699 for the ‌iPhone 13‌ mini, $799 for the ‌iPhone 13‌, $999 for the ‌iPhone 13 Pro‌, and $1,099 for the ‌iPhone 13 Pro‌ Max. Preorders for the new ‌iPhone 13‌ models begin Friday.
-Related Roundup: iPhone SE 2020
-Buyer's Guide: iPhone SE (Don't Buy)
-Related Forum: iPhone
-This article, "Apple Quietly Removes 256GB iPhone SE Model From Online Store" first appeared on MacRumors.com
-Discuss this article in our forums]]></summary>
-        <author>
-            <name>Tim Hardwick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.11.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.1"/>
-        <updated>2021-09-16T06:39:32.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: Unexpected nested element in author field crashes the parser
-Thank you @ad-m]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eastward beginner’s guide, tips, and tricks]]></title>
-        <id>https://www.polygon.com/guides/22673094/eastward-beginners-tips-tricks-treasure-radar-map-refrigerator-cook-bombs-bosses</id>
-        <link href="https://www.polygon.com/guides/22673094/eastward-beginners-tips-tricks-treasure-radar-map-refrigerator-cook-bombs-bosses"/>
-        <updated>2021-09-16T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image: Pixpil/Chucklefish via Polygon
-    
-
-  
-You, John, and Sam in Potcrock Isle
- Eastward opens in the subterranean community of Potcrock Isle, where residents fear the wasteland they believe exists above them. As an older man named John and his energetic young charge, Sam, players explore a series of unique settings and work to find whether the world they know is better than the one they do not.
-In this Eastward beginner’s guide, we’ll offer tips to help you through the first few hours of your grand adventure, with advice on solving puzzles, fighting bosses, navigating the labyrinthine world, and discovering various secrets along the way.
-Buy the Treasure Radar
-Image: Pixpil/Chucklefish via Polygon
-  
-At Johnny’s Emporium, a shop near the top of the hill above your residence in Potcroc…]]></summary>
-        <author>
-            <name>Polygon -  PC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Additional Benchmarks Reveal A15 Bionic Performance Improvements in iPhone 13 and iPhone 13 Pro]]></title>
-        <id>https://www.macrumors.com/2021/09/15/a15-geekbench-cpu-gpu/</id>
-        <link href="https://www.macrumors.com/2021/09/15/a15-geekbench-cpu-gpu/"/>
-        <updated>2021-09-16T03:00:38.000Z</updated>
-        <summary type="html"><![CDATA[Earlier today, we reported on a Geekbench Metal result for the iPhone 13 Pro showing an approximately 55% graphics performance improvement compared to the iPhone 12 Pro.
-
-
-
-
-
-Since that time, additional Geekbench results for both CPU and GPU performance across the iPhone 13 lineup have surfaced to provide a more complete look at the improvements.
-
-
-
-On the graphics side, a Metal result for the iPhone 13 (designated iPhone14,5) reveals a score of 10608 for the A15 Bionic in that device, roughly 15% higher than the score for the A14 Bionic in the iPhone 12.
-
-
-
-
-
-The Metal score for the ‌iPhone 13‌ is significantly lower than the corresponding 14216 score for the ‌iPhone 13 Pro‌ due to the fact that the Pro models (and the new A15-equipped iPad mini) feature a 5-core GPU while the regular ‌iPhone 13‌ models include a 4-core GPU.
-
-
-
-Turning to CPU performance, we see similar scores across regular and Pro devices in the ‌iPhone 13‌ lineup because they all feature the same 6-core CPU setup. A survey of scores coming in today reveals single-core scores of around 1725 and multi-core scores generally around 4600.
-
-
-
-
-
-These scores represent a roughly 10% increase in single-core performance and 18% increase in multi-core performance compared to the A14 Bionic in the iPhone 12 lineup.
-
-
-
-With only a handful of results registered in the Geekbench database so far, these scores are still rough estimates, but the average scores will firm up over time as more come in.
-Related Roundups: iPhone 13, iPhone 13 Pro
-Buyer's Guide: iPhone 13 (Buy Now), iPhone 13 Pro (Buy Now)
-Related Forum: iPhone
-This article, "Additional Benchmarks Reveal A15 Bionic Performance Improvements in iPhone 13 and iPhone 13 Pro" first appeared on MacRumors.com
-Discuss this article in our forums]]></summary>
-        <author>
-            <name>Eric Slivka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The mounting press-freedom toll in Afghanistan]]></title>
-        <id>https://www.cjr.org/the_media_today/afghanistan_journalists_taliban.php</id>
-        <link href="https://www.cjr.org/the_media_today/afghanistan_journalists_taliban.php"/>
-        <updated>2021-09-16T00:58:46.868Z</updated>
-        <summary type="html"><![CDATA[Last week, an Afghan journalist based in Kabul reached out to me. He told me that the situation for reporters in his country had become increasingly bleak since it fell to the Taliban in mid-August and US forces withdrew. After the Taliban took over, the Dari-language newspaper for which he worked shut down, citing the […]]]></summary>
-        <author>
-            <name>Columbia Journalism Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple's uncanny iPhone event]]></title>
-        <id>https://www.platformer.news/p/apples-uncanny-iphone-event</id>
-        <link href="https://www.platformer.news/p/apples-uncanny-iphone-event"/>
-        <updated>2021-09-15T23:50:27.000Z</updated>
-        <summary type="html"><![CDATA[On the growing gap between style and substance. PLUS: More Facebook fallout]]></summary>
-        <author>
-            <name>Casey Newton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[★ Various Single-Paragraph Thoughts and Observations Regarding Yesterday’s ‘California Streaming’ Apple Event for the iPhones 13, Apple Watch Series 7, and New iPads]]></title>
-        <id>https://daringfireball.net/2021/09/california_streaming_thoughts_and_observations</id>
-        <link href="https://daringfireball.net/2021/09/california_streaming_thoughts_and_observations"/>
-        <updated>2021-09-15T23:40:00.000Z</updated>
-        <summary type="html"><![CDATA[You’re in luck if you like the color blue.]]></summary>
-        <author>
-            <name>Daring Fireball</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yours Truly on CNBC This Morning]]></title>
-        <id>https://www.cnbc.com/video/2021/09/15/john-gruber-apple-embracing-work-from-home-in-latest-product-line.html</id>
-        <link href="https://www.cnbc.com/video/2021/09/15/john-gruber-apple-embracing-work-from-home-in-latest-product-line.html"/>
-        <updated>2021-09-15T23:39:31.000Z</updated>
-        <summary type="html"><![CDATA[I enjoy that I’m credited in the headline simply as “expert”. I’ll take that.
- ★]]></summary>
-        <author>
-            <name>Daring Fireball</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung Begins Mass Production of 14-Inch and 16-Inch OLED Displays That Apple Might Use for 2022 MacBook Pro]]></title>
-        <id>https://www.macrumors.com/2021/09/15/samsung-90hz-oled-laptop-displays/</id>
-        <link href="https://www.macrumors.com/2021/09/15/samsung-90hz-oled-laptop-displays/"/>
-        <updated>2021-09-15T23:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Samsung Display today announced that it has started mass production of 14-inch and 16-inch OLED displays for laptops, and a key feature of the panels is support for up to a 90Hz refresh rate for smoother appearing content.
-
-
-
-
-
-Samsung Display said it has been supplying the OLED panels to global manufacturers, including ASUS, Lenovo, Dell, HP, and Samsung Electronics, for use in laptops, including ASUS's recently announced Zenbook and Vivobook Pro laptops. Apple was not mentioned as being a customer, but Korean website The Elec last month reported that Samsung Display was preparing its production lines for future MacBooks with OLED displays, and DigiTimes has said Apple plans to launch a 16-inch MacBook Pro with an OLED display in 2022.
-
-
-
-MacBook Pro models currently use LCD dis…]]></summary>
-        <author>
-            <name>Joe Rossignol</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US hospitals buckling under delta surge: 25% of ICUs are over 95% full]]></title>
-        <id>https://arstechnica.com/?p=1795673</id>
-        <link href="https://arstechnica.com/?p=1795673"/>
-        <updated>2021-09-15T23:00:42.000Z</updated>
-        <summary type="html"><![CDATA[The burden on hospital ICUs has more than doubled since June.]]></summary>
-        <author>
-            <name>Beth Mole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Four Quick Links for Wednesday Afternoon]]></title>
-        <id>https://kottke.org/quick-links</id>
-        <link href="https://kottke.org/quick-links"/>
-        <updated>2021-09-15T21:52:01.000Z</updated>
-        <summary type="html"><![CDATA[Ikea is launching a US program to buy back used furniture and resell it as part of "the company's ambitious goals to become circular and carbon positive by the end of the decade". [fastcompany.com]
-A visualization of the 7,102 known languages in the world today. [visualcapitalist.com]
-Fossil Fuel Capitalism Is Cutting Our Lives Short. "A new study shows that 17 billion life years could be saved if air pollution was reduced to WHO standards." [tribunemag.co.uk]
-Whoa, Hoefler&Co has been acquired by Monotype. [typography.com]
----
-Note: Quick Links are pushed to this RSS feed twice a day. For more immediate service, check out the front page of kottke.org, the Quick Links archive, or the @kottke Twitter feed.]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shocking Pixel 6 rumor lists Google SoC with two ARM X1 CPU cores]]></title>
-        <id>https://arstechnica.com/?p=1795420</id>
-        <link href="https://arstechnica.com/?p=1795420"/>
-        <updated>2021-09-15T21:45:12.000Z</updated>
-        <summary type="html"><![CDATA[Google blazes its own trail for its first SoC design.]]></summary>
-        <author>
-            <name>Ron Amadeo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What's Still Coming in 2021 at Apple's Second Fall Event]]></title>
-        <id>https://www.macrumors.com/2021/09/15/apple-second-fall-event-possibilities/</id>
-        <link href="https://www.macrumors.com/2021/09/15/apple-second-fall-event-possibilities/"/>
-        <updated>2021-09-15T21:32:26.000Z</updated>
-        <summary type="html"><![CDATA[Apple held its "California Streaming" event yesterday to unveil new iPads, the iPhone 13 lineup, and the Apple Watch Series 7, but we're not yet done with new products for the year.
-
-
-
-
-
-We're expecting a second fall event to be held in either October or November, and this event will likely focus on Macs. Below, we've highlighted the products that are still rumored to be launching before the end of 2021.
-
-
-
-14 and 16-inch MacBook Pro Models
-
-
-We're overdue for a 16-inch MacBook Pro refresh, and rumors suggest that it's coming soon. Multiple rumors have pointed towards 14 and 16-inch MacBook Pro models with slimmer bezels and a flat-edged design that's not too much of a departure from the current design.
-
-
-
-The new MacBook Pro models will regain ports that have been missing …]]></summary>
-        <author>
-            <name>Juli Clover</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the Le Mans hydrogen racer is shaping up]]></title>
-        <id>https://arstechnica.com/?p=1795573</id>
-        <link href="https://arstechnica.com/?p=1795573"/>
-        <updated>2021-09-15T21:11:18.000Z</updated>
-        <summary type="html"><![CDATA[In preparation for a hydrogen-powered category, Le Mans saw laps from prototypes.]]></summary>
-        <author>
-            <name>Ars Contributors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crew Dragon has flown four more people—all private citizens—into space]]></title>
-        <id>https://arstechnica.com/?p=1795344</id>
-        <link href="https://arstechnica.com/?p=1795344"/>
-        <updated>2021-09-15T21:09:59.000Z</updated>
-        <summary type="html"><![CDATA[SpaceX promised to make spaceflight available to the masses. This is a good start.]]></summary>
-        <author>
-            <name>Eric Berger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[TIFF Review] In ‘Zalava’, a Demonic Possession Leads to Mass Hysteria and Paranoia]]></title>
-        <id>https://bloody-disgusting.com/?p=3683223</id>
-        <link href="https://bloody-disgusting.com/reviews/3683223/tiff-review-zalava-demonic-possession-leads-mass-hysteria-paranoia/"/>
-        <updated>2021-09-15T20:58:36.000Z</updated>
-        <summary type="html"><![CDATA[Superstition and paranoia abound in Iranian writer-director Arsalan Amiri’s film, Zalava. Set in the titular village in the northwestern mountains of Iran in 1978, the film chronicles one long day and night as the village descends into panic, fear and mass hysteria that a demon is attacking their home. What’s fascinating about the film, which […]]]></summary>
-        <author>
-            <name>Joe Lipsett</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 13 Pro Offers Significantly Improved GPU Performance Compared to iPhone 12 Pro]]></title>
-        <id>https://www.macrumors.com/2021/09/15/iphone-13-pro-gpu-performance-geekbench/</id>
-        <link href="https://www.macrumors.com/2021/09/15/iphone-13-pro-gpu-performance-geekbench/"/>
-        <updated>2021-09-15T20:50:13.000Z</updated>
-        <summary type="html"><![CDATA[Just a day after the iPhone 13 models were announced by Apple, the first Geekbench score has already surfaced. Someone has benchmarked the GPU performance of the iPhone 13 Pro, and there's a significant performance increase compared to the prior-generation iPhone 12 Pro.
-
-
-
-
-
-The ‌iPhone 13 Pro‌, or iPhone14,2, earned a Metal score of 14216, a 55 percent increase compared to the 9123 Metal score earned by the ‌iPhone 12 Pro‌.
-
-
-
-
-
-Apple's ‌iPhone 13‌ models feature an A15 chip with 6 CPU cores, including two performance cores and four efficiency cores. Both the ‌iPhone 13‌ and ‌iPhone 13 Pro‌ devices have the same CPU, but there are differences when it comes to GPU. The ‌iPhone 13‌ and 13 mini are equipped with a 4-core GPU, while the higher-end ‌iPhone 13 Pro‌ and ‌iPhone 13 P…]]></summary>
-        <author>
-            <name>Juli Clover</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The iPhone 13 is thicker and heavier than the iPhone 12]]></title>
-        <id>https://arstechnica.com/?p=1795569</id>
-        <link href="https://arstechnica.com/?p=1795569"/>
-        <updated>2021-09-15T20:48:57.000Z</updated>
-        <summary type="html"><![CDATA[Plus, more new details revealed by Apple's website.]]></summary>
-        <author>
-            <name>Samuel Axon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snoop Dogg and Martha Stewart Hosting “Very Tasty Halloween” Competition Special on Peacock]]></title>
-        <id>https://bloody-disgusting.com/?p=3683265</id>
-        <link href="https://bloody-disgusting.com/tv/3683265/snoop-dogg-martha-stewart-hosting-tasty-halloween-competition-special-peacock/"/>
-        <updated>2021-09-15T20:44:39.000Z</updated>
-        <summary type="html"><![CDATA[Coming along one day before Halloween Kills arrives on Peacock, the streaming service has announced that “Snoop and Martha’s Very Tasty Halloween” will premiere on October 14. From BuzzFeed Studios, Magical Elves and the minds of Tasty, the world’s largest digital food network, “Snoop and Martha’s Very Tasty Halloween” is a one-hour competition special hosted […]]]></summary>
-        <author>
-            <name>John Squires</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Accused of False Marketing and Fraud Over M1 MacBook Display Issues]]></title>
-        <id>https://www.macrumors.com/2021/09/15/apple-false-marketing-fraud-macbook-displays/</id>
-        <link href="https://www.macrumors.com/2021/09/15/apple-false-marketing-fraud-macbook-displays/"/>
-        <updated>2021-09-15T20:37:26.000Z</updated>
-        <summary type="html"><![CDATA[Apple is facing a new class-action lawsuit in the United States that accuses it of false or deceptive marketing for the M1-powered MacBook Pro and MacBook Air, fraudulent business practices, misconduct in customer support, and violation of consumer law.
-
-
-
-
-
-The lawsuit, filed this week in the Northern District of California, represents Apple customers across the United States who have faced hardware defects in their M1 MacBook Pro and ‌MacBook Air‌.
-
-
-
-Over the last several months, a significant number of customers have reported that the displays on their new Apple silicon MacBooks have suddenly cracked or displayed black horizontal and vertical lines, making them unusable. As the lawsuit alleges, those customers said that the cracks and malfunctions were caused by a hardware de…]]></summary>
-        <author>
-            <name>Sami Fathi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Doom mod resurrects Margaret Thatcher as a Cyberdemon]]></title>
-        <id>https://www.polygon.com/22676226/margaret-thatcher-doom-mod-thatchers-techbase-soundtrack</id>
-        <link href="https://www.polygon.com/22676226/margaret-thatcher-doom-mod-thatchers-techbase-soundtrack"/>
-        <updated>2021-09-15T20:19:42.000Z</updated>
-        <summary type="html"><![CDATA[Image: Core Lo Art
-    
-
-  
-The UK is Hell’s 10th circle, according to Thatcher’s Techbase
- If you’re a Doom fan feeling nostalgic for the 1980s as represented by big hair, bad fashion, and British accents, look no further than Thatcher’s Techbase, a forthcoming Doom WAD that pits you against the Iron Lady and her hellspawn.
-Available Sept. 24 on “PC, Mac, Linux and whatever the hell you want to try running it on,” Thatcher’s Techbase is brought to you by modder Dr. Doom Daddy and an all-star cast of collaborators. The mod supports cooperative and deathmatch play, offers five difficulty levels, and is “completely free.”
-On September 24th, Margaret Thatcher will rise from her grave. Only you can send her back to Hell. 
-3D: Doom Daddy Digital is proud to present         '          , a new      adventure for PC, Mac, Linux and whatever the hell you want to try running it on. pic.twitter.com/ssSwk45EoS
-— Dr. Doom Daddy (@letshugbro) September 15, 2021
-
-
-
-The mod’s official description doesn’t make it sound like this is a tribute to Maggie Thatcher, prime minister from 1979 to 1990. “Faced with the return of one of humanity’s greatest threats, you have no choice but to head to the 10th circle of hell,” it reads. “The United Kingdom of Great Britain and Northern Ireland.” OK then!
-Thatcher is regarded by historians as one of the 20th century’s more accomplished PMs, though she consistently faced low approval ratings in her public life. One would expect that of a politician who took free milk away from schoolchildren. Tut-tut.
-Barry Topping (Paradise Killer) supplies the soundtrack, which will be dropping on Bandcamp next week. The cast of voice actors includes Laila Berzins, who was Persephone and Demeter in Hades (and is also The Baroness, the big bad of Lost In Random, which launched Friday). Rafael Batista de Lima illustrated the sprites, while Core Lo Art designed the key art, which shows Thatcher-as-Cyberdemon blasting away at Doomguy.]]></summary>
-        <author>
-            <name>Polygon -  PC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Battlefield 2042 delayed to November]]></title>
-        <id>https://www.polygon.com/22675462/battlefield-2042-release-date-delayed-beta</id>
-        <link href="https://www.polygon.com/22675462/battlefield-2042-release-date-delayed-beta"/>
-        <updated>2021-09-15T20:18:42.000Z</updated>
-        <summary type="html"><![CDATA[Image: DICE/Electronic Arts
-    
-
-  
-The multiplayer-only game will still arrive this year
- Battlefield 2042 won’t make its intended release date. Developer DICE announced Wednesday that the game has been delayed until Nov. 19, nearly a month after its originally planned release date of Oct. 22.
-In a statement released on Twitter, DICE general manager Oskar Gabrielson explained that the delay was largely due to the challenges of working from home during the pandemic.
-“Building the next generation of Battlefield during a global pandemic has created unforeseen challenges for our development teams,” Gabrielson said in a statement also attributed to the Battlefield 2042 development team. “Given the scale and scope of the game, we had hoped our team would be back in our studios together as we m…]]></summary>
-        <author>
-            <name>Polygon -  PC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LEGO IDEAS Project Featuring ‘Gremlins’ House and Characters Needs Your Support]]></title>
-        <id>https://bloody-disgusting.com/?p=3683247</id>
-        <link href="https://bloody-disgusting.com/toys/3683247/lego-ideas-project-featuring-gremlins-house-characters-needs-support/"/>
-        <updated>2021-09-15T20:01:39.000Z</updated>
-        <summary type="html"><![CDATA[LEGO IDEAS is a pretty cool branch of the LEGO brand, allowing fans to pitch their own concepts directly to the company. The platform encourages you to upload images and details of your creations, which will be forwarded to the desks of the folks in charge IF you can get 10,000 upvotes on your idea. From there, […]]]></summary>
-        <author>
-            <name>John Squires</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Walmart to begin driverless deliveries with Ford and Argo AI]]></title>
-        <id>https://arstechnica.com/?p=1795485</id>
-        <link href="https://arstechnica.com/?p=1795485"/>
-        <updated>2021-09-15T19:45:43.000Z</updated>
-        <summary type="html"><![CDATA[Deliveries will begin in Austin, Miami, and Washington, DC, later in 2021.]]></summary>
-        <author>
-            <name>Jonathan M. Gitlin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[N.C. State Faculty Passes Resolution Calling for Vaccine Mandate]]></title>
-        <id>https://indyweek.com/news/wake/n-c-state-faculty-passes-vaccine-mandate-resolution/</id>
-        <link href="https://indyweek.com/news/wake/n-c-state-faculty-passes-vaccine-mandate-resolution/"/>
-        <updated>2021-09-15T19:44:56.000Z</updated>
-        <summary type="html"><![CDATA[As of Monday, N.C. State said 73 percent of community members — 32,863 people, including students, staff and faculty—had either uploaded vaccine records to the school’s HealthyPack portal or been fully vaccinated on campus.]]></summary>
-        <author>
-            <name>Joe Killian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recent Ebola outbreak emerged from someone infected 5 years earlier]]></title>
-        <id>https://arstechnica.com/?p=1795537</id>
-        <link href="https://arstechnica.com/?p=1795537"/>
-        <updated>2021-09-15T19:22:52.000Z</updated>
-        <summary type="html"><![CDATA[We knew the virus could go dormant but not that it could do so for five years.]]></summary>
-        <author>
-            <name>John Timmer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘X The Unknown’ Was One of Hammer’s More Interesting Tales of Disquieting Science [Hammer Factory]]]></title>
-        <id>https://bloody-disgusting.com/?p=3683234</id>
-        <link href="https://bloody-disgusting.com/editorials/3683234/x-unknown-one-hammers-interesting-tales-disquieting-science-hammer-factory/"/>
-        <updated>2021-09-15T19:11:31.000Z</updated>
-        <summary type="html"><![CDATA[While Hammer Studios has been in business since 1934, it was between 1955 and 1979 that it towered as one of the premier sources of edgy, gothic horror. On top of ushering the famous monsters of Universal’s horror heyday back into the public eye, resurrecting the likes of Frankenstein, Dracula and the Mummy in vivid […]]]></summary>
-        <author>
-            <name>Paul Farrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Winners of the 2021 Small World Photomicrography Competition]]></title>
-        <id>https://kottke.org/21/09/the-winners-of-the-2021-small-world-photomicrography-competition</id>
-        <link href="https://kottke.org/21/09/the-winners-of-the-2021-small-world-photomicrography-competition"/>
-        <updated>2021-09-15T18:59:33.000Z</updated>
-        <summary type="html"><![CDATA[This is always a favorite of mine… Nikon has announced the winners of the Small World Photomicrography Competition for 2021. As always, I’ve shared a few of my favorites above. Photo credits from top to bottom: Jason Kirk, Oliver Dum, Saulius Gugis, Martin Kaae Kristiansen, Paula Diaz, and Caleb Dawson.
-Tags: best of   best of 2021   photography]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Backpage founders get mistrial because US overplayed child sex trafficking claims]]></title>
-        <id>https://arstechnica.com/?p=1795520</id>
-        <link href="https://arstechnica.com/?p=1795520"/>
-        <updated>2021-09-15T18:53:08.000Z</updated>
-        <summary type="html"><![CDATA[US focused too heavily on child sex trafficking in case with no trafficking charges.]]></summary>
-        <author>
-            <name>Jon Brodkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Official Poster for Julia Ducournau’s ‘Titane’ Goes Up in Flames]]></title>
-        <id>https://bloody-disgusting.com/?p=3683226</id>
-        <link href="https://bloody-disgusting.com/movie/3683226/official-poster-julia-ducournaus-titane-goes-flames/"/>
-        <updated>2021-09-15T18:42:58.000Z</updated>
-        <summary type="html"><![CDATA[French filmmaker Julia Ducournau (Raw) is back this year with new movie Titane, which NEON will be releasing in theaters en route to Halloween, on October 1, 2021. Check out the latest poster below, and watch the trailer here. Titane refers to “A metal highly resistant to heat and corrosion, with high tensile strength alloys, often used in medical […]]]></summary>
-        <author>
-            <name>John Squires</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two New Bars to Fill Former Two-Story Criterion Space in Durham]]></title>
-        <id>https://indyweek.com/food-and-drink/news/remedy-room-and-ruby-at-five-points-to-open-in-durham/</id>
-        <link href="https://indyweek.com/food-and-drink/news/remedy-room-and-ruby-at-five-points-to-open-in-durham/"/>
-        <updated>2021-09-15T18:14:19.000Z</updated>
-        <summary type="html"><![CDATA[An upstairs bar and live music venue is expected to open in mid-October, with a downstairs neighborhood bar slated for a late 2021 opening.]]></summary>
-        <author>
-            <name>Sarah Edwards</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Real Is What You Feel: Chastity Belt’s “Time To Go Home”]]></title>
-        <id>143757</id>
-        <link href="https://daily.bandcamp.com/resonance/chastity-belt-time-to-go-home-essay"/>
-        <updated>2021-09-15T17:59:39.000Z</updated>
-        <summary type="html"><![CDATA[This is how you become a ghost. This is how I did.
-Read full story on the Bandcamp Daily.]]></summary>
-        <author>
-            <name>Mariana Timony</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Real Is What You Feel: Chastity Belt’s “Time To Go Home”]]></title>
-        <id>143757</id>
-        <link href="https://daily.bandcamp.com/resonance/chastity-belt-time-to-go-home-essay"/>
-        <updated>2021-09-15T17:59:39.000Z</updated>
-        <summary type="html"><![CDATA[This is how you become a ghost. This is how I did.
-Read full story on the Bandcamp Daily.]]></summary>
-        <author>
-            <name>Amy Moss</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Helen Lyle Was Originally Featured in Nia DaCosta’s ‘Candyman’ and We’ve Got an Image to Prove It!]]></title>
-        <id>https://bloody-disgusting.com/?p=3683136</id>
-        <link href="https://bloody-disgusting.com/movie/3683136/wanna-see-helen-lyle-nia-dacostas-candyman-sequel-photo/"/>
-        <updated>2021-09-15T17:48:33.000Z</updated>
-        <summary type="html"><![CDATA[“It was always you, Helen. It was always you.” The original incarnation of the Nia DaCosta-directed Candyman was a very different one and actually prominently featured Helen Lyle as the film’s main storytelling device, BD has learned. In the 1992 Candyman, a loose adaptation of Clive Barker‘s story that was directed by Bernard Rose, Virginia Madsen plays Helen […]]]></summary>
-        <author>
-            <name>Brad Miska</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FIFA 22’s HyperMotion is ‘the beginning of machine learning taking over animation’]]></title>
-        <id>https://www.polygon.com/22675796/fifa-22-hypermotion-motion-capture-new-realism</id>
-        <link href="https://www.polygon.com/22675796/fifa-22-hypermotion-motion-capture-new-realism"/>
-        <updated>2021-09-15T17:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Image: EA Vancouver/Electronic Arts
-    
-
-  
-EA Sports looks to technology three years in the making to set apart its flagship title
- As Sam Rivera explained it to me, the success of FIFA 22’s new animation technology will be seen in what wasn’t recorded during a groundbreaking motion-capture session — involving 22 players all playing a start-to-finish game of soccer — earlier this year.
-“We started working on an algorithm about three years ago,” explained Rivera, FIFA 22’s lead gameplay producer at EA Vancouver. “What that algorithm is doing is learning from all the data for that motion capture shoot — how the players approach the ball, how many steps do they do to get to the ball, is it three long steps and one short step; what is the proper angle, with the proper cadence, to properly hi…]]></summary>
-        <author>
-            <name>Polygon -  PC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Melting face,” “pregnant person,” and 35 other emoji approved for Unicode 14.0]]></title>
-        <id>https://arstechnica.com/?p=1795427</id>
-        <link href="https://arstechnica.com/?p=1795427"/>
-        <updated>2021-09-15T17:39:16.000Z</updated>
-        <summary type="html"><![CDATA[838 new characters bring Unicode's total to a whopping 144,697.]]></summary>
-        <author>
-            <name>Andrew Cunningham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cawthorn, Conservatives Urge Johnston County School Board to End Mask Mandate]]></title>
-        <id>https://indyweek.com/news/northcarolina/cawthorn-conservatives-urge-johnston-county-school-board-to-end-mask-mandate/</id>
-        <link href="https://indyweek.com/news/northcarolina/cawthorn-conservatives-urge-johnston-county-school-board-to-end-mask-mandate/"/>
-        <updated>2021-09-15T17:37:37.000Z</updated>
-        <summary type="html"><![CDATA[With nearly 200 active COVID cases among students and staff, board will revisit mask mandate Monday]]></summary>
-        <author>
-            <name>Greg Childress</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Trailer] Krsy Fox’s ‘Frank’ Get Bloody Revenge This October!]]></title>
-        <id>https://bloody-disgusting.com/?p=3683105</id>
-        <link href="https://bloody-disgusting.com/movie/3683105/krsy-foxs-frank-get-bloody-revenge-october/"/>
-        <updated>2021-09-15T17:34:15.000Z</updated>
-        <summary type="html"><![CDATA[Part of the Bloody Disgusting family, Bleeder’s Diegest co-creator Krsy Fox, who is also an actress (Underworld: Evolution), musician, and filmmaker, will see her latest directorial effort, Frank, released October 25, 2021, through Alameda Entertainment, just in time for Halloween. “In a moment of desperation, Ruby makes a lifetime vow of servitude to a monster, […]]]></summary>
-        <author>
-            <name>Brad Miska</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix Bringing the Book “Devil in Ohio” to the Screen With Emily Deschanel Starring]]></title>
-        <id>https://bloody-disgusting.com/?p=3683207</id>
-        <link href="https://bloody-disgusting.com/tv/3683207/netflix-bringing-book-devil-ohio-screen-emily-deschanel-starring/"/>
-        <updated>2021-09-15T17:27:37.000Z</updated>
-        <summary type="html"><![CDATA[Based on the best-selling novel by Daria Polatin, who serves as Showrunner/Executive Producer, Netflix has announced “Devil in Ohio” this afternoon, an upcoming limited series. “The suspenseful thriller is inspired by a true story and the best-selling book,” and production is currently underway in Vancouver, Canada, today’s press release explains. “When hospital psychiatrist Dr. Suzanne […]]]></summary>
-        <author>
-            <name>John Squires</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Two Witches’ Leave Behind Their Legacy in New Festival Art [Video]]]></title>
-        <id>https://bloody-disgusting.com/?p=3683203</id>
-        <link href="https://bloody-disgusting.com/exclusives/3683203/two-witches-leave-behind-legacy-new-festival-art-video/"/>
-        <updated>2021-09-15T17:26:34.000Z</updated>
-        <summary type="html"><![CDATA[Witches don’t die before leaving their legacy. Bloody Disgusting has the brand new festival art to go along with the creepy first teaser for Two Witches, the feature debut from Pierre Tsigaridis. Set to hold its international premiere at the Sitges Film Festival this fall, Two Witches will also be making its way to the […]]]></summary>
-        <author>
-            <name>Brad Miska</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple CEO Tim Cook Makes TIME's List of 100 Most Influential People of 2021]]></title>
-        <id>https://www.macrumors.com/2021/09/15/tim-cook-time-most-influential-people-2021/</id>
-        <link href="https://www.macrumors.com/2021/09/15/tim-cook-time-most-influential-people-2021/"/>
-        <updated>2021-09-15T17:20:25.000Z</updated>
-        <summary type="html"><![CDATA[Apple CEO Tim Cook is one of the 100 Most Influential People of 2021 according to TIME's newly published rankings. TIME shares an annual list highlighting world leaders, celebrities, tech company executives, authors, musicians, athletes, and more, and this is not the first time Cook has been celebrated.
-
-
-
-
-
-This year's list is broken up into categories that include Icons, Pioneers, Titans, Artists, Leaders, and Innovators. Cook is listed in the "Titans" category alongside Shonda Rhimes, Tom Brady, Timbaland and Swizz Beats, Simone Biles, and others.
-
-
-
-Cook's profile was written by Nike co-founder Phil Knight, who reflected on his relationship with Cook and his talks with Cook as a Nike board member. According to Knight, Cook is a man of "wisdom" and "excellent judgment."
-One of his most difficult challenges was the change of leadership at Apple after Steve Jobs passed away, the Steve Jobs who was beloved and recognized around the world as a genius.
-
-
-
-This almost impossible transition was handled with amazing dignity and grace, and announced to the world in his own quiet way: "I am not the second Steve Jobs. I am the first Tim Cook."
-
-
-
-And by the way, in the 10 years since... Apple stock has gone up 1,000%, making it the most valuable company in the world.
-Other notable names who made this year's list include Prince Harry and Meghan Markle, Naomi Osaka, Billie Eilish, "Ted Lasso" star Jason Sudeikis, Joe Biden, and Elon Musk.
-
-
-
-Earlier this year, Apple was listed as one of TIME's 100 Most Influential Companies of 2021 thanks to its record breaking holiday quarter and ever increasing product lineup.
-Tag: Tim Cook
-This article, "Apple CEO Tim Cook Makes TIME's List of 100 Most Influential People of 2021" first appeared on MacRumors.com
-Discuss this article in our forums]]></summary>
-        <author>
-            <name>Juli Clover</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flyperbole: Let’s talk goal songs]]></title>
-        <id>https://www.broadstreethockey.com/2021/9/15/22675641/flyperbole-philadelphia-flyers-goal-song-discussion-whoomp-there-it-is-you-losers-do-the-right-thing</id>
-        <link href="https://www.broadstreethockey.com/2021/9/15/22675641/flyperbole-philadelphia-flyers-goal-song-discussion-whoomp-there-it-is-you-losers-do-the-right-thing"/>
-        <updated>2021-09-15T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Photo by Len Redkoles/NHLI via Getty Images
-    
-
-  
-Also we remember the dank of the Spectrum. The dank, Moe, the dank!
- Steve and Eamon talk Philadelphia Flyers goal song, specifically the Flyperbole endorsed “Whoomp! (There It Is)”. The guys also talk about bad stadium experiences, RIP Norm Macdonald, and more.
-Make sure to follow us on twitter @Flyperbole and @GinandJuuse. Also, follow @BSH_Radio and don’t forget to rate us on iTunes! You can find the entire Broad Street Hockey audio offerings in the following places: iTunes, Stitcher, Google Podcasts, Spotify, and RSS.]]></summary>
-        <author>
-            <name>Broad Street Hockey -  All Posts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Makes Latest AirTags Firmware Available to All Users]]></title>
-        <id>https://www.macrumors.com/2021/09/15/airtags-firmware-available-to-all-users/</id>
-        <link href="https://www.macrumors.com/2021/09/15/airtags-firmware-available-to-all-users/"/>
-        <updated>2021-09-15T16:56:26.000Z</updated>
-        <summary type="html"><![CDATA[Apple this week continued distributing new firmware for the AirTags that first rolled out in August. There have been several minor releases with different build numbers, and behind the scenes, those tweaks were to meter the number of people who were seeing the AirTag update at one time.
-
-
-
-
-
-The last version, for example, with a build number of 1A291e changed nothing other than the rate limit on the percentage of ‌AirTags‌ users getting the update. That update set the limit to 25 percent, and another build released yesterday (1A291f) removes the deployment limit entirely, so all users should now be able to get the firmware update.
-
-
-
-A portion of people will have already received the new firmware, but anyone who had not should see their ‌AirTags‌ updating over the next few days. There's still no word on what's included in the ‌AirTags‌ firmware, and no new features have been found so it likely focuses on bug fixes and other under-the-hood improvements.
-
-
-
-It is not clear why Apple has metered the release of the ‌AirTags‌ firmware update, but it may have to do with the over-the-air distribution method.
-
-
-
-Apple does not provide an option to force an AirTag update, as it's something that's done over-the-air through a connected iPhone. To make sure the update happens, you can put your AirTag in range of your ‌‌‌‌iPhone‌‌‌‌, but you have to wait for the firmware to roll out to your device.
-
-
-
-You can check your current AirTag firmware version using the Find My app, with instructions available in our how to.
-Tag: AirTags
-Related Forum: AirTags
-This article, "Apple Makes Latest AirTags Firmware Available to All Users" first appeared on MacRumors.com
-Discuss this article in our forums]]></summary>
-        <author>
-            <name>Juli Clover</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deathloop walkthrough, guides, and tips]]></title>
-        <id>https://www.polygon.com/deathloop-guide-walkthrough/22665192/visionary-leads-aresonal-trinket-code</id>
-        <link href="https://www.polygon.com/deathloop-guide-walkthrough/22665192/visionary-leads-aresonal-trinket-code"/>
-        <updated>2021-09-15T16:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Image: Arkane Studios/Bethesda Softworks
-    
-
-  
-Break the Loop
- Deathloop is a lot of things — shooter, looter, murder puzzle, time loop mystery, and more. Even after the tutorial level that cleverly introduces Blackreef’s weird rules, it still takes a while to wrap your mind around the time loop. And your success depends on understanding and manipulating those rules.
-Polygon’s Deathloop walkthrough and guides are here to help you on every step of your journey to break the loop. We’ve got a beginner’s guide with 10 tips on getting started, along with lists and explainers for weapons, Slabs (Deathloop’s magic powers), and Trinkets.
-Our walkthroughs will give you all the information you need to kill your assassination targets, the Visionaries, and claim their Slabs. These missions are called Visionary Leads. They’re in our preferred order in the table of contents up above, or you can use these links (which are also in our order): Ubiquity (Wenjie), Chaos Theory (Harriet) and the Nexus Slab, Space Invader (Charlie) and the Shift Slab, Afternoon Delight (Fia) and the Havoc Slab, What Wenjies Want (Wenjie again), Lost in Transmission (Egor) and the Aether Slab, The Ballad of Ramblin’ Frank (Frank), Devouring of the Lambs (Aleksis) and the Karnesis Slab, and Radio Silence (Julianna). We also have a spoiler-filled walkthrough for the game’s final Lead and ending.
-We’ve also got guides to some of Deathloop’s harder to find treasures like how to find a Cat Fall Trinket or how to collect a purple-tier Pepper Mill early in the game.]]></summary>
-        <author>
-            <name>Polygon -  PC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Every Sport a Bowling Ball]]></title>
-        <id>https://kottke.org/21/09/every-sport-a-bowling-ball</id>
-        <link href="https://kottke.org/21/09/every-sport-a-bowling-ball"/>
-        <updated>2021-09-15T16:52:33.000Z</updated>
-        <summary type="html"><![CDATA[What if you substituted a bowling ball for the ball in sports like ping pong, golf, cricket, tennis, and soccer — but also in darts and skeet shooting? This very funny video imagines just that.
-Tags: bowling   sports   video]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Four Quick Links for Wednesday Noonish]]></title>
-        <id>https://kottke.org/quick-links</id>
-        <link href="https://kottke.org/quick-links"/>
-        <updated>2021-09-15T16:52:01.000Z</updated>
-        <summary type="html"><![CDATA[Season 5 of the excellent Scene on Radio podcast is about the climate crisis. "We'll trace the evolution of the colonizing, extractive Western culture that has driven us into the ecological ditch, and we'll look at potential solutions – the repair." [sceneonradio.org]
-Ah man, Norm MacDonald is dead at the age of 61. I loved him on SNL's Weekend Update. [deadline.com]
-Gas stations make most of their money on convenience store items, not selling gasoline. (It seems like this would make it easier for them to eventually supplement w/ EV chargers?) [thehustle.co]
-Katalin Karikó and Drew Weissman have won a $3 million Breakthrough Prize for their research on mRNA technology, which has been used to great effect in Covid-19 vaccines. [breakthroughprize.org]
----
-Note: Quick Links are pushed to this RSS feed twice a day. For more immediate service, check out the front page of kottke.org, the Quick Links archive, or the @kottke Twitter feed.]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Old Last-Minute Hardware Design Switcheroo]]></title>
-        <id>https://www.cultofmac.com/752777/apple-watch-7-last-minute-substitution/</id>
-        <link href="https://www.cultofmac.com/752777/apple-watch-7-last-minute-substitution/"/>
-        <updated>2021-09-15T16:51:55.000Z</updated>
-        <summary type="html"><![CDATA[Killian Bell, writing at Cult of Mac:
-Apple Watch Series 7 is not the upgrade most of us expected to see
-from Tuesday’s Apple event. The new model doesn’t sport the big
-design refresh multiple sources said was coming. It doesn’t even
-pack a new chip.
-Is this the upgrade Apple wanted to deliver this year? Or is it
-a last-minute substitution that Cupertino had to settle on
-because the refresh it really wanted to deliver just wasn’t
-ready to roll out?
-Based on the evidence, we’re going to say it’s the latter.
-The only way this could be funnier is if Bell included the theory that perhaps Apple changed the hardware at the last minute because the flat-edge designs leaked.
-This is not how hardware works. These designs are set long in advance. In fact, from what I’ve heard, the flat-edge watch designs might be legitimate leaks, but they’re next year’s designs. That’s how far in advance Apple works on hardware — they were already in the advanced stages of designing the 2022 Apple Watches months ago. (Aesthetically, I am not sold on a flat-edge design for the watch. The round edges are iconic and organic.)
-You can argue that Series 7 is a marginal upgrade over Series 6, but with an all-new screen (brighter and bigger), all-new crystal (more durable), and 33 percent faster charging, there are upgrades, and none of them could be slapped together.
- ★]]></summary>
-        <author>
-            <name>Daring Fireball</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Nightbooks”: Exclusive Clip from Netflix’s New Kid-Friendly Horror Movie Introduces the Nasty Little Shredder]]></title>
-        <id>https://bloody-disgusting.com/?p=3683178</id>
-        <link href="https://bloody-disgusting.com/exclusives/3683178/nightbooks-exclusive-clip-netflixs-new-kid-friendly-horror-movie-introduces-nasty-little-shredder/"/>
-        <updated>2021-09-15T16:49:25.000Z</updated>
-        <summary type="html"><![CDATA[From producer Sam Raimi and director David Yarovesky (Brightburn) comes Netflix’s Nightbooks, a kid-friendly gateway horror movie that’s NOW AVAILABLE on Netflix! Meagan Navarro writes in her review for Bloody Disgusting, “Nightbooks takes a while to warm up, but the back half brings the gateway horror fun. It’s silly, whimsical, and creative, with a charming pair of leads. It’s for […]]]></summary>
-        <author>
-            <name>John Squires</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anonymous leaks gigabytes of data from alt-right web host Epik]]></title>
-        <id>https://arstechnica.com/?p=1795352</id>
-        <link href="https://arstechnica.com/?p=1795352"/>
-        <updated>2021-09-15T16:40:44.000Z</updated>
-        <summary type="html"><![CDATA[Clients include 8chan, Parler, and Gab, among others.]]></summary>
-        <author>
-            <name>Ax Sharma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sweat Equity Won’t Get You a Home in the Triangle Anymore]]></title>
-        <id>https://indyweek.com/news/Letters-to-the-Editor/sweat-equity-won%E2%80%99t-get-you-a-home-in-the-triangle-anymore/</id>
-        <link href="https://indyweek.com/news/Letters-to-the-Editor/sweat-equity-won%E2%80%99t-get-you-a-home-in-the-triangle-anymore/"/>
-        <updated>2021-09-15T16:38:22.000Z</updated>
-        <summary type="html"><![CDATA[But there are ways we can address the problem.]]></summary>
-        <author>
-            <name>Frank Hyman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Redesigned iPad Mini Has Increased 4GB of RAM, iPad 9 Remains at 3GB]]></title>
-        <id>https://www.macrumors.com/2021/09/15/how-much-ram-in-2021-ipad-mini/</id>
-        <link href="https://www.macrumors.com/2021/09/15/how-much-ram-in-2021-ipad-mini/"/>
-        <updated>2021-09-15T16:25:40.000Z</updated>
-        <summary type="html"><![CDATA[Apple this week introduced a redesigned sixth-generation iPad mini that looks much closer to the current iPad Air, with slimmer bezels, a Touch ID power button, a USB-C port, compatibility with the second-generation Apple Pencil, and more.
-
-
-
-
-
-The new iPad mini is equipped with the same A15 Bionic chip as iPhone 13 models, and while Apple doesn’t advertise the amount of RAM in the device, MacRumors can confirm that the new iPad mini has 4GB of RAM, an increase from 3GB of in the previous iPad mini. We can also confirm the ninth-generation iPad has the same 3GB of RAM as the eighth-generation model. These amounts were revealed in strings contained within the Xcode 13 beta.
-
-
-
-For comparison, the iPad Pro is available with up to 16GB of RAM depending on storage capacity, while the latest iPad Air has 4GB of RAM.
-
-
-
-The same type of Xcode strings accurately revealed the amount of RAM in iPhone 12 models last year and in several previous iPhone generations. Teardowns and regulatory filings should provide further confirmation in the coming days.
-
-
-
-The new iPad mini and iPad models are available to order now on Apple's website and launch on Friday, September 24. 
-Related Roundups: iPad mini, iPad
-Buyer's Guide: iPad Mini (Buy Now), iPad (Buy Now)
-Related Forum: iPad
-This article, "Redesigned iPad Mini Has Increased 4GB of RAM, iPad 9 Remains at 3GB" first appeared on MacRumors.com
-Discuss this article in our forums]]></summary>
-        <author>
-            <name>Joe Rossignol</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NSO Group iMessage Zero-Click Exploit Captured in the Wild, Patched by Apple]]></title>
-        <id>https://citizenlab.ca/2021/09/forcedentry-nso-group-imessage-zero-click-exploit-captured-in-the-wild/</id>
-        <link href="https://citizenlab.ca/2021/09/forcedentry-nso-group-imessage-zero-click-exploit-captured-in-the-wild/"/>
-        <updated>2021-09-15T16:20:04.000Z</updated>
-        <summary type="html"><![CDATA[Citizen Lab:
-In March 2021, we examined the phone of a Saudi activist who has
-chosen to remain anonymous, and determined that they had been
-hacked with NSO Group’s Pegasus spyware. During the course of the
-analysis we obtained an iTunes backup of the device.
-Recent re-analysis of the backup yielded several files with the
-“.gif” extension in Library/SMS/Attachments that we determined
-were sent to the phone immediately before it was hacked with NSO
-Group’s Pegasus spyware.
-Because the format of the files matched two types of crashes we
-had observed on another phone when it was hacked with Pegasus, we
-suspected that the “.gif” files might contain parts of what we are
-calling the FORCEDENTRY exploit chain.
-Citizen Lab forwarded the artifacts to Apple on Tuesday, September
-7. On Monday, September 13, Apple confirmed that the files
-included a zero-day exploit against iOS and MacOS. They designated
-the FORCEDENTRY exploit CVE-2021-30860, and describe it as
-“processing a maliciously crafted PDF may lead to arbitrary code
-execution.”
-The files with the “.gif” extension weren’t actually GIF files — they were carefully-crafted malformed PSD and PDF files that triggered image processing bugs. What makes attacks like this particularly dastardly is that the victim apparently doesn’t even see anything. It’s invisible.
- ★]]></summary>
-        <author>
-            <name>Daring Fireball</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bryce Dallas Howard Directing a New Take on ’80s Sci-fi Movie ‘Flight of the Navigator’ for Disney+]]></title>
-        <id>https://bloody-disgusting.com/?p=3683165</id>
-        <link href="https://bloody-disgusting.com/movie/3683165/bryce-dallas-howard-directing-new-take-80s-sci-fi-movie-flight-navigator-disney/"/>
-        <updated>2021-09-15T16:18:45.000Z</updated>
-        <summary type="html"><![CDATA[In the wake of directing episodes of “The Mandalorian,” Bryce Dallas Howard will next find herself in the director’s chair for a reboot of the 1986 sci-fi adventure, Flight of the Navigator! THR reports that the new take on the ’80s movie is a Disney+ project. The site reminds, “The original movie told of a 12-year-old […]]]></summary>
-        <author>
-            <name>John Squires</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthony Mackie Will Star in “Twisted Metal” Live Action Series from the Writers of ‘Zombieland’]]></title>
-        <id>https://bloody-disgusting.com/?p=3683161</id>
-        <link href="https://bloody-disgusting.com/tv/3683161/anthony-mackie-will-star-twisted-metal-live-action-series-writers-zombieland/"/>
-        <updated>2021-09-15T16:06:56.000Z</updated>
-        <summary type="html"><![CDATA[The “Twisted Metal” video games are headed to the small screen, with a television series currently in the works from Sony Pictures Television and PlayStation Productions. The even better news? The original take for the live-action series comes courtesy of Rhett Reese and Paul Wernick, the duo behind Zombieland and the Deadpool movie! The best news? Deadline reports that Anthony Mackie will star! […]]]></summary>
-        <author>
-            <name>John Squires</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Watch Series 7 Tidbits: S7 Chip, Storage Remains 32GB, USB-C Fast Charging Cable in the Box, and More]]></title>
-        <id>https://www.macrumors.com/2021/09/15/apple-watch-series-7-tidbits-s7-chip-storage/</id>
-        <link href="https://www.macrumors.com/2021/09/15/apple-watch-series-7-tidbits-s7-chip-storage/"/>
-        <updated>2021-09-15T16:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Contrary to some recent media reporting, MacRumors can confirm that the new Apple Watch Series 7 is powered by a new S7 chip, although the S7 is based around the same CPU found in the S6 chip from the Series 6.
-
-
-
-
-
-Apple announced the Apple Watch Series 7 during its event yesterday, but the watch will not be available until "later this fall." As a result, Apple has so far offered relatively little detail about the new watch, not even publishing a specifications page on its website detailing the specific features of the Series 7.
-
-
-
-Nonetheless, MacRumors can confirm several details about the Series 7 not currently shared by Apple. First, the ‌Apple Watch Series 7‌ is indeed powered with an S7 branded chip, which Apple indicates will offer the same 20% advantage in performance co…]]></summary>
-        <author>
-            <name>Sami Fathi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcement: A new commenting system is coming to Broad Street Hockey]]></title>
-        <id>https://www.broadstreethockey.com/2021/9/15/22673826/announcement-a-new-commenting-system-is-coming-to-broad-street-hockey</id>
-        <link href="https://www.broadstreethockey.com/2021/9/15/22673826/announcement-a-new-commenting-system-is-coming-to-broad-street-hockey"/>
-        <updated>2021-09-15T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Photo by Len Redkoles/NHLI via Getty Images
-    
-
-  
-Coming Thursday, comments will look different.
- Hey everyone, I’m Steph Driver, and I oversee all of our NHL sites.
-This Thursday will be a big day for our community: we’re moving our comments to a brand new platform, developed especially for SB Nation. All of our hockey communities will be moving to the new platform, and I’m excited about the change.
-Some of you may already be familiar with this new platform as it rolled out to our NFL communities last year and to many of our soccer sites over the summer. Over 30 new versions of the platform have been released since then, each bringing new features for SB Nation communities specifically, and changes to the user experience based on community member feedback. It’s a very different platfor…]]></summary>
-        <author>
-            <name>Broad Street Hockey -  All Posts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CHVRCHES Shares Cover of Classic ‘The Lost Boys’ Theme “Cry Little Sister” [Listen]]]></title>
-        <id>https://bloody-disgusting.com/?p=3683154</id>
-        <link href="https://bloody-disgusting.com/music/3683154/chvrches-shares-cover-classic-lost-boys-theme-cry-little-sister-listen/"/>
-        <updated>2021-09-15T15:53:07.000Z</updated>
-        <summary type="html"><![CDATA[CHVRCHES, on the heels of celebrating the release of their horror-inspired LP Screen Violence, has just shared a brand new rendition of Gerard McMahon‘s “Cry Little Sister”, the iconic theme song to Joel Schumacher’s 1987 The Lost Boys! The band’s cover was recorded for Netflix’s new gateway horror Nightbooks, which hails from producer Sam Raimi and director David Yarovesky (Brightburn). “We […]]]></summary>
-        <author>
-            <name>Brad Miska</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flyers Top 25 Under 25, No. 19: Ronnie Attard]]></title>
-        <id>https://www.broadstreethockey.com/2021/9/15/22674422/nhl-philadelphia-flyers-summer-2021-top-25-under-25-no-19-ronnie-attard-prospect-analysis</id>
-        <link href="https://www.broadstreethockey.com/2021/9/15/22674422/nhl-philadelphia-flyers-summer-2021-top-25-under-25-no-19-ronnie-attard-prospect-analysis"/>
-        <updated>2021-09-15T15:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Heather Barry / SB Nation
-    
-
-  
-Sophomore slump, who?
- No. 19: Ronnie Attard
-2020-21 League/Team(s): Western Michigan University (NCHC, NCAA)
-2020-21 Statistics: 8 G, 14 A, 22 P in 25 GP
-Age: 22
-Acquired In: 2019 (drafted)
-Ranking in Spring 2020 25 Under 25: n/a
-How did Attard’s 2020-21 hockey season go? Is his stock trending up or down from where it was entering the year?
-Attard had little short of a stellar sophomore season with Western Michigan. He finished the season second in total points (behind forward Drew Worrad), and tied for second in goals scored (behind Ethen Frank and tied with Paul Washe, both forwards). It was a great campaign, for which he was named the NCHC’s best offensive defenseman at the close of the season. 
-By a pretty comfortable margin, Attard was one of, if no…]]></summary>
-        <author>
-            <name>Broad Street Hockey -  All Posts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nomad Announces New iPhone 13 Cases With NFC-Shareable 'Digital Business Cards']]></title>
-        <id>https://www.macrumors.com/2021/09/15/nomad-new-iphone-13-cases/</id>
-        <link href="https://www.macrumors.com/2021/09/15/nomad-new-iphone-13-cases/"/>
-        <updated>2021-09-15T15:44:04.000Z</updated>
-        <summary type="html"><![CDATA[With the upcoming launch of new iPhones, we're starting to see accessory companies introduce cases for the latest Apple smartphones. Nomad today announced its own iPhone 13 cases and Apple Watch bands, all of which can be pre-ordered today.
-
-
-
-
-
-All of the new ‌iPhone 13‌ cases from Nomad include a new feature called the Digital Business Card. With this, you can customize a digital card that includes your phone number, name, social media, and other information, and it's all stored within an NFC-enabled chip in the case. This way, another iPhone user can simply tap the back of your ‌iPhone‌ and receive all of your information.
-
-
-
-
-
-
-
-
-To start, the Sport Case for ‌iPhone‌ supports all four ‌iPhone 13‌ models and is priced at $39.95. It comes in five colors: Black, Lunar Gray, …]]></summary>
-        <author>
-            <name>Mitchel Broussard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Theranos burned through $2M a week as investors were given rosy projections]]></title>
-        <id>https://arstechnica.com/?p=1795426</id>
-        <link href="https://arstechnica.com/?p=1795426"/>
-        <updated>2021-09-15T15:40:15.000Z</updated>
-        <summary type="html"><![CDATA[Jurors heard about mounting losses, fudged data from first witnesses.]]></summary>
-        <author>
-            <name>Tim De Chant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 13 Models Have the Same Amount of RAM as iPhone 12 Models]]></title>
-        <id>https://www.macrumors.com/2021/09/15/how-much-ram-in-iphone-13/</id>
-        <link href="https://www.macrumors.com/2021/09/15/how-much-ram-in-iphone-13/"/>
-        <updated>2021-09-15T15:39:31.000Z</updated>
-        <summary type="html"><![CDATA[Apple never advertises the amount of RAM in iPhones, but based on strings contained within the Xcode 13 beta, MacRumors can confirm that iPhone 13 Pro and iPhone 13 Pro Max models are equipped with 6GB of RAM, while the iPhone 13 and iPhone 13 mini have 4GB of RAM. These amounts are unchanged from the iPhone 12 lineup.
-
-
-
-
-
-The same Xcode strings accurately revealed the amount of RAM in iPhone 12 models last year and in several previous iPhone generations.
-
-
-
-iPhone 13 models feature a more power efficient A15 Bionic chip based on TSMC's advanced 5nm+ process, but Apple has not indicated how much faster the chip is compared to the A14 chip. The A15 chip also has a new 5-core GPU in iPhone 13 Pro models — up from 4 cores — that Apple says delivers the "fastest graphics performance in any smartphone." 
-
-
-
-All four iPhone 13 models will be available to pre-order starting Friday, September 17 at 5 a.m. Pacific Time in the U.S. and over 30 other countries and regions. The devices are set to launch one week later on Friday, September 24.
-Related Roundups: iPhone 13, iPhone 13 Pro
-Buyer's Guide: iPhone 13 (Don't Buy), iPhone 13 Pro (Don't Buy)
-Related Forum: iPhone
-This article, "iPhone 13 Models Have the Same Amount of RAM as iPhone 12 Models" first appeared on MacRumors.com
-Discuss this article in our forums]]></summary>
-        <author>
-            <name>Joe Rossignol</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Wednesday”: Tim Burton’s Live Action ‘Addams Family’ Series Casts Pugsley, Lurch, Thing and More!]]></title>
-        <id>https://bloody-disgusting.com/?p=3683140</id>
-        <link href="https://bloody-disgusting.com/tv/3683140/wednesday-tim-burtons-live-action-addams-family-series-casts-pugsley-lurch-thing/"/>
-        <updated>2021-09-15T15:13:09.000Z</updated>
-        <summary type="html"><![CDATA[It was officially announced in February that Tim Burton is headed to the small screen with a new live-action series centered on Wednesday Addams, coming soon from Netflix. The series, which is simply titled “Wednesday,” will follow the beloved Addams Family character’s “spooky coming-of-age.” Eight episodes have been ordered up by Netflix. Jenna Ortega (The Babysitter: Killer Queen, Scream) has signed on […]]]></summary>
-        <author>
-            <name>John Squires</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft accounts can go passwordless, making “password123” a thing of the past]]></title>
-        <id>https://arstechnica.com/?p=1795400</id>
-        <link href="https://arstechnica.com/?p=1795400"/>
-        <updated>2021-09-15T15:06:38.000Z</updated>
-        <summary type="html"><![CDATA[Passwordless accounts rely on MS Authenticator or a security key for login.]]></summary>
-        <author>
-            <name>Andrew Cunningham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How 13 Reasons Why sparked years of suicide-contagion research]]></title>
-        <id>https://arstechnica.com/?p=1787376</id>
-        <link href="https://arstechnica.com/?p=1787376"/>
-        <updated>2021-09-15T15:05:58.000Z</updated>
-        <summary type="html"><![CDATA[A Netflix series fueled heated debates about the risk of copycat suicides in fiction.]]></summary>
-        <author>
-            <name>Jennifer Ouellette</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elvira Makes Her Horror Host Return with Shudder’s “Elvira’s 40th Anniversary, Very Scary, Very Special Special” [Video]]]></title>
-        <id>https://bloody-disgusting.com/?p=3683039</id>
-        <link href="https://bloody-disgusting.com/tv/3683039/elvira-make-long-awaited-horror-host-return-shudders-elviras-40th-anniversary-scary-special-special-embargo-til-9-15-10am-ct/"/>
-        <updated>2021-09-15T15:00:53.000Z</updated>
-        <summary type="html"><![CDATA[Shudder proves it’s not messing around with their “61 Days of Halloween” lineup by bringing back the Halloween queen of camp, Elvira! This year marks the 40th anniversary for the horror host, icon, and Mistress of the Dark, and AMC Networks’ premium streamer is celebrating with a one-night movie marathon event, Elvira’s 40th Anniversary, Very Scary, […]]]></summary>
-        <author>
-            <name>Meagan Navarro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Trailer] “I Know What You Did Last Summer” Series Brings the Slasher Franchise to Amazon in October!]]></title>
-        <id>https://bloody-disgusting.com/?p=3683130</id>
-        <link href="https://bloody-disgusting.com/tv/3683130/trailer-know-last-summer-series-brings-slasher-franchise-amazon-october/"/>
-        <updated>2021-09-15T15:00:04.000Z</updated>
-        <summary type="html"><![CDATA[James Wan is producing a small screen version of “I Know What You Did Last Summer” that’s coming to Amazon, and it’s set to premiere on Friday, October 15, 2021. The first four episodes will be released on October 15, with new episodes available every Friday. The series will culminate in a can’t-miss season finale on November 12, 2021. […]]]></summary>
-        <author>
-            <name>John Squires</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deals: New Sales Hit AirPods Pro ($179.99) and AirPods Max ($489.99) on Amazon]]></title>
-        <id>https://www.macrumors.com/2021/09/15/deals-airpods-pro-airpods-max/</id>
-        <link href="https://www.macrumors.com/2021/09/15/deals-airpods-pro-airpods-max/"/>
-        <updated>2021-09-15T14:59:33.000Z</updated>
-        <summary type="html"><![CDATA[Amazon has a pair of solid deals on Apple's AirPods Pro and AirPods Max today, starting at $179.99 for the AirPods Pro, down from $249.00. This is the second-best price we've seen on the AirPods Pro since launch, and one of the best prices we've tracked in 2021.
-
-
-
-Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.
-
-
-
-AirPods Pro are Apple's high-end Bluetooth headphones, offering active noise cancellation and many more features. The included charging case also supports Qi wireless charging, so you can recharge the headphones via any compatible Qi mat.
-
-
-
-
-$69 OFF
-AirPods Pro for $179.99
-
-
-
-
-
-Secondly, the AirPods Max in Space Gray are down to $489.99 on Amazon, from $549.00. These have been as low as $455 in previous sales, but we haven't seen a price like this since early in the summer, so if you're shopping for AirPods Max this week Amazon's sale will be the best around online.
-
-
-
-
-$59 OFF
-AirPods Max for $489.99
-
-
-
-
-
-We track sales for every model of the AirPods in our Best AirPods Deals guide, so be sure to bookmark that page while you shop around for the wireless headphones. If you're on the hunt for more discounts, be sure to visit our Apple Deals roundup where we recap the best Apple-related bargains of the past week.
-Related Roundups: Apple Deals, AirPods Pro, AirPods Max
-Buyer's Guide: AirPods Pro (Neutral), AirPods Max (Buy Now)
-Related Forum: AirPods
-This article, "Deals: New Sales Hit AirPods Pro ($179.99) and AirPods Max ($489.99) on Amazon" first appeared on MacRumors.com
-Discuss this article in our forums]]></summary>
-        <author>
-            <name>Mitchel Broussard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Surrealist Architecture]]></title>
-        <id>https://kottke.org/21/09/surrealist-architecture</id>
-        <link href="https://kottke.org/21/09/surrealist-architecture"/>
-        <updated>2021-09-15T14:46:27.000Z</updated>
-        <summary type="html"><![CDATA[For his City Portraits series, Victor Enrich digitally modified photos to create absurdist and surrealist buildings that look like a lot of fun to live in.
-See also 13 Jaw-Dropping Examples of Photoshopped Architecture.
-Tags: architecture   remix   Victor Enrich]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flyers Top 25 Under 25, No. 20: Isaac Ratcliffe]]></title>
-        <id>https://www.broadstreethockey.com/2021/9/15/22673608/nhl-philadelphia-flyers-summer-2021-top-25-under-25-no-20-isaac-ratcliffe-phantoms-analysis-big-boy</id>
-        <link href="https://www.broadstreethockey.com/2021/9/15/22673608/nhl-philadelphia-flyers-summer-2021-top-25-under-25-no-20-isaac-ratcliffe-phantoms-analysis-big-boy"/>
-        <updated>2021-09-15T14:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Photo by John McCreary/Icon Sportswire via Getty Images
-    
-
-  
-The former second-round pick and Guelph Storm standout slips a touch in the rankings, but has big upside.
- No. 20: Isaac Ratcliffe
-2020-21 League/Team(s): Lehigh Valley Phantoms, AHL
-2020-21 Statistics: 2 G, 6 A, 8 P in 22 G
-Age: 22
-Acquired In: 2017 NHL Entry Draft, 35th overall
-Ranking in Spring 2020 25 Under 25: 15
-How did Ratcliffe ’s 2020-21 hockey season go? Is his stock trending up or down from where it was entering the year?
-The 6-foot-6 forward did see an uptick in terms of point production (from .28 PPG in 2019-20 to .36 in 2020-21), so it’s hard to really say his stock went down more as the Flyers added some high-end prospects since the last run of rankings. 
-Ratcliffe always fit the bill of a project power forward…]]></summary>
-        <author>
-            <name>Broad Street Hockey -  All Posts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Paranormal Activity: Next of Kin’ Rated “R” for “Violence and Bloody Images”!]]></title>
-        <id>https://bloody-disgusting.com/?p=3683115</id>
-        <link href="https://bloody-disgusting.com/movie/3683115/paranormal-activity-next-kin-rated-r-violence-bloody-images/"/>
-        <updated>2021-09-15T14:15:36.000Z</updated>
-        <summary type="html"><![CDATA[Paramount and Blumhouse’s upcoming new installment in the Paranormal Activity franchise will be going straight to Paramount+, with Christopher Landon (Happy Death Day, Freaky) writing the script and William Eubank (Underwater) directing. It’s headed our way sometime this Halloween season, and it looks like we now have an official title for the film. According to this week’s MPA listings, the franchise’s return […]]]></summary>
-        <author>
-            <name>John Squires</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next-Generation AirPods Reportedly Already in Production Despite Not Being Announced at Apple Event]]></title>
-        <id>https://www.macrumors.com/2021/09/15/third-generation-airpods-shipments/</id>
-        <link href="https://www.macrumors.com/2021/09/15/third-generation-airpods-shipments/"/>
-        <updated>2021-09-15T14:05:47.000Z</updated>
-        <summary type="html"><![CDATA[While third-generation AirPods were not announced at the Apple Event this week, suppliers have already kicked off shipments of the long-awaited headphones, according to industry sources cited by Taiwanese website DigiTimes. 
-
-
-
-
-
-In a paywalled preview of its report, DigiTimes said the shipments have been "slow," but production being underway is a good sign that the third-generation AirPods will likely be released before the end of the year. There will likely be another Mac-focused Apple Event this year, and the new AirPods could be unveiled then, or they could be announced with a press release through the Apple Newsroom at any point this fall.
-
-
-
-The third-generation ‌AirPods‌ are expected to feature a design language similar to the ‌AirPods Pro‌, but without active noise cancellation. However, rumors have conflicted as to whether the new design will include silicone ear tips.
-
-
-
-The second-generation AirPods were released in March 2019, priced at $159 with a wired charging case or $199 with a wireless charging case.
-Related Roundup: AirPods
-Tag: digitimes.com
-Buyer's Guide: AirPods (Don't Buy)
-Related Forum: AirPods
-This article, "Next-Generation AirPods Reportedly Already in Production Despite Not Being Announced at Apple Event" first appeared on MacRumors.com
-Discuss this article in our forums]]></summary>
-        <author>
-            <name>Joe Rossignol</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Man or Beast?” Head Down Guillermo del Toro’s ‘Nightmare Alley’ With the Film’s Official Poster]]></title>
-        <id>https://bloody-disgusting.com/?p=3683106</id>
-        <link href="https://bloody-disgusting.com/movie/3683106/man-beast-head-guillermo-del-toros-nightmare-alley-films-official-poster/"/>
-        <updated>2021-09-15T14:04:41.000Z</updated>
-        <summary type="html"><![CDATA[The trailer for Guillermo del Toro‘s new movie Nightmare Alley is on the way from Searchlight Pictures tomorrow, with the hotly anticipated film only in theaters on December 17. While you wait, find the official poster below! Bradley Cooper, Cate Blanchett, Toni Collette, Willem Dafoe, Richard Jenkins, Rooney Mara, Ron Perlman, Mary Steenburgen, and David Strathairn star in Nightmare Alley. […]]]></summary>
-        <author>
-            <name>John Squires</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Hello Horror’ Visits 2021’s “Halloween Horror Nights Hollywood” w/ Vanessa Decker & Ryan Valdez [Video]]]></title>
-        <id>https://bloody-disgusting.com/?p=3683049</id>
-        <link href="https://bloody-disgusting.com/exclusives/3683049/hello-horror-visits-2021s-halloween-horror-nights-hollywood-w-vanessa-decker-ryan-valdez/"/>
-        <updated>2021-09-15T13:54:26.000Z</updated>
-        <summary type="html"><![CDATA[It’s the most wonderful time of the year and Hello Horror‘s Vanessa Decker and Elwood Walker kicked off the festivities with a trip to the 2021 Halloween Horror Nights, which returned to Universal Studios Hollywood this month. The two already teased a behind-the-scenes look at two of the houses – “The Haunting of Hill House” and Universal […]]]></summary>
-        <author>
-            <name>Brad Miska</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Director Andy Serkis Promises That ‘Venom: Let There Be Carnage’ Pushes the Limits of PG-13 Violence]]></title>
-        <id>https://bloody-disgusting.com/?p=3683096</id>
-        <link href="https://bloody-disgusting.com/movie/3683096/director-andy-serkis-promises-venom-let-carnage-pushes-limits-pg-13-violence/"/>
-        <updated>2021-09-15T13:47:46.000Z</updated>
-        <summary type="html"><![CDATA[Like the first movie, October’s sequel Venom: Let There Be Carnage will be unleashed into theaters with a PG-13 rating, specifically for “intense sequences of violence and action, some strong language, disturbing material and suggestive references.” The film, directed by Andy Serkis, comes to theaters on October 1, with no home video release date at […]]]></summary>
-        <author>
-            <name>John Squires</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jordan Rakei Gets Personal on “What We Call Life”]]></title>
-        <id>143700</id>
-        <link href="https://daily.bandcamp.com/features/jordan-rakei-what-we-call-life-feature"/>
-        <updated>2021-09-15T13:47:35.000Z</updated>
-        <summary type="html"><![CDATA[The R&B multi-instrumentalist has always tended toward grand conceptual albums, but for his fifth LP he's turning to therapy for insight.
-Read full story on the Bandcamp Daily.]]></summary>
-        <author>
-            <name>Ammar Kalia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Big Ups: Saint Etienne’s Bob Stanley Picks His Bandcamp Favorites]]></title>
-        <id>143708</id>
-        <link href="https://daily.bandcamp.com/big-ups/saint-etienne-big-ups"/>
-        <updated>2021-09-15T13:47:20.000Z</updated>
-        <summary type="html"><![CDATA[A music historian as well as a member of the vaunted pop trio, Stanley discusses Saint Etienne's latest album and some of his favorite Bandcamp finds.
-Read full story on the Bandcamp Daily.]]></summary>
-        <author>
-            <name>Cam Lindsay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cold Beat, “War Garden”]]></title>
-        <id>143754</id>
-        <link href="https://daily.bandcamp.com/album-of-the-day/cold-beat-war-garden-review"/>
-        <updated>2021-09-15T13:46:25.000Z</updated>
-        <summary type="html"><![CDATA["War Garden" is an early pandemic album that feels like a post-pandemic one.
-Read full story on the Bandcamp Daily.]]></summary>
-        <author>
-            <name>Elle Carroll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flyers Top 25 Under 25, No. 21: Linus Hogberg]]></title>
-        <id>https://www.broadstreethockey.com/2021/9/15/22674359/nhl-philadelphia-flyers-summer-2021-top-25-under-25-no-21-linus-hogberg-prospect-analysis</id>
-        <link href="https://www.broadstreethockey.com/2021/9/15/22674359/nhl-philadelphia-flyers-summer-2021-top-25-under-25-no-21-linus-hogberg-prospect-analysis"/>
-        <updated>2021-09-15T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[With a solid first season in North America, Hogberg is looking to keep picking up steam. 
- No. 21: Linus Hogberg
-2020-21 League/Team(s): Vita Hästen (HockeyAllsvenskan), Lehigh Valley Phantoms (AHL)
-2020-21 Statistics: 2 G, 10 A, 12 P in 27 GP (Hockey Allsvenskan), 2 G, 6 A, 8 P in 26 GP (AHL)
-Age: 23
-Acquired In: 2016 (drafted)
-Ranking in Spring 2020 25 Under 25: n/a
-How did Hogberg’s 2020-21 hockey season go? Is his stock trending up or down from where it was entering the year?
-All in all, it was a fine season for Hogberg. The real highlight was that he was finally able to make the jump over to North America and get rolling with the Phantoms when their season started in January. It took him a little while to get settled, but once he did, he was pretty solid for them. He wasn’t perfect, h…]]></summary>
-        <author>
-            <name>Broad Street Hockey -  All Posts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stephen King’s ‘It’ Turns 35: Here’s Your Ultimate Deep Dive Into the Horror Epic [The Losers’ Club Podcast]]]></title>
-        <id>https://bloody-disgusting.com/?p=3683056</id>
-        <link href="https://bloody-disgusting.com/podcasts/3683056/stephen-king-it-35th-anniversary-the-losers-club/"/>
-        <updated>2021-09-15T13:36:14.000Z</updated>
-        <summary type="html"><![CDATA[In 1986, Stephen King was over horror. By then, he had given us killer teens, killer cars, killer cats, and killer vamps. No, despite the demand and the stack of receipts to prove it, The Master of Horror was hankering to close the door on the genre he conquered — only he didn’t see it […]]]></summary>
-        <author>
-            <name>Michael Roffman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mr. DNA: Funko Recreates ‘Jurassic Park’ Icon as Pop Vinyl Toy!]]></title>
-        <id>https://bloody-disgusting.com/?p=3683089</id>
-        <link href="https://bloody-disgusting.com/toys/3683089/jurassic-parks-mr-dna-gets-pop-vinyl-funko/"/>
-        <updated>2021-09-15T13:31:49.000Z</updated>
-        <summary type="html"><![CDATA[Just when you think they’ve done ’em all, Funko conjures up another deep-dive pop culture icon to turn into plastic. Announced this morning is a “Mr. DNA” Pop Vinyl, the kooky and fun character that appeared in Steven Spielberg‘s 1993 Jurassic Park. The hand-animated character plays as part of one of John Hammond’s attractions that […]]]></summary>
-        <author>
-            <name>Brad Miska</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Animatronics and Contortionists: How James Wan and Ingrid Bisu Brought ‘Malignant’ Killer Gabriel to Life [Spoiler Interview]]]></title>
-        <id>https://bloody-disgusting.com/?p=3683034</id>
-        <link href="https://bloody-disgusting.com/interviews/3683034/james-wan-ingrid-bisu-brought-malignant-killer-gabriel-life-spoiler-interview/"/>
-        <updated>2021-09-15T13:13:43.000Z</updated>
-        <summary type="html"><![CDATA[This article contains spoilers, including images. Be warned… Director James Wan‘s latest, Malignant, has set the internet ablaze with his bizarre spin on Giallo, drawing heavy inspiration from his formative years as a horror fan discovering the genre’s weirdest and wildest offerings from the dark corners of a video store. Screenwriter Akela Cooper brought the campy B-movie fun to the […]]]></summary>
-        <author>
-            <name>Meagan Navarro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deals: Get a MagSafe Charger for Your New iPhone 13 at an All-Time Low Price of $27.14 ($11 Off)]]></title>
-        <id>https://www.macrumors.com/2021/09/15/deals-magsafe-charger-27-14/</id>
-        <link href="https://www.macrumors.com/2021/09/15/deals-magsafe-charger-27-14/"/>
-        <updated>2021-09-15T13:10:12.000Z</updated>
-        <summary type="html"><![CDATA[Apple's MagSafe Charger has dropped to $27.14 on Amazon, down from $39.00. This is a new all-time low price on the accessory, and it's also being matched at Walmart.
-
-
-
-Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.
-
-
-
-The MagSafe Charger perfectly aligns with the magnets on the iPhone 12 and upcoming iPhone 13 family of devices and provides wireless charging. It also maintains compatibility with Qi charging, so any iPhone 8 or later device can still use it, as well as AirPods with a Wireless Charging Case and AirPods Pro.
-
-
-
-
-$11 OFF
-MagSafe Charger for $27.14
-
-
-
-
-
-For the 2021 iPhones, the MagSafe Charger will be compatible with the iPhone 13, iPhone 13 mini, iPhone 13 Pro, and iPhone 13 Pro Max. Head to our full Deals Roundup to get caught up with all of the latest deals and discounts that we've been tracking over the past week.
-Related Roundup: Apple Deals
-This article, "Deals: Get a MagSafe Charger for Your New iPhone 13 at an All-Time Low Price of $27.14 ($11 Off)" first appeared on MacRumors.com
-Discuss this article in our forums]]></summary>
-        <author>
-            <name>Mitchel Broussard</name>
         </author>
     </entry>
 </feed>
