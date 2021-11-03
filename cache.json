@@ -22,6 +22,141 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1809743",
+          "author": "Beth Mole",
+          "description": "With CDC director's sign off, vaccination of children can now begin.",
+          "link": "https://arstechnica.com/?p=1809743",
+          "publishedOn": "2021-11-02T23:45:52.000Z",
+          "wordCount": 1106,
+          "title": "CDC overwhelmingly recommends COVID vaccine for kids 5 to 11 [Updated]"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1809324",
+          "author": "Jennifer Ouellette",
+          "description": "Lots of sulfuric volatiles in saliva correlated with kids' dislike of these veggies",
+          "link": "https://arstechnica.com/?p=1809324",
+          "publishedOn": "2021-11-02T22:30:42.000Z",
+          "wordCount": 1469,
+          "title": "Hate broccoli and cauliflower? Your microbiome might be partially to blame"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1809777",
+          "author": "Tim De Chant",
+          "description": "Regulatory pressure and massive lawsuits may have forced its hand.",
+          "link": "https://arstechnica.com/?p=1809777",
+          "publishedOn": "2021-11-02T21:58:08.000Z",
+          "wordCount": 1058,
+          "title": "Facebook to stop using facial recognition, delete data on over 1 billion people"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1809741",
+          "author": "John Timmer",
+          "description": "Hunting season came as human cases were spiking, which may have been a bad combo.",
+          "link": "https://arstechnica.com/?p=1809741",
+          "publishedOn": "2021-11-02T21:39:03.000Z",
+          "wordCount": 1103,
+          "title": "New study suggests SARS-CoV-2 spreading widely within wild deer population"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1809727",
+          "author": "Sam Machkovech",
+          "description": "App update lands on Android tomorrow, but Netflix subs can access games right now.",
+          "link": "https://arstechnica.com/?p=1809727",
+          "publishedOn": "2021-11-02T21:02:24.000Z",
+          "wordCount": 1084,
+          "title": "Netflix now comes with Android video games for paying subscribers"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1809675",
+          "author": "Jon Brodkin",
+          "description": "PSA: Using Starlink website map tool sends preorderers to \"back of the line.\"",
+          "link": "https://arstechnica.com/?p=1809675",
+          "publishedOn": "2021-11-02T19:15:58.000Z",
+          "wordCount": 1063,
+          "title": "Starlink nightmare: Moving service location a few feet delays orders until 2023"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1809637",
+          "author": "Samuel Axon",
+          "description": "The update is all about helping you jump into content you didn't finish.",
+          "link": "https://arstechnica.com/?p=1809637",
+          "publishedOn": "2021-11-02T18:29:09.000Z",
+          "wordCount": 748,
+          "title": "Firefox 94 for iOS and Android adds new features for bookmarks and tabs"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1809640",
+          "author": "Jonathan M. Gitlin",
+          "description": "The new software bug caused phantom emergency braking events.",
+          "link": "https://arstechnica.com/?p=1809640",
+          "publishedOn": "2021-11-02T18:06:58.000Z",
+          "wordCount": 968,
+          "title": "Tesla recalls 11,706 vehicles over Full Self-Driving Beta software bug"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1809626",
+          "author": "Tim De Chant",
+          "description": "Regulations would reduce leaks of the potent greenhouse gas by 75 percent.",
+          "link": "https://arstechnica.com/?p=1809626",
+          "publishedOn": "2021-11-02T17:52:50.000Z",
+          "wordCount": 1022,
+          "title": "EPA announces rules to slash methane leaks throughout oil and gas supply chain"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1809610",
+          "author": "Jonathan M. Gitlin",
+          "description": "The nation is a fifth of the way to its goal of 500,000 chargers by 2030.",
+          "link": "https://arstechnica.com/?p=1809610",
+          "publishedOn": "2021-11-02T17:37:46.000Z",
+          "wordCount": 1194,
+          "title": "US charging infrastructure is outpacing forecasts, study finds"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1809539",
+          "author": "Scharon Harding",
+          "description": "Tablet sales also down, but Apple and Lenovo are holding steady.",
+          "link": "https://arstechnica.com/?p=1809539",
+          "publishedOn": "2021-11-02T17:14:41.000Z",
+          "wordCount": 1136,
+          "title": "Chromebooks on “massive downturn” from pandemic-fueled heights"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1809554",
+          "author": "Andrew Cunningham",
+          "description": "Stable Edge release strengthens Microsoft's latter-day commitment to Linux.",
+          "link": "https://arstechnica.com/?p=1809554",
+          "publishedOn": "2021-11-02T16:34:34.000Z",
+          "wordCount": 776,
+          "title": "Microsoft Edge for Linux enters stable channel after a year of betas"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1809534",
+          "author": "Ron Amadeo",
+          "description": "The Pixel 3's three years of support are over, while the Pixel 6 is just beginning.",
+          "link": "https://arstechnica.com/?p=1809534",
+          "publishedOn": "2021-11-02T16:15:38.000Z",
+          "wordCount": 846,
+          "title": "Android’s November patch leaves behind the Pixel 3, fixes Pixel 6 issues"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1809555",
+          "author": "Kyle Orland",
+          "description": "Gary Bowser admits SX OS devices' \"primary design [was] to play pirated ROMs.\"",
+          "link": "https://arstechnica.com/?p=1809555",
+          "publishedOn": "2021-11-02T15:58:50.000Z",
+          "wordCount": 1121,
+          "title": "Modder pleads guilty to piracy charges, will pay Nintendo $4.5 million"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1809563",
+          "author": "John Timmer",
+          "description": "After two spontaneous shutdowns in two days, NASA has kept hardware offline.",
+          "link": "https://arstechnica.com/?p=1809563",
+          "publishedOn": "2021-11-02T15:33:29.000Z",
+          "wordCount": 648,
+          "title": "Instruments on Hubble in safe mode; NASA trying to understand why"
+        },
+        {
           "id": "https://arstechnica.com/?p=1806115",
           "author": "Ron Amadeo",
           "description": "Google finally built a great flagship smartphone.",
@@ -3062,42 +3197,6 @@
           "publishedOn": "2021-10-04T13:46:09.000Z",
           "wordCount": 1594,
           "title": "Facebook “is tearing our societies apart,” whistleblower says in interview"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1800165",
-          "author": "Eric Berger",
-          "description": "\"It is not water that flows in our veins, but blood.\"",
-          "link": "https://arstechnica.com/?p=1800165",
-          "publishedOn": "2021-10-04T12:45:13.000Z",
-          "wordCount": 1025,
-          "title": "Let’s make a deal: Entrepreneur wants to trade Buran shuttle for a skull"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1800281",
-          "author": "Jonathan M. Gitlin",
-          "description": "This compliance car might be aimed at regulators, not regular people.",
-          "link": "https://arstechnica.com/?p=1800281",
-          "publishedOn": "2021-10-04T09:00:04.000Z",
-          "wordCount": 2047,
-          "title": "Making sense of Mazda’s MX-30 electric commuter car"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1800306",
-          "author": "Tim De Chant",
-          "description": "Emails show director left \"out of the loop\" in hit-or-miss cross-examination.",
-          "link": "https://arstechnica.com/?p=1800306",
-          "publishedOn": "2021-10-03T22:01:46.000Z",
-          "wordCount": 1125,
-          "title": "Elizabeth Holmes’ defense strikes back in cross-examination of lab director"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1799858",
-          "author": "Doug Johnson",
-          "description": "Early price forecasts underestimated how good we’d get at making green energy",
-          "link": "https://arstechnica.com/?p=1799858",
-          "publishedOn": "2021-10-03T21:07:17.000Z",
-          "wordCount": 1154,
-          "title": "The decreasing cost of renewables unlikely to plateau anytime soon"
         }
       ]
     },
@@ -3106,6 +3205,114 @@
       "feedUrl": "http://feeds.macrumors.com/MacRumors-Front",
       "siteUrl": "https://www.macrumors.com",
       "articles": [
+        {
+          "id": "https://www.macrumors.com/2021/11/02/niantic-harry-potter-ar-game-shutting-down/",
+          "author": "Juli Clover",
+          "description": "Niantic has experienced major success with augmented reality game Pokémon Go, a title that still has a loyal fanbase, but unfortunately, its Harry Potter-themed game has not fared as well. Harry Potter: Wizards Unite is going to be shut down on January 31, 2022 as a result.\r\n\r\n\r\n\r\n\r\n\r\nFirst introduced in June 2019, Harry Potter: Wizards Unite allows players to join the Statute of Secrecy Task Force to explore Wizarding World locations in the real world, similar to Pokémon Go.\r\n\r\n\r\n\r\nPlayers need to go to landmark locations in the real world to track down magical artifacts, creatures, and enemies to battle and level up. The game uses augmented reality to project portals and other items onto real-life landscapes, and there are real-time cooperative elements involved.\r\n\r\n\r\n\r\n\r\n\r\nThe game will be removed from the App Store on December 6, 2021, which is also when in-game purchases will be disabled. As a last hurrah, starting on November 2, several changes will be implemented to make gameplay more fun.\r\n\r\n\r\n\r\nDaily assignments will provide increased rewards, potion brewing time will be cut in half, the daily cap on sending and opening gifts will be removed, and various items and ingredients will appear on the map more frequently.\r\n\r\n\r\n\r\nNovember and December will also see the launch of several events involving Dolores Umbridge, Lucius Malfoy, Bellatrix LeStrange, and Voldemort, along with a holiday event. The game will wrap up, with the Calamity coming to an end before the app is shut down for good.\r\n\r\n\r\n\r\nPlayers who invested money in the game will not be able to get a refund, but they will be able to spend their remaining balances and use their items before the January end date.\nThis article, \"Niantic's 'Harry Potter: Wizards Unite' Augmented Reality Game Shutting Down\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/11/02/niantic-harry-potter-ar-game-shutting-down/",
+          "publishedOn": "2021-11-02T22:04:40.000Z",
+          "wordCount": 2165,
+          "title": "Niantic's 'Harry Potter: Wizards Unite' Augmented Reality Game Shutting Down"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/11/02/colorware-airpods-3/",
+          "author": "Juli Clover",
+          "description": "ColorWare, known for its customization offerings for AirPods, Xbox controllers, Nintendo Switch components, and more, today introduced custom-painted AirPods 3.\r\n\r\n\r\n\r\n\r\n\r\nAirPods 3 are available in a range of custom paint colors, including bright glossy shades, metallics, and matte colors. Every color of the rainbow is available, as are various shades of black, silver, and gold.\r\n\r\n\r\n\r\nEach AirPod can be painted a different color, and the case can be customized in a different shade as well. Custom paint jobs for the AirPods are priced at $319, but the price goes up to $369 when adding in the case too. AirPods are priced at $179 direct from Apple, so getting a custom color is at least $140 more expensive.\r\n\r\n\r\n\r\nStill, even at that price point, ColorWare is the only way to get AirPods that are not white because Apple still does not offer AirPods in black or other colors.\r\n\r\n\r\n\r\n\r\n\r\nWith ColorWare's painting, all of the ‌AirPods 3‌ features remain intact such as MagSafe connectivity for the case, spatial audio, adaptive EQ, and more, and the paint does not impact the functionality.\r\n\r\n\r\n\r\nCustom ‌AirPods 3‌ can be ordered from ColorWare starting today, and they will ship out in about two to three weeks.\nTag: ColorWare\nThis article, \"ColorWare Now Offering Custom-Painted AirPods 3 Starting at $319\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/11/02/colorware-airpods-3/",
+          "publishedOn": "2021-11-02T20:45:41.000Z",
+          "wordCount": 2184,
+          "title": "ColorWare Now Offering Custom-Painted AirPods 3 Starting at $319"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/11/02/netflix-games-launch-android/",
+          "author": "Juli Clover",
+          "description": "Netflix today announced the full official rollout of its Netflix Games feature, which will allow Netflix users to play a handful of games on their mobile devices.\r\n\r\n\r\n\r\n\r\n\r\nAt the current time, Netflix is making games available for Android users, but support for iOS is \"on the way.\" Netflix says that it's early days, but its goal is to build a library of games offering \"something for everyone.\"\r\n\r\n\r\n\r\nGames available today include \"Stranger Things: 1984,\" \"Stranger Things 3: The Game,\" \"Shooting Hoops,\" \"Card Blast,\" and \"Teeter Up.\"\r\n\r\n\r\n\r\n\n🎮📱 Let the Games Begin📱🎮\nTomorrow, Netflix Games will start rolling out on the Netflix mobile app. First on Android, with iOS on the way.\nIt’s early days, but we’re excited to start bringing you exclusive games, with no ads, no additional fees and no in-app purchases. pic.twitter.com/ofNGF4b8At\n— Netflix Geeked (@NetflixGeeked) November 2, 2021\n \n\r\n\r\nAccessing games on Netflix requires a Netflix subscription, and there are no ads, additional fees, or in-app purchases, which is how Apple's gaming service, Apple Arcade, operates. Android users will now see a dedicated games row and games tab in the Netflix app, and will be able to select games to download and play.\r\n\r\n\r\n\r\nIt's not clear how the iOS version of the app will work. Netflix can have a \"catalog\" app like its main Netflix app (or a separate Games app) that lists gaming titles, linking out to games that can be downloaded from the App Store. Alternatively, Netflix can use a web-based solution, but games would need to be streaming titles.\r\n\r\n\r\n\r\nNetflix says that it will continue to improve the mobile gaming experience in the coming months, but there is no word yet on when Netflix's games will come to iOS devices.\nTag: Netflix\nThis article, \"Netflix Taking on Apple Arcade With Official Games Launch on Android\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/11/02/netflix-games-launch-android/",
+          "publishedOn": "2021-11-02T17:58:55.000Z",
+          "wordCount": 2134,
+          "title": "Netflix Taking on Apple Arcade With Official Games Launch on Android"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/11/02/facebook-shutting-down-face-recognition/",
+          "author": "Juli Clover",
+          "description": "Facebook is shutting down its Face Recognition system and will delete the facial data of more than 1 billion of its users, Facebook parent company Meta announced this morning.\r\n\r\n\r\n\r\n\r\n\r\nPeople who opted in to Face Recognition will no longer be automatically recognized in photos and videos, and their facial recognition templates will be deleted.\r\n\r\n\r\n\r\nAccording to Facebook VP of Artificial Intelligence Jerome Pesenti, Facebook is making this change because it needs to weigh the positive use cases for facial recognition against growing societal concerns\" as regulators \"have yet to provide clear rules.\"\r\n\r\n\r\n\r\nFacial recognition has been available on Facebook since 2011, and at the time that it debuted, Facebook turned the feature on automatically for more than 500 million people. The optio…",
+          "link": "https://www.macrumors.com/2021/11/02/facebook-shutting-down-face-recognition/",
+          "publishedOn": "2021-11-02T17:43:54.000Z",
+          "wordCount": 2238,
+          "title": "Facebook Shuttering Facial Recognition System, Will Delete Data From Over a Billion Users"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/11/02/jony-ive-to-speak-at-wired-event/",
+          "author": "Joe Rossignol",
+          "description": "WIRED has announced that Apple's former design chief Jony Ive will sit down with Vogue's longtime editor-in-chief Anna Wintour to discuss his latest endeavors, the future of design as he sees it, and more at the virtual RE:WIRED event next week.\r\n\r\n\r\n\r\n\r\n\r\nIve's conversation with Wintour will take place Tuesday, November 9 at 9:30 a.m. Pacific Time. Registration for the event is free and available online.\nOur world is facing some of the most critical challenges of all time. While the last decade ushered in dramatic technological acceleration, the last 18 months have kicked off a tectonic societal shift in how we live, work, and connect.\r\n\r\n\r\n\r\nGenerating sustainable and strategic solutions to these challenges—from both communal action and heroic innovation—requires us to rewire discourse and the way we think. This is RE:WIRED.\r\n\r\n\r\n\r\nJoin us this November for a series of conversations between technologists and people who think hard about the consequences for those technologies on society, economics, sustainability and, ultimately, our future.\nIve left Apple in 2019 to form an independent design company LoveFrom with fellow designer Marc Newson. Apple said it would remain one of Ive's primary clients, but it's unclear which Apple products he has helped to design since his departure from the company. Apple did confirm that Ive was involved with the design of the colorful 24-inch iMac released in April, but it did not say if any of that work occurred after he left Apple.\r\n\r\n\r\n\r\nLoveFrom has reached multi-year design partnerships with brands like Airbnb and Ferrari.\r\n\r\n\r\n\r\nIve's participation in RE:WIRED was spotted earlier by 9to5Mac. Other speakers at the two-day event will include CISA director Jen Easterly, actor John Cho, EVgo CEO Cathy Zoi, Moderna CEO Stéphane Bancel, and more.\nTag: Jony Ive\nThis article, \"Apple's Former Design Chief Jony Ive to Speak at WIRED Event Next Week\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/11/02/jony-ive-to-speak-at-wired-event/",
+          "publishedOn": "2021-11-02T15:32:23.000Z",
+          "wordCount": 2106,
+          "title": "Apple's Former Design Chief Jony Ive to Speak at WIRED Event Next Week"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/11/02/fourth-generation-ipad-obsolete/",
+          "author": "Joe Rossignol",
+          "description": "Apple classified the fourth-generation iPad as an obsolete product as of November 1, meaning the device is no longer eligible for hardware service worldwide, according to an internal memo obtained by MacRumors. The fourth-generation iPad has yet to be added to Apple's public-facing vintage and obsolete products list, but it should be soon.\r\n\r\n\r\n\r\n\r\n\r\nReleased in November 2012 alongside the original iPad mini, the fourth-generation iPad did away with Apple's classic 30-pin connector and adopted the Lightning connector that had debuted in the iPhone 5 just weeks earlier. The fourth-generation iPad also gained Apple's A6X chip for up to twice the CPU performance and up to twice the graphics performance of the A5X chip in the third-generation iPad that had launched in March 2012.\r\n\r\n\r\n\r\nApple also classified the Late 2012 model Mac mini as an obsolete product as of November 1, according to the memo.\nTag: Vintage and obsolete Apple products\nThis article, \"Apple Says Fourth-Generation iPad Released in 2012 is Now Obsolete\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/11/02/fourth-generation-ipad-obsolete/",
+          "publishedOn": "2021-11-02T13:51:47.000Z",
+          "wordCount": 2133,
+          "title": "Apple Says Fourth-Generation iPad Released in 2012 is Now Obsolete"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/11/02/deals-amazon-pre-black-friday/",
+          "author": "Mitchel Broussard",
+          "description": "Amazon is continuing its pre-Black Friday discounts from yesterday with a new collection of solid markdowns on Apple products and accessories. Today we're tracking sales on Apple Pencil 2, Apple TV 4K, and the MacBook Air.\r\n\r\n\r\n\r\nNote: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.\r\n\r\n\r\n\r\nApple Pencil 2\n\r\n\r\nFollowing a deal at Verizon late last week, Amazon is now providing the best current deal on Apple Pencil 2 at $99.99, down from $129.00. This sale is a match of one of the lowest prices that we've ever tracked for the Apple Pencil 2, and as of writing it's only available on Amazon. \r\n\r\n\r\n\r\n\n$29 OFF\nApple Pencil 2 for $99.99\n\n\r\n\r\n\r\n\r\nWe very rarely see the Appl…",
+          "link": "https://www.macrumors.com/2021/11/02/deals-amazon-pre-black-friday/",
+          "publishedOn": "2021-11-02T13:44:39.000Z",
+          "wordCount": 2570,
+          "title": "Deals: Amazon's Pre-Black Friday Sales Continue With $29 Off Apple Pencil 2, $10 Off Apple TV 4K, and More"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/11/02/firefox-94-updates/",
+          "author": "Juli Clover",
+          "description": "Firefox today released Firefox 94 for iOS devices, which introduces a new homepage design that adds several quality of life improvements to the browser. Firefox says that the new features are designed for \"short bursts of online interactions that are constantly interrupted by life.\"\r\n\r\n\r\n\r\n\r\n\r\nThe update adds a feature that jumps back to the last open active tab so you don't lose what you were browsing when you close the app, and recently saved bookmarks are easier to find and get to.\r\n\r\n\r\n\r\nAll of your recent searches are also now grouped by topic, so you can return to something you were researching with just a tap.\r\n\r\n\r\n\r\nFirefox is also planning to add a way to get rid of tabs that are no longer relevant to you. When this feature releases on iOS in the coming months, tabs you have not visited in the last 14 days will be moved to an inactive state where they're still viewable, but they no longer clutter the tab view.\r\n\r\n\r\n\r\nOn the desktop, Firefox 94 adds 18 new themes to choose from with six new limited-time seasonal colorways, and it uses Apple's low power mode for fullscreen video on YouTube and Twitch to extend battery life for long viewing sessions.\r\n\r\n\r\n\r\nThere's also a new Site Isolation feature to protect Firefox users against side-channel attacks like Spectre.\r\n\r\n\r\n\r\nThe iOS version of Firefox can be downloaded from the App Store, and the Mac version can be downloaded from the Firefox website.\nTag: Firefox\nThis article, \"Firefox 94 Brings Updated Homepage on iOS, Battery Saving Mode on Mac\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/11/02/firefox-94-updates/",
+          "publishedOn": "2021-11-02T13:00:00.000Z",
+          "wordCount": 2235,
+          "title": "Firefox 94 Brings Updated Homepage on iOS, Battery Saving Mode on Mac"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/11/02/missing-macos-monterey-wallpaper-created/",
+          "author": "Tim Hardwick",
+          "description": "Apple bucked a trend when it unveiled macOS Monterey in June featuring an abstract wallpaper graphic, breaking an eight-year tradition of using a photo of the natural landscape that inspired the latest Calfornia-themed version name.\r\n\r\n\r\n\r\n\r\n\r\nThis change came as a shock to YouTuber and photographer Andrew Levitt and his friends Jacob Phillips and Taylor Gray, whom together have made recreating macOS wallpapers something of a tradition. \r\n\r\n\r\n\r\nOnce the trio of friends had come to terms with the new abstract wallpaper, they concluded that it was supposed to represent Monterey Canyon, which is deep underwater and impossible to photograph. So, instead they decided to create their own Monterey landscape, but finding the right shot came with its own problems, as their intrepid video diary expl…",
+          "link": "https://www.macrumors.com/2021/11/02/missing-macos-monterey-wallpaper-created/",
+          "publishedOn": "2021-11-02T12:53:20.000Z",
+          "wordCount": 2200,
+          "title": "Trio of Friends Create Missing macOS Wallpaper of Monterey Landscape"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/11/02/notability-users-frustrated-subscription-model/",
+          "author": "Tim Hardwick",
+          "description": "Notability users have been left frustrated and annoyed after the developer of the popular Mac and iOS note-taking app revealed on Monday that it has switched to a subscription-based model, and that key features included in original app purchases will stop functioning after one year.\r\n\r\n\r\n\r\n\r\n\r\nPreviously available as a one-off $8.99 purchase, Notability for iPhone, iPad, and Mac is now free to download on the App Store, but not all the features are available in the \"freemium\" version, and those that are included have editing limitations.\r\n\r\n\r\n\r\nTo get \"the full Notability experience\" offered by version 11.0 of the app now requires an annual $14.99 subscription, which includes unlimited note taking and access to additional features that are otherwise available as in-app purchases.\r\n\r\n\r\n\r\nAs…",
+          "link": "https://www.macrumors.com/2021/11/02/notability-users-frustrated-subscription-model/",
+          "publishedOn": "2021-11-02T10:07:03.000Z",
+          "wordCount": 2614,
+          "title": "Notability Users Frustrated By Switch to Subscription Model Claim Violation of App Store Guidelines"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/11/02/apple-shifts-ipad-parts-to-iphone-13-shortages/",
+          "author": "Tim Hardwick",
+          "description": "Amid long waiting times for iPhone 13 models around the world, Apple has reportedly reallocated iPad parts to make up for shortages, in another signal that the global paucity of chips is impacting Apple's supply chain.\r\n\r\n\r\n\r\n\r\n\r\n‌iPad‌ and iPhone share common components including core and peripheral chips, which means Apple is able to shift supplies between the devices to prioritize one or the other, reports Nikkei Asia. \r\n\r\nProduction of the iPad was down 50% from Apple's original plans for the past two months, sources briefed on the matter said, adding that parts intended for older iPhones were also being moved to the iPhone 13.\nApple foresees stronger demand for ‌iPhone 13‌ models, especially in the months immediately following launch that lead into the holiday season. Nevertheless, demand for iPads remains strong, with total ‌iPad‌ shipments in the first nine months of this year totaling 40.3 million, up 17.83% from the same time a year ago, according to IDC data.\r\n\r\n\r\n\r\nThe last time Apple prioritized iPhones over iPads was last year, when it reallocated some ‌iPad‌ parts to the iPhone 12 amid supply chain constraints during the peak of the global health crisis.\r\n\r\n\r\n\r\nApple's financial results for the fourth fiscal quarter of 2021 revealed all-time record revenues for Mac and Services, but Apple's performance was only roughly in line with analyst expectations and was almost certainly held back by component shortages that have led to lengthy shipping estimates for many products.\nRelated Roundups: iPhone 13, iPhone 13 Pro\nTag: nikkei.com\nBuyer's Guide: iPhone 13 (Buy Now), iPhone 13 Pro (Buy Now)\nRelated Forum: iPhone\nThis article, \"Apple Reportedly Using iPad Components in iPhone 13 to Offset Shortages\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/11/02/apple-shifts-ipad-parts-to-iphone-13-shortages/",
+          "publishedOn": "2021-11-02T08:15:10.000Z",
+          "wordCount": 2147,
+          "title": "Apple Reportedly Using iPad Components in iPhone 13 to Offset Shortages"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/11/01/lg-smart-tvs-three-month-apple-tv-plus-trial/",
+          "author": "Joe Rossignol",
+          "description": "LG today announced that owners of 2016 to 2021 model 4K or 8K LG Smart TVs will be eligible for a free three-month Apple TV+ trial starting November 15 in the United States and over 80 other countries and regions where Apple TV+ is available.\r\n\r\n\r\n\r\n\r\n\r\nThe trial will be available through the LG Content Store and must be redeemed by February 20, 2022. The offer is limited to first-time Apple TV+ subscribers, so anyone who has already trialed Apple's streaming video service cannot take advantage of this promotion. There is a limit of one free trial per eligible LG Smart TV and per Apple ID.\r\n\r\n\r\n\r\nApple TV+ normally offers a free seven-day trial, with pricing then set at $4.99 per month. Apple also continues to offer a free three-month trial of the service with the purchase of a new iPhone, iPad, iPod touch, Apple TV, or Mac.\r\n\r\n\r\n\r\nApple TV+ competes with the likes of Netflix and Disney+ by offering a slate of original programming, ranging from the award-winning comedy series \"Ted Lasso\" to the star-studded drama series \"The Morning Show.\"\nTags: LG, Apple TV Plus\nThis article, \"LG to Offer Free Three-Month Apple TV+ Trial on 2016 and Newer Smart TVs\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+          "link": "https://www.macrumors.com/2021/11/01/lg-smart-tvs-three-month-apple-tv-plus-trial/",
+          "publishedOn": "2021-11-02T02:55:16.000Z",
+          "wordCount": 2330,
+          "title": "LG to Offer Free Three-Month Apple TV+ Trial on 2016 and Newer Smart TVs"
+        },
         {
           "id": "https://www.macrumors.com/2021/11/01/apple-discontinues-beats-headphones/",
           "author": "Juli Clover",
@@ -6444,60 +6651,6 @@
           "publishedOn": "2021-10-04T13:02:46.000Z",
           "wordCount": 2098,
           "title": "Apple Watch Series 7 Pre-Orders to Start This Friday, Available on October 15"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/10/04/report-a-problem-app-store-option-returns/",
-          "author": "Hartley Charlton",
-          "description": "After being removed several years ago, Apple has restored the \"Report a Problem\" option on the App Store in an effort to flag issues and combat scams.\r\n\r\n\r\n\r\n\r\n\r\nSpotted by Richard Mazkewich and Kosta Eleftheriou and highlighted by The Verge, the option allows users to report individual ‌App Store‌ listings in iOS 15. When selected, the option directs users to a website with a drop-down menu to report ‌App Store‌ violations, including a specific option to \"Report a scam or fraud.\"\r\n\r\n\r\n\r\nThe previous option, which was difficult to access, allowed users to \"Report suspicious activity\" redirected to Apple Support. Users were only able to report \"a quality issue\" with apps if they had actually paid for a scam app or in-app purchase, meaning that there was no ability to easily report obvious scams.\r\n\r\n\r\n\r\n\nIn a major reversal, Apple quietly added back the “Report a Problem” @AppStore button in iOS 15: pic.twitter.com/UopiPDEV7e\n— Kosta Eleftheriou (@keleftheriou) October 3, 2021\n \n\r\n\r\n\r\n\r\nThe \"Report a Problem\" option appears to be rolling out slowly, starting with free apps with in-app purchases on the ‌App Store‌ in the United States. The addition comes just days after Apple added the ability for users to rate their own apps on the ‌App Store‌.\nTag: App Store\nThis article, \"'Report a Problem' App Store Option Returns to Combat Scams\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/10/04/report-a-problem-app-store-option-returns/",
-          "publishedOn": "2021-10-04T12:04:45.000Z",
-          "wordCount": 2090,
-          "title": "'Report a Problem' App Store Option Returns to Combat Scams"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/10/04/apple-ramps-up-iphone-13-chip-orders/",
-          "author": "Tim Hardwick",
-          "description": "Apple has managed to ramp up chip orders for its new iPhone 13 lineup by reducing equivalent orders for the older-generation iPhone models that the company still sells, according to a new DigiTimes report.\r\n\r\n\r\n\r\n\nApple has scaled down its chip orders for older-generation iPhones, while ramping up wafer starts at TSMC for its iPhone 13, the sources said. Apple has also not made any changes to its chip orders placed with TSMC for 2021, the sources noted.\nApple continues to sell the iPhone 12, iPhone 12 mini, and iPhone 11 on its online store, and also offers the iPhone SE 2 for users who prefer an affordable ‌iPhone‌ with a Home button. Apple discontinued the ‌iPhone‌ XR, ‌iPhone 12‌ Pro and iPhone 12 Pro Max when it launched the ‌iPhone 13‌ series in September. \r\n\r\n\r\n\r\nApple is currently s…",
-          "link": "https://www.macrumors.com/2021/10/04/apple-ramps-up-iphone-13-chip-orders/",
-          "publishedOn": "2021-10-04T10:57:16.000Z",
-          "wordCount": 2494,
-          "title": "Apple Ramps Up iPhone 13 Chip Orders, Scales Down Orders for Older iPhones"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/10/04/iphone-13-pro-costs-breakdown-iphone-12-pro/",
-          "author": "Sami Fathi",
-          "description": "The iPhone 13 Pro costs Apple around $20 more to build compared to last year's iPhone 12 Pro, but despite the lower margin of revenue for the company, the ‌iPhone 13 Pro‌ still starts at the same $999 price point as last year's entry-level Pro iPhone.\r\n\r\n\r\n\r\n\r\n\r\nTechInsights did a costs analysis breakdown of the new ‌iPhone 13 Pro‌, finding that due to higher component costs related to the improved camera, A15 Bionic chip, ProMotion displays, and presumably the large battery, the newest ‌iPhone‌ costs $570 to build, while the ‌iPhone 12‌ Pro cost merely $548. Compared to the Samsung Galaxy S21+, both iPhones are however significantly more expensive to build.\r\n\r\n\r\n\r\n\r\n\r\nThe increase in build costs from the ‌iPhone 12‌ Pro to the ‌iPhone 13 Pro‌ is notable but not as pronounced as last year's increase from the iPhone 11. The ‌iPhone 12‌ introduced 5G support, a new 5nm chip, and the return of flat edges. Those changes resulted in the iPhone 12 being 21% more expensive for Apple to build than the ‌iPhone 11‌.\r\n\r\n\r\n\r\nIn the run-up to the launch of the iPhone 13 and ‌iPhone 13 Pro‌ last month, a report suggested that due to increased costs for chip production, Apple would increase the price of the iPhone 13 as a means of compensating. That did not occur, and Apple instead kept the same price points for the ‌iPhone 13‌, on top of introducing more aggressive carrier subsidies. Another report suggested that Apple was looking at new ways to assemble the cameras in an ‌iPhone‌ to save costs.\nRelated Roundup: iPhone 13 Pro\nTag: iPhone 13\nBuyer's Guide: iPhone 13 Pro (Buy Now)\nRelated Forum: iPhone\nThis article, \"iPhone 13 Pro Costs Around $20 More to Build Compared to the iPhone 12 Pro, Despite Being the Same Price for the Customer\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/10/04/iphone-13-pro-costs-breakdown-iphone-12-pro/",
-          "publishedOn": "2021-10-04T09:22:07.000Z",
-          "wordCount": 2285,
-          "title": "iPhone 13 Pro Costs Around $20 More to Build Compared to the iPhone 12 Pro, Despite Being the Same Price for the Customer"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/10/04/apple-safari-bookmarks-end-to-end-encrypted/",
-          "author": "Sami Fathi",
-          "description": "Apple has toggled end-to-end encryption for Safari bookmarks in iCloud, further expanding the type of user data that the company fully encrypts, offering the highest level of privacy and data protection.\r\n\r\n\r\n\r\n\r\n\r\nSpotted on Reddit, an update to Apple's \"iCloud security overview\" page has indicated that alongside Safari tabs and history, Safari bookmarks are now end-to-end encrypted, meaning no one, not even Apple, can access users' saved Safari bookmarks. Based on the timing of the update, Apple likely did this change around the release of iOS and iPadOS 15. Apple didn't respond to a request for comment.\r\n\r\n\r\n\r\nWith Safari bookmarks now an added data point that's end-to-end encrypted, what remains not end-to-end encrypted is worth noting. ‌iCloud‌ backups, for example, are only protected using 128-bit AES encryption, alongside Photos, Reminders, Notes, and more. In recent months, Apple has come under pressure to make iCloud Photos and ‌iCloud‌ backups fully end-to-end encrypted, but the company has yet to make those changes.\nTag: Apple privacy\nThis article, \"Apple Makes iCloud Safari Bookmarks End-To-End Encrypted\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/10/04/apple-safari-bookmarks-end-to-end-encrypted/",
-          "publishedOn": "2021-10-04T08:28:55.000Z",
-          "wordCount": 2013,
-          "title": "Apple Makes iCloud Safari Bookmarks End-To-End Encrypted"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/10/03/steve-jobs-tossed-iphone-story/",
-          "author": "Joe Rossignol",
-          "description": "Tuesday marks 10 years since Apple co-founder Steve Jobs passed away, and those who met him have begun to share stories about his life.\r\n\r\n\r\n\r\n\r\n\r\nCNET's Roger Cheng today recounted his memory of Jobs visiting The Wall Street Journal's headquarters in New York to offer him and a small group of other reporters an early look at a prototype iPhone, shortly after the device was unveiled in 2007.\r\n\r\n\r\n\r\nCheng revealed that when one reporter asked about the iPhone's durability, Jobs reacted by tossing the prototype he was holding into the air toward the center of the room, resulting in a small gasp followed by immediate silence as the device hit the carpeted floor. Cheng said the iPhone survived unscathed, adding that the move was the kind of calculated risk that Jobs was known to take as a showman.\r\n\r\n\r\n\r\n\"The memory underscores the kind of lengths Jobs went to in order to make an impression,\" wrote Cheng. \"Imagine how disastrous it would've been if that iPhone had broken or shut down in front of so many journalists.\"\r\n\r\n\r\n\r\n\n\r\n\r\nJobs famously introduced the original iPhone as if it were three separate products: a widescreen iPod with touch controls, a revolutionary mobile phone, and a breakthrough internet communications device. The crowd at Macworld San Francisco erupted with cheerful applause upon realizing that Jobs was referring to a single device.\r\n\r\n\r\n\r\nJobs passed away October 5, 2011 at the age of 56. Apple maintains a Remembering Steve page on its website with messages from people all over the world.\nTag: Steve Jobs\nThis article, \"Steve Jobs Once Tossed the Original iPhone Across a Room to Impress Journalists\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/10/03/steve-jobs-tossed-iphone-story/",
-          "publishedOn": "2021-10-04T03:13:52.000Z",
-          "wordCount": 2182,
-          "title": "Steve Jobs Once Tossed the Original iPhone Across a Room to Impress Journalists"
-        },
-        {
-          "id": "https://www.macrumors.com/2021/10/03/gurman-apple-event-this-month/",
-          "author": "Sami Fathi",
-          "description": "After its first event of the fall, Apple is on track to hold a Mac focused event within the next month, where it will debut brand new MacBook Pros with a faster \"M1X\" Apple silicon chip, an updated design, and improved display technology, according to Bloomberg's Mark Gurman.\r\n\r\n\r\n\r\n\r\n\r\nApple last year held its Mac event in November, but in the past, it has held Mac events in October. Till now, there's been some unknown about whether Apple will stick with its November or October timeframe for this year. \r\n\r\n\r\n\r\nIn his latest Power On newsletter, Gurman says the company is poised to announce M1X powered MacBook Pros within the next month, noting that \"Apple typically does its major new Mac introductions in October. So stay tuned.\" In the paywalled section of the newsletter, Gurman also reiterated what we can expect performance-wise from the new machines. \r\n\r\nThe Apple M1X chip, the likely name for a more graphics-intense and professional-focused M1 chip, is indeed still on tap for 2021. We'll likely see it show up first in a new range of MacBook Pros in the next month and a higher-end Mac mini at some point. The M1X has been developed in two variations: both with 10 CPU cores (eight high-performance and two high-efficiency) and either 16 or 32 graphics cores.\nPrevious report suggests that alongside the new MacBook Pros, Apple may also announce a redesigned Mac mini. Apple last month announced the iPhone 13, Apple Watch Series 7, a new generation iPad, and the sixth-generation iPad mini, and besides new Macs, the company is also rumored to be releasing third-generation AirPods before the end of this year.  \nRelated Roundups: MacBook Pro 13\", MacBook Pro 16\"\nTags: Mark Gurman, 14-Inch MacBook Pro\nBuyer's Guide: 13\" MacBook Pro (Don't Buy), 16\" MacBook Pro (Don't Buy)\nRelated Forum: MacBook Pro\nThis article, \"New MacBook Pros Likely to Launch at Apple Event This Month, Says Gurman\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-          "link": "https://www.macrumors.com/2021/10/03/gurman-apple-event-this-month/",
-          "publishedOn": "2021-10-03T13:03:54.000Z",
-          "wordCount": 2153,
-          "title": "New MacBook Pros Likely to Launch at Apple Event This Month, Says Gurman"
         }
       ]
     },
@@ -6506,6 +6659,33 @@
       "feedUrl": "https://daringfireball.net/feeds/main",
       "siteUrl": "https://daringfireball.net/",
       "articles": [
+        {
+          "id": "https://daringfireball.net/thetalkshow/2021/10/31/ep-327",
+          "author": null,
+          "description": "Special guest Daniel Jalkut returns to the show to talk about the new MacBook Pros.\nBrought to you by:\nsanity.io: The platform for structured content that lets you build better digital experiences.\nSquarespace: Make your next move. Use code talkshow for 10% off your first order.\nMack Weldon: Radically-efficient wardrobing.\n ★",
+          "link": "https://daringfireball.net/thetalkshow/2021/10/31/ep-327",
+          "publishedOn": "2021-11-02T23:39:52.000Z",
+          "wordCount": 111,
+          "title": "The Talk Show: ‘Giddy With Mac-Ness’"
+        },
+        {
+          "id": "https://www.theverge.com/2020/6/10/21285866/mac-arm-processors-windows-lessons-transition-coexist",
+          "author": null,
+          "description": "Dieter Bohn, back in June 2020:\nSpeaking of things Apple wouldn’t want: ARM-based Windows\ncomputers are slower. Unless you’re able to stay within those\nChromebook-esque constraints, things get real chuggy real fast.\nWe’ve all been assuming that Apple’s much-vaunted prowess at\nmaking fast ARM chips for iPads will translate well to Macs, but\nthere’s no guarantee that’s true until we get to test them\nourselves.\nAnother thing I’ve learned is that using a Windows computer with\nan ARM processor actually requires a higher level of technical\nexpertise, because you need to know what won’t work and why\ngoing in.\nAs with my previous item linking back to Rik Myslewski’s 2008 take on Apple’s acquisition of P.A. Semi, I am not trying to dunk on Dieter Bohn here. 18 months ago, these were all perfectly reasonable concerns.\nThe gist of my M1 MacBook review a year ago was that, until then, computers could run cool and slow, or, hot and fast. My thinking about Apple moving to its own ARM-based silicon was that their chips would run cool and “fast enough”. The idea that Apple’s chips would be both way faster and way cooler seemed too good to be true. Like, not just having your cake and eating it too, but having your cake and eating it twice.\nBut, here we are. It turns out that Microsoft’s foray into ARM-based Windows machines was just an entirely different ballgame.\n ★",
+          "link": "https://www.theverge.com/2020/6/10/21285866/mac-arm-processors-windows-lessons-transition-coexist",
+          "publishedOn": "2021-11-02T18:57:52.000Z",
+          "wordCount": 2799,
+          "title": "Microsoft’s Foray Into ARM Processors With Windows"
+        },
+        {
+          "id": "https://www.macworld.com/article/190332/pasemi.html",
+          "author": null,
+          "description": "Rik Myslewski, writing for Macworld back in 2008:\nApple’s purchase of a microprocessor design firm has triggered a\nwave of speculation over what the computer maker plans to do with\nits newly acquired assets. Perhaps, the thinking goes, the\npurchase means a new chip to power future iPhone models. Or maybe\nit will push Apple into new areas of portable computing. It might\neven mean a return of sorts to the company’s PowerPC days.\nBut after a closer look at the deal, the answer could be — and\nprobably is — none of the above.\nI’ll admit that sometimes I post old articles to make hay out of someone’s shortsightedness. Here, though, I remember agreeing with Myslewski. I thought the P.A. Semi acquisition was about talent, not specific silicon I.P. — and I could not have been more wrong. The idea — in 2008 — that this acquisition would take Apple to where it is today was just unimaginable. If Myslewski had written back then that he expected Apple to — in just over a decade — design chips that were both faster and far more power-efficient than Intel’s, we’d have thought he was nuts.\n ★",
+          "link": "https://www.macworld.com/article/190332/pasemi.html",
+          "publishedOn": "2021-11-02T17:26:49.000Z",
+          "wordCount": 1070,
+          "title": "Looking Back on Apple’s Acquisition of P.A. Semi"
+        },
         {
           "id": "https://daringfireball.net/thetalkshow/2021/10/29/ep-326",
           "author": null,
@@ -7098,6 +7278,69 @@
       "feedUrl": "https://www.polygon.com/rss/pc/index.xml",
       "siteUrl": "https://www.polygon.com/pc",
       "articles": [
+        {
+          "id": "https://www.polygon.com/22760209/blizzard-jen-oneal-steps-down-announcement-activision",
+          "author": null,
+          "description": "Photo: Getty Images\n    \n\n  \nMike Ybarra heads up Blizzard ‘effective immediately.’ Oneal will depart by year’s end\n Jen Oneal, who took over leadership of Blizzard Entertainment with Mike Ybarra in August, has stepped down from that role, Activision Blizzard announced Tuesday. Ybarra will continue alone as Blizzard’s top executive, effective immediately.\nIn a note to Blizzard employees and fans of their games, Oneal said she would be taking on a new role with the nonprofit organization Women in Games International (WIGI), starting with a $1 million grant from Activision Blizzard to the organization. Oneal said she would be leaving Activision Blizzard by the end of the year.\nOneal and Ybarra took over Blizzard’s leadership after former president J. Allen Brack stepped down in early August.…",
+          "link": "https://www.polygon.com/22760209/blizzard-jen-oneal-steps-down-announcement-activision",
+          "publishedOn": "2021-11-02T21:35:11.000Z",
+          "wordCount": 1035,
+          "title": "Blizzard co-leader Jen Oneal leaves for women-in-game development nonprofit"
+        },
+        {
+          "id": "https://www.polygon.com/22759855/the-sims-4-update-maxis-goals-scenarios-blooming-rooms-dlc",
+          "author": null,
+          "description": "Image: Maxis Studios/Electronic Arts\n    \n\n  \nA separate free update will also bring playable story modes called ‘Scenarios’\n The Sims 4 is getting a free new update to the base game, as well as new paid DLC, Electronic Arts and Maxis Studios announced Tuesday via news release. The update, which unrolled Tuesday, introduces missions called “Scenarios” that allow fans to play through “goal-based stories,” with their Sims, according to the release. The new paid — and all its lush greenery — will be released Nov. 9.\nScenarios are situations where players “can choose to participate and work toward an outcome for their Sims,” according to the developer. Depending on how you work through a scenario, there will be different outcomes, so it’s up to you to figure out how you want to resolve the story. \nThe developer will continue to release new Scenarios over time, with different themes and styles inspiring each one. Tuesday’s update introduced two new scenarios: “Making Money,” which tasks you with making a million Simoleons, and “Finding Love After a Breakup,” which will have you playing matchmaker for your Sims. These two stories will run Tuesday through Nov. 6. \nIn the Blooming Rooms Kit DLC, you won’t need a green thumb to grow, just a home you want to fill with beautiful baby plants. An image from the developers shows all sorts of foliage like ferns, spider plants, and cascading vines you can frame your windows with. The kit will launch on Nov. 9 to Mac OS, PlayStation 4, PlayStation5, Windows PC, Xbox One, and  Xbox Series X.",
+          "link": "https://www.polygon.com/22759855/the-sims-4-update-maxis-goals-scenarios-blooming-rooms-dlc",
+          "publishedOn": "2021-11-02T21:10:00.000Z",
+          "wordCount": 750,
+          "title": "The Sims 4 is getting new DLC that will enable your millennial plant parent dreams"
+        },
+        {
+          "id": "https://www.polygon.com/22760143/diablo-4-overwatch-2-delayed-release-date",
+          "author": null,
+          "description": "Image: Blizzard Entertainment\n    \n\n  \nBlizzard Entertainment says both titles need more time\n Overwatch 2 and Diablo 4 have been delayed, Blizzard Entertainment announced Tuesday, and those highly anticipated sequels may not be released until 2023, based on comments made during an Activision Blizzard investor presentation.\n“While we are still planning to deliver a substantial amount of content from Blizzard next year, we are now planning for a later launch for Overwatch 2 and Diablo IV than originally envisaged,” Activision Blizzard said Tuesday. “These are two of the most eagerly anticipated titles in the industry, and our teams have made great strides towards completion in recent quarters. But we believe giving the teams some extra time to complete production and continue growing their …",
+          "link": "https://www.polygon.com/22760143/diablo-4-overwatch-2-delayed-release-date",
+          "publishedOn": "2021-11-02T21:00:39.000Z",
+          "wordCount": 859,
+          "title": "Diablo 4 and Overwatch 2 delayed, may be 2023 games"
+        },
+        {
+          "id": "https://www.polygon.com/22760062/new-world-post-launch-bugs-exploits-chat-gold-duping",
+          "author": null,
+          "description": "Image: Amazon Game Studios\n    \n\n  \nNew patches lead to new bugs\n At first glance, New World appears to be a standard MMO experience, with crafting, combat, and monstrous critters to slay. But there’s a hidden underbelly to the game that players are using to get all manner of unscrupulous advantages. While New World has lots of in-game PvP opportunities for players to contest regions or duke it out with each other, it’s also proving to have lots of in-game opportunities to blindside opponents or gain advantages by exploiting the game’s many, many bugs. And some of developer Amazon’s fixes and patches have also resulted in additional player issues.\nNew World had bugs from the beginning; all MMOs do. At first, the game’s biggest problem was queues of players trying to get into the game. Then…",
+          "link": "https://www.polygon.com/22760062/new-world-post-launch-bugs-exploits-chat-gold-duping",
+          "publishedOn": "2021-11-02T20:28:44.000Z",
+          "wordCount": 1210,
+          "title": "Players are gleefully breaking New World with gold duping, chat exploits"
+        },
+        {
+          "id": "https://www.polygon.com/22759418/netflix-squid-game-steam-free-crab-game-download",
+          "author": null,
+          "description": "Image: Dani\n    \n\n  \nNetflix’s hit drama ‘inspires’ free multiplayer game (that’s actually not bad)\n Netflix’s Squid Game has been inescapable since the hit streaming series debuted in September, and while there’s no official video game based on Hwang Dong-hyuk’s action-drama (yet), there’s a pretty solid multiplayer knockoff out there: Crab Game.\nCrab Game was released on Steam in late October and has two major selling points: It’s basically a Squid Game multiplayer game, and it’s free. Players can hop into lobbies and play a series of deadly playground-inspired battle royale games, including games featured in Squid Game, like red light/green light. The show’s terrifying glass bridge is a set of icy stepping stones in Crab Game, for example. \nBut since some Squid Game fare wouldn’t transl…",
+          "link": "https://www.polygon.com/22759418/netflix-squid-game-steam-free-crab-game-download",
+          "publishedOn": "2021-11-02T17:15:00.000Z",
+          "wordCount": 845,
+          "title": "Squid Game knockoff Crab Game blows up on Steam, Twitch"
+        },
+        {
+          "id": "https://www.polygon.com/22740752/halo-month-halovember-master-chief-cortana-arbiter-infinite-reach-guardians-wars",
+          "author": null,
+          "description": "Illustration: James Bareham/Polygon\n    \n\n  \nThis month, we’ll Gregorian chant our way through the galaxy of Halo\n Halo is back.\nThe month of November is upon us, and nothing evokes an alien Covenant, galaxy-destroying rings, and super soldiers in big green suits quite like a nice fall breeze. It may be regular old November to the rest of the world, but to Polygon, it’s Halovember. \nFor the entirety of 2021’s penultimate month, we’ll explain the world that Bungie built and 343 Industries now controls, leading up to Halo Infinite’s release on Dec. 8. We’ll show you a legible version of the Halo universe’s timeline, explain The Covenant and then rank them by how hot they are, and explore exactly how Master Chief pees in that suit.\nIf you followed Wario during his tenure at Polygon, you know that you should bookmark this page and check it regularly for new Halo stories. Whether you’re new to this sci-fi epic about a big quiet man and his computer friend, or you spent every Saturday night of the early 2000s at Halo LAN parties (ask your parents), Halovember is here for you.\nLet’s explore Installation 04 together, Spartan.",
+          "link": "https://www.polygon.com/22740752/halo-month-halovember-master-chief-cortana-arbiter-infinite-reach-guardians-wars",
+          "publishedOn": "2021-11-02T16:52:12.000Z",
+          "wordCount": 589,
+          "title": "Welcome to Halovember"
+        },
+        {
+          "id": "https://www.polygon.com/22747450/halo-master-chief-covenant-forerunners-flood-universe-timeline",
+          "author": null,
+          "description": "Image: Bungie/Microsoft\n    \n\n\n  \nA look at the Halo timeline and history \n If you’ve only played the Halo games, you may think the story is pretty simple. When you just focus on Master Chief and Cortana, it is, for the most part. But there’s a vast history to the Halo universe that only barely makes it into the games.\nToday, we’re going to walk you through what you actually need to know about the Halo universe in the lead-up to Halo Infinite. We’re not going to drag you through every chapter of every book (you can watch our video about all the Halo books for that), but we’re going to give you the big picture. The next time Cortana talks about “The Didact” or “The Ark,” you’ll be able to nod along instead of pretending to understand what’s happening. If you want way more detail than we go …",
+          "link": "https://www.polygon.com/22747450/halo-master-chief-covenant-forerunners-flood-universe-timeline",
+          "publishedOn": "2021-11-02T16:52:10.000Z",
+          "wordCount": 3011,
+          "title": "Everything you need to know about Halo"
+        },
         {
           "id": "https://www.polygon.com/22757307/low-res-horror-playstation-1-cottagecore-cozy-games",
           "author": null,
@@ -9009,6 +9252,51 @@
       "siteUrl": "http://kottke.org/",
       "articles": [
         {
+          "id": "https://kottke.org/21/11/birds-with-people-arms",
+          "author": null,
+          "description": "So photos of birds with people arms are pretty funny but videos of birds with people arms are even better. I think my favorites are selfie bird, the ostrich, and the penguins.\nTags: birds   video",
+          "link": "https://kottke.org/21/11/birds-with-people-arms",
+          "publishedOn": "2021-11-02T20:56:37.000Z",
+          "wordCount": 72,
+          "title": "Birds With People Arms"
+        },
+        {
+          "id": "https://kottke.org/21/11/the-ten-contradictory-traits-of-creative-people",
+          "author": null,
+          "description": "The late psychologist Mihaly Csikszentmihalyi identified and popularized the concept of flow and also did research around the linked ideas of creativity and happiness. In his book Creativity: Flow and the Psychology of Discovery and Invention, he listed 10 pairs of contradictory traits that creative people tend to have.\n1. Creative individuals have a great deal of physical energy, but they are also often quiet and at rest.\n2. Creative individuals tend to be smart, yet also naive at the same time.\n3. A third paradoxical trait refers to the related combination of playfulness and discipline, or responsibility and irresponsibility.\n4. Creative individuals alternate between imagination and fantasy at one end, and a rooted sense of reality at the other.\n5. Creative people seem to harbor opposite tendencies on the continuum between extroversion and introversion.\n6. Creative individuals are also remarkably humble and proud at the same time.\n7. Creative individuals to a certain extent escape this rigid gender role stereotyping [of ‘masculine’ and ‘feminine’].\n8. Creative people are both traditional and conservative and at the same time rebellious and iconoclastic.\n9. Creative persons are very passionate about their work, yet they can be extremely objective about it as well.\n10. The openness and sensitivity of creative individuals often exposes them to suffering and pain yet also a great deal of enjoyment.\n(via open culture & austin kleon)\nTags: books   lists   Mihaly Csikszentmihalyi   psychology",
+          "link": "https://kottke.org/21/11/the-ten-contradictory-traits-of-creative-people",
+          "publishedOn": "2021-11-02T18:44:20.000Z",
+          "wordCount": 275,
+          "title": "The Ten Contradictory Traits of Creative People"
+        },
+        {
+          "id": "https://kottke.org/21/11/the-metaverse-is-here-its-called-minecraft",
+          "author": null,
+          "description": "In the wake of Facebook’s lifeless demo of their metaverse vision, Clive Thompson asserts what many parents of young children already know: The Metaverse Is Already Here. It’s Minecraft.\nThe truth is, a thriving metaverse already exists. It’s incredibly high-functioning, with millions of people immersed in it for hours a day. In this metaverse, people have built uncountable custom worlds, and generated god knows how many profitable businesses and six-figure careers. Yet this terrain looks absolutely nothing the like one Zuckerberg showed off.\nIt’s Minecraft, of course.\n\n\nThe ability to tinker with the game so easily attracts players to it…something that companies like Facebook, who desire revenue-extracting control above all else, will be reticent to enable:\nMinecraft is really easy to hac…",
+          "link": "https://kottke.org/21/11/the-metaverse-is-here-its-called-minecraft",
+          "publishedOn": "2021-11-02T15:56:31.000Z",
+          "wordCount": 444,
+          "title": "The Metaverse Is Here. It’s Called Minecraft."
+        },
+        {
+          "id": "https://kottke.org/21/11/leonardo-da-vincis-best-painting-is-not-the-mona-lisa",
+          "author": null,
+          "description": "For the latest episode of Nerdwriter, Evan Puschak (after briefly introducing his forthcoming book) discusses his favorite Leonardo da Vinci painting, The Virgin and Child with Saint Anne.\nIn this way, moving from the apex of the pyramid to its bottom right corner is actually a trip through time, from the past to the present to the future. And that timeline also extends along a three-dimensional axis — the lamb is in front of Jesus, who’s in front of Mary, who’s in front of Anne. But on this axis, it goes even further — behind Anne, we’re launched into the geological past. These mountains, these bones of the Earth, suggest a deep time — so deep that it conflicts with the Christian sense of the age of the world. Now that reflects a larger conflict in the Renaissance between religion and a growing appreciation for natural science, which is embodied in no person more than Leonardo da Vinci, the insatiably curious polymath.\n\n\n Tags: art   art school   Evan Puschak   Leonardo da Vinci   video",
+          "link": "https://kottke.org/21/11/leonardo-da-vincis-best-painting-is-not-the-mona-lisa",
+          "publishedOn": "2021-11-02T13:40:26.000Z",
+          "wordCount": 218,
+          "title": "Leonardo da Vinci’s Best Painting (Is Not The Mona Lisa)"
+        },
+        {
+          "id": "https://kottke.org/21/11/tiny-soccer-stars",
+          "author": null,
+          "description": "I am a little bit obsessed with Phetru’s miniaturized soccer stars (along with the occasional other sports stars or celebrities, like Kobe above or Emma Raducanu) — they’re like bobbleheads come to life. It was tough picking out just 3 or 4 to feature…each successive photo was funnier than the last.\nTags: remix   soccer   sports",
+          "link": "https://kottke.org/21/11/tiny-soccer-stars",
+          "publishedOn": "2021-11-02T01:03:02.000Z",
+          "wordCount": 89,
+          "title": "Tiny Soccer Stars"
+        },
+        {
           "id": "https://kottke.org/21/11/the-library-of-misremembered-books",
           "author": null,
           "description": "In her new book Library of Misremembered Books, Marina Luz creates new book covers from the vague and hilarious ways in which people can’t recall the exact names of books.\nAnyone who has worked in a bookstore knows only too well that moment when a customer approaches by saying, “So I don’t remember the title, or the author, but-.” And we’ve all been on the other side of the counter, trying to pinpoint something we can’t quite describe at a bookstore (“It’s a murder mystery, but also quite funny”), or at a video store (“Could be subtitled, but then again, now that I think about it, maybe it wasn’t”), or at a mechanic (“The car is kind of going gu-chunk, gu-chunk; except on hills, when it’s more of a clickety-tickety”). We are usually left not only without an answer, but also with the overwhelming sense that we have lost some small piece of our dignity in the attempt.\n\n\nSee also (via this thread) a list of misremembered titles from the Fukui Prefectural Library in Japan. (via literary hub)\nTags: book covers   books   Library of Misremembered Books   Marina Luz   remix",
@@ -9709,6 +9997,15 @@
       "siteUrl": "https://www.halfbakedharvest.com",
       "articles": [
         {
+          "id": "https://www.halfbakedharvest.com/?p=113046",
+          "author": "halfbakedharvest",
+          "description": "Baked Butter Pecan French Toast.\nFall weekend mornings are made for this Baked Butter Pecan French Toast. Made with a warming vanilla and cinnamon egg custard, sweet maple, brown sugar, and pecans. It’s baked until caramelized on top, and served warm with a cozy sweet bourbon maple syrup. Every piece of toast is soft, buttery, and custardy inside, yet caramelized…\nREAD: Baked Butter Pecan French Toast.",
+          "link": "https://www.halfbakedharvest.com/baked-butter-pecan-french-toast/",
+          "publishedOn": "2021-11-02T08:00:00.000Z",
+          "wordCount": 2295,
+          "title": "Baked Butter Pecan French Toast."
+        },
+        {
           "id": "https://www.halfbakedharvest.com/?p=113016",
           "author": "halfbakedharvest",
           "description": "Baked French Onion Meatballs.\nSimple, cheesy, Baked French Onion Meatballs. For those cold fall and winter nights when you want a fancy slow-cooked french onion soup…but you want something hearty too! Made easily with oven-baked chicken meatballs, white wine, caramelized onions, herbs, and that classic cheesy french bread topping. This dish is warm, flavorful, comforting, and so delicious. Equally…\nREAD: Baked French Onion Meatballs.",
@@ -9959,15 +10256,6 @@
           "publishedOn": "2021-10-05T08:00:00.000Z",
           "wordCount": 2271,
           "title": "Cream Cheese Swirled Cinnamon Pumpkin Butter Bread."
-        },
-        {
-          "id": "https://www.halfbakedharvest.com/?p=112031",
-          "author": "halfbakedharvest",
-          "description": "Sage Butter Pumpkin Cheese Ravioli.\nThe coziest bowl of Sage Butter Pumpkin Cheese Ravioli for all the chilly nights ahead. Pumpkin cheese ravioli tossed in a simple but delicious sage butter sauce with wine and garlic. Finish off each bowl of saucy ravioli with nutty manchego cheese. When you’re in need of an easy 30-minute dinner, make this pumpkiny ravioli.…\nREAD: Sage Butter Pumpkin Cheese Ravioli.",
-          "link": "https://www.halfbakedharvest.com/sage-butter-pumpkin-cheese-ravioli/",
-          "publishedOn": "2021-10-04T08:00:00.000Z",
-          "wordCount": 2694,
-          "title": "Sage Butter Pumpkin Cheese Ravioli."
         }
       ]
     },
@@ -10050,6 +10338,213 @@
       "feedUrl": "https://bloody-disgusting.com/feed/",
       "siteUrl": "https://bloody-disgusting.com",
       "articles": [
+        {
+          "id": "https://bloody-disgusting.com/?p=3689934",
+          "author": "Luiz H. C.",
+          "description": "Film criticism has never been an exact science, and movie critics themselves are still fallible human beings. That’s why it’s no surprise that some horror movies only find a welcoming audience years after being dismissed during their initial release. While the rise of the internet means that it’s now much easier to recommend underrated flicks […]",
+          "link": "https://bloody-disgusting.com/movie/3689934/6-critically-panned-horror-movies-2010s-worth-watch/",
+          "publishedOn": "2021-11-02T21:04:29.000Z",
+          "wordCount": 2403,
+          "title": "6 Critically Panned Horror Movies from the 2010s That Are Worth a Watch"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3690282",
+          "author": "John Squires",
+          "description": "Actor Henry Winkler of course played Principal Arthur Himbry in Wes Craven’s Scream, a character who was later immortalized with a statue that’s briefly seen on display in Scream 4. All these years later, THR reports, Winkler is parting with his own personal Ghostface mask. As part of an auction “that will take place December […]",
+          "link": "https://bloody-disgusting.com/movie/3690282/henry-winkler-auctioning-ghostface-mask-production-wes-cravens-scream/",
+          "publishedOn": "2021-11-02T20:42:48.000Z",
+          "wordCount": 1894,
+          "title": "Henry Winkler is Auctioning His Ghostface Mask from the Production of Wes Craven’s ‘Scream’"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3690273",
+          "author": "John Squires",
+          "description": "While Halloween Kills added another $8.5 million to its domestic total this past Halloween Weekend, two original horror movies released over the weekend didn’t fare quite as well. Scott Cooper’s Antlers debuted in the #6 spot on the domestic charts, scaring up $4,271,346 domestically thus far. The film’s worldwide total currently stands at $6,771,346. Edgar […]",
+          "link": "https://bloody-disgusting.com/movie/3690273/antlers-last-night-soho-opened-4-million-halloween-weekend/",
+          "publishedOn": "2021-11-02T20:19:27.000Z",
+          "wordCount": 1977,
+          "title": "‘Antlers’ and ‘Last Night in Soho’ Both Opened to $4 Million for Halloween Weekend"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3690259",
+          "author": "John Squires",
+          "description": "While we wait for next year’s Scream relaunch, coming to theaters on January 14, 2022, a company over in the UK is getting set to unleash a special Scream-themed cereal! UK company Cereal Killer took to social media on Halloween to tease their upcoming “Strawberries & Scream” cereal, made up of “crispy mallow cereal clusters.” […]",
+          "link": "https://bloody-disgusting.com/the-further/3690259/uk-company-cereal-killer-launching-worlds-first-official-scream-cereal-january/",
+          "publishedOn": "2021-11-02T19:30:42.000Z",
+          "wordCount": 1040,
+          "title": "UK Company Cereal Killer Launching the World’s First Official ‘Scream’ Cereal in January!"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3690254",
+          "author": "John Squires",
+          "description": "Zack Snyder (Justice League, Army of the Dead) is enjoying his creative freedom over at Netflix, and that relationship will continue with sci-fi movie Rebel Moon, soon on the way. Deadline reports today that Sofia Boutella (The Mummy, Prisoners of the Ghostland) has been set to star in the film, taking on the leading role in Snyder’s latest […]",
+          "link": "https://bloody-disgusting.com/movie/3690254/sofia-boutella-starring-zack-snyders-sci-fi-adventure-movie-rebel-moon-netflix/",
+          "publishedOn": "2021-11-02T19:09:17.000Z",
+          "wordCount": 1925,
+          "title": "Sofia Boutella Starring in Zack Snyder’s Sci-fi Adventure Movie ‘Rebel Moon’ for Netflix"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3690249",
+          "author": "Mike Wilson",
+          "description": "As expected, Netflix has entered the video game scene. Starting tomorrow, Netflix Games will roll out on the Netflix mobile app for Android, followed by the iOS version. The games will be available to play for free with a Netflix subscription. And, as we all suspected, the first crop of games includes Stranger Things: 1984 […]",
+          "link": "https://bloody-disgusting.com/video-games/3690249/netflix-games-arrives-tomorrow-with-stranger-things-highlighting-the-initial-crop-of-games/",
+          "publishedOn": "2021-11-02T19:03:33.000Z",
+          "wordCount": 1368,
+          "title": "Netflix Games Arrives Tomorrow With ‘Stranger Things’ Highlighting The Initial Crop of Games"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3690069",
+          "author": "Meagan Navarro",
+          "description": "The content space is more crowded than ever, making it challenging to keep up with all of the genre titles available via streaming platforms, VOD, and theatrical releases. It can be overwhelming just to browse. To help prevent great indie horror from slipping through the cracks, we’ll spotlight our favorites every month. True to form, […]",
+          "link": "https://bloody-disgusting.com/editorials/3690069/medium-documentary-style-nightmare-insane-finale-indie-horror-spotlight/",
+          "publishedOn": "2021-11-02T18:47:35.000Z",
+          "wordCount": 2380,
+          "title": "‘The Medium’ Is One of This Halloween Season’s Best Horror Movies You Might’ve Missed [Indie Horror Spotlight]"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3688634",
+          "author": "Meagan Navarro",
+          "description": "The very concept behind Inside directors Alexandre Bustillo and Julien Maury’s latest is simultaneously ingenious and daunting. A haunted house that can only be accessed by diving to the bottom of a murky, deep lake exhilarates for its innovative new spin on the subgenre. Yet, the technique and precise, painstaking execution required to bring this ambitious aquatic nightmare to life […]",
+          "link": "https://bloody-disgusting.com/reviews/3688634/review-deep-house-eerie-technically-ambitious-aquatic-nightmare/",
+          "publishedOn": "2021-11-02T18:00:08.000Z",
+          "wordCount": 2335,
+          "title": "[Review] ‘The Deep House’ Is an Eerie and Technically Ambitious Aquatic Nightmare"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3690236",
+          "author": "John Squires",
+          "description": "Toho International, Inc. is celebrating Godzilla Day on Wednesday, November 3rd in several ways, and they’re even bringing the original classic back to theaters for the big day. The press release had announced, “Toho International, Inc. is excited to announce a Godzilla-sized 67th birthday celebration Nov. 3, kicking off with a world premiere of the 4K […]",
+          "link": "https://bloody-disgusting.com/the-further/3690236/three-blends-official-godzilla-themed-coffee-launched-godzilla-day-week/",
+          "publishedOn": "2021-11-02T17:42:36.000Z",
+          "wordCount": 1066,
+          "title": "Three Blends of Official Godzilla-Themed Coffee Have Launched for “Godzilla Day” This Week"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3690232",
+          "author": "John Squires",
+          "description": "Director David Gordon Green has already promised that we’ll be getting an extended version of Halloween Kills with a different ending when the movie comes to home video, but what else can we expect from that upcoming package? It looks like one deleted moment from the new movie puts original “Shape” actor Nick Castle back […]",
+          "link": "https://bloody-disgusting.com/movie/3690232/halloween-kills-nick-castle-played-michael-myers-one-shot-ended-deleted-scene/",
+          "publishedOn": "2021-11-02T17:17:16.000Z",
+          "wordCount": 1960,
+          "title": "‘Halloween Kills’ – Nick Castle Played Michael Myers in One Shot But It Ended Up Being a Deleted Scene"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3690212",
+          "author": "Meagan Navarro",
+          "description": "“Previously on fucking Chucky,” the murderous doll went on a rampage at Lexy’s party, finally confronting the mean girl and setting her family’s historic home ablaze in the process. That’s where it ended, leaving a massive cliffhanger to one of the season’s most anticipated showdowns so far. “Just Let Go” centers on the very messy, […]",
+          "link": "https://bloody-disgusting.com/reviews/3690212/review-chucky-episode-four-carves-bloody-path-forward/",
+          "publishedOn": "2021-11-02T16:11:38.000Z",
+          "wordCount": 1860,
+          "title": "[Review] “Chucky” Episode Four Carves Out a Bloody Path Forward"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3690178",
+          "author": "Brad Miska",
+          "description": "Charles Bronson lookalike Robert Bronzi (Death Kiss, Cry Havoc, Once Upon a Time in Deadwood) now has a full-on career as “fake Charles Bronson,” and next up he stars in the action-packed and ultra-violent Escape from Death Block 13, available On Demand November 2 and on DVD November 23, via Uncork’d Entertainment. Bloody Disgusting has the […]",
+          "link": "https://bloody-disgusting.com/exclusives/3690178/exclusive-escape-death-block-13-red-band-trailer-delivers-big-guns-exploding-heads-video/",
+          "publishedOn": "2021-11-02T16:00:44.000Z",
+          "wordCount": 976,
+          "title": "Exclusive ‘Escape from Death Block 13’ Red Band Trailer Delivers Big Guns, Exploding Heads [Video]"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3690223",
+          "author": "John Squires",
+          "description": "Driven by Michael Myers in John Carpenter’s horror classic, the 1978 LTD Station Wagon from Halloween has been restored, and it drove into Flashback Weekend this past summer. The Station Wagon was brought to the event as part of a Halloween Reunion, which featured stars from both the original classic and the brand new trilogy of […]",
+          "link": "https://bloody-disgusting.com/videos/3690223/short-film-explores-restoration-resurrection-station-wagon-original-halloween-video/",
+          "publishedOn": "2021-11-02T15:58:01.000Z",
+          "wordCount": 1141,
+          "title": "Short Film Explores the Restoration and Resurrection of the Station Wagon from the Original ‘Halloween’ [Video]"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3690215",
+          "author": "John Squires",
+          "description": "The 2012 horror movie Hidden in the Woods from Chilean filmmaker Patricio Valladares is getting a sequel, Variety reports today, with filming set to kick off early next year. Germany’s 8-Film has acquired the U.S. and German rights to the upcoming sequel. “The sequel will serve as a direct follow-up to the original Chilean version, […]",
+          "link": "https://bloody-disgusting.com/movie/3690215/chilean-horror-movie-hidden-woods-getting-sequel-next-year/",
+          "publishedOn": "2021-11-02T15:42:15.000Z",
+          "wordCount": 1890,
+          "title": "Chilean Horror Movie ‘Hidden in the Woods’ is Getting a Sequel Next Year"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3690204",
+          "author": "John Squires",
+          "description": "“That presence was standing behind her. Giving off an overpowering desire to perform acts of cruelty. To mutilate, to desecrate, to inhale the agony of others.” Now playing in theaters, the Guillermo del Toro-produced, Scott Cooper-directed horror movie Antlers was co-written by “Channel Zero” creator Nick Antosca, based on a short story Antosca wrote titled “The Quiet Boy.“ If you’ve […]",
+          "link": "https://bloody-disgusting.com/movie/3690204/antlers-read-nick-antoscas-short-story-quiet-boy-creepy-new-movie-based/",
+          "publishedOn": "2021-11-02T15:09:37.000Z",
+          "wordCount": 1985,
+          "title": "‘Antlers’: Read Nick Antosca’s Short Story “The Quiet Boy” That the Creepy New Movie Was Based On"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3690167",
+          "author": "Brad Miska",
+          "description": "Bloody Disgusting has an exclusive look at Justin LaReau’s horror thriller Lantern’s Lane, in limited theaters and on VOD platforms November 5, 2021, via Vertical Entertainment. In the film.. “A recent college graduate and her estranged high school friends return to Lantern’s Lane, the home of a real urban legend and must fight to survive […]",
+          "link": "https://bloody-disgusting.com/exclusives/3690167/exclusive-lanterns-lane-clip-hides-slasher-video/",
+          "publishedOn": "2021-11-02T15:00:20.000Z",
+          "wordCount": 927,
+          "title": "Exclusive ‘Lantern’s Lane’ Clip Hides from a Slasher [Video]"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3690147",
+          "author": "Mike Wilson",
+          "description": "We’ve mentioned developer Lilith Walther’s demake of From Software’s Bloodborne a couple of times already, and now we’ll be able to get our hands on in in the new year. The developer has released a new trailer for the demake, complete with a January 31, 2022 release date. The trailer, which again looks like something […]",
+          "link": "https://bloody-disgusting.com/video-games/3690147/trailer-bloodborne-demake-coming-this-january/",
+          "publishedOn": "2021-11-02T14:58:00.000Z",
+          "wordCount": 907,
+          "title": "[Trailer] ‘Bloodborne’ PS1 “Demake” Coming This January"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3690201",
+          "author": "Brad Miska",
+          "description": "MPI Media Group shares a first look at The Collection‘s Emma Fitzpatrick in director Gia Elliot’s horror thriller and US genre festival favorite Take Back The Night, which they’ll be handling at AFM, writes ScreenDaily. Fitzpatrick, who co-wrote the screenplay with Elliot, stars as Jane, who launches a vigilante campaign to hunt the beast that […]",
+          "link": "https://bloody-disgusting.com/movie/3690201/first-look-collection-star-emma-fitzpatrick-take-back-night-ahead-afm/",
+          "publishedOn": "2021-11-02T14:47:15.000Z",
+          "wordCount": 1872,
+          "title": "First Look at ‘The Collection’ Star Emma Fitzpatrick in ‘Take Back the Night’ Ahead of AFM"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3690087",
+          "author": "John Squires",
+          "description": "For daily release updates delivered straight to your feed, follow @HorrorCalendar. Another Halloween may be over, but as we always like to say, it is *always* Halloween when you’re reading Bloody Disgusting and following us on the various social media platforms. What we mean by that is, well, there are *always* new horror movies being released […]",
+          "link": "https://bloody-disgusting.com/movie/3690087/6-new-horror-movies-releasing-week-showtimes-dexter-back-new-season/",
+          "publishedOn": "2021-11-02T14:15:57.000Z",
+          "wordCount": 2703,
+          "title": "6 New Horror Movies Releasing This Week and Showtime’s “Dexter” is Back With a New Season!"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3690165",
+          "author": "Brad Miska",
+          "description": "From Dark Star Pictures, Bloody has the exclusive trailer drop for Ankle Biters, a new horror film that turns four young sisters into killers. In the film… “Sean, a pro hockey enforcer, has fallen in love with Laura, a widowed mother of four young daughters. When Laura’s children mistake an act of lovemaking as an […]",
+          "link": "https://bloody-disgusting.com/exclusives/3690165/ankle-biters-trailer/",
+          "publishedOn": "2021-11-02T14:00:37.000Z",
+          "wordCount": 931,
+          "title": "[Trailer] Four Little Girls Take a Stab at Killing in ‘Ankle Biters’!"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3690184",
+          "author": "John Squires",
+          "description": "Nia DaCosta‘s Candyman, a sequel to the original classic that was directed by Bernard Rose, is now available at home, and headed to DVD, Blu-ray and 4K Ultra HD on November 16. But first, DaCosta’s Candyman came to Digital today, November 2. Both the Digital release and the physical media releases will include a “never-before-seen alternate ending.” Deleted […]",
+          "link": "https://bloody-disgusting.com/movie/3690184/extended-scene-nia-dacostas-candyman-conversation-gentrification-video/",
+          "publishedOn": "2021-11-02T13:48:55.000Z",
+          "wordCount": 2256,
+          "title": "Extended Scene from Nia DaCosta’s ‘Candyman’ Has a Conversation About Gentrification [Video]"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3690153",
+          "author": "John Squires",
+          "description": "After being pushed all over the release calendar due to the pandemic, the Jared Leto-starring Morbius is finally sinking its fangs into the big screen on January 28, 2022. You can watch the brand new official trailer below, which runs a whopping 3-minutes long and blends the horror of Dracula with the action-spectacle of a Marvel […]",
+          "link": "https://bloody-disgusting.com/movie/3690153/brand-new-morbius-trailer-breaks-line-hero-villain-video/",
+          "publishedOn": "2021-11-02T13:07:28.000Z",
+          "wordCount": 1983,
+          "title": "Vicious New ‘Morbius’ Trailer Breaks the Line Between Hero and Villain [Video]"
+        },
+        {
+          "id": "https://bloody-disgusting.com/?p=3690143",
+          "author": "Mike Wilson",
+          "description": "We’ve been waiting on any news regarding Resident Evil Village DLC since it was first announced back at E3 2021. And while we’re no closer to an announcement yet, according to the recent internal report by Capcom, we’re potentially in for some free DLC. According to the document, which mostly details the previous year’s events […]",
+          "link": "https://bloody-disgusting.com/video-games/3690143/capcom-hinting-at-free-dlc-for-resident-evil-village/",
+          "publishedOn": "2021-11-02T11:58:17.000Z",
+          "wordCount": 1001,
+          "title": "Capcom Hinting at Free DLC For ‘Resident Evil Village’"
+        },
         {
           "id": "https://bloody-disgusting.com/?p=3690136",
           "author": "Brad Miska",
@@ -14923,51 +15418,6 @@
           "publishedOn": "2021-10-04T13:01:22.000Z",
           "wordCount": 2096,
           "title": "[Review] ‘Alan Wake Remastered’ Shines Fresh Light on Remedy’s Intoxicating Horror Game Classic"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3685636",
-          "author": "John Squires",
-          "description": "Almost exactly one year after it was originally supposed to be unleashed in theaters, Sony’s Venom: Let There Be Carnage finally came to the big screen over the weekend, and it looks like Venom is pandemic proof because the Andy Serkis-directed sequel managed to scare up even more money in its domestic opening weekend than […]",
-          "link": "https://bloody-disgusting.com/movie/3685636/venom-let-carnage-devours-box-office-90-million-domestic-opening/",
-          "publishedOn": "2021-10-04T12:46:24.000Z",
-          "wordCount": 1203,
-          "title": "‘Venom: Let There Be Carnage’ Devours the Box Office With $90 Million Domestic Opening"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3685623",
-          "author": "Mike Wilson",
-          "description": "With Ghostbusters: Afterlife busting into theatres very soon (for reals, this time), it would seem that we’re also in for another Ghostbusters video game. At least, that’s according to singer/songwriter/record producer Raphael Saadiq, of all people. Snagged by PCGamesN, while on the Questlove Supreme podcast, Saadiq dropped news about an hour into the episode that […]",
-          "link": "https://bloody-disgusting.com/video-games/3685623/illfonic-working-on-new-ghostbusters-game/",
-          "publishedOn": "2021-10-04T11:45:17.000Z",
-          "wordCount": 1014,
-          "title": "Illfonic Working on New ‘Ghostbusters’ Game?"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3685598",
-          "author": "Mike Wilson",
-          "description": "If you know anything about Blood Omen: Legacy of Kain, you might also know the legal quagmire that the game has been in ever since it was released back in 1996. The good news is that after an eternity, the wizards at GOG have finally managed to get the PC version on their service. Part […]",
-          "link": "https://bloody-disgusting.com/video-games/3685598/blood-omen-legacy-of-kain-added-to-gog-com-alongside-elvira-mistress-of-the-dark-and-elvira-ii-the-jaws-of-cerberus/",
-          "publishedOn": "2021-10-03T20:50:00.000Z",
-          "wordCount": 973,
-          "title": "‘Blood Omen: Legacy of Kain’ Added to GOG.com Alongside ‘Elvira: Mistress of The Dark’ And ‘Elvira II: The Jaws of Cerberus’"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3685591",
-          "author": "Mike Wilson",
-          "description": "While we won’t be seeing Vampire: The Masquerade – Swansong until next year, that’s not stopping publisher Nacon and developer Big Bad Wolf Studio from releasing a new trailer for the game that reveals a new character from the game. In this case, we’re introduced to Emem, a former Jazz diva. One of the three […]",
-          "link": "https://bloody-disgusting.com/video-games/3685591/trailer-third-playable-character-revealed-for-vampire-the-masquerade-swansong/",
-          "publishedOn": "2021-10-03T17:40:00.000Z",
-          "wordCount": 960,
-          "title": "[Trailer] Third Playable Character Revealed For ‘Vampire: The Masquerade – Swansong’"
-        },
-        {
-          "id": "https://bloody-disgusting.com/?p=3685588",
-          "author": "Mike Wilson",
-          "description": "It won’t be much longer for Fatal Frame fans to get their hands on the upcoming remaster of Fatal Frame: Maiden of Black Water. That being said, for those that never played the original version, you probably want some gameplay footage? Koei Tecmo has answered that with a brand-new trailer entitled “True Account – The […]",
-          "link": "https://bloody-disgusting.com/video-games/3685588/trailer-new-gameplay-trailer-for-fatal-frame-maiden-of-black-water-gives-up-the-ghosts-of-mt-hikami/",
-          "publishedOn": "2021-10-03T14:25:00.000Z",
-          "wordCount": 1013,
-          "title": "[Trailer] New Gameplay Trailer For ‘Fatal Frame: Maiden of Black Water’ Gives up The Ghosts of Mt. Hikami"
         }
       ]
     },
@@ -14992,6 +15442,60 @@
       "feedUrl": "https://www.broadstreethockey.com/rss/current.xml",
       "siteUrl": "https://www.broadstreethockey.com/",
       "articles": [
+        {
+          "id": "https://www.broadstreethockey.com/2021/11/2/22759842/philadelphia-flyers-podcast-bsh-radio-329-sevens-the-key-number-here",
+          "author": null,
+          "description": "Photo by Brett Holmes/Icon Sportswire via Getty Images\n    \n\n  \nIn which the gang gets a little serious before getting a little goofy.\n **Please note: if you want to avoid a discussion of the Chicago Blackhawks investigation, you can skip ahead to the 21 minute mark**\nThe Flyers are back at home for a meeting with the Coyotes (and Ghost), but before that the gang talks about the road trip, where the Flyers need to improve, and what it will take to build confidence in this fan base going forward.",
+          "link": "https://www.broadstreethockey.com/2021/11/2/22759842/philadelphia-flyers-podcast-bsh-radio-329-sevens-the-key-number-here",
+          "publishedOn": "2021-11-02T19:34:41.000Z",
+          "wordCount": 502,
+          "title": "BSH Radio #329: Seven’s the key number here"
+        },
+        {
+          "id": "https://www.broadstreethockey.com/2021/11/2/22757230/philadelphia-flyers-vs-arizona-coyotes-preview-dont-mess-up",
+          "author": null,
+          "description": "Photo by Norm Hall/NHLI via Getty Images\n    \n\n  \nA bottom-of-the-barrel Coyotes team comes to Philly looking for their first win.\n A matchup between the Flyers and the Coyotes may not be as intriguing at first glance. But, given that the team from out west has yet to win a game, that makes all the difference. \nThe Coyotes\nYou know them; you love them. They’re your favorite winless team with excellent jerseys! They’re the Coyotes! Many fans didn’t project the team to be good in 2021-22, and they are living up to those expectations. I mean, you can only get so far with a lineup that looks like this. \nswitchin’ things up pic.twitter.com/RJThoKggWn\n— Arizona Coyotes (@ArizonaCoyotes) October 22, 2021\n\n\n\nThe lineup on paper looks like an NHL team trying to prank the rest of us with an AHL rost…",
+          "link": "https://www.broadstreethockey.com/2021/11/2/22757230/philadelphia-flyers-vs-arizona-coyotes-preview-dont-mess-up",
+          "publishedOn": "2021-11-02T18:21:07.000Z",
+          "wordCount": 1494,
+          "title": "Flyers vs Coyotes Preview: Don’t Mess Up"
+        },
+        {
+          "id": "https://www.broadstreethockey.com/2021/11/2/22758867/philadelphia-flyers-former-return-homecoming-shayne-gostisbehere-jakub-voracek-nolan-patrick-hagg",
+          "author": null,
+          "description": "Photo by Len Redkoles/NHLI via Getty Images\n    \n\n  \nThe Flyers will be welcoming back some fan favorites (and not-so-favorites) this season.\n After an offseason of change, the Philadelphia Flyers will welcome back several familiar faces this season. Key parts of the 2010s Flyers teams (and others) were traded over the past seven months, and they will be making their returns to Philadelphia this season.\nIt all starts tonight (November 2nd) with defenseman Shayne Gostisbehere returning with the Arizona Coyotes. He’s the first of a bevy of homecomings –– good and bad –– for former Flyers this season.\nSo, if you’re wondering when your favorite former Flyer (or perhaps not-so-favorite) is returning to Philadelphia, we’ve got you covered.\nTuesday, November 2nd: Shayne Gostisbehere (Arizona Coyo…",
+          "link": "https://www.broadstreethockey.com/2021/11/2/22758867/philadelphia-flyers-former-return-homecoming-shayne-gostisbehere-jakub-voracek-nolan-patrick-hagg",
+          "publishedOn": "2021-11-02T15:30:00.000Z",
+          "wordCount": 1584,
+          "title": "Shayne Gostisbehere the first of several homecomings for former Flyers this season"
+        },
+        {
+          "id": "https://www.broadstreethockey.com/2021/11/2/22758233/nhl-philadelphia-flyers-derick-brassard-has-been-ballin-on-a-budget-but-is-it-sustainable-analysis",
+          "author": null,
+          "description": "Photo by Brett Holmes/Icon Sportswire via Getty Images\n    \n\n  \nThe 34-year-old has produced points at a nice clip to start his Flyers career, but the underlying metrics predict an impending decline.\n With a nearly capped out roster following a flurry of offseason moves, Flyers GM Chuck Fletcher was left to go bargain hunting to fill out the bottom of his roster for 2021-22. \nAs we’ve documented, the early returns have been pretty (pretty, pretty) good — well at least in terms of a production standpoint. \nThere’s no better case study than veteran pivot Derick Brassard, operating on a one-year, $835K deal, with six points (one goal, five assists) in his first seven games with the Flyers. The .86 points per game he’s averaging is the best mark in his career — one that’s included nine teams n…",
+          "link": "https://www.broadstreethockey.com/2021/11/2/22758233/nhl-philadelphia-flyers-derick-brassard-has-been-ballin-on-a-budget-but-is-it-sustainable-analysis",
+          "publishedOn": "2021-11-02T14:00:00.000Z",
+          "wordCount": 1182,
+          "title": "Derick Brassard has been ballin’ on a budget, but is it sustainable?"
+        },
+        {
+          "id": "https://www.broadstreethockey.com/2021/11/2/22758699/philadelphia-flyers-schedule-analysis-november-metropolitan-division-cam-atkinson-kevin-hayes",
+          "author": null,
+          "description": "Photo by Derek Cain/Icon Sportswire via Getty Images\n    \n\n  \nThe Flyers have started out well, but a tough November slate could go a long way in determining their fate.\n One month down, six (or hopefully more) to go in the 2021-22 season for the Philadelphia Flyers. It was a good first few weeks for the Orange and Black despite a few injuries throughout the month.\nThe Flyers are off to a 4-2-1 start after their seven games in October. They may have gotten outplayed in a few of their wins, but a win is a win. It’s a similar story to last season, but there’s reason to believe that this year will be different. A normal schedule, practice time, and most importantly the play of Carter Hart will help the Flyers keep up in the Metropolitan Division.\nThis team feels different. Cam Atkinson has be…",
+          "link": "https://www.broadstreethockey.com/2021/11/2/22758699/philadelphia-flyers-schedule-analysis-november-metropolitan-division-cam-atkinson-kevin-hayes",
+          "publishedOn": "2021-11-02T13:00:00.000Z",
+          "wordCount": 1806,
+          "title": "November could be make-or-break month for new-look Flyers"
+        },
+        {
+          "id": "https://www.broadstreethockey.com/2021/11/2/22757724/tuesday-morning-fly-by-hey-shayne",
+          "author": null,
+          "description": "Photo by Derek Leung/Getty Images\n    \n\n  \nToday’s open discussion thread, complete with your daily dose of Flyers news and notes…  \n *Well, it's game day again. And this time, we will be saying hello to our old friend Shayne Gostisbehere. Anyhoo, before this game, read about how happy Claude Giroux is to be playing with Cam Atkinson. [BSH]\n*Perhaps this will distract you from the fact that Ryan Ellis will be missing his fifth straight game tonight. [Inquirer]\n*James van Riemsdyk has made himself into a guy to watch not only on the ice, but off it too. [Inquirer]\n*OK, the NHL was back at it yesterday, as Gary Bettman and Bill Daly held a press conference over Zoom to discuss the Chicago Blackhawks investigation. It was to put it lightly, an unmitigated disaster. They somehow made the league look even worse. [Second City Hockey]\n*They succeeded in only one thing: making sure no one, anywhere, at all, finds them or the NHL credible in any way. [Daily Faceoff] \n*Thankfully, there are guys like Brock McGillis, doing all they can to make this game we all love just a little less... disgusting. Unfortunately, there aren’t enough guys like him right now. [The Hockey News]\n*Ten years ago the league implemented Rule 48, designed to limit the number of serious hits to the head that take place in any given game. How have those first ten years gone? Has the rule impacted things at all? [ESPN]\n*Apparently the NHL wants players to market themselves more on social media? Like, with personality? Seems fake. [The Athletic]\n*And finally, to end on a light note: mustaches. [NBC Sports Philly]",
+          "link": "https://www.broadstreethockey.com/2021/11/2/22757724/tuesday-morning-fly-by-hey-shayne",
+          "publishedOn": "2021-11-02T10:00:00.000Z",
+          "wordCount": 675,
+          "title": "Tuesday Morning Fly By: Hey Shayne"
+        },
         {
           "id": "https://www.broadstreethockey.com/2021/11/1/22757813/philadelphia-flyers-claude-giroux-cam-atkinson-columbus-blue-jackets",
           "author": null,
@@ -15801,24 +16305,6 @@
           "publishedOn": "2021-10-04T17:52:21.000Z",
           "wordCount": 982,
           "title": "Alain Vigneault responds to Robin Lehner’s claims of Flyers distributing pills to players"
-        },
-        {
-          "id": "https://www.broadstreethockey.com/2021/10/4/22707685/monday-morning-fly-by-one-in-the-win-column",
-          "author": null,
-          "description": "Bob DeChiara-USA TODAY Sports\n    \n\n  \nToday’s open discussion thread, complete with your daily dose of Flyers news and notes…  \n *After two lackluster performances by a mostly-AHL roster, the big boys hit the ice Saturday night against the Capitals and took home their first win of the preseason. Exciting!! Here’s what we learned. [BSH]\n*It was really our first experience with the new-look Flyers and the result was favorable. Which seems good! [NBC Sports Philly]\n*While it was definitely a lineup that seemed like what we might see opening night, there are still roster battles happening as we head into this week’s games. [Inquirer]\n*In that vein, Charlie take a look at which players have locked themselves into a spot and who still has something to prove. [The Athletic]\n*One of those roster locks, Joel Farabee, is already looking impressive, even in the games that don’t count. [BSH]\n*One of the healthy, peak-condition professional hockey players who had Covid over the summer will miss the season because, well, death isn’t the only negative outcome, folks. [ProHockeyTalk]\n*Let’s look at ten things we should expect to happen as we head into opening night. [Sportsnet]\n*The Metro Division gets the preview treatment. [The Hockey News]\n*If you aren’t on Twitter, you missed quite a... thing over the weekend. Involving, allegedly, you’re Flyers. [ESPN]\n*The league hopes to speak with Robin Lehner about this but as of now, no idea what is going on. What a mess, if even partly true. [Sportsnet]\n*And finally, to leave you on a lighter note, amid the search for a new goal song, some Flyers players have revealed their own choices. Some interesting ones. [NBC Sports Philly]",
-          "link": "https://www.broadstreethockey.com/2021/10/4/22707685/monday-morning-fly-by-one-in-the-win-column",
-          "publishedOn": "2021-10-04T10:00:00.000Z",
-          "wordCount": 736,
-          "title": "Monday Morning Fly By: One in the win column"
-        },
-        {
-          "id": "https://www.broadstreethockey.com/2021/10/3/22706361/nhl-philadelphia-flyers-washington-capitals-cam-atkinson-martin-jones-stats-analysis",
-          "author": null,
-          "description": "Heather Barry / SB Nation\n    \n\n  \nSome observations for your morning. \n They did it! After two somewhat dicey showings to start the preseason, the Flyers were back last night with just about as close to their opening night roster as you could get against the Capitals, and with a pretty strong showing, they were able to pick up their first win of the preseason. It wasn’t perfect, but it was certainly a right direction, and if nothing else, a solid start for what very well could be that opening night lineup. It’s a bit of positivity, and we’ll certainly take it. \nAll stats via Natural Stat Trick.\nForward lines are starting to click\nIf we’re looking for one line that really stood out in last night’s game, it would once again be the top line of Claude Giroux, Sean Couturier, and Travis Konecn…",
-          "link": "https://www.broadstreethockey.com/2021/10/3/22706361/nhl-philadelphia-flyers-washington-capitals-cam-atkinson-martin-jones-stats-analysis",
-          "publishedOn": "2021-10-03T15:00:00.000Z",
-          "wordCount": 1651,
-          "title": "What we learned from the Flyers 3-1 win over the Capitals"
         }
       ]
     },
@@ -15827,6 +16313,76 @@
       "feedUrl": "https://indyweek.com/api/rss/content.rss",
       "siteUrl": "https://indyweek.com/api/rss/content.rss",
       "articles": [
+        {
+          "id": "https://indyweek.com/elections-2021/orange-county/orange-county-municipal-races-coverage-results/",
+          "author": "Leigh Tauss",
+          "description": "Early voting put Hemminger and Seils ahead in the Chapel Hill and Carrboro mayoral races.",
+          "link": "https://indyweek.com/elections-2021/orange-county/orange-county-municipal-races-coverage-results/",
+          "publishedOn": "2021-11-03T00:38:35.000Z",
+          "wordCount": 556,
+          "title": "Orange County Municipal Elections: Coverage + Results",
+          "enclosure": {
+            "url": "https://indyweek.com/downloads/70556/download/Orange%20County.png?cb=fa2a80ac04ba4f5d027f584d54f5a038",
+            "type": "image/png",
+            "length": "31691"
+          }
+        },
+        {
+          "id": "https://indyweek.com/elections-2021/durham-county/durham-municipal-election-coverage-election-results/",
+          "author": "Thomasi McDonald",
+          "description": "Check back for the latest in Durham's general election.",
+          "link": "https://indyweek.com/elections-2021/durham-county/durham-municipal-election-coverage-election-results/",
+          "publishedOn": "2021-11-02T22:58:29.000Z",
+          "wordCount": 886,
+          "title": "Durham Municipal Election: Coverage + Results",
+          "enclosure": {
+            "url": "https://indyweek.com/downloads/82909/download/2021-INDY-Election-Guide-02.jpg?cb=eae76255b58992802846e3fe25b135a1",
+            "type": "image/jpeg",
+            "length": "164295"
+          }
+        },
+        {
+          "id": "https://indyweek.com/elections-2021/endorsements-2021-durham-and-orange-counties/",
+          "author": "INDY staff",
+          "description": "Endorsements for the Nov. 2 General Election.",
+          "link": "https://indyweek.com/elections-2021/endorsements-2021-durham-and-orange-counties/",
+          "publishedOn": "2021-11-02T21:57:51.000Z",
+          "wordCount": 2865,
+          "title": "Endorsements 2021: Durham and Orange Counties",
+          "enclosure": {
+            "url": "https://indyweek.com/downloads/83337/download/endorsements2021.png?cb=3bdf1d5625dd52dbae2c6aedc655cfe4",
+            "type": "image/png",
+            "length": "208803"
+          }
+        },
+        {
+          "id": "https://indyweek.com/news/elections/the-indy-election-2021-live-blog/",
+          "author": "INDY staff",
+          "description": "Follow along for updates and results from Wake, Durham, and Orange Counties.",
+          "link": "https://indyweek.com/news/elections/the-indy-election-2021-live-blog/",
+          "publishedOn": "2021-11-02T21:04:44.000Z",
+          "wordCount": 356,
+          "title": "The INDY Election 2021 Live Blog",
+          "enclosure": {
+            "url": "https://indyweek.com/downloads/83327/download/2021-INDY-Election-Guide-01.jpeg?cb=52eadf9486b3b09df38f4fcaf5fbc0fd",
+            "type": "image/jpeg",
+            "length": "46256"
+          }
+        },
+        {
+          "id": "https://indyweek.com/culture/screen/the-french-dispatch-review/",
+          "author": "Glenn McDonald",
+          "description": "The film is jammed with enormously appealing performers, but they’re caught in the exquisite clockwork gears of Anderson’s brain.",
+          "link": "https://indyweek.com/culture/screen/the-french-dispatch-review/",
+          "publishedOn": "2021-11-02T19:37:12.000Z",
+          "wordCount": 957,
+          "title": "'The French Dispatch' Is Stylish and Easy to Like. But Is it Easy to Love?",
+          "enclosure": {
+            "url": "https://indyweek.com/downloads/83323/download/11.03_screen_french-dispatch.jpg?cb=e8f917ecc54e0d1d8fdfd01dac1e986b",
+            "type": "image/jpeg",
+            "length": "1533123"
+          }
+        },
         {
           "id": "https://indyweek.com/news/wake/millionaire-private-school-operator-maxing-out-campaign-donations/",
           "author": "Jane Porter",
@@ -18257,6 +18813,46 @@
       "siteUrl": "https://daily.bandcamp.com",
       "articles": [
         {
+          "id": "144864",
+          "author": "Marcus J. Moore",
+          "description": "A guide to the albums the legendary trumpet player recorded in the ’50s\nRead full story on the Bandcamp Daily.",
+          "link": "https://daily.bandcamp.com/lists/miles-davis-prestige-records-list",
+          "publishedOn": "2021-11-02T18:04:01.000Z",
+          "wordCount": null,
+          "title": "Miles Davis: The Prestige Years",
+          "itunes": {}
+        },
+        {
+          "id": "145400",
+          "author": "Max Bell",
+          "description": "Our monthly roundup of the best beat tapes on Bandcamp.\nRead full story on the Bandcamp Daily.",
+          "link": "https://daily.bandcamp.com/best-beat-tapes/the-best-beat-tapes-on-bandcamp-october-2021",
+          "publishedOn": "2021-11-02T13:47:06.000Z",
+          "wordCount": null,
+          "title": "The Best Beat Tapes on Bandcamp: October 2021",
+          "itunes": {}
+        },
+        {
+          "id": "145449",
+          "author": "Marc Masters",
+          "description": "Disorienting computer voices, two very different solo bass guitar journeys, a massive work made on a 64-foot pipe organ, and more.\nRead full story on the Bandcamp Daily.",
+          "link": "https://daily.bandcamp.com/best-experimental/the-best-experimental-music-on-bandcamp-october-2021",
+          "publishedOn": "2021-11-02T13:46:31.000Z",
+          "wordCount": null,
+          "title": "The Best Experimental Music on Bandcamp: October 2021",
+          "itunes": {}
+        },
+        {
+          "id": "145443",
+          "author": "Richard Villegas",
+          "description": "The Venezuelan hard salsa luminaries are emblematic of the musical crossroads that blossomed in Caracas throughout the 1960s and ‘70s.\nRead full story on the Bandcamp Daily.",
+          "link": "https://daily.bandcamp.com/album-of-the-day/frank-y-sus-inquietos-frank-y-sus-inquietos-review",
+          "publishedOn": "2021-11-02T13:45:53.000Z",
+          "wordCount": null,
+          "title": "Frank y Sus Inquietos, “Frank y Sus Inquietos”",
+          "itunes": {}
+        },
+        {
           "id": "145348",
           "author": "Will Pritchard",
           "description": "The label, founded by Bristol-based DJ and producer Peverelist in 2011, is a key force in the UK club zeitgeist.\nRead full story on the Bandcamp Daily.",
@@ -19224,6 +19820,15 @@
       "siteUrl": "https://www.cjr.org",
       "articles": [
         {
+          "id": "https://www.cjr.org/the_media_today/peoples_tribunal_journalists.php",
+          "author": null,
+          "description": "On Thursday, the Committee to Protect Journalists published the latest edition of its Global Impunity Index—an annual list ranking the worst countries in the world when it comes to convicting the killers of journalists. The five top offenders—Somalia, Syria, Iraq, South Sudan, and Afghanistan, in that order—remained unchanged from the 2020 list, though CPJ cautioned […]",
+          "link": "https://www.cjr.org/the_media_today/peoples_tribunal_journalists.php",
+          "publishedOn": "2021-11-03T00:56:33.511Z",
+          "wordCount": 2706,
+          "title": "A grassroots prosecution seeks justice for murdered journalists around the world"
+        },
+        {
           "id": "https://www.cjr.org/the_media_today/virginia_biden_agenda_cop26.php",
           "author": null,
           "description": "As we enter a vital week, three political stories are driving much of the US news agenda. On the international stage, President Biden and other world leaders convened for a G20 meeting in Italy ahead of the crucial COP26 climate summit in Scotland, which formally opened yesterday. Nationally, the precise fate of President Biden’s “Build […]",
@@ -19600,6 +20205,21 @@
       "siteUrl": "https://www.platformer.news",
       "articles": [
         {
+          "id": "https://www.platformer.news/p/microsofts-metaverse-moment",
+          "author": "Casey Newton",
+          "description": "PLUS: Why Office is coming for Notion",
+          "link": "https://www.platformer.news/p/microsofts-metaverse-moment",
+          "publishedOn": "2021-11-03T00:00:05.000Z",
+          "wordCount": null,
+          "title": "Microsoft's metaverse moment",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff5679ea0-6477-4145-9a67-199f39d3160f_1920x1080.png",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
           "id": "https://www.platformer.news/p/what-the-metaverse-pessimists-are",
           "author": "Casey Newton",
           "description": "Meta's grand vision is already well on its way",
@@ -19846,6 +20466,51 @@
       "feedUrl": "https://cvltnation.com/feed/",
       "siteUrl": "https://cvltnation.com",
       "articles": [
+        {
+          "id": "https://cvltnation.com/?p=286210",
+          "author": "Sean Reveron",
+          "description": "Imagine if Maya Angelou, Assata Shakur, Nina Simone, Bahamadia, and Ladybug Mecca united to become one Goddess MC — the result would be the word-warrior Semiratruth. I know for a fact if I could turn back the hands of time, her on-point rhyme flows would have the crowd at the Goodlife in the 90’s give […]\nThe post Experience the Warrior Goddess MC!  SEMIRATRUTH “I GOT BANDZ FOR THE MOONLANDIN” first appeared on CVLT Nation.",
+          "link": "https://cvltnation.com/experience-the-warrior-goddess-mc-semiratruths-i-got-bandz-for-the-moonlandin/",
+          "publishedOn": "2021-11-02T11:00:26.000Z",
+          "wordCount": 739,
+          "title": "Experience the Warrior Goddess MC!  SEMIRATRUTH “I GOT BANDZ FOR THE MOONLANDIN”"
+        },
+        {
+          "id": "https://cvltnation.com/?p=286223",
+          "author": "Sean Reveron",
+          "description": "CBN’s new Crimes Against White America that comes out Nov. 5th via phagetapes is one of the most powerful records to be released this year! This project uses Harsh Noise plus Heavy Industrial Rhythms to examine the Heavy struggle that POC have faced and still face in Amewrekkkya. All you have to do is look […]\nThe post Harsh Noise Harsh Reality!\nCrimes Against White America Watch CBN’s visual 3s first appeared on CVLT Nation.",
+          "link": "https://cvltnation.com/harsh-noise-harsh-reality-crimes-against-white-america-watch-cbns-visual-3s/",
+          "publishedOn": "2021-11-02T10:00:25.000Z",
+          "wordCount": 500,
+          "title": "Harsh Noise Harsh Reality!Crimes Against White America Watch CBN’s visual 3s"
+        },
+        {
+          "id": "https://cvltnation.com/?p=285965",
+          "author": "Todd Manning",
+          "description": "Did everyone write a new record in 2020? With live music essentially coming to a halt, what else were antsy musicians to do? Portrayal of Guilt reveal themselves as workaholics as their songwriting sessions have led to not one but two new full-lengths in 2021. They started the year off with the amazing We Are […]\nThe post Get Fucked with Portrayal of Guilt’s CHRISTFUCKER Review + More first appeared on CVLT Nation.",
+          "link": "https://cvltnation.com/get-fucked-with-portrayal-of-guilts-christfucker-review-more/",
+          "publishedOn": "2021-11-02T09:00:31.000Z",
+          "wordCount": 995,
+          "title": "Get Fucked with Portrayal of Guilt’s CHRISTFUCKER Review + More"
+        },
+        {
+          "id": "https://cvltnation.com/?p=286206",
+          "author": "Meghan",
+          "description": "I’m late to ERIKA DE CASIER, and I have to thank my local record shop Audiopile for the recommendation that’s made her my favorite artist of 2021. Her sophomore release Sensational came out earlier this year on 4AD, after her March 2020 debut album Essentials came out on her own label, Independent Jeep. I’ve spent […]\nThe post Immerse Yourself in the Flawless R&B Universe of ERIKA DE CASIER! Stream + Tour Dates + Videos first appeared on CVLT Nation.",
+          "link": "https://cvltnation.com/immerse-yourself-in-the-flawless-rb-universe-of-erika-de-casier-stream-tour-dates-videos/",
+          "publishedOn": "2021-11-02T08:00:23.000Z",
+          "wordCount": 895,
+          "title": "Immerse Yourself in the Flawless R&B Universe of ERIKA DE CASIER! Stream + Tour Dates + Videos"
+        },
+        {
+          "id": "http://www.cvltnation.com/?p=165351",
+          "author": "Sean Reveron",
+          "description": "Story via Flashbak This is work not about Ukraine or Russia or even the former Soviet Union, but instead a way to see the modern State as a primitive and sacrificial rite. Don Weber Vitaly, 15, a chronic petty thief, truant from school and violent towards his grandmother and mother, brought in for questioning again […]\nThe post Looking Down The Barrel Of  A Gun…Ukrainian Interrogations first appeared on CVLT Nation.",
+          "link": "https://cvltnation.com/looking-down-the-barrel-of-a-gun-ukraine-interrogations/",
+          "publishedOn": "2021-11-02T07:00:00.000Z",
+          "wordCount": 957,
+          "title": "Looking Down The Barrel Of  A Gun…Ukrainian Interrogations"
+        },
         {
           "id": "https://cvltnation.com/?p=285954",
           "author": "Wil Cifer",
@@ -20268,6 +20933,15 @@
       "siteUrl": "https://yourlastrites.com",
       "articles": [
         {
+          "id": "https://yourlastrites.com/?p=38069",
+          "author": "Chris C",
+          "description": "Without playing a note, Mortal Vision accomplish what even the most veteran bands often fail at—wearing band shirts that serve as semi-appropriate reference points for its sound: Sadus, Sodom, Voivod, and Cannibal Corpse. OK, so more Sadus and Sodom than Voivod or Cannibal Corpse. But the thrash technicality of “Possessed” and death metal bludgeoning of ...",
+          "link": "https://yourlastrites.com/2021/11/02/mortal-vision-mind-manipulation-review/",
+          "publishedOn": "2021-11-02T10:00:30.000Z",
+          "wordCount": 901,
+          "title": "Mortal Vision – Mind Manipulation Review"
+        },
+        {
           "id": "https://yourlastrites.com/?p=37825",
           "author": "Last Rites",
           "description": "🎶Hey everybody have you heard the news? Last Frites is back in town…🎶 Maybe it’s just because I’m from the South, but there are few things in this world with as much regional and cultural difference as the word, “barbecue.” ‘pendin’ on who you ask, barbecue depends on the cut of pork, the sauces, cooking approach, ...",
@@ -20427,6 +21101,15 @@
       "feedUrl": "https://www.teethofthedivine.com/feed/",
       "siteUrl": "https://www.teethofthedivine.com",
       "articles": [
+        {
+          "id": "https://www.teethofthedivine.com/?p=57342",
+          "author": "Steve K",
+          "description": "Where do legends go when they die? Well, in the case of Greece’s seminal Black Metal act Necromantia, the answer is… uh… probably Hell, right? I bet they’d be pretty surprised and disappointed to find themselves crossing the pearly gates instead… Necromantia, along with legendary acts Rotting Christ and Varathron, is widely regarded as being […]",
+          "link": "https://www.teethofthedivine.com/reviews/necromantia-to-the-depths-we-descend/",
+          "publishedOn": "2021-11-02T11:37:07.000Z",
+          "wordCount": 1024,
+          "title": "Necromantia – To the Depths We Descend"
+        },
         {
           "id": "https://www.teethofthedivine.com/?p=57370",
           "author": "Kristofor Allred",
@@ -20633,15 +21316,6 @@
           "publishedOn": "2021-10-05T11:55:02.000Z",
           "wordCount": 684,
           "title": "Golden Ashes – A Lightless Christ Shuns The Crown Of Divinity"
-        },
-        {
-          "id": "https://www.teethofthedivine.com/?p=56922",
-          "author": "J Mays",
-          "description": "I know, I know. Jinjer. Despite their hype and relative fame based on the seemingly hundreds of YouTube “reaction” videos, they’re still worth a listen. Or several. They’re more deserving of mainstream metal acclaim than a lot the bands who receive it. They write great, memorable songs, and have one of the most talented and […]",
-          "link": "https://www.teethofthedivine.com/featured/jinjer-wallflowers/",
-          "publishedOn": "2021-10-04T11:22:14.000Z",
-          "wordCount": 755,
-          "title": "Jinjer – Wallflowers"
         }
       ]
     },
@@ -20674,6 +21348,96 @@
       "feedUrl": "https://goodguysgogrind.com/feed/",
       "siteUrl": "https://goodguysgogrind.com",
       "articles": [
+        {
+          "id": "http://goodguysgogrind.com/?p=30084",
+          "author": "goodguysgogrind",
+          "description": "Brand new compilation of old and rare material from Tennessee’s horror grinding maniacs. 35 songs of sick noise! Co-released by Acid Redux Productions & Grindfather Productions and limited to 300 copies.",
+          "link": "https://goodguysgogrind.com/2021/11/02/news-from-your-kids-on-fire/",
+          "publishedOn": "2021-11-02T18:18:12.000Z",
+          "wordCount": 283,
+          "title": "News from Your Kid’s on Fire!"
+        },
+        {
+          "id": "http://goodguysgogrind.com/?p=30080",
+          "author": "goodguysgogrind",
+          "description": "Visit the post for more.",
+          "link": "https://goodguysgogrind.com/2021/11/02/bio-crisis-are-going-on-tour/",
+          "publishedOn": "2021-11-02T13:00:46.000Z",
+          "wordCount": 255,
+          "title": "Bio Crisis are going on tour!"
+        },
+        {
+          "id": "http://goodguysgogrind.com/?p=30076",
+          "author": "goodguysgogrind",
+          "description": "A new EP of Bay Area hardcore guys SPY is ready. Tapes are available at Lower Class Kids rec!",
+          "link": "https://goodguysgogrind.com/2021/11/02/spy-habitual-offender/",
+          "publishedOn": "2021-11-02T12:33:11.000Z",
+          "wordCount": 276,
+          "title": "Spy – Habitual Offender!"
+        },
+        {
+          "id": "http://goodguysgogrind.com/?p=30072",
+          "author": "goodguysgogrind",
+          "description": "A good dose of powerviolence in one small release! more info soon!",
+          "link": "https://goodguysgogrind.com/2021/11/02/split-double-me-c-o-p-y-is-in-the-works/",
+          "publishedOn": "2021-11-02T11:08:27.000Z",
+          "wordCount": 271,
+          "title": "Split Double Me / C.O.P.Y. is in the works!"
+        },
+        {
+          "id": "http://goodguysgogrind.com/?p=30068",
+          "author": "goodguysgogrind",
+          "description": "French grinders just released a bunch of new shirts! You can buy it at whoresnation.bandcamp.com",
+          "link": "https://goodguysgogrind.com/2021/11/02/official-merch-of-whoresnation/",
+          "publishedOn": "2021-11-02T11:06:35.000Z",
+          "wordCount": 267,
+          "title": "Official merch of Whoresnation!"
+        },
+        {
+          "id": "http://goodguysgogrind.com/?p=30054",
+          "author": "goodguysgogrind",
+          "description": "Good day guys! Hope you`re doing well. My congrats, you finally finished working on a new album! Hi Alexander! And first and foremost, thank you! To be honest, the process was kind of long, but finally, it will be out soon, so all in all, everything’s fine! This is your 6th studio album. To be honest, I`m really stoked about it, I`ve been waiting for it since your last LP. Tell us a bit about it. Did you have a release date for it? Well, official release is November 15th, with preorder around November 1st, I think. And yes, it’s …",
+          "link": "https://goodguysgogrind.com/2021/11/02/blockheads-02-11-21/",
+          "publishedOn": "2021-11-02T10:25:32.000Z",
+          "wordCount": 1556,
+          "title": "Blockheads (02.11.21)"
+        },
+        {
+          "id": "http://goodguysgogrind.com/?p=30050",
+          "author": "goodguysgogrind",
+          "description": "Indonesian grind legends will have some new merch soon. If you want one just get in touch with the band",
+          "link": "https://goodguysgogrind.com/2021/11/02/new-merch-of-proletar/",
+          "publishedOn": "2021-11-02T09:55:13.000Z",
+          "wordCount": 270,
+          "title": "New merch of Proletar!"
+        },
+        {
+          "id": "http://goodguysgogrind.com/?p=30045",
+          "author": "goodguysgogrind",
+          "description": "Visit the post for more.",
+          "link": "https://goodguysgogrind.com/2021/11/02/oef-2022-first-pack-of-the-bands/",
+          "publishedOn": "2021-11-02T09:35:20.000Z",
+          "wordCount": 257,
+          "title": "OEF 2022! First pack of the bands!"
+        },
+        {
+          "id": "http://goodguysgogrind.com/?p=30041",
+          "author": "goodguysgogrind",
+          "description": "Visit the post for more.",
+          "link": "https://goodguysgogrind.com/2021/11/02/agathocles-ruidosa-inconformidad-split-in-the-works/",
+          "publishedOn": "2021-11-02T09:32:59.000Z",
+          "wordCount": 258,
+          "title": "Agathocles/Ruidosa Inconformidad split in the works!"
+        },
+        {
+          "id": "http://goodguysgogrind.com/?p=30036",
+          "author": "goodguysgogrind",
+          "description": "These woven patches released by Grind Crow",
+          "link": "https://goodguysgogrind.com/2021/11/02/official-grind-patches/",
+          "publishedOn": "2021-11-02T09:29:12.000Z",
+          "wordCount": 257,
+          "title": "Official grind patches!"
+        },
         {
           "id": "http://goodguysgogrind.com/?p=29940",
           "author": "goodguysgogrind",
